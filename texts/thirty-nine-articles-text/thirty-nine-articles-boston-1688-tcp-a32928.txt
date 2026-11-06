@@ -1,0 +1,276 @@
+Title: Articles agreed upon by the archbishops and bishops of both provinces and the whole clergy in the convocation holden at London in the year MDLXII
+Work: Articles agreed upon by the archbishops and bishops ... in the convocation holden at London in the year MDLXII (Thirty-Nine Articles)
+Author: Thirty-Nine Articles (1563 (1571))
+Language: english
+Credit: Articles agreed upon by the archbishops and bishops of both provinces and the whole clergy in the convocation holden at London in the year MDLXII, in EEBO-TCP A32928 (Wing C4007), Boston: [Richard Pierce], 1688 (Boston: Richard Pierce (attribution by Evans), 1688). Transcription: Text Creation Partnership (EEBO-TCP Phase 2); keyboarded from page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/A32928/master/A32928.xml
+Retrieved: 2026-11-05 (source file 52106 bytes, SHA-256 19663d87ec79db4ab4ebae6d7f9f80398b72146d548c7f69d13a19e857c5c0a8)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":15,"unread":3}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## I. Of Faith in the Holy Trinity.
+
+[1.1] THere is but one living and true GOD, everlaſting, without Body, Parts, or Paſſions; of infinite Power, Wiſdom, and Goodneſs; the Maker and Preſerver of all Things both viſible and inviſible. And in Unity of this Godhead, there be three Perſons, of one Subſtance, Power, and Eternity; the Father, Son, and the Holy Ghoſt.
+
+## II. Of the Word, or the Son of God, which was made very man.
+
+[2.1] THe SON, which is the Word of the Father, begotten from Everlaſting of the Father, the very, and Eternal GOD, of one Subſtance with the Father, took Man's Nature in the Womb of the bleſſed Virgin, of her ſubſtance: ſo that two whole and perfect Natures, that is to ſay, the Godhead, and Manhood were joyned together in one Perſon, never to be divided, whereof is one Chriſt, very God, and very man, who truly ſuffered, was Crucified, dead and buried, to reconcile His Father to us, and to be a Sacrifice, not only for Original Guilt, but alſo ſolactual ſins of men.
+
+## III. Of the Going down of Chriſt into Hell.
+
+[1.3.1] AS Chriſt died for us, and was buried: ſo alſo is it to be believed that He went down into Hell.
+
+## IV. Of the Reſurrection of Chriſt.
+
+[1.4.1] CHriſt did truly riſe again from Death, and took again His body, with fleſh, bones, and all things appertaining to the perfection of man's Nature, wherewith He aſcended into Heaven, and there ſitteth, until He return to judge all men at the laſt Day.
+
+## V. Of the Holy Ghoſt.
+
+[1.5.1] THe Holy Ghoſt, proceeding from the father and the Son, is of one Subſtance, Majeſty and Glory, with the Father and the Son, Very and Eternal God.
+
+## VI. Of the Sufficiency of the Holy Scriptures for Salvation.
+
+[1.6.1] HOly Scripture containeth all things neceſſary to Salvation; ſo that whatſoever is not read therein, nor may be proved thereby, is not to be required of any man, that it ſhould be believed as an Article of the Faith, or be thought requiſite or neceſſary to Salvation. In the name of the Holy Scripture, we do underſtand thoſe Canonical Books of the Old and New Teſtament, of whoſe Authority was never any doubt in the Church.
+
+[1.6.2] ¶ Of the Names and Number of the Canonical BOOKS.
+GEneſis,
+Exodus,
+Leviticus,
+Numeri,
+Deuteronomium,
+Joſhue,
+Judges,
+Ruth,
+The 1. Book of Samuel,
+The 2. Book of Samuel,
+The 1. Book of Kings,
+The 2. Book of Kings,
+The 1. Book of Chronicles,
+The 2. Book of Chronicles,
+The 1. Book of Eſdras,
+The 2. Book of Eſdras,
+The Book of Hoſter,
+The Book of Job,
+The Pſalms,
+The Proverbs,
+Eccleſiaſtes, or Preacher,
+Cantica, or Songs of Solomon,
+4 Prophets the greater
+12 Prophets the leſs,
+
+[1.6.3] And the other Books (as Hierome ſaith) the Church doth read for example of life, and inſtruction of manners; but yet doth it not apply them to eſtabliſh any Doctrine: ſuch as are theſe following.
+
+[1.6.4] The 3. Book of Eſdras,
+The 4. Book of Eſdras,
+The Book of Tobias,
+The Book of Judeth,
+The reſt of the B. of Heſter,
+The Book of Wiſdom,
+Jeſus the ſon of Syrach,
+Baruck the Prophet,
+The Song of the 3 Childr.
+The Story of Suſanna.
+Of Bel and the Dragon.
+The Prayer of Manaſſes,
+The 1. Book of Maccabees,
+The 2. Book of Maccabees.
+
+[1.6.5] All the Books of the New Teſtament, as they are commonly received, we do receive and account them Canonical.
+
+## VII. Of the Old Teſtament.
+
+[1.7.1] THe Old Teſtament is not contrary to the New: for both in the Old and New Teſtament, Everlaſting Life is offered to Mankind by Chriſt, who is the only Mediator between God & man, being both God and Man. Wherefore they are not to be heard, which feign that the old fathers did look only for tranſitory promiſes. Altho' the Law given from God by Moſes, as touching Ceremonies and Rites, do not bind Chriſtian men, nor the Civil precepts thereof ought of Neceſſity to be received in any Common-Wealth: yet notwithſtanding, no Chriſtian man whatſoever, is free from the Obedience of the Commandments which are called moral.
+
+## VIII. Of the Three Creeds.
+
+[1.8.1] THe three Creeds, Nice Creed, Athanaſius Creed, and that which is commonly called the Apoſtles Creed, ought throughly to be received and believed: for they may be proved by moſt certain Warrants of Holy Scripture.
+
+## IX. Of original Birth or Sin.
+
+[1.9.1] ORiginal Sin ſtandeth not in the Following of Adam, (as the Pelagians do vainly talk) but it is the Fault, and Corruption, of the Nature of every man that naturally is ingendred of the offspring of Adam, whereby man is very far gone from original Righteouſneſs, and is of his own nature inclined to evil, ſo that the Fleſh luſteth always contrary to the Spirit, and therefore in every Perſon born into this world, it deſerveth GOD's Wrath, and Damnation. And this infection of nature doth remain, yea, in them that are regenerated, whereby the Luſt of the Fleſh, called in Greek, Phronema sarkos, which ſome do expound the wiſdom, ſome ſenſuality, ſome the Affection, ſome the deſire of the Fleſh, is not ſubject to the Law of God. And altho' there is no Condemnation for them that believe and are Baptized, yet the Apoſtle doth confeſs, that Concupiſcence and Luſt hath of it ſelf the nature of Sin.
+
+## X. Of Free-Will.
+
+[1.10.1] THe Condition of man, after the Fall of Adam is ſuch, That he cannot turn & prepare himſelf by his own natural ſtrength & good works, to Faith and Calling upon God: Wherefore we have no power to do Good Works pleaſant and acceptable to God, without the Grace of God by Chriſt preventing us, that we may have a good Will, and working with us when we have that good Will.
+
+## XI. Of the Juſtification of man.
+
+[1.11.1] VVE are accounted rightous before God, only for the Merit of our Lord and Saviour Jeſus Chriſt by Faith, and not for our own works, or deſervings. Wherefore, that we are juſtified by Faith only, is a moſt wholſom Doctrine, and very full of comfort, as more largely is expreſſed in the Homily of Juſtification.
+
+## XII. Of Good Works.
+
+[1.12.1] ALbeit that Good works, which are the Fruits of Faith, and follow after Juſtification, cannot put away our Sins, and endure the Severity of God's Judgment, yet are they pleaſing and acceptable to God in Chriſt, and do ſpring out neceſſarily of a true and lively Faith, inſomuch that by them a lively Faith may be as evidently known, as a tree diſcerned by the Fruit.
+
+## XIII. Of Works before Juſtification.
+
+[1.13.1] VVOrks done before the Grace of CHRIST, and the inſpiration, of His Spirit, are not pleaſant to God, foraſmuch as they ſpring not of Faith in JESU Chriſt, neither do they make men meet to receive grace, or (as the School Authors ſay) deſerve Grace of Congruity: yea, rather for that they are not done as God hath willed and commanded them to be done, we doubt not but they have the nature of Sin.
+
+## XIV. Of Works of Supererogation.
+
+[1.14.1] VOluntary Works beſides, over and above God's Commandments, which they call Works of Supererogation, cannot be taught without Arrogancy and Impiety. For by them men do declare, that they do not only render unto God as much as they are bound to do, but that they do more for his ſake than of bounden duty is required: whereas Chriſt ſaith plainly, When ye have done all that are commanded to you, ſay, we are unprofitable ſervants.
+
+## XV. Of CHRIST alone without Sin.
+
+[1.15.1] CHRIST in the truth of our nature, was made like unto us in all things, Sin only except, from which He was clearly void both in His fleſh and in Spirit. He came to be a Lamb without ſpot, who by Sacrifice of Himſelf once made, ſhould take away the ſins of the World: and Sin (as St. John ſaith) was not in
+Him. But all we, the reſt, altho' Baptized, and born again in Chriſt, yet offend in many things, and if we ſay we have no ſ••, we deceive our ſelves and the Truth is not in us.
+
+## XVI: Of Sin after Baptiſm.
+
+[1.16.1] NOt every deadly Sin willingly committed after Baptiſm, is Sin againſt the Holy Ghoſt, and unpardonable: Wherefore the Grant of Repentance is not to be denied to ſuch as fall into ſin after Baptiſm. After we have received the Holy Ghoſt, we may depart from Grace given, and fall into ſin, and by the Grace of God, we may ariſe again, & amend our Lives. And therefore they are to be condemned, which ſay they can no more ſin as long as they live here, to deny the place of Forgiveneſs to ſuch as truly repent.
+
+## XVII. Of Predeſtination and Election.
+
+[1.17.1] PRedeſtination to Life, is the everlaſting purpoſe of GOD, whereby (before the Foundations of the world were laid) He hath conſtantly Decreed by His Counſel, ſecret to us, to deliver from Curſe and Damnation, thoſe whom He hath choſen in Chriſt out of Mankind, and to bring them by Chriſt to everlaſting Salvation, as veſſels made to Honour. Wherefore they which be endued with ſo excellent a Benefit of God, be called according to God's purpoſe by His Spirit working in due ſeaſon: they through Grace obey the Calling: they be juſtified freely: they be made ſons of God by Adoption: they be made like the Image of His only begotten Son JESUS CHRIST: they walk religiouſly in Good Works, and at length by GOD's Mercy they attain to everlaſting Felicity.
+
+[1.17.2] As the godly Conſideration of predeſtination and our Election in Chriſt, is full of ſweet, pleaſant, and unſpeakable Comfort to godly perſons, and ſuch as feel in themſelves the working of the Spirit of Chriſt, mortifying the works of the Fleſh, and their earthly Members, and drawing up their mind to high and heavenly things, as well becauſe it doth greatly eſtabliſh & confirm their Faith of eternal Salvation, to be enjoyed through Chriſt, as becauſe
+it doth frequently kindle their Love towards God: So, for curious and carnal perſons, lacking the Spirit of Chriſt, to have continually before their eyes the ſentence of God's Predeſtination, is a moſt dangerous down-fall, whereby the devil doth thruſt them either into deſperation, or into wretchleſneſs of unclean Living, no leſs perilous than Deſperation.
+
+[1.17.3] Furthermore, we muſt receive God's Promiſes in ſuch wiſe as they be generally ſet forth to us in Holy Scripture: and in our Doings, that Will of God is to be followed, which we have expreſly declared unto us in the word of God.
+
+## XVIII. Of obtaining eternal Salvation only by the name of Chriſt.
+
+[1.18.1] THey alſo are to be had accurſed, that preſume to ſay, That every man ſhall be ſaved by the Law or Sect which he profeſſeth, ſo that he be diligent to frame his life according to that Law, and the light of nature: For holy Scripture doth ſet out unto us only the Name of Jeſus Chriſt, whereby men muſt be ſaved.
+
+## XIX. Of the Church.
+
+[1.19.1] THe viſible Church of Chriſt is a Congregation of Faithful men, in the which the pure Word of God is preached, and the Sacraments be duly Miniſtred, according to Chriſt's Ordinance in all thoſe things that of neceſſity are requiſite to the ſame.
+
+[1.19.2] As the Church of Hieruſalem, Alexandria, and Antioch have erred; So alſo the Church of Rome hath erred, not only in their living and manner of Ceremonies, but alſo in matters of Faith.
+
+## XX. Of the Authority of the Church.
+
+[1.20.1] THe Church hath Power to decree Rites or Ceremonies, and Authority in Controverſies of Faith: And yet it is not lawful for the Church to ordain any thing that is contrary to God's Word written, neither may it ſo expound one place of Scripture, that it be repugnant to another. Wherefore although the Church be a Witneſs and a Keeper of Holy Writt, yet as it ought not to decree any thing againſt the ſame, ſo beſides the ſame ought it not to enforce any thing to believed for neceſſity of Salvation.
+
+## XXI. Of the Authority of General Councils.
+
+[1.21.1] GEneral Councels may not be gathered together without the: Commandment and Will of Princes: and when they be gathered together (foraſmuch as they be an aſſembly of men, whereof all be not governed with the Spirit and Word of GOD) they may err, & ſometime have erred, even in things pertaining unto God. Wherefore things ordained by them as neceſſary to Salvation, have neither Strength nor Authority, unleſs it may be declared that they be taken out of holy Scripture.
+
+## XXII. Of Purgatory.
+
+[1.22.1] THe Romiſh Doctrine concerning Purgatory, Pardons, Worſhipping and Adoration, as well of Images, as of Reliques; and alſo Invocation of Saints, is a fond thing, vainly invented, & grounded upon no Warranty of Scripture, but rather Repugnant to the Word of God.
+
+## XXIII Of Miniſtring in the Congregation
+
+[1.23.1] IT is not lawful for any man to take upon him the Office of publick Preaching, or Miniſtring the Sacraments in the Congregation, before he be lawfully Called and ſent to execute the ſame: and thoſe we ought to judge lawfully called & ſent, which be choſen & called to this work by men who have publick Authority given unto them in the Congregation, to call and ſend Miniſters into the Lords Vineyard.
+
+## XXIV. Of Speaking in the Congregation in ſuch a Tongue as the People underſtandeth.
+
+[1.24.1] IT is a thing plainly repugnant to the Word of God & the Cuſtom of the primitive Church, to have publick prayer in the Church, or to Miniſter the Sacraments in a Tongue not underſtood by the People.
+
+## XXV. Of the Sacrament,
+
+[1.25.1] SAcraments ordained of Chriſt, be not only Badges or tokens of Chriſtian mens Profeſſion; but rather they be certain ſure Witneſſes, and effectual Signs of Grace, and God's Good Will towards us, by the which He doth work inviſibly in us, and doth not only quicken, but alſo ſtrengthen and confirm our Faith in Him.
+
+[1.25.2] There are two Sacraments ordained of Chriſt our Lord in the Goſpel, that is to ſay, Baptiſm, and the Supper of the Lord.
+
+[1.25.3] Thoſe five commonly called Sacraments, that is to ſay, Confirmation, Penance, Orders, Matrimony, and Exireme Ʋnction, are not to be counted for Sacraments of the Goſpel, being ſuch as have grown, partly of the corrupt following of the Apoſtles, partly are ſtates of life allowed by the Scriptures: but yet have not like nature of Sacraments, with Baptiſm and the Lord's Suppor, for that they have not any viſible Sign or Ceremony ordained of God.
+
+[1.25.4] The Sacraments were not ordained of Chriſt to be gazed upon, or to be Carried about, but that we ſhould duly uſe them. And in ſuch only as worthily receive the ſame, they have a wholſom effect or operation: but they that receive them unworthily, purchaſe to themſelves Damnation, as St. Paul ſaith,
+
+## XXVI Of the unworthineſs of the Miniſters which hinder not the Effects of the Sacraments,
+
+[1.26.1] ALthough in the viſible Church the evil be ever mingled with the good, and ſometime the evil have chief Authority in the Miniſtration of the Word and Sacraments; yet foraſmuch as they do not the ſame in their own name, but in Chriſt's, and do miniſter by His Commiſſion and Authority, we may uſe their Miniſtry, both in hearing the Word of God, and in the receiving of the Sacraments. Neither is the effect of Chriſt's Ordinance taken away by their wickedneſs, nor the grace of God's Gifts diminiſhed from ſuch, as by Faith and rightly do Receive the Sacraments miniſtred unto them, which be effectual, becauſe of Chriſt's Inſtitution & Promiſe, although they be miniſtred by evil men.
+
+[1.26.2] Nevertheleſs, it appertaineth to the Diſcipline of the Church, that enquiry be made of evil miniſters, and that they be accuſed by thoſe that have knowledge of their Offences: and finally being found guilty, by juſt Judgment be depoſed.
+
+## XXVII. Of Baptiſm.
+
+[1.27.1] BAptiſm is not only a Sign of Profeſſion, and mark of Difference whereby Chriſtian men are diſcerned from others that be not Chriſtned: but it is alſo a ſign of Regeneration or new Birth, whereby, as by an inſtrument, they that receive Baptiſm rightly,
+are grafted into the Church: the promiſes of the Forgiveneſs of ſ•n, and of our adoption to be the Sons of God, by the Holy Ghoſt, are viſibly ſigned and ſealed: Faith is confirmed, and Grace increaſed by virtue of Prayer unto God. The Baptiſm of young Children is in any wiſe to be retained in the Church, as moſt agreeable with the Inſtitution of Chriſt.
+
+## XXVIII. Of the Lords Supper.
+
+[1.28.1] THe Supper of the Lord, is not only a ſign of the Love that Chriſtians ought to have among themſelves one to another: but rather it is a Sacrament of our Redemption by Chriſt's Death: inſomuch that to ſuch as rightly, worthily, and with Faith receive the ſame, the Bread which we break, is a partaking of the Body of Chriſt; and likewiſe the Cup of Bleſſing is a partaking of the Blood of Chriſt.
+
+[1.28.2] Tranſubſtantiation (or the Change of the Subſtance of Bread and Wine▪) in the Supper of the Lord, cannot be proved by Holy Writ: but it is repugnant to the plain words of Scripture, overthroweth the Nature of a Sacrament, and hath given occaſion to many Superſtitions.
+
+[1.28.3] The Body of Chriſt is given, taken, and eaten in the Supper only after an heavenly & ſpiritual manner. And the mean whereby the Body of Chriſt is received and eaten in the Lords Supper is Faith.
+
+[1.28.4] The Sacrament of the Lords Supper, was not by Chriſt's Ordinance Reſerved, Carried about, lifted up, or worſhipped.
+
+## XXIX. Of the wicked, which eat not the Body of Chriſt in the uſe of the Lords Supper.
+
+[1.29.1] THe wicked and ſuch as be void of a lively Faith, altho' they do carnally & viſibly preſs with their Teeth (as St. Auguſtine ſaith) the Sacrament of the Body & Blood of Chriſt: yet in no wiſe are they partakers of Chriſt; but rather to their Condemnation do eat & drink the ſign or Sacrament of ſo great a thing.
+
+## XXX. Of both kinds.
+
+[1.30.1] THe Cup of the Lord is not to be denied to the Lay-people: for both the parts of the Lords Sacrament by Chriſts Ordinance & Commandment, ought to be miniſtred to all Chriſtian men alike.
+
+## XXXI. Of the one Oblation of Chriſt, finiſhed upon the Croſs.
+
+[1.31.1] THe Offering of Chriſt once made, is that perfect Redemption, Propitiation, and Satisfaction for all the ſins of the whole world, both Original and Actual, and there is none other Satisfaction for ſin, but that alone. Wherefore the Sacrifices of Maſſes, in the which it was commonly ſaid, that the Prieſt did offer Chriſt for the quick and the dead, to have Remiſſion of pain or guilt, were blaſphemous Fables and dangerous Deceits.
+
+## XXXII. Of the Marriage of Prieſts.
+
+[1.32.1] BIſhops, Prieſts, and Deacons, are not commanded by God's Law, either to vow the ſtate of ſingle Life, or to abſtain from Marriage: Therefore it is Lawful for them, as for all other Chriſtian men, to marry at their own Diſcretion, as they ſhall judge the ſame to ſerve better to Godlineſs.
+
+## XXXIII. Of Excommunicate Perſons, how they are to be avoided.
+
+[1.33.1] THat perſon which by open Denunciation of the Church, is rightly cut off from the Unity of the Church, and excommunicated, ought to be taken of the whole multitude of the faithful, as an Heathen and Publicane, until he be openly reconciled by Penance, and received into the Church by a Judge that hath Authority thereunto,
+
+## XXXIV Of the Traditions of the Church.
+
+[1.34.1] IT is not neceſſary that Traditions and Ceremonies be in all places one, or utterly like; for at all times they have been divers, and may be changed according to the Diverſity of Countreys, times, & mens Manners, ſo that nothing be ordained againſt God's Word. Whoſoever through his private Judgment, willingly, & purpoſely doth openly break the Traditions and Ceremonies of the Church which be not repugnant to the Word of God, and be Ordained and Approved by common Authority, ought to be rebuked openly, (that other may fear to do the like) as he that offendeth againſt the Common Order of the Church, and hurteth the Authority of the Magiſtrate, and woundeth the Conſciences of the weak Brethren.
+
+[1.34.2] Every particular or National Church, hath Authority to ordain, change, and aboliſh Ceremonies or Rites of the Church, ordained only by man's Authority, ſo that all things be done to edifying.
+
+## XXXV. Of Homilies.
+
+[1.35.1] THe 2nd. Book of Homilies, the ſeveral Titles whereof we have joined under this Article, doth contain a godly & wholſome Doctrine, and neceſſary for theſe times, as doth the former Book of Homilies, which were ſet forth in the time of Edward the 6th; and therefore we judge them to be read in Churches by the Miniſters, diligently & diſtinctly that they may be underſtood of the People.
+
+[1.35.2] ¶ Of the Names of the Homilies
+1 OF the right uſe of the Church,
+2 Againſt peril of Idolatry.
+3 Of Repairing & keeping clean of Churches.
+4 Of Good Works, 1ſt. Faſting.
+5 Againſt Gluttony & Drunkenneſs
+6 Againſt Exceſs of Apparel.
+7 Of Prayer.
+8 Of the Place & Time of Prayer.
+9 That Common Prayers & Sacraments ought to be miniſtred in a known Tongue.
+10 Of the reverend Eſtimation of God's Word.
+11 Of Alms-doing.
+12 Of the Nativity of Chriſt.
+13 Of the Paſſion of Chriſt.
+14 Of the Reſurrection of Chriſt.
+15 Of the worthy Receiving of the Sacrament of the Body & Blood of Chriſt.
+16 Of the Gifts of the Holy Ghoſt.
+17 For the Rogation Days.
+18 Of the State of Matrimony.
+19 Of Repentance.
+20 Againſt Idleneſs.
+21 Againſt Rebellion.
+
+## XXXVI. Of Conſecration of Biſhops and Miniſters.
+
+[1.36.1] THe Book of Conſecration of Archbiſhops & Biſhops, and Ordering of Prieſts & Deacons, lately ſet forth in the time of Edward the 6. and confirmed at the ſame time by the Authority of Parliament, doth contain all things neceſſary to ſuch Conſecration & Ordering: neither hath it any thing that of it ſelf is ſuperſtitious & and ungodly. And therefore whoſoever are Conſecrated, or Ordered according to the Rites of that Book, ſince the 2nd year of the aforenamed K. Edward, unto this time, or hereafter ſhall be
+Conſecrated or Ordered according to the ſame Rites, we decree all ſuch to be rightly, orderly, and lawfully Conſecrated & Ordered.
+
+## XXXVII. Of the Civil Magiſtrates:
+
+[1.37.1] THe Queens Majeſty hath the chief Power in this Realm of England, and other Her Dominions, unto whom the chief Government of all Eſtates of this Realm, whether they be Eccleſiaſtical or Civil, in all Cauſes doth appertain, and is not, nor ought to be ſubject to any foreign Jurisdiction.
+
+[1.37.2] Where we attribute to the Queens Majeſty the Chief Government, by which Titles we underſtand the minds of ſome ſlanderous folks to be offended: we give not to our Princes the miniſtring either of God's Word, or of the Sacraments, the which thing the Injunctions alſo lately ſet forth by Elizabeth our Queen, do moſt plainly teſtify: but that only Prerogative which we ſee to have been given always to all godly Princes in holy Scriptures by God Himſelf, that is, that they ſhould Rule all Eſtates & Degrees committed to their Charge by God, whether they be Eccleſiaſtical or Temporal, and reſtrain with the Civil Sword the ſtubborn and evil Doers.
+
+[1.37.3] The Biſhop of Rome hath no Jurisdiction in this Realm of England.
+
+[1.37.4] The Laws of the Realm may puniſh Chriſtian men with death, for hainous and grievous Offences.
+
+[1.37.5] It is lawful for Chriſtian men, at the Commandment of the Mag••trate, to wear Weapons, and ſerve in the Wars.
+
+## XXXVIII. Of Chriſtian mens Goods which are not Common.
+
+[1.38.1] THe Riches & Goods of Chriſtians are not Common, as touching the Right, Title & Poſſeſſion of the ſame, as certain Anabaptiſts do falſly boaſt. Notwithſtanding, every man ought of ſuch things as he poſſeſſeth, liberally to give Alms to the poor, according to his Ability.
+
+## XXXIX. Of A Chriſtian man's Oath.
+
+[1.39.1] AS we confeſs that vain & raſh Swearing is forbidden Chriſtian men by our Lord Jeſus Chriſt, & James His Apoſtle; ſo we judge that Chriſtian Religion doth not prohibit, but that a man
+may Swear when the Magiſtrate requireth, in a Cauſe of Faith and Charity, ſo it be done according to the Prophet's Teaching, in Juſtice, Judgment, and Truth.
+
+## 40. The RATIFICATION.
+
+[1.40.1] THis Book of Articles before rehearſed, is again approved, and allowed to be holden & executed within the Realm, by the Aſſent and Conſent of our Sovereign Lady ELIZABETH, by the Grace of God, of England, France, and Ireland Queen, Defender of the Faith, &c. Which Articles were deliberately read, and Confirmed again by the Subſcription of the Hand of the Archbiſhop & Biſhops of the Ʋpper Houſe, and by the Subſcription of the whole Clergy of the Nether Houſe in their Convocation, in the Year of our Lord, 1571,

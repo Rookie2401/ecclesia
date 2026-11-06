@@ -1,0 +1,2515 @@
+Title: Exodus — Biblia Sacra Vulgatae editionis (Clementine)
+Work: Exodus
+Author: The Vulgate (c. 382–405 (largely Jerome); Clementine edition 1592–1598)
+Language: latin
+Credit: Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml
+Retrieved: 2026-11-05 (source file 4652377 bytes, SHA-256 5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## Exodus 1
+
+[EXO.1.1] Hæc sunt nomina filiorum Israël qui ingressi sunt in Ægyptum cum Jacob : singuli cum domibus suis introierunt :
+
+[EXO.1.2] Ruben, Simeon, Levi, Judas,
+
+[EXO.1.3] Issachar, Zabulon et Benjamin,
+
+[EXO.1.4] Dan et Nephthali, Gad et Aser.
+
+[EXO.1.5] Erant igitur omnes animæ eorum qui egressi sunt de femore Jacob, septuaginta : Joseph autem in Ægypto erat.
+
+[EXO.1.6] Quo mortuo, et universis fratribus ejus, omnique cognatione illa,
+
+[EXO.1.7] filii Israël creverunt, et quasi germinantes multiplicati sunt : ac roborati nimis, impleverunt terram.
+
+[EXO.1.8] Surrexit interea rex novus super Ægyptum, qui ignorabat Joseph.
+
+[EXO.1.9] Et ait ad populum suum : Ecce, populus filiorum Israël multus, et fortior nobis est.
+
+[EXO.1.10] Venite, sapienter opprimamus eum, ne forte multiplicetur : et si ingruerit contra nos bellum, addatur inimicis nostris, expugnatisque nobis egrediatur de terra.
+
+[EXO.1.11] Præposuit itaque eis magistros operum, ut affligerent eos oneribus : ædificaveruntque urbes tabernaculorum Pharaoni, Phithom et Ramesses.
+
+[EXO.1.12] Quantoque opprimebant eos, tanto magis multiplicabantur, et crescebant :
+
+[EXO.1.13] oderantque filios Israël Ægyptii, et affligebant illudentes eis,
+
+[EXO.1.14] atque ad amaritudinem perducebant vitam eorum operibus duris luti et lateris, omnique famulatu, quo in terræ operibus premebantur.
+
+[EXO.1.15] Dixit autem rex Ægypti obstetricibus Hebræorum, quarum una vocabatur Sephora, altera Phua,
+
+[EXO.1.16] præcipiens eis : Quando obstetricabitis Hebræas, et partus tempus advenerit : si masculus fuerit, interficite eum : si femina, reservate.
+
+[EXO.1.17] Timuerunt autem obstetrices Deum, et non fecerunt juxta præceptum regis Ægypti, sed conservabant mares.
+
+[EXO.1.18] Quibus ad se accersitis, rex ait : Quidnam est hoc quod facere voluistis, ut pueros servaretis ?
+
+[EXO.1.19] Quæ responderunt : Non sunt Hebreæ sicut ægyptiæ mulieres : ipsæ enim obstetricandi habent scientiam, et priusquam veniamus ad eas, pariunt.
+
+[EXO.1.20] Bene ergo fecit Deus obstetricibus : et crevit populus, confortatusque est nimis.
+
+[EXO.1.21] Et quia timuerunt obstetrices Deum, ædificavit eis domos.
+
+[EXO.1.22] Præcepit ergo Pharao omni populo suo, dicens : Quidquid masculini sexus natum fuerit, in flumen projicite : quidquid feminini, reservate.
+
+## Exodus 2
+
+[EXO.2.1] Egressus est post hæc vir de domo Levi : et accepit uxorem stirpis suæ.
+
+[EXO.2.2] Quæ concepit, et peperit filium : et videns eum elegantem, abscondit tribus mensibus.
+
+[EXO.2.3] Cumque jam celare non posset, sumpsit fiscellam scirpeam, et linivit eam bitumine ac pice : posuitque intus infantulum, et exposuit eum in carecto ripæ fluminis,
+
+[EXO.2.4] stante procul sorore ejus, et considerante eventum rei.
+
+[EXO.2.5] Ecce autem descendebat filia Pharaonis ut lavaretur in flumine : et puellæ ejus gradiebantur per crepidinem alvei. Quæ cum vidisset fiscellam in papyrione, misit unam e famulabus suis : et allatam
+
+[EXO.2.6] aperiens, cernensque in ea parvulum vagientem, miserta ejus, ait : De infantibus Hebræorum est hic.
+
+[EXO.2.7] Cui soror pueri : Vis, inquit, ut vadam, et vocem tibi mulierem hebræam, quæ nutrire possit infantulum ?
+
+[EXO.2.8] Respondit : Vade. Perrexit puella et vocavit matrem suam.
+
+[EXO.2.9] Ad quam locuta filia Pharaonis : Accipe, ait, puerum istum, et nutri mihi : ego dabo tibi mercedem tuam. Suscepit mulier, et nutrivit puerum : adultumque tradidit filiæ Pharaonis.
+
+[EXO.2.10] Quem illa adoptavit in locum filii, vocavitque nomen ejus Moyses, dicens : Quia de aqua tuli eum.
+
+[EXO.2.11] In diebus illis postquam creverat Moyses, egressus est ad fratres suos : viditque afflictionem eorum, et virum ægyptium percutientem quemdam de Hebræis fratribus suis.
+
+[EXO.2.12] Cumque circumspexisset huc atque illuc, et nullum adesse vidisset, percussum Ægyptium abscondit sabulo.
+
+[EXO.2.13] Et egressus die altero conspexit duos Hebræos rixantes : dixitque ei qui faciebat injuriam : Quare percutis proximum tuum ?
+
+[EXO.2.14] Qui respondit : Quis te constituit principem et judicem super nos ? num occidere me tu vis, sicut heri occidisti Ægyptium ? Timuit Moyses, et ait : Quomodo palam factum est verbum istud ?
+
+[EXO.2.15] Audivitque Pharao sermonem hunc, et quærebat occidere Moysen : qui fugiens de conspectu ejus, moratus est in terra Madian, et sedit juxta puteum.
+
+[EXO.2.16] Erant autem sacerdoti Madian septem filiæ, quæ venerunt ad hauriendam aquam : et impletis canalibus adaquare cupiebant greges patris sui.
+
+[EXO.2.17] Supervenere pastores, et ejecerunt eas : surrexitque Moyses, et defensis puellis, adaquavit oves earum.
+
+[EXO.2.18] Quæ cum revertissent ad Raguel patrem suum, dixit ad eas : Cur velocius venistis solito ?
+
+[EXO.2.19] Responderunt : Vir ægyptius liberavit nos de manu pastorum : insuper et hausit aquam nobiscum, potumque dedit ovibus.
+
+[EXO.2.20] At ille : Ubi est ? inquit : quare dimisistis hominem ? vocate eum ut comedat panem.
+
+[EXO.2.21] Juravit ergo Moyses quod habitaret cum eo. Accepitque Sephoram filiam ejus uxorem :
+
+[EXO.2.22] quæ peperit ei filium, quem vocavit Gersam, dicens : Advena fui in terra aliena. Alterum vero peperit, quem vocavit Eliezer, dicens : Deus enim patris mei adjutor meus eripuit me de manu Pharaonis.
+
+[EXO.2.23] Post multum vero tempore mortuus est rex Ægypti : et ingemiscentes filii Israël, propter opera vociferati sunt : ascenditque clamor eorum ad Deum ab operibus.
+
+[EXO.2.24] Et audivit gemitum eorum, ac recordatus est fœderis quod pepigit cum Abraham, Isaac et Jacob.
+
+[EXO.2.25] Et respexit Dominus filios Israël et cognovit eos.
+
+## Exodus 3
+
+[EXO.3.1] Moyses autem pascebat oves Jethro soceri sui sacerdotis Madian : cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.
+
+[EXO.3.2] Apparuitque ei Dominus in flamma ignis de medio rubi : et videbat quod rubus arderet, et non combureretur.
+
+[EXO.3.3] Dixit ergo Moyses : Vadam, et videbo visionem hanc magnam, quare non comburatur rubus.
+
+[EXO.3.4] Cernens autem Dominus quod pergeret ad videndum, vocavit eum de medio rubi, et ait : Moyses, Moyses. Qui respondit : Adsum.
+
+[EXO.3.5] At ille : Ne appropies, inquit, huc : solve calceamentum de pedibus tuis : locus enim, in quo stas, terra sancta est.
+
+[EXO.3.6] Et ait : Ego sum Deus patris tui, Deus Abraham, Deus Isaac et Deus Jacob. Abscondit Moyses faciem suam : non enim audebat aspicere contra Deum.
+
+[EXO.3.7] Cui ait Dominus : Vidi afflictionem populi mei in Ægypto, et clamorem ejus audivi propter duritiam eorum qui præsunt operibus :
+
+[EXO.3.8] et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum, et educam de terra illa in terram bonam, et spatiosam, in terram quæ fluit lacte et melle, ad loca Chananæi et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi.
+
+[EXO.3.9] Clamor ergo filiorum Israël venit ad me : vidique afflictionem eorum, qua ab Ægyptiis opprimuntur.
+
+[EXO.3.10] Sed veni, et mittam te ad Pharaonem, ut educas populum meum, filios Israël, de Ægypto.
+
+[EXO.3.11] Dixitque Moyses ad Deum : Quis sum ego ut vadam ad Pharaonem, et educam filios Israël de Ægypto ?
+
+[EXO.3.12] Qui dixit ei : Ego ero tecum : et hoc habebis signum, quod miserim te : cum eduxeris populum meum de Ægypto, immolabis Deo super montem istum.
+
+[EXO.3.13] Ait Moyses ad Deum : Ecce ego vadam ad filios Israël, et dicam eis : Deus patrum vestrorum misit me ad vos. Si dixerint mihi : Quod est nomen ejus ? quid dicam eis ?
+
+[EXO.3.14] Dixit Deus ad Moysen : Ego sum qui sum. Ait : Sic dices filiis Israël : Qui est, misit me ad vos.
+
+[EXO.3.15] Dixitque iterum Deus ad Moysen : Hæc dices filiis Israël : Dominus Deus patrum vestrorum, Deus Abraham, Deus Isaac et Deus Jacob, misit me ad vos : hoc nomen mihi est in æternum, et hoc memoriale meum in generationem et generationem.
+
+[EXO.3.16] Vade, et congrega seniores Israël, et dices ad eos : Dominus Deus patrum vestrorum apparuit mihi, Deus Abraham, Deus Isaac et Deus Jacob, dicens : Visitans visitavi vos : et vidi omnia quæ acciderunt vobis in Ægypto.
+
+[EXO.3.17] Et dixi ut educam vos de afflictione Ægypti in terram Chananæi, et Hethæi, et Amorrhæi, et Pherezæi, et Hevæi, et Jebusæi, ad terram fluentem lacte et melle.
+
+[EXO.3.18] Et audient vocem tuam : ingredierisque tu, et seniores Israël, ad regem Ægypti, et dices ad eum : Dominus Deus Hebræorum vocavit nos : ibimus viam trium dierum in solitudinem, ut immolemus Domino Deo nostro.
+
+[EXO.3.19] Sed ego scio quod non dimittet vos rex Ægypti ut eatis nisi per manum validam.
+
+[EXO.3.20] Extendam enim manum meam, et percutiam Ægyptum in cunctis mirabilibus meis, quæ facturus sum in medio eorum : post hæc dimittet vos.
+
+[EXO.3.21] Daboque gratiam populo huic coram Ægyptiis : et cum egrediemini, non exibitis vacui :
+
+[EXO.3.22] sed postulabit mulier a vicina sua et ab hospita sua, vasa argentea et aurea, ac vestes : ponetisque eas super filios et filias vestras, et spoliabitis Ægyptum.
+
+## Exodus 4
+
+[EXO.4.1] Respondens Moyses ait : Non credent mihi, neque audient vocem meam, sed dicent : Non apparuit tibi Dominus.
+
+[EXO.4.2] Dixit ergo ad eum : Quid est quod tenes in manu tua ? Respondit : Virga.
+
+[EXO.4.3] Dixitque Dominus : Projice eam in terram. Projecit, et versa est in colubrum, ita ut fugeret Moyses.
+
+[EXO.4.4] Dixitque Dominus : Extende manum tuam, et apprehende caudam ejus. Extendit, et tenuit, versaque est in virgam.
+
+[EXO.4.5] Ut credant, inquit, quod apparuerit tibi Dominus Deus patrum suorum, Deus Abraham, Deus Isaac et Deus Jacob.
+
+[EXO.4.6] Dixitque Dominus rursum : Mitte manum tuam in sinum tuum. Quam cum misisset in sinum, protulit leprosam instar nivis.
+
+[EXO.4.7] Retrahe, ait, manum tuam in sinum tuum. Retraxit, et protulit iterum, et erat similis carni reliquæ.
+
+[EXO.4.8] Si non crediderint, inquit, tibi, neque audierint sermonem signi prioris, credent verbo signi sequentis.
+
+[EXO.4.9] Quod si nec duobus quidem his signis crediderint, neque audierint vocem tuam : sume aquam fluminis, et effunde eam super aridam, et quidquid hauseris de fluvio, vertetur in sanguinem.
+
+[EXO.4.10] Ait Moyses : Obsecro, Domine, non sum eloquens ab heri et nudiustertius : et ex quo locutus es ad servum tuum, impeditioris et tardioris linguæ sum.
+
+[EXO.4.11] Dixit Dominus ad eum : Quis fecit os hominis ? aut quis fabricatus est mutum et surdum, videntem et cæcum ? nonne ego ?
+
+[EXO.4.12] Perge, igitur, et ego ero in ore tuo : doceboque te quid loquaris.
+
+[EXO.4.13] At ille : Obsecro, inquit, Domine, mitte quem missurus es.
+
+[EXO.4.14] Iratus Dominus in Moysen, ait : Aaron frater tuus Levites, scio quod eloquens sit : ecce ipse egreditur in occursum tuum, vidensque te lætabitur corde.
+
+[EXO.4.15] Loquere ad eum, et pone verba mea in ore ejus : et ego ero in ore tuo, et in ore illius, et ostendam vobis quid agere debeatis.
+
+[EXO.4.16] Ipse loquetur pro te ad populum, et erit os tuum : tu autem eris ei in his quæ ad Deum pertinent.
+
+[EXO.4.17] Virgam quoque hanc sume in manu tua, in qua facturus es signa.
+
+[EXO.4.18] Abiit Moyses, et reversus est ad Jethro socerum suum, dixitque ei : Vadam et revertar ad fratres meos in Ægyptum, ut videam si adhuc vivant. Cui ait Jethro : Vade in pace.
+
+[EXO.4.19] Dixit ergo Dominus ad Moysen in Madian : Vade, et revertere in Ægyptum, mortui sunt enim omnes qui quærebant animam tuam.
+
+[EXO.4.20] Tulit ergo Moyses uxorem suam, et filios suos, et imposuit eos super asinum : reversusque est in Ægyptum, portans virgam Dei in manu sua.
+
+[EXO.4.21] Dixitque ei Dominus revertenti in Ægyptum : Vide ut omnia ostenta quæ posui in manu tua, facias coram Pharaone : ego indurabo cor ejus, et non dimittet populum.
+
+[EXO.4.22] Dicesque ad eum : Hæc dicit Dominus : Filius meus primogenitus Israël.
+
+[EXO.4.23] Dixi tibi : Dimitte filium meum ut serviat mihi ; et noluisti dimittere eum : ecce ego interficiam filium tuum primogenitum.
+
+[EXO.4.24] Cumque esset in itinere, in diversorio occurrit ei Dominus, et volebat occidere eum.
+
+[EXO.4.25] Tulit idcirco Sephora acutissimam petram, et circumcidit præputium filii sui, tetigitque pedes ejus, et ait : Sponsus sanguinum tu mihi es.
+
+[EXO.4.26] Et dimisit eum postquam dixerat : Sponsus sanguinum ob circumcisionem.
+
+[EXO.4.27] Dixit autem Dominus ad Aaron : Vade in occursum Moysi in desertum. Qui perrexit obviam ei in montem Dei, et osculatus est eum.
+
+[EXO.4.28] Narravitque Moyses Aaron omnia verba Domini quibus miserat eum, et signa quæ mandaverat.
+
+[EXO.4.29] Veneruntque simul, et congregaverunt cunctos seniores filiorum Israël.
+
+[EXO.4.30] Locutusque est Aaron omnia verba quæ dixerat Dominus ad Moysen : et fecit signa coram populo,
+
+[EXO.4.31] et credidit populus. Audieruntque quod visitasset Dominus filios Israël, et respexisset afflictionem illorum : et proni adoraverunt.
+
+## Exodus 5
+
+[EXO.5.1] Post hæc ingressi sunt Moyses et Aaron, et dixerunt Pharaoni : Hæc dicit Dominus Deus Israël : Dimitte populum meum ut sacrificet mihi in deserto.
+
+[EXO.5.2] At ille respondit : Quis est Dominus, ut audiam vocem ejus, et dimittam Israël ? nescio Dominum, et Israël non dimittam.
+
+[EXO.5.3] Dixeruntque : Deus Hebræorum vocavit nos, ut eamus viam trium dierum in solitudinem, et sacrificemus Domino Deo nostro : ne forte accidat nobis pestis aut gladius.
+
+[EXO.5.4] Ait ad eos rex Ægypti : Quare Moyses et Aaron sollicitatis populum ab operibus suis ? ite ad onera vestra.
+
+[EXO.5.5] Dixitque Pharao : Multus est populus terræ : videtis quod turba succreverit : quanto magis si dederitis eis requiem ab operibus ?
+
+[EXO.5.6] Præcepit ergo in die illo præfectis operum et exactoribus populi, dicens :
+
+[EXO.5.7] Nequaquam ultra dabitis paleas populo ad conficiendos lateres, sicut prius : sed ipsi vadant, et colligant stipulas.
+
+[EXO.5.8] Et mensuram laterum, quam prius faciebant, imponetis super eos, nec minuetis quidquam : vacant enim, et idcirco vociferantur, dicentes : Eamus, et sacrificemus Deo nostro.
+
+[EXO.5.9] Opprimantur operibus, et expleant ea : ut non acquiescant verbis mendacibus.
+
+[EXO.5.10] Igitur egressi præfecti operum et exactores ad populum, dixerunt : Sic dicit Pharao : Non do vobis paleas :
+
+[EXO.5.11] ite, et colligite sicubi invenire poteritis, nec minuetur quidquam de opere vestro.
+
+[EXO.5.12] Dispersusque est populus per omnem terram Ægypti ad colligendas paleas.
+
+[EXO.5.13] Præfecti quoque operum instabant, dicentes : Complete opus vestrum quotidie, ut prius facere solebatis quando dabantur vobis paleæ.
+
+[EXO.5.14] Flagellatique sunt qui præerant operibus filiorum Israël, ab exactoribus Pharaonis, dicentibus : Quare non impletis mensuram laterum sicut prius, nec heri, nec hodie ?
+
+[EXO.5.15] Veneruntque præpositi filiorum Israël, et vociferati sunt ad Pharaonem dicentes : Cur ita agis contra servos tuos ?
+
+[EXO.5.16] paleæ non dantur nobis, et lateres similiter imperantur : en famuli tui flagellis cædimur, et injuste agitur contra populum tuum.
+
+[EXO.5.17] Qui ait : Vacatis otio, et idcirco dicitis : Eamus, et sacrificemus Domino.
+
+[EXO.5.18] Ite ergo, et operamini : paleæ non dabuntur vobis, et reddetis consuetum numerum laterum.
+
+[EXO.5.19] Videbantque se præpositi filiorum Israël in malo, eo quod diceretur eis : Non minuetur quidquam de lateribus per singulos dies.
+
+[EXO.5.20] Occurreruntque Moysi et Aaron, qui stabant ex adverso, egredientibus a Pharaone :
+
+[EXO.5.21] et dixerunt ad eos : Videat Dominus et judicet, quoniam fœtere fecistis odorem nostrum coram Pharaone et servis ejus, et præbuistis ei gladium, ut occideret nos.
+
+[EXO.5.22] Reversusque est Moyses ad Dominum, et ait : Domine, cur afflixisti populum istum ? quare misisti me ?
+
+[EXO.5.23] ex eo enim quo ingressus sum ad Pharaonem ut loquerer in nomine tuo, afflixit populum tuum : et non liberasti eos.
+
+## Exodus 6
+
+[EXO.6.1] Dixitque Dominus ad Moysen : Nunc videbis quæ facturus sim Pharaoni : per manum enim fortem dimittet eos, et in manu robusta ejiciet illos de terra sua.
+
+[EXO.6.2] Locutusque est Dominus ad Moysen dicens : Ego Dominus
+
+[EXO.6.3] qui apparui Abraham, Isaac et Jacob in Deo omnipotente : et nomen meum Adonai non indicavi eis.
+
+[EXO.6.4] Pepigique fœdus cum eis, ut darem eis terram Chanaan, terram peregrinationis eorum, in qua fuerunt advenæ.
+
+[EXO.6.5] Ego audivi gemitum filiorum Israël, quo Ægyptii oppresserunt eos : et recordatus sum pacti mei.
+
+[EXO.6.6] Ideo dic filiis Israël : Ego Dominus qui educam vos de ergastulo Ægyptiorum, et eruam de servitute, ac redimam in brachio excelso et judiciis magnis.
+
+[EXO.6.7] Et assumam vos mihi in populum, et ero vester Deus : et scietis quod ego sum Dominus Deus vester qui eduxerim vos de ergastulo Ægyptiorum,
+
+[EXO.6.8] et induxerim in terram, super quam levavi manum meam ut darem eam Abraham, Isaac et Jacob : daboque illam vobis possidendam. Ego Dominus.
+
+[EXO.6.9] Narravit ergo Moyses omnia filiis Israël : qui non acquieverunt ei propter angustiam spiritus, et opus durissimum.
+
+[EXO.6.10] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.6.11] Ingredere, et loquere ad Pharaonem regem Ægypti, ut dimittat filios Israël de terra sua.
+
+[EXO.6.12] Respondit Moyses coram Domino : Ecce filii Israël non audiunt me : et quomodo audiet Pharao, præsertim cum incircumcisus sim labiis ?
+
+[EXO.6.13] Locutusque est Dominus ad Moysen et Aaron, et dedit mandatum ad filios Israël, et ad Pharaonem regem Ægypti ut educerent filios Israël de terra Ægypti.
+
+[EXO.6.14] Isti sunt principes domorum per familias suas. Filii Ruben primogeniti Israëlis : Henoch et Phallu, Hesron et Charmi :
+
+[EXO.6.15] hæ cognationes Ruben. Filii Simeon : Jamuel, et Jamin, et Ahod, et Jachin, et Soar, et Saul filius Chananitidis : hæ progenies Simeon.
+
+[EXO.6.16] Et hæc nomina filiorum Levi per cognationes suas : Gerson, et Caath, et Merari. Anni autem vitæ Levi fuerunt centum triginta septem.
+
+[EXO.6.17] Filii Gerson : Lobni et Semei, per cognationes suas.
+
+[EXO.6.18] Filii Caath : Amram, et Isaar, et Hebron, et Oziel ; anni quoque vitæ Caath, centum triginta tres.
+
+[EXO.6.19] Filii Merari : Moholi et Musi : hæ cognationes Levi per familias suas.
+
+[EXO.6.20] Accepit autem Amram uxorem Jochabed patruelem suam : quæ peperit ei Aaron et Moysen. Fueruntque anni vitæ Amram, centum triginta septem.
+
+[EXO.6.21] Filii quoque Isaar : Core, et Nepheg, et Zechri.
+
+[EXO.6.22] Filii quoque Oziel : Misaël, et Elisaphan, et Sethri.
+
+[EXO.6.23] Accepit autem Aaron uxorem Elisabeth filiam Aminadab, sororem Nahason, quæ peperit ei Nadab, et Abiu, et Eleazar, et Ithamar.
+
+[EXO.6.24] Filii quoque Core : Aser, et Elcana, et Abiasaph : hæ sunt cognationes Coritarum.
+
+[EXO.6.25] At vero Eleazar filius Aaron accepit uxorem de filiabus Phutiel : quæ peperit ei Phinees. Hi sunt principes familiarum Leviticarum per cognationes suas.
+
+[EXO.6.26] Iste est Aaron et Moyses, quibus præcepit Dominus ut educerent filios Israël de terra Ægypti per turmas suas.
+
+[EXO.6.27] Hi sunt, qui loquuntur ad Pharaonem regem Ægypti, ut educant filios Israël de Ægypto : iste est Moyses et Aaron,
+
+[EXO.6.28] in die qua locutus est Dominus ad Moysen, in terra Ægypti.
+
+[EXO.6.29] Et locutus est Dominus ad Moysen, dicens : Ego Dominus : loquere ad Pharaonem regem Ægypti, omnia quæ ego loquor tibi.
+
+[EXO.6.30] Et ait Moyses coram Domino : En incircumcisus labiis sum, quomodo audiet me Pharao ?
+
+## Exodus 7
+
+[EXO.7.1] Dixitque Dominus ad Moysen : Ecce constitui te Deum Pharaonis : et Aaron frater tuus erit propheta tuus.
+
+[EXO.7.2] Tu loqueris ei omnia quæ mando tibi : et ille loquetur ad Pharaonem, ut dimittat filios Israël de terra sua.
+
+[EXO.7.3] Sed ego indurabo cor ejus, et multiplicabo signa et ostenta mea in terra Ægypti,
+
+[EXO.7.4] et non audiet vos : immittamque manum meam super Ægyptum, et educam exercitum et populum meum filios Israël de terra Ægypti per judicia maxima.
+
+[EXO.7.5] Et scient Ægyptii quia ego sum Dominus qui extenderim manum meam super Ægyptum, et eduxerim filios Israël de medio eorum.
+
+[EXO.7.6] Fecit itaque Moyses et Aaron sicut præceperat Dominus : ita egerunt.
+
+[EXO.7.7] Erat autem Moyses octoginta annorum, et Aaron octoginta trium, quando locuti sunt ad Pharaonem.
+
+[EXO.7.8] Dixitque Dominus ad Moysen et Aaron :
+
+[EXO.7.9] Cum dixerit vobis Pharao, Ostendite signa : dices ad Aaron : Tolle virgam tuam, et projice eam coram Pharaone, ac vertetur in colubrum.
+
+[EXO.7.10] Ingressi itaque Moyses et Aaron ad Pharaonem, fecerunt sicut præceperat Dominus : tulitque Aaron virgam coram Pharaone et servis ejus, quæ versa est in colubrum.
+
+[EXO.7.11] Vocavit autem Pharao sapientes et maleficos : et fecerunt etiam ipsi per incantationes ægyptiacas et arcana quædam similiter.
+
+[EXO.7.12] Projeceruntque singuli virgas suas, quæ versæ sunt in dracones : sed devoravit virga Aaron virgas eorum.
+
+[EXO.7.13] Induratumque est cor Pharaonis, et non audivit eos, sicut præceperat Dominus.
+
+[EXO.7.14] Dixit autem Dominus ad Moysen : Ingravatum est cor Pharaonis : non vult dimittere populum.
+
+[EXO.7.15] Vade ad eum mane, ecce egredietur ad aquas : et stabis in occursum ejus super ripam fluminis : et virgam quæ conversa est in draconem, tolles in manu tua.
+
+[EXO.7.16] Dicesque ad eum : Dominus Deus Hebræorum misit me ad te, dicens : Dimitte populum meum ut sacrificet mihi in deserto : et usque ad præsens audire noluisti.
+
+[EXO.7.17] Hæc igitur dicit Dominus : In hoc scies quod sim Dominus : ecce percutiam virga, quæ in manu mea est, aquam fluminis, et vertetur in sanguinem.
+
+[EXO.7.18] Pisces quoque, qui sunt in fluvio, morientur, et computrescent aquæ, et affligentur Ægyptii bibentes aquam fluminis.
+
+[EXO.7.19] Dixit quoque Dominus ad Moysen : Dic ad Aaron : Tolle virgam tuam, et extende manum tuam super aquas Ægypti, et super fluvios eorum, et rivos ac paludes, et omnes lacus aquarum, ut vertantur in sanguinem : et sit cruor in omni terra Ægypti, tam in ligneis vasis quam in saxeis.
+
+[EXO.7.20] Feceruntque Moyses et Aaron sicut præceperat Dominus : et elevans virgam percussit aquam fluminis coram Pharaone et servis ejus : quæ versa est in sanguinem.
+
+[EXO.7.21] Et pisces, qui erant in flumine, mortui sunt : computruitque fluvius, et non poterant Ægyptii bibere aquam fluminis, et fuit sanguis in tota terra Ægypti.
+
+[EXO.7.22] Feceruntque similiter malefici Ægyptiorum incantationibus suis : et induratum est cor Pharaonis, nec audivit eos, sicut præceperat Dominus.
+
+[EXO.7.23] Avertitque se, et ingressus est domum suam, nec apposuit cor etiam hac vice.
+
+[EXO.7.24] Foderunt autem omnes Ægyptii per circuitum fluminis aquam ut biberent : non enim poterant bibere de aqua fluminis.
+
+[EXO.7.25] Impletique sunt septem dies, postquam percussit Dominus fluvium.
+
+## Exodus 8
+
+[EXO.8.1] Dixit quoque Dominus ad Moysen : Ingredere ad Pharaonem, et dices ad eum : Hæc dicit Dominus : Dimitte populum meum, ut sacrificet mihi :
+
+[EXO.8.2] sin autem nolueris dimittere, ecce ego percutiam omnes terminos tuos ranis,
+
+[EXO.8.3] et ebulliet fluvius ranas : quæ ascendent, et ingredientur domum tuam, et cubiculum lectuli tui, et super stratum tuum, et in domos servorum tuorum, et in populum tuum, et in furnos tuos, et in reliquias ciborum tuorum :
+
+[EXO.8.4] et ad te, et ad populum tuum, et ad omnes servos tuos intrabunt ranæ.
+
+[EXO.8.5] Dixitque Dominus ad Moysen : Dic ad Aaron : Extende manum tuam super fluvios ac super rivos et paludes, et educ ranas super terram Ægypti.
+
+[EXO.8.6] Et extendit Aaron manum super aquas Ægypti, et ascenderunt ranæ, operueruntque terram Ægypti.
+
+[EXO.8.7] Fecerunt autem et malefici per incantationes suas similiter, eduxeruntque ranas super terram Ægypti.
+
+[EXO.8.8] Vocavit autem Pharao Moysen et Aaron, et dixit eis : Orate Dominum ut auferat ranas a me et a populo meo, et dimittam populum ut sacrificet Domino.
+
+[EXO.8.9] Dixitque Moyses ad Pharaonem : Constitue mihi quando deprecer pro te, et pro servis tuis, et pro populo tuo, ut abigantur ranæ a te, et a domo tua, et a servis tuis, et a populo tuo : et tantum in flumine remaneant.
+
+[EXO.8.10] Qui respondit : Cras. At ille : Juxta, inquit, verbum tuum faciam : ut scias quoniam non est sicut Dominus Deus noster.
+
+[EXO.8.11] Et recedent ranæ a te, et a domo tua, et a servis tuis, et a populo tuo : et tantum in flumine remanebunt.
+
+[EXO.8.12] Egressique sunt Moyses et Aaron a Pharaone : et clamavit Moyses ad Dominum pro sponsione ranarum quam condixerat Pharaoni.
+
+[EXO.8.13] Fecitque Dominus juxta verbum Moysi : et mortuæ sunt ranæ de domibus, et de villis, et de agris.
+
+[EXO.8.14] Congregaveruntque eas in immensos aggeres, et computruit terra.
+
+[EXO.8.15] Videns autem Pharao quod data esset requies, ingravavit cor suum, et non audivit eos, sicut præceperat Dominus.
+
+[EXO.8.16] Dixitque Dominus ad Moysen : Loquere ad Aaron : Extende virgam tuam, et percute pulverem terræ : et sint sciniphes in universa terra Ægypti.
+
+[EXO.8.17] Feceruntque ita. Et extendit Aaron manum, virgam tenens : percussitque pulverem terræ, et facti sunt sciniphes in hominibus, et in jumentis : omnis pulvis terræ versus est in sciniphes per totam terram Ægypti.
+
+[EXO.8.18] Feceruntque similiter malefici incantationibus suis, ut educerent sciniphes, et non potuerunt : erantque sciniphes tam in hominibus quam in jumentis.
+
+[EXO.8.19] Et dixerunt malefici ad Pharaonem : Digitus Dei est hic ; induratumque est cor Pharaonis, et non audivit eos sicut præceperat Dominus.
+
+[EXO.8.20] Dixit quoque Dominus ad Moysen : Consurge diluculo, et sta coram Pharaone : egredietur enim ad aquas : et dices ad eum : Hæc dicit Dominus : Dimitte populum meum ut sacrificet mihi.
+
+[EXO.8.21] Quod si non dimiseris eum, ecce ego immittam in te, et in servos tuos, et in populum tuum, et in domos tuas, omne genus muscarum : et implebuntur domus Ægyptiorum muscis diversi generis, et universa terra in qua fuerint.
+
+[EXO.8.22] Faciamque mirabilem in die illa terram Gessen, in qua populus meus est, ut non sint ibi muscæ : et scias quoniam ego Dominus in medio terræ.
+
+[EXO.8.23] Ponamque divisionem inter populum meum et populum tuum : cras erit signum istud.
+
+[EXO.8.24] Fecitque Dominus ita. Et venit musca gravissima in domos Pharaonis et servorum ejus, et in omnem terram Ægypti : corruptaque est terra ab hujuscemodi muscis.
+
+[EXO.8.25] Vocavitque Pharao Moysen et Aaron, et ait eis : Ite et sacrificate Deo vestro in terra hac.
+
+[EXO.8.26] Et ait Moyses : Non potest ita fieri : abominationes enim Ægyptiorum immolabimus Domino Deo nostro : quod si mactaverimus ea quæ colunt Ægyptii coram eis, lapidibus nos obruent.
+
+[EXO.8.27] Viam trium dierum pergemus in solitudinem : et sacrificabimus Domino Deo nostro, sicut præcepit nobis.
+
+[EXO.8.28] Dixitque Pharao : Ego dimittam vos ut sacrificetis Domino Deo vestro in deserto : verumtamen longius ne abeatis, rogate pro me.
+
+[EXO.8.29] At ait Moyses : Egressus a te, orabo Dominum : et recedet musca a Pharaone, et a servis suis, et a populo ejus cras : verumtamen noli ultra fallere, ut non dimittas populum sacrificare Domino.
+
+[EXO.8.30] Egressusque Moyses a Pharaone, oravit Dominum.
+
+[EXO.8.31] Qui fecit juxta verbum illius, et abstulit muscas a Pharaone, et a servis suis, et a populo ejus : non superfuit ne una quidem.
+
+[EXO.8.32] Et ingravatum est cor Pharaonis, ita ut nec hac quidem vice dimitteret populum.
+
+## Exodus 9
+
+[EXO.9.1] Dixit autem Dominus ad Moysen : Ingredere ad Pharaonem, et loquere ad eum : Hæc dicit Dominus Deus Hebræorum : Dimitte populum meum ut sacrificet mihi.
+
+[EXO.9.2] Quod si adhuc renuis, et retines eos,
+
+[EXO.9.3] ecce manus mea erit super agros tuos, et super equos, et asinos, et camelos, et boves, et oves, pestis valde gravis.
+
+[EXO.9.4] Et faciet Dominus mirabile inter possessiones Israël et possessiones Ægyptiorum, ut nihil omnino pereat ex eis quæ pertinent ad filios Israël.
+
+[EXO.9.5] Constituitque Dominus tempus, dicens : Cras faciet Dominus verbum istud in terra.
+
+[EXO.9.6] Fecit ergo Dominus verbum hoc altera die : mortuaque sunt omnia animantia Ægyptiorum ; de animalibus vero filiorum Israël, nihil omnino periit.
+
+[EXO.9.7] Et misit Pharao ad videndum : nec erat quidquam mortuum de his quæ possidebat Israël. Ingravatumque est cor Pharaonis, et non dimisit populum.
+
+[EXO.9.8] Et dixit Dominus ad Moysen et Aaron : Tollite plenas manus cineris de camino, et spargat illum Moyses in cælum coram Pharaone.
+
+[EXO.9.9] Sitque pulvis super omnem terram Ægypti : erunt enim in hominibus et jumentis ulcera, et vesicæ turgentes in universa terra Ægypti.
+
+[EXO.9.10] Tuleruntque cinerem de camino, et steterunt coram Pharaone, et sparsit illum Moyses in cælum : factaque sunt ulcera vesicarum turgentium in hominibus et jumentis :
+
+[EXO.9.11] nec poterant malefici stare coram Moyse propter ulcera quæ in illis erant, et in omni terra Ægypti.
+
+[EXO.9.12] Induravitque Dominus cor Pharaonis, et non audivit eos, sicut locutus est Dominus ad Moysen.
+
+[EXO.9.13] Dixitque Dominus ad Moysen : Mane consurge, et sta coram Pharaone, et dices ad eum : Hæc dicit Dominus Deus Hebræorum : Dimitte populum meum ut sacrificet mihi.
+
+[EXO.9.14] Quia in hac vice mittam omnes plagas meas super cor tuum, et super servos tuos, et super populum tuum : ut scias quod non sit similis mei in omni terra.
+
+[EXO.9.15] Nunc enim extendens manum percutiam te, et populum tuum peste, peribisque de terra.
+
+[EXO.9.16] Idcirco autem posui te, ut ostendam in te fortitudinem meam, et narretur nomen meum in omni terra.
+
+[EXO.9.17] Adhuc retines populum meum, et non vis dimittere eum ?
+
+[EXO.9.18] En pluam cras hac ipsa hora grandinem multam nimis, qualis non fuit in Ægypto a die qua fundata est, usque in præsens tempus.
+
+[EXO.9.19] Mitte ergo jam nunc, et congrega jumenta tua, et omnia quæ habes in agro : homines enim, et jumenta, et universa quæ inventa fuerint foris, nec congregata de agris, cecideritque super ea grando, morientur.
+
+[EXO.9.20] Qui timuit verbum Domini de servis Pharaonis, facit confugere servos suos et jumenta in domos :
+
+[EXO.9.21] qui autem neglexit sermonem Domini, dimisit servos suos et jumenta in agris.
+
+[EXO.9.22] Et dixit Dominus ad Moysen : Extende manum tuam in cælum, ut fiat grando in universa terra Ægypti super homines, et super jumenta, et super omnem herbam agri in terra Ægypti.
+
+[EXO.9.23] Extenditque Moyses virgam in cælum, et Dominus dedit tonitrua, et grandinem, ac discurrentia fulgura super terram : pluitque Dominus grandinem super terram Ægypti.
+
+[EXO.9.24] Et grando et ignis mista pariter ferebantur : tantæque fuit magnitudinis, quanta ante numquam apparuit in universa terra Ægypti ex quo gens illa condita est.
+
+[EXO.9.25] Et percussit grando in omni terra Ægypti cuncta quæ fuerunt in agris, ab homine usque ad jumentum : cunctamque herbam agri percussit grando, et omne lignum regionis confregit.
+
+[EXO.9.26] Tantum in terra Gessen, ubi erant filii Israël, grando non cecidit.
+
+[EXO.9.27] Misitque Pharao, et vocavit Moysen et Aaron, dicens ad eos : Peccavi etiam nunc : Dominus justus ; ego et populus meus, impii.
+
+[EXO.9.28] Orate Dominum ut desinant tonitrua Dei, et grando : ut dimittam vos, et nequaquam hic ultra maneatis.
+
+[EXO.9.29] Ait Moyses : Cum egressus fuero de urbe, extendam palmas meas ad Dominum, et cessabunt tonitrua, et grando non erit, ut scias quia Domini est terra :
+
+[EXO.9.30] novi autem quod et tu et servi tui necdum timeatis Dominum Deum.
+
+[EXO.9.31] Linum ergo et hordeum læsum est, eo quod hordeum esset virens, et linum jam folliculos germinaret :
+
+[EXO.9.32] triticum autem et far non sunt læsa, quia serotina erant.
+
+[EXO.9.33] Egressusque Moyses a Pharaone ex urbe, tetendit manus ad Dominum : et cessaverunt tonitrua et grando, nec ultra stillavit pluvia super terram.
+
+[EXO.9.34] Videns autem Pharao quod cessasset pluvia, et grando, et tonitrua, auxit peccatum :
+
+[EXO.9.35] et ingravatum est cor ejus, et servorum illius, et induratum nimis : nec dimisit filios Israël, sicut præceperat Dominus per manum Moysi.
+
+## Exodus 10
+
+[EXO.10.1] Et dixit Dominus ad Moysen : Ingredere ad Pharaonem : ego enim induravi cor ejus, et servorum illius, ut faciam signa mea hæc in eo :
+
+[EXO.10.2] et narres in auribus filii tui, et nepotum tuorum, quoties contriverim Ægyptios, et signa mea fecerim in eis : et sciatis quia ego Dominus.
+
+[EXO.10.3] Introierunt ergo Moyses et Aaron ad Pharaonem, et dixerunt ei : Hæc dicit Dominus Deus Hebræorum : Usquequo non vis subjici mihi ? dimitte populum meum, ut sacrificet mihi.
+
+[EXO.10.4] Sin autem resistis, et non vis dimittere eum : ecce ego inducam cras locustam in fines tuos :
+
+[EXO.10.5] quæ operiat superficiem terræ, ne quidquam ejus appareat, sed comedatur quod residuum fuerit grandini : corrodet enim omnia ligna quæ germinant in agris.
+
+[EXO.10.6] Et implebunt domos tuas, et servorum tuorum, et omnium Ægyptiorum, quantam non viderunt patres tui, et avi, ex quo orti sunt super terram, usque in præsentem diem. Avertitque se, et egressus est a Pharaone.
+
+[EXO.10.7] Dixerunt autem servi Pharaonis ad eum : Usquequo patiemur hoc scandalum ? dimitte homines, ut sacrificent Domino Deo suo ; nonne vides quod perierit Ægyptus ?
+
+[EXO.10.8] Revocaveruntque Moysen et Aaron ad Pharaonem : qui dixit eis : Ite, sacrificate Domino Deo vestro : quinam sunt qui ituri sunt ?
+
+[EXO.10.9] Ait Moyses : Cum parvulis nostris, et senioribus pergemus, cum filiis et filiabus, cum ovibus et armentis : est enim solemnitas Domini Dei nostri.
+
+[EXO.10.10] Et respondit Pharao : Sic Dominus sit vobiscum, quomodo ego dimittam vos, et parvulos vestros, cui dubium est quod pessime cogitetis ?
+
+[EXO.10.11] non fiet ita, sed ite tantum viri, et sacrificate Domino : hoc enim et ipsi petistis. Statimque ejecti sunt de conspectu Pharaonis.
+
+[EXO.10.12] Dixit autem Dominus ad Moysen : Extende manum tuam super terram Ægypti ad locustam, ut ascendat super eam, et devoret omnem herbam quæ residua fuerit grandini.
+
+[EXO.10.13] Et extendit Moyses virgam super terram Ægypti : et Dominus induxit ventum urentem tota die illa et nocte : et mane facto, ventus urens levavit locustas.
+
+[EXO.10.14] Quæ ascenderunt super universam terram Ægypti : et sederunt in cunctis finibus Ægyptiorum innumerabiles, quales ante illud tempus non fuerant, nec postea futuræ sunt.
+
+[EXO.10.15] Operueruntque universam superficiem terræ, vastantes omnia. Devorata est igitur herba terræ, et quidquid pomorum in arboribus fuit, quæ grando dimiserat : nihilque omnino virens relictum est in lignis et in herbis terræ, in cuncta Ægypto.
+
+[EXO.10.16] Quam ob rem festinus Pharao vocavit Moysen et Aaron, et dixit eis : Peccavi in Dominum Deum vestrum, et in vos.
+
+[EXO.10.17] Sed nunc dimittite peccatum mihi etiam hac vice, et rogate Dominum Deum vestrum, ut auferat a me mortem istam.
+
+[EXO.10.18] Egressusque Moyses de conspectu Pharaonis, oravit Dominum.
+
+[EXO.10.19] Qui flare fecit ventum ab occidente vehementissimum, et arreptam locustam projecit in mare Rubrum : non remansit ne una quidem in cunctis finibus Ægypti.
+
+[EXO.10.20] Et induravit Dominus cor Pharaonis, nec dimisit filios Israël.
+
+[EXO.10.21] Dixit autem Dominus ad Moysen : Extende manum tuam in cælum : et sint tenebræ super terram Ægypti tam densæ, ut palpari queant.
+
+[EXO.10.22] Extenditque Moyses manum in cælum : et factæ sunt tenebræ horribiles in universa terra Ægypti tribus diebus.
+
+[EXO.10.23] Nemo vidit fratrem suum, nec movit se de loco in quo erat : ubicumque autem habitabant filii Israël, lux erat.
+
+[EXO.10.24] Vocavitque Pharao Moysen et Aaron, et dixit eis : Ite, sacrificate Domino : oves tantum vestræ et armenta remaneant, parvuli vestri eant vobiscum.
+
+[EXO.10.25] Ait Moyses : Hostias quoque et holocausta dabis nobis, quæ offeramus Domino Deo nostro.
+
+[EXO.10.26] Cuncti greges pergent nobiscum ; non remanebit ex eis ungula : quæ necessaria sunt in cultum Domini Dei nostri : præsertim cum ignoremus quid debeat immolari, donec ad ipsum locum perveniamus.
+
+[EXO.10.27] Induravit autem Dominus cor Pharaonis, et noluit dimittere eos.
+
+[EXO.10.28] Dixitque Pharao ad Moysen : Recede a me, et cave ne ultra videas faciem meam : quocumque die apparueris mihi, morieris.
+
+[EXO.10.29] Respondit Moyses : Ita fiet ut locutus es : non videbo ultra faciem tuam.
+
+## Exodus 11
+
+[EXO.11.1] Et dixit Dominus ad Moysen : Adhuc una plaga tangam Pharaonem et Ægyptum, et post hæc dimittet vos, et exire compellet.
+
+[EXO.11.2] Dices ergo omni plebi ut postulet vir ab amico suo, et mulier a vicina sua, vasa argentea et aurea.
+
+[EXO.11.3] Dabit autem Dominus gratiam populo suo coram Ægyptiis. Fuitque Moyses vir magnus valde in terra Ægypti coram servis Pharaonis et omni populo.
+
+[EXO.11.4] Et ait : Hæc dicit Dominus : Media nocte egrediar in Ægyptum :
+
+[EXO.11.5] et morietur omne primogenitum in terra Ægyptiorum, a primogenito Pharaonis, qui sedet in solio ejus, usque ad primogenitum ancillæ quæ est ad molam, et omnia primogenita jumentorum.
+
+[EXO.11.6] Eritque clamor magnus in universa terra Ægypti, qualis nec ante fuit, nec postea futurus est.
+
+[EXO.11.7] Apud omnes autem filios Israël non mutiet canis ab homine usque ad pecus : ut sciatis quanto miraculo dividat Dominus Ægyptios et Israël.
+
+[EXO.11.8] Descendentque omnes servi tui isti ad me, et adorabunt me, dicentes : Egredere tu, et omnis populus qui subjectus est tibi : post hæc egrediemur.
+
+[EXO.11.9] Et exivit a Pharaone iratus nimis. Dixit autem Dominus ad Moysen : Non audiet vos Pharao ut multa signa fiant in terra Ægypti.
+
+[EXO.11.10] Moyses autem et Aaron fecerunt omnia ostenta, quæ scripta sunt, coram Pharaone. Et induravit Dominus cor Pharaonis, nec dimisit filios Israël de terra sua.
+
+## Exodus 12
+
+[EXO.12.1] Dixit quoque Dominus ad Moysen et Aaron in terra Ægypti :
+
+[EXO.12.2] Mensis iste, vobis principium mensium : primus erit in mensibus anni.
+
+[EXO.12.3] Loquimini ad universum cœtum filiorum Israël, et dicite eis : Decima die mensis hujus tollat unusquisque agnum per familias et domos suas.
+
+[EXO.12.4] Sin autem minor est numerus ut sufficere possit ad vescendum agnum, assumet vicinum suum qui junctus est domui suæ, juxta numerum animarum quæ sufficere possunt ad esum agni.
+
+[EXO.12.5] Erit autem agnus absque macula, masculus, anniculus : juxta quem ritum tolletis et hædum.
+
+[EXO.12.6] Et servabitis eum usque ad quartamdecimam diem mensis hujus : immolabitque eum universa multitudo filiorum Israël ad vesperam.
+
+[EXO.12.7] Et sument de sanguine ejus, ac ponent super utrumque postem, et in superliminaribus domorum, in quibus comedent illum.
+
+[EXO.12.8] Et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus.
+
+[EXO.12.9] Non comedetis ex eo crudum quid, nec coctum aqua, sed tantum assum igni : caput cum pedibus ejus et intestinis vorabitis.
+
+[EXO.12.10] Nec remanebit quidquam ex eo usque mane ; si quid residuum fuerit, igne comburetis.
+
+[EXO.12.11] Sic autem comedetis illum : renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phase (id est, transitus) Domini.
+
+[EXO.12.12] Et transibo per terram Ægypti nocte illa, percutiamque omne primogenitum in terra Ægypti ab homine usque ad pecus : et in cunctis diis Ægypti faciam judicia. Ego Dominus.
+
+[EXO.12.13] Erit autem sanguis vobis in signum in ædibus in quibus eritis : et videbo sanguinem, et transibo vos : nec erit in vobis plaga disperdens quando percussero terram Ægypti.
+
+[EXO.12.14] Habebitis autem hunc diem in monimentum : et celebrabitis eam solemnem Domino in generationibus vestris cultu sempiterno.
+
+[EXO.12.15] Septem diebus azyma comedetis : in die primo non erit fermentum in domibus vestris : quicumque comederit fermentatum, peribit anima illa de Israël, a primo die usque ad diem septimum.
+
+[EXO.12.16] Dies prima erit sancta atque solemnis, et dies septima eadem festivitate venerabilis : nihil operis facietis in eis, exceptis his, quæ ad vescendum pertinent.
+
+[EXO.12.17] Et observabitis azyma : in eadem enim ipsa die educam exercitum vestrum de terra Ægypti, et custodietis diem istum in generationes vestras ritu perpetuo.
+
+[EXO.12.18] Primo mense, quartadecima die mensis ad vesperam, comedetis azyma usque ad diem vigesimam primam ejusdem mensis ad vesperam.
+
+[EXO.12.19] Septem diebus fermentum non invenietur in domibus vestris : qui comederit fermentatum, peribit anima ejus de cœtu Israël, tam de advenis quam de indigenis terræ.
+
+[EXO.12.20] Omne fermentatum non comedetis : in cunctis habitaculis vestris edetis azyma.
+
+[EXO.12.21] Vocavit autem Moyses omnes seniores filiorum Israël, et dixit ad eos : Ite tollentes animal per familias vestras, et immolate Phase.
+
+[EXO.12.22] Fasciculumque hyssopi tingite in sanguine qui est in limine, et aspergite ex eo superliminare, et utrumque postem : nullus vestrum egrediatur ostium domus suæ usque mane.
+
+[EXO.12.23] Transibit enim Dominus percutiens Ægyptios : cumque viderit sanguinem in superliminari, et in utroque poste, transcendet ostium domus, et non sinet percussorem ingredi domos vestras et lædere.
+
+[EXO.12.24] Custodi verbum istud legitimum tibi et filiis tuis usque in æternum.
+
+[EXO.12.25] Cumque introieritis terram, quam Dominus daturus est vobis ut pollicitus est, observabitis cæremonias istas.
+
+[EXO.12.26] Et cum dixerint vobis filii vestri : Quæ est ista religio ?
+
+[EXO.12.27] Dicetis eis : Victima transitus Domini est, quando transivit super domos filiorum Israël in Ægypto, percutiens Ægyptios, et domos nostras liberans. Incurvatusque populus adoravit.
+
+[EXO.12.28] Et egressi filii Israël fecerunt sicut præceperat Dominus Moysi et Aaron.
+
+[EXO.12.29] Factum est autem in noctis medio, percussit Dominus omne primogenitum in terra Ægypti, a primogenito Pharaonis, qui in solio ejus sedebat, usque ad primogenitum captivæ quæ erat in carcere, et omne primogenitum jumentorum.
+
+[EXO.12.30] Surrexitque Pharao nocte, et omnes servi ejus, cunctaque Ægyptus : et ortus est clamor magnus in Ægypto : neque enim erat domus in qua non jaceret mortuus.
+
+[EXO.12.31] Vocatisque Pharao Moyse et Aaron nocte, ait : Surgite et egredimini a populo meo, vos et filii Israël : ite, immolate Domino sicut dicitis.
+
+[EXO.12.32] Oves vestras et armenta assumite ut petieratis, et abeuntes benedicite mihi.
+
+[EXO.12.33] Urgebantque Ægyptii populum de terra exire velociter, dicentes : Omnes moriemur.
+
+[EXO.12.34] Tulit igitur populus conspersam farinam antequam fermentaretur : et ligans in palliis, posuit super humeros suos.
+
+[EXO.12.35] Feceruntque filii Israël sicut præceperat Moyses : et petierunt ab Ægyptiis vasa argentea et aurea, vestemque plurimam.
+
+[EXO.12.36] Dominus autem dedit gratiam populo coram Ægyptiis ut commodarent eis : et spoliaverunt Ægyptios.
+
+[EXO.12.37] Profectique sunt filii Israël de Ramesse in Socoth, sexcenta fere millia peditum virorum, absque parvulis.
+
+[EXO.12.38] Sed et vulgus promiscuum innumerabile ascendit cum eis, oves et armenta et animantia diversi generis multa nimis.
+
+[EXO.12.39] Coxeruntque farinam, quam dudum de Ægypto conspersam tulerant : et fecerunt subcinericios panes azymos : neque enim poterant fermentari, cogentibus exire Ægyptiis, et nullam facere sinentibus moram : nec pulmenti quidquam occurrerat præparare.
+
+[EXO.12.40] Habitatio autem filiorum Israël qua manserunt in Ægypto, fuit quadringentorum triginta annorum.
+
+[EXO.12.41] Quibus expletis, eadem die egressus est omnis exercitus Domini de terra Ægypti.
+
+[EXO.12.42] Nox ista est observabilis Domini, quando eduxit eos de terra Ægypti : hanc observare debent omnes filii Israël in generationibus suis.
+
+[EXO.12.43] Dixitque Dominus ad Moysen et Aaron : Hæc est religio Phase : omnis alienigena non comedet ex eo.
+
+[EXO.12.44] Omnis autem servus emptitius circumcidetur, et sic comedet.
+
+[EXO.12.45] Advena et mercenarius non edent ex eo.
+
+[EXO.12.46] In una domo comedetur, nec efferetis de carnibus ejus foras, nec os illius confringetis.
+
+[EXO.12.47] Omnis cœtus filiorum Israël faciet illud.
+
+[EXO.12.48] Quod si quis peregrinorum in vestram voluerit transire coloniam, et facere Phase Domini, circumcidetur prius omne masculinum ejus, et tunc rite celebrabit : eritque sicut indigena terræ : si quis autem circumcisus non fuerit, non vescetur ex eo.
+
+[EXO.12.49] Eadem lex erit indigenæ et colono qui peregrinatur apud vos.
+
+[EXO.12.50] Feceruntque omnes filii Israël sicut præceperat Dominus Moysi et Aaron.
+
+[EXO.12.51] Et eadem die eduxit Dominus filios Israël de terra Ægypti per turmas suas.
+
+## Exodus 13
+
+[EXO.13.1] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.13.2] Sanctifica mihi omne primogenitum quod aperit vulvam in filiis Israël, tam de hominibus quam de jumentis : mea sunt enim omnia.
+
+[EXO.13.3] Et ait Moyses ad populum : Mementote diei hujus in qua egressi estis de Ægypto et de domo servitutis, quoniam in manu forti eduxit vos Dominus de loco isto : ut non comedatis fermentatum panem.
+
+[EXO.13.4] Hodie egredimini mense novarum frugum.
+
+[EXO.13.5] Cumque introduxerit te Dominus in terram Chananæi, et Hethæi, et Amorrhæi, et Hevæi, et Jebusæi, quam juravit patribus tuis ut daret tibi, terram fluentem lacte et melle, celebrabis hunc morem sacrorum mense isto.
+
+[EXO.13.6] Septem diebus vesceris azymis : et in die septimo erit solemnitas Domini.
+
+[EXO.13.7] Azyma comedetis septem diebus : non apparebit apud te aliquid fermentatum, nec in cunctis finibus tuis.
+
+[EXO.13.8] Narrabisque filio tuo in die illo, dicens : Hoc est quod fecit mihi Dominus quando egressus sum de Ægypto.
+
+[EXO.13.9] Et erit quasi signum in manu tua, et quasi monimentum ante oculos tuos : et ut lex Domini semper sit in ore tuo, in manu enim forti eduxit te Dominus de Ægypto.
+
+[EXO.13.10] Custodies hujuscemodi cultum statuto tempore a diebus in dies.
+
+[EXO.13.11] Cumque introduxerit te Dominus in terram Chananæi, sicut juravit tibi et patribus tuis, et dederit tibi eam :
+
+[EXO.13.12] separabis omne quod aperit vulvam Domino, et quod primitivum est in pecoribus tuis : quidquid habueris masculini sexus, consecrabis Domino.
+
+[EXO.13.13] Primogenitum asini mutabis ove : quod si non redemeris, interficies. Omne autem primogenitum hominis de filiis tuis, pretio redimes.
+
+[EXO.13.14] Cumque interrogaverit te filius tuus cras, dicens : Quid est hoc ? respondebis ei : In manu forti eduxit nos Dominus de terra Ægypti, de domo servitutis.
+
+[EXO.13.15] Nam cum induratus esset Pharao, et nollet nos dimittere, occidit Dominus omne primogenitum in terra Ægypti, a primogenito hominis usque ad primogenitum jumentorum : idcirco immolo Domino omne quod aperit vulvam masculini sexus, et omnia primogenita filiorum meorum redimo.
+
+[EXO.13.16] Erit igitur quasi signum in manu tua, et quasi appensum quid, ob recordationem, inter oculos tuos : eo quod in manu forti eduxit nos Dominus de Ægypto.
+
+[EXO.13.17] Igitur cum emisisset Pharao populum, non eos duxit Deus per viam terræ Philisthiim quæ vicina est : reputans ne forte pœniteret eum, si vidisset adversum se bella consurgere, et reverteretur in Ægyptum.
+
+[EXO.13.18] Sed circumduxit per viam deserti, quæ est juxta mare Rubrum : et armati ascenderunt filii Israël de terra Ægypti.
+
+[EXO.13.19] Tulit quoque Moyses ossa Joseph secum : eo quod adjurasset filios Israël, dicens : Visitabit vos Deus ; efferte ossa mea hinc vobiscum.
+
+[EXO.13.20] Profectique de Socoth castrametati sunt in Etham, in extremis finibus solitudinis.
+
+[EXO.13.21] Dominus autem præcedebat eos ad ostendendam viam per diem in columna nubis, et per noctem in columna ignis : ut dux esset itineris utroque tempore.
+
+[EXO.13.22] Numquam defuit columna nubis per diem, nec columna ignis per noctem, coram populo.
+
+## Exodus 14
+
+[EXO.14.1] Locutus est autem Dominus ad Moysen, dicens :
+
+[EXO.14.2] Loquere filiis Israël : Reversi castrametentur e regione Phihahiroth, quæ est inter Magdalum et mare contra Beelsephon : in conspectu ejus castra ponetis super mare.
+
+[EXO.14.3] Dicturusque est Pharao super filiis Israël : Coarctati sunt in terra ; conclusit eos desertum.
+
+[EXO.14.4] Et indurabo cor ejus, ac persequetur vos : et glorificabor in Pharaone, et in omni exercitu ejus ; scientque Ægyptii quia ego sum Dominus. Feceruntque ita.
+
+[EXO.14.5] Et nuntiatum est regi Ægyptiorum quod fugisset populus : immutatumque est cor Pharaonis et servorum ejus super populo, et dixerunt : Quid voluimus facere ut dimitteremus Israël, ne serviret nobis ?
+
+[EXO.14.6] Junxit ergo currum, et omnem populum suum assumpsit secum.
+
+[EXO.14.7] Tulitque sexcentos currus electos, et quidquid in Ægypto curruum fuit : et duces totius exercitus.
+
+[EXO.14.8] Induravitque Dominus cor Pharaonis regis Ægypti, et persecutus est filios Israël : at illi egressi sunt in manu excelsa.
+
+[EXO.14.9] Cumque persequerentur Ægyptii vestigia præcedentium, repererunt eos in castris super mare : omnis equitatus et currus Pharaonis, et universus exercitus, erant in Phihahiroth contra Beelsephon.
+
+[EXO.14.10] Cumque appropinquasset Pharao, levantes filii Israël oculos, viderunt Ægyptios post se, et timuerunt valde : clamaveruntque ad Dominum,
+
+[EXO.14.11] et dixerunt ad Moysen : Forsitan non erant sepulchra in Ægypto, ideo tulisti nos ut moreremur in solitudine : quid hoc facere voluisti, ut educeres nos ex Ægypto ?
+
+[EXO.14.12] nonne iste est sermo, quem loquebamur ad te in Ægypto, dicentes : Recede a nobis, ut serviamus Ægyptiis ? multo enim melius erat servire eis, quam mori in solitudine.
+
+[EXO.14.13] Et ait Moyses ad populum : Nolite timere : state, et videte magnalia Domini quæ facturus est hodie : Ægyptios enim, quos nunc videtis, nequaquam ultra videbitis usque in sempiternum.
+
+[EXO.14.14] Dominus pugnabit pro vobis, et vos tacebitis.
+
+[EXO.14.15] Dixitque Dominus ad Moysen : Quid clamas ad me ? loquere filiis Israël ut proficiscantur.
+
+[EXO.14.16] Tu autem eleva virgam tuam, et extende manum tuam super mare, et divide illud : ut gradiantur filii Israël in medio mari per siccum.
+
+[EXO.14.17] Ego autem indurabo cor Ægyptiorum ut persequantur vos : et glorificabor in Pharaone, et in omni exercitu ejus, et in curribus et in equitibus illius.
+
+[EXO.14.18] Et scient Ægyptii quia ego sum Dominus cum glorificatus fuero in Pharaone, et in curribus atque in equitibus ejus.
+
+[EXO.14.19] Tollensque se angelus Dei, qui præcedebat castra Israël, abiit post eos : et cum eo pariter columna nubis, priora dimittens, post tergum
+
+[EXO.14.20] stetit, inter castra Ægyptiorum et castra Israël : et erat nubes tenebrosa, et illuminans noctem, ita ut ad se invicem toto noctis tempore accedere non valerent.
+
+[EXO.14.21] Cumque extendisset Moyses manum super mare, abstulit illud Dominus flante vento vehementi et urente tota nocte, et vertit in siccum : divisaque est aqua.
+
+[EXO.14.22] Et ingressi sunt filii Israël per medium sicci maris : erat enim aqua quasi murus a dextra eorum et læva.
+
+[EXO.14.23] Persequentesque Ægyptii ingressi sunt post eos, et omnis equitatus Pharaonis, currus ejus et equites per medium maris.
+
+[EXO.14.24] Jamque advenerat vigilia matutina, et ecce respiciens Dominus super castra Ægyptiorum per columnam ignis et nubis, interfecit exercitum eorum,
+
+[EXO.14.25] et subvertit rotas curruum, ferebanturque in profundum. Dixerunt ergo Ægyptii : Fugiamus Israëlem : Dominus enim pugnat pro eis contra nos.
+
+[EXO.14.26] Et ait Dominus ad Moysen : Extende manum tuam super mare, ut revertantur aquæ ad Ægyptios super currus et equites eorum.
+
+[EXO.14.27] Cumque extendisset Moyses manum contra mare, reversum est primo diluculo ad priorem locum : fugientibusque Ægyptiis occurrerunt aquæ, et involvit eos Dominus in mediis fluctibus.
+
+[EXO.14.28] Reversæque sunt aquæ, et operuerunt currus et equites cuncti exercitus Pharaonis, qui sequentes ingressi fuerant mare : nec unus quidem superfuit ex eis.
+
+[EXO.14.29] Filii autem Israël perrexerunt per medium sicci maris, et aquæ eis erant quasi pro muro a dextris et a sinistris :
+
+[EXO.14.30] liberavitque Dominus in die illa Israël de manu Ægyptiorum.
+
+[EXO.14.31] Et viderunt Ægyptios mortuos super littus maris, et manum magnam quam exercuerat Dominus contra eos : timuitque populus Dominum, et crediderunt Domino, et Moysi servo ejus.
+
+## Exodus 15
+
+[EXO.15.1] Tunc cecinit Moyses et filii Israël carmen hoc Domino, et dixerunt : Cantemus Domino : gloriose enim magnificatus est, equum et ascensorem dejecit in mare.
+
+[EXO.15.2] Fortitudo mea, et laus mea Dominus, et factus est mihi in salutem : iste Deus meus, et glorificabo eum : Deus patris mei, et exaltabo eum.
+
+[EXO.15.3] Dominus quasi vir pugnator, Omnipotens nomen ejus,
+
+[EXO.15.4] currus Pharaonis et exercitum ejus projecit in mare : electi principes ejus submersi sunt in mari Rubro.
+
+[EXO.15.5] Abyssi operuerunt eos ; descenderunt in profundum quasi lapis.
+
+[EXO.15.6] Dextera tua, Domine, magnificata est in fortitudine : dextera tua, Domine, percussit inimicum.
+
+[EXO.15.7] Et in multitudine gloriæ tuæ deposuisti adversarios tuos : misisti iram tuam, quæ devoravit eos sicut stipulam.
+
+[EXO.15.8] Et in spiritu furoris tui congregatæ sunt aquæ : stetit unda fluens, congregata sunt abyssi in medio mari.
+
+[EXO.15.9] Dixit inimicus : Persequar et comprehendam, dividam spolia, implebitur anima mea : evaginabo gladium meum, interficiet eos manus mea.
+
+[EXO.15.10] Flavit spiritus tuus, et operuit eos mare : submersi sunt quasi plumbum in aquis vehementibus.
+
+[EXO.15.11] Quis similis tui in fortibus, Domine ? quis similis tui, magnificus in sanctitate, terribilis atque laudabilis, faciens mirabilia ?
+
+[EXO.15.12] Extendisti manum tuam, et devoravit eos terra.
+
+[EXO.15.13] Dux fuisti in misericordia tua populo quem redemisti : et portasti eum in fortitudine tua, ad habitaculum sanctum tuum.
+
+[EXO.15.14] Ascenderunt populi, et irati sunt : dolores obtinuerunt habitatores Philisthiim.
+
+[EXO.15.15] Tunc conturbati sunt principes Edom, robustos Moab obtinuit tremor : obriguerunt omnes habitatores Chanaan.
+
+[EXO.15.16] Irruat super eos formido et pavor, in magnitudine brachii tui : fiant immobiles quasi lapis, donec pertranseat populus tuus, Domine, donec pertranseat populus tuus iste, quem possedisti.
+
+[EXO.15.17] Introduces eos, et plantabis in monte hæreditatis tuæ, firmissimo habitaculo tuo quod operatus es, Domine : sanctuarium tuum, Domine, quod firmaverunt manus tuæ.
+
+[EXO.15.18] Dominus regnabit in æternum et ultra.
+
+[EXO.15.19] Ingressus est enim eques Pharao cum curribus et equitibus ejus in mare : et reduxit super eos Dominus aquas maris : filii autem Israël ambulaverunt per siccum in medio ejus.
+
+[EXO.15.20] Sumpsit ergo Maria prophetissa, soror Aaron, tympanum in manu sua : egressæque sunt omnes mulieres post eam cum tympanis et choris,
+
+[EXO.15.21] quibus præcinebat, dicens : Cantemus Domino, gloriose enim magnificatus est : equum et ascensorem ejus dejecit in mare.
+
+[EXO.15.22] Tulit autem Moyses Israël de mari Rubro, et egressi sunt in desertum Sur : ambulaveruntque tribus diebus per solitudinem, et non inveniebant aquam.
+
+[EXO.15.23] Et venerunt in Mara, nec poterant bibere aquas de Mara, eo quod essent amaræ : unde et congruum loco nomen imposuit, vocans illum Mara, id est, amaritudinem.
+
+[EXO.15.24] Et murmuravit populus contra Moysen, dicens : Quid bibemus ?
+
+[EXO.15.25] At ille clamavit ad Dominum, qui ostendit ei lignum : quod cum misisset in aquas, in dulcedinem versæ sunt : ibi constituit ei præcepta, atque judicia, et ibi tentavit eum,
+
+[EXO.15.26] dicens : Si audieris vocem Domini Dei tui, et quod rectum est coram eo feceris, et obedieris mandatis ejus, custodierisque omnia præcepta illius, cunctum languorem, quem posui in Ægypto, non inducam super te : ego enim Dominus sanator tuus.
+
+[EXO.15.27] Venerunt autem in Elim filii Israël, ubi erant duodecim fontes aquarum, et septuaginta palmæ : et castrametati sunt juxta aquas.
+
+## Exodus 16
+
+[EXO.16.1] Profectique sunt de Elim, et venit omnis multitudo filiorum Israël in desertum Sin, quod est inter Elim et Sinai, quintodecimo die mensis secundi, postquam egressi sunt de terra Ægypti.
+
+[EXO.16.2] Et murmuravit omnis congregatio filiorum Israël contra Moysen et Aaron in solitudine.
+
+[EXO.16.3] Dixeruntque filii Israël ad eos : Utinam mortui essemus per manum Domini in terra Ægypti, quando sedebamus super ollas carnium, et comedebamus panem in saturitate : cur eduxistis nos in desertum istud, ut occideretis omnem multitudinem fame ?
+
+[EXO.16.4] Dixit autem Dominus ad Moysen : Ecce ego pluam vobis panes de cælo : egrediatur populus, et colligat quæ sufficiunt per singulos dies : ut tentem eum utrum ambulet in lege mea, an non.
+
+[EXO.16.5] Die autem sexto parent quod inferant : et sit duplum quam colligere solebant per singulos dies.
+
+[EXO.16.6] Dixeruntque Moyses et Aaron ad omnes filios Israël : Vespere scietis quod Dominus eduxerit vos de terra Ægypti,
+
+[EXO.16.7] et mane videbitis gloriam Domini : audivit enim murmur vestrum contra Dominum : nos vero quid sumus, quia mussitastis contra nos ?
+
+[EXO.16.8] Et ait Moyses : Dabit vobis Dominus vespere carnes edere, et mane panes in saturitate : eo quod audierit murmurationes vestras quibus murmurati estis contra eum : nos enim quid sumus ? nec contra nos est murmur vestrum, sed contra Dominum.
+
+[EXO.16.9] Dixit quoque Moyses ad Aaron : Dic universæ congregationi filiorum Israël : Accedite coram Domino : audivit enim murmur vestrum.
+
+[EXO.16.10] Cumque loqueretur Aaron ad omnem cœtum filiorum Israël, respexerunt ad solitudinem : et ecce gloria Domini apparuit in nube.
+
+[EXO.16.11] Locutus est autem Dominus ad Moysen, dicens :
+
+[EXO.16.12] Audivi murmurationes filiorum Israël. Loquere ad eos : Vespere comedetis carnes, et mane saturabimini panibus : scietisque quod ego sum Dominus Deus vester.
+
+[EXO.16.13] Factum est ergo vespere, et ascendens coturnix, cooperuit castra : mane quoque ros jacuit per circuitum castrorum.
+
+[EXO.16.14] Cumque operuisset superficiem terræ, apparuit in solitudine minutum, et quasi pilo tusum in similitudinem pruinæ super terram.
+
+[EXO.16.15] Quod cum vidissent filii Israël, dixerunt ad invicem : Manhu ? quod significat : Quid est hoc ? ignorabant enim quid esset. Quibus ait Moyses : Iste est panis quem Dominus dedit vobis ad vescendum.
+
+[EXO.16.16] Hic est sermo, quem præcepit Dominus : Colligat unusquisque ex eo quantum sufficit ad vescendum : gomor per singula capita, juxta numerum animarum vestrarum quæ habitant in tabernaculo sic tolletis.
+
+[EXO.16.17] Feceruntque ita filii Israël : et collegerunt, alius plus, alius minus.
+
+[EXO.16.18] Et mensi sunt ad mensuram gomor : nec qui plus collegerat, habuit amplius : nec qui minus paraverat, reperit minus : sed singuli juxta id quod edere poterant, congregaverunt.
+
+[EXO.16.19] Dixitque Moyses ad eos : Nullus relinquat ex eo in mane.
+
+[EXO.16.20] Qui non audierunt eum, sed dimiserunt quidam ex eis usque mane, et scatere cœpit vermibus, atque computruit : et iratus est contra eos Moyses.
+
+[EXO.16.21] Colligebant autem mane singuli, quantum sufficere poterat ad vescendum : cumque incaluisset sol, liquefiebat.
+
+[EXO.16.22] In die autem sexta collegerunt cibos duplices, id est, duo gomor per singulos homines : venerunt autem omnes principes multitudinis, et narraverunt Moysi.
+
+[EXO.16.23] Qui ait eis : Hoc est quod locutus est Dominus : Requies sabbati sanctificata est Domino cras : quodcumque operandum est, facite, et quæ coquenda sunt coquite : quidquid autem reliquum fuerit, reponite usque in mane.
+
+[EXO.16.24] Feceruntque ita ut præceperat Moyses, et non computruit, neque vermis inventus est in eo.
+
+[EXO.16.25] Dixitque Moyses : Comedite illud hodie, quia sabbatum est Domini : non invenietur hodie in agro.
+
+[EXO.16.26] Sex diebus colligite : in die autem septimo sabbatum est Domini, idcirco non invenietur.
+
+[EXO.16.27] Venitque septima dies : et egressi de populo ut colligerent, non invenerunt.
+
+[EXO.16.28] Dixit autem Dominus ad Moysen : Usquequo non vultis custodire mandata mea et legem meam ?
+
+[EXO.16.29] videte quod Dominus dederit vobis sabbatum, et propter hoc die sexta tribuit vobis cibos duplices : maneat unusquisque apud semetipsum ; nullus egrediatur de loco suo die septimo.
+
+[EXO.16.30] Et sabbatizavit populus die septimo.
+
+[EXO.16.31] Appellavitque domus Israël nomen ejus Man : quod erat quasi semen coriandri album, gustusque ejus quasi similæ cum melle.
+
+[EXO.16.32] Dixit autem Moyses : Iste est sermo, quem præcepit Dominus : Imple gomor ex eo, et custodiatur in futuras retro generationes : ut noverint panem, quo alui vos in solitudine, quando educti estis de terra Ægypti.
+
+[EXO.16.33] Dixitque Moyses ad Aaron : Sume vas unum, et mitte ibi man, quantum potest capere gomor, et repone coram Domino ad servandum in generationes vestras,
+
+[EXO.16.34] sicut præcepit Dominus Moysi. Posuitque illud Aaron in tabernaculo reservandum.
+
+[EXO.16.35] Filii autem Israël comederunt man quadraginta annis, donec venirent in terram habitabilem : hoc cibo aliti sunt, usquequo tangerent fines terræ Chanaan.
+
+[EXO.16.36] Gomor autem decima pars est ephi.
+
+## Exodus 17
+
+[EXO.17.1] Igitur profecta omnis multitudo filiorum Israël de deserto Sin per mansiones suas, juxta sermonem Domini, castrametati sunt in Raphidim, ubi non erat aqua ad bibendum populo.
+
+[EXO.17.2] Qui jurgatus contra Moysen, ait : Da nobis aquam, ut bibamus. Quibus respondit Moyses : Quid jurgamini contra me ? cur tentatis Dominum ?
+
+[EXO.17.3] Sitivit ergo ibi populus præ aquæ penuria, et murmuravit contra Moysen, dicens : Cur fecisti nos exire de Ægypto, ut occideres nos, et liberos nostros, ac jumenta siti ?
+
+[EXO.17.4] Clamavit autem Moyses ad Dominum, dicens : Quid faciam populo huic ? adhuc paululum, et lapidabit me.
+
+[EXO.17.5] Et ait Dominus ad Moysen : Antecede populum, et sume tecum de senioribus Israël : et virgam qua percussisti fluvium, tolle in manu tua, et vade.
+
+[EXO.17.6] En ego stabo ibi coram te, supra petram Horeb : percutiesque petram, et exibit ex ea aqua, ut bibat populus. Fecit Moyses ita coram senioribus Israël :
+
+[EXO.17.7] et vocavit nomen loci illius, Tentatio, propter jurgium filiorum Israël, et quia tentaverunt Dominum, dicentes : Estne Dominus in nobis, an non ?
+
+[EXO.17.8] Venit autem Amalec, et pugnabat contra Israël in Raphidim.
+
+[EXO.17.9] Dixitque Moyses ad Josue : Elige viros : et egressus, pugna contra Amalec : cras ego stabo in vertice collis, habens virgam Dei in manu mea.
+
+[EXO.17.10] Fecit Josue ut locutus erat Moyses, et pugnavit contra Amalec : Moyses autem et Aaron et Hur ascenderunt super verticem collis.
+
+[EXO.17.11] Cumque levaret Moyses manus, vincebat Israël : sin autem paululum remisisset, superabat Amalec.
+
+[EXO.17.12] Manus autem Moysi erant graves : sumentes igitur lapidem, posuerunt subter eum, in quo sedit : Aaron autem et Hur sustentabant manus ejus ex utraque parte. Et factum est ut manus illius non lassarentur usque ad occasum solis.
+
+[EXO.17.13] Fugavitque Josue Amalec, et populum ejus in ore gladii.
+
+[EXO.17.14] Dixit autem Dominus ad Moysen : Scribe hoc ob monimentum in libro, et trade auribus Josue : delebo enim memoriam Amalec sub cælo.
+
+[EXO.17.15] Ædificavitque Moyses altare : et vocavit nomen ejus, Dominus exaltatio mea, dicens :
+
+[EXO.17.16] Quia manus solii Domini, et bellum Domini erit contra Amalec, a generatione in generationem.
+
+## Exodus 18
+
+[EXO.18.1] Cumque audisset Jethro, sacerdos Madian, cognatus Moysi, omnia quæ fecerat Deus Moysi, et Israëli populo suo, et quod eduxisset Dominus Israël de Ægypto,
+
+[EXO.18.2] tulit Sephoram uxorem Moysi quam remiserat,
+
+[EXO.18.3] et duos filios ejus : quorum unus vocabatur Gersam, dicente patre : Advena fui in terra aliena ;
+
+[EXO.18.4] alter vero Eliezer : Deus enim, ait, patris mei adjutor meus, et eruit me de gladio Pharaonis.
+
+[EXO.18.5] Venit ergo Jethro cognatus Moysi, et filii ejus, et uxor ejus ad Moysen in desertum, ubi erat castrametatus juxta montem Dei.
+
+[EXO.18.6] Et mandavit Moysi, dicens : Ego Jethro cognatus tuus venio ad te, et uxor tua, et duo filii cum ea.
+
+[EXO.18.7] Qui egressus in occursum cognati sui, adoravit, et osculatus est eum : salutaveruntque se mutuo verbis pacificis. Cumque intrasset tabernaculum,
+
+[EXO.18.8] narravit Moyses cognato suo cuncta quæ fecerat Dominus Pharaoni et Ægyptiis propter Israël : universumque laborem, qui accidisset eis in itinere, et quod liberaverat eos Dominus.
+
+[EXO.18.9] Lætatusque est Jethro super omnibus bonis, quæ fecerat Dominus Israëli, eo quod eruisset eum de manu Ægyptiorum.
+
+[EXO.18.10] Et ait : Benedictus Dominus, qui liberavit vos de manu Ægyptiorum, et de manu Pharaonis ; qui eruit populum suum de manu Ægypti.
+
+[EXO.18.11] Nunc cognovi, quia magnus Dominus super omnes deos : eo quod superbe egerint contra illos.
+
+[EXO.18.12] Obtulit ergo Jethro cognatus Moysi holocausta et hostias Deo : veneruntque Aaron et omnes seniores Israël, ut comederent panem cum eo coram Deo.
+
+[EXO.18.13] Altera autem die sedit Moyses ut judicaret populum, qui assistebat Moysi a mane usque ad vesperam.
+
+[EXO.18.14] Quod cum vidisset cognatus ejus, omnia scilicet quæ agebat in populo, ait : Quid est hoc quod facis in plebe ? cur solus sedes, et omnis populus præstolatur de mane usque ad vesperam ?
+
+[EXO.18.15] Cui respondit Moyses : Venit ad me populus quærens sententiam Dei :
+
+[EXO.18.16] cumque acciderit eis aliqua disceptatio, veniunt ad me ut judicem inter eos, et ostendam præcepta Dei, et leges ejus.
+
+[EXO.18.17] At ille : Non bonam, inquit, rem facis.
+
+[EXO.18.18] Stulto labore consumeris et tu, et populus iste qui tecum est : ultra vires tuas est negotium ; solus illud non poteris sustinere.
+
+[EXO.18.19] Sed audi verba mea atque consilia, et erit Deus tecum. Esto tu populo in his quæ ad Deum pertinent, ut referas quæ dicuntur ad eum :
+
+[EXO.18.20] ostendasque populo cæremonias et ritum colendi, viamque per quam ingredi debeant, et opus quod facere debeant.
+
+[EXO.18.21] Provide autem de omni plebe viros potentes, et timentes Deum, in quibus sit veritas, et qui oderint avaritiam, et constitue ex eis tribunos, et centuriones, et quinquagenarios, et decanos,
+
+[EXO.18.22] qui judicent populum omni tempore : quidquid autem majus fuerit, referant ad te, et ipsi minora tantummodo judicent : leviusque sit tibi, partito in alios onere.
+
+[EXO.18.23] Si hoc feceris, implebis imperium Dei, et præcepta ejus poteris sustentare : et omnis hic populus revertetur ad loca sua cum pace.
+
+[EXO.18.24] Quibus auditis, Moyses fecit omnia quæ ille suggesserat.
+
+[EXO.18.25] Et electis viris strenuis de cuncto Israël, constituit eos principes populi, tribunos, et centuriones, et quinquagenarios, et decanos.
+
+[EXO.18.26] Qui judicabant plebem omni tempore : quidquid autem gravius erat, referebant ad eum, faciliora tantummodo judicantes.
+
+[EXO.18.27] Dimisitque cognatum suum : qui reversus abiit in terram suam.
+
+## Exodus 19
+
+[EXO.19.1] Mense tertio egressionis Israël de terra Ægypti, in die hac venerunt in solitudinem Sinai.
+
+[EXO.19.2] Nam profecti de Raphidim, et pervenientes usque in desertum Sinai, castrametati sunt in eodem loco, ibique Israël fixit tentoria e regione montis.
+
+[EXO.19.3] Moyses autem ascendit ad Deum : vocavitque eum Dominus de monte, et ait : Hæc dices domui Jacob, et annuntiabis filiis Israël :
+
+[EXO.19.4] Vos ipsi vidistis quæ fecerim Ægyptiis, quomodo portaverim vos super alas aquilarum, et assumpserim mihi.
+
+[EXO.19.5] Si ergo audieritis vocem meam, et custodieritis pactum meum, eritis mihi in peculium de cunctis populis : mea est enim omnis terra :
+
+[EXO.19.6] et vos eritis mihi in regnum sacerdotale, et gens sancta. Hæc sunt verba quæ loqueris ad filios Israël.
+
+[EXO.19.7] Venit Moyses : et convocatis majoribus natu populi, exposuit omnes sermones quos mandaverat Dominus.
+
+[EXO.19.8] Responditque omnis populus simul : Cuncta quæ locutus est Dominus, faciemus. Cumque retulisset Moyses verba populi ad Dominum,
+
+[EXO.19.9] ait ei Dominus : Jam nunc veniam ad te in caligine nubis, ut audiat me populus loquentem ad te, et credat tibi in perpetuum. Nuntiavit ergo Moyses verba populi ad Dominum.
+
+[EXO.19.10] Qui dixit ei : Vade ad populum, et sanctifica illos hodie, et cras, laventque vestimenta sua.
+
+[EXO.19.11] Et sint parati in diem tertium : in die enim tertia descendet Dominus coram omni plebe super montem Sinai.
+
+[EXO.19.12] Constituesque terminos populo per circuitum, et dices ad eos : Cavete ne ascendatis in montem, nec tangatis fines illius : omnis qui tetigerit montem, morte morietur.
+
+[EXO.19.13] Manus non tanget eum, sed lapidibus opprimetur, aut confodietur jaculis : sive jumentum fuerit, sive homo, non vivet : cum cœperit clangere buccina, tunc ascendant in montem.
+
+[EXO.19.14] Descenditque Moyses de monte ad populum, et sanctificavit eum. Cumque lavissent vestimenta sua,
+
+[EXO.19.15] ait ad eos : Estote parati in diem tertium, et ne appropinquetis uxoribus vestris.
+
+[EXO.19.16] Jamque advenerat tertius dies, et mane inclaruerat : et ecce cœperunt audiri tonitrua, ac micare fulgura, et nubes densissima operire montem, clangorque buccinæ vehementius perstrepebat : et timuit populus qui erat in castris.
+
+[EXO.19.17] Cumque eduxisset eos Moyses in occursum Dei de loco castrorum, steterunt ad radices montis.
+
+[EXO.19.18] Totus autem mons Sinai fumabat, eo quod descendisset Dominus super eum in igne : et ascenderet fumus ex eo quasi de fornace, eratque omnis mons terribilis.
+
+[EXO.19.19] Et sonitus buccinæ paulatim crescebat in majus, et prolixius tendebatur : Moyses loquebatur, et Deus respondebat ei.
+
+[EXO.19.20] Descenditque Dominus super montem Sinai in ipso montis vertice, et vocavit Moysen in cacumen ejus. Quo cum ascendisset,
+
+[EXO.19.21] dixit ad eum : Descende, et contestare populum : ne forte velit transcendere terminos ad videndum Dominum, et pereat ex eis plurima multitudo.
+
+[EXO.19.22] Sacerdotes quoque qui accedunt ad Dominum, sanctificentur, ne percutiat eos.
+
+[EXO.19.23] Dixitque Moyses ad Dominum : Non poterit vulgus ascendere in montem Sinai : tu enim testificatus es, et jussisti, dicens : Pone terminos circa montem, et sanctifica illum.
+
+[EXO.19.24] Cui ait Dominus : Vade, descende : ascendesque tu, et Aaron tecum : sacerdotes autem et populus ne transeant terminos, nec ascendant ad Dominum, ne forte interficiat illos.
+
+[EXO.19.25] Descenditque Moyses ad populum, et omnia narravit eis.
+
+## Exodus 20
+
+[EXO.20.1] Locutusque est Dominus cunctos sermones hos :
+
+[EXO.20.2] Ego sum Dominus Deus tuus, qui eduxi te de terra Ægypti, de domo servitutis.
+
+[EXO.20.3] Non habebis deos alienos coram me.
+
+[EXO.20.4] Non facies tibi sculptile, neque omnem similitudinem quæ est in cælo desuper, et quæ in terra deorsum, nec eorum quæ sunt in aquis sub terra.
+
+[EXO.20.5] Non adorabis ea, neque coles : ego sum Dominus Deus tuus fortis, zelotes, visitans iniquitatem patrum in filios, in tertiam et quartam generationem eorum qui oderunt me :
+
+[EXO.20.6] et faciens misericordiam in millia his qui diligunt me, et custodiunt præcepta mea.
+
+[EXO.20.7] Non assumes nomen Domini Dei tui in vanum : nec enim habebit insontem Dominus eum qui assumpserit nomen Domini Dei sui frustra.
+
+[EXO.20.8] Memento ut diem sabbati sanctifices.
+
+[EXO.20.9] Sex diebus operaberis, et facies omnia opera tua.
+
+[EXO.20.10] Septimo autem die sabbatum Domini Dei tui est : non facies omne opus in eo, tu, et filius tuus et filia tua, servus tuus et ancilla tua, jumentum tuum, et advena qui est intra portas tuas.
+
+[EXO.20.11] Sex enim diebus fecit Dominus cælum et terram, et mare, et omnia quæ in eis sunt, et requievit in die septimo : idcirco benedixit Dominus diei sabbati, et sanctificavit eum.
+
+[EXO.20.12] Honora patrem tuum et matrem tuam, ut sis longævus super terram, quam Dominus Deus tuus dabit tibi.
+
+[EXO.20.13] Non occides.
+
+[EXO.20.14] Non mœchaberis.
+
+[EXO.20.15] Non furtum facies.
+
+[EXO.20.16] Non loqueris contra proximum tuum falsum testimonium.
+
+[EXO.20.17] Non concupisces domum proximi tui, nec desiderabis uxorem ejus, non servum, non ancillam, non bovem, non asinum, nec omnia quæ illius sunt.
+
+[EXO.20.18] Cunctus autem populus videbat voces et lampades, et sonitum buccinæ, montemque fumantem : et perterriti ac pavore concussi, steterunt procul,
+
+[EXO.20.19] dicentes Moysi : Loquere tu nobis, et audiemus : non loquatur nobis Dominus, ne forte moriamur.
+
+[EXO.20.20] Et ait Moyses ad populum : Nolite timere : ut enim probaret vos venit Deus, et ut terror illius esset in vobis, et non peccaretis.
+
+[EXO.20.21] Stetitque populus de longe. Moyses autem accessit ad caliginem in qua erat Deus.
+
+[EXO.20.22] Dixit præterea Dominus ad Moysen : Hæc dices filiis Israël : Vos vidistis quod de cælo locutus sim vobis.
+
+[EXO.20.23] Non facietis deos argenteos, nec deos aureos facietis vobis.
+
+[EXO.20.24] Altare de terra facietis mihi, et offeretis super eo holocausta et pacifica vestra, oves vestras et boves in omni loco in quo memoria fuerit nominis mei : veniam ad te, et benedicam tibi.
+
+[EXO.20.25] Quod si altare lapideum feceris mihi, non ædificabis illud de sectis lapidibus : si enim levaveris cultrum super eo, polluetur.
+
+[EXO.20.26] Non ascendes per gradus ad altare meum, ne reveletur turpitudo tua.
+
+## Exodus 21
+
+[EXO.21.1] Hæc sunt judicia quæ propones eis.
+
+[EXO.21.2] Si emeris servum hebræum, sex annis serviet tibi : in septimo egredietur liber gratis.
+
+[EXO.21.3] Cum quali veste intraverit, cum tali exeat : si habens uxorem, et uxor egredietur simul.
+
+[EXO.21.4] Sin autem dominus dederit illi uxorem, et pepererit filios et filias : mulier et liberi ejus erunt domini sui, ipse vero exibit cum vestitu suo.
+
+[EXO.21.5] Quod si dixerit servus : Diligo dominum meum et uxorem ac liberos ; non egrediar liber :
+
+[EXO.21.6] offeret eum dominus diis, et applicabitur ad ostium et postes, perforabitque aurem ejus subula : et erit ei servus in sæculum.
+
+[EXO.21.7] Si quis vendiderit filiam suam in famulam, non egredietur sicut ancillæ exire consueverunt.
+
+[EXO.21.8] Si displicuerit oculis domini sui cui tradita fuerat, dimittet eam : populo autem alieno vendendi non habebit potestatem, si spreverit eam.
+
+[EXO.21.9] Sin autem filio suo desponderit eam, juxta morem filiarum faciet illi.
+
+[EXO.21.10] Quod si alteram ei acceperit, providebit puellæ nuptias, et vestimenta, et pretium pudicitiæ non negabit.
+
+[EXO.21.11] Si tria ista non fecerit, egredietur gratis absque pecunia.
+
+[EXO.21.12] Qui percusserit hominem volens occidere, morte moriatur.
+
+[EXO.21.13] Qui autem non est insidiatus, sed Deus illum tradidit in manus ejus, constituam tibi locum in quem fugere debeat.
+
+[EXO.21.14] Si quis per industriam occiderit proximum suum, et per insidias : ab altari meo evelles eum, ut moriatur.
+
+[EXO.21.15] Qui percusserit patrem suum aut matrem, morte moriatur.
+
+[EXO.21.16] Qui furatus fuerit hominem, et vendiderit eum, convictus noxæ, morte moriatur.
+
+[EXO.21.17] Qui maledixerit patri suo, vel matri, morte moriatur.
+
+[EXO.21.18] Si rixati fuerint viri, et percusserit alter proximum suum lapide vel pugno, et ille mortuus non fuerit, sed jacuerit in lectulo :
+
+[EXO.21.19] si surrexerit, et ambulaverit foris super baculum suum, innocens erit qui percusserit, ita tamen ut operas ejus et impensas in medicos restituat.
+
+[EXO.21.20] Qui percusserit servum suum, vel ancillam virga, et mortui fuerint in manibus ejus, criminis reus erit.
+
+[EXO.21.21] Sin autem uno die vel duobus supervixerit, non subjacebit pœnæ, quia pecunia illius est.
+
+[EXO.21.22] Si rixati fuerint viri, et percusserit quis mulierem prægnantem, et abortivum quidem fecerit, sed ipsa vixerit : subjacebit damno quantum maritus mulieris expetierit, et arbitri judicaverint.
+
+[EXO.21.23] Sin autem mors ejus fuerit subsecuta, reddet animam pro anima,
+
+[EXO.21.24] oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede,
+
+[EXO.21.25] adustionem pro adustione, vulnus pro vulnere, livorem pro livore.
+
+[EXO.21.26] Si percusserit quispiam oculum servi sui aut ancillæ, et luscos eos fecerit, dimittet eos liberos pro oculo quem eruit.
+
+[EXO.21.27] Dentem quoque si excusserit servo vel ancillæ suæ, similiter dimittet eos liberos.
+
+[EXO.21.28] Si bos cornu percusserit virum aut mulierem, et mortui fuerint, lapidibus obruetur : et non comedentur carnes ejus, dominus quoque bovis innocens erit.
+
+[EXO.21.29] Quod si bos cornupeta fuerit ab heri et nudiustertius, et contestati sunt dominum ejus, nec recluserit eum, occideritque virum aut mulierem : et bos lapidibus obruetur, et dominum ejus occident.
+
+[EXO.21.30] Quod si pretium fuerit ei impositum, dabit pro anima sua quidquid fuerit postulatus.
+
+[EXO.21.31] Filium quoque et filiam si cornu percusserit, simili sententiæ subjacebit.
+
+[EXO.21.32] Si servum ancillamque invaserit, triginta siclos argenti domino dabit, bos vero lapidibus opprimetur.
+
+[EXO.21.33] Si quis aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos aut asinus in eam,
+
+[EXO.21.34] reddet dominus cisternæ pretium jumentorum : quod autem mortuum est, ipsius erit.
+
+[EXO.21.35] Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit : vendent bovem vivum, et divident pretium, cadaver autem mortui inter se dispertient.
+
+[EXO.21.36] Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum dominus suus : reddet bovem pro bove, et cadaver integrum accipiet.
+
+## Exodus 22
+
+[EXO.22.1] Si quis furatus fuerit bovem aut ovem, et occiderit vel vendiderit : quinque boves pro uno bove restituet, et quatuor oves pro una ove.
+
+[EXO.22.2] Si effringens fur domum sive suffodiens fuerit inventus, et accepto vulnere mortuus fuerit, percussor non erit reus sanguinis.
+
+[EXO.22.3] Quod si orto sole hoc fecerit, homicidium perpetravit, et ipse morietur. Si non habuerit quod pro furto reddat, ipse venundabitur.
+
+[EXO.22.4] Si inventum fuerit apud eum quod furatus est, vivens : sive bos, sive asinus, sive ovis, duplum restituet.
+
+[EXO.22.5] Si læserit quispiam agrum vel vineam, et dimiserit jumentum suum ut depascatur aliena : quidquid optimum habuerit in agro suo, vel in vinea, pro damni æstimatione restituet.
+
+[EXO.22.6] Si egressus ignis invenerit spinas, et comprehenderit acervos frugum, sive stantes segetes in agris, reddet damnum qui ignem succenderit.
+
+[EXO.22.7] Si quis commendaverit amico pecuniam aut vas in custodiam, et ab eo, qui susceperat, furto ablata fuerint : si invenitur fur, duplum reddet :
+
+[EXO.22.8] si latet fur, dominus domus applicabitur ad deos, et jurabit quod non extenderit manum in rem proximi sui,
+
+[EXO.22.9] ad perpetrandam fraudem, tam in bove quam in asino, et ove ac vestimento, et quidquid damnum inferre potest : ad deos utriusque causa perveniet, et si illi judicaverint, duplum restituet proximo suo.
+
+[EXO.22.10] Si quis commendaverit proximo suo asinum, bovem, ovem, et omne jumentum ad custodiam, et mortuum fuerit, aut debilitatum, vel captum ab hostibus, nullusque hoc viderit :
+
+[EXO.22.11] jusjurandum erit in medio, quod non extenderit manum ad rem proximi sui : suscipietque dominus juramentum, et ille reddere non cogetur.
+
+[EXO.22.12] Quod si furto ablatum fuerit, restituet damnum domino ;
+
+[EXO.22.13] si comestum a bestia, deferat ad eum quod occisum est, et non restituet.
+
+[EXO.22.14] Qui a proximo suo quidquam horum mutuo postulaverit, et debilitatum aut mortuum fuerit domino non præsente, reddere compelletur.
+
+[EXO.22.15] Quod si impræsentiarum dominus fuerit, non restituet, maxime si conductum venerat pro mercede operis sui.
+
+[EXO.22.16] Si seduxerit quis virginem necdum desponsatam, dormieritque cum ea : dotabit eam, et habebit eam uxorem.
+
+[EXO.22.17] Si pater virginis dare noluerit, reddet pecuniam juxta modum dotis, quam virgines accipere consueverunt.
+
+[EXO.22.18] Maleficos non patieris vivere.
+
+[EXO.22.19] Qui coierit cum jumento, morte moriatur.
+
+[EXO.22.20] Qui immolat diis, occidetur, præterquam Domino soli.
+
+[EXO.22.21] Advenam non contristabis, neque affliges eum : advenæ enim et ipsi fuistis in terra Ægypti.
+
+[EXO.22.22] Viduæ et pupillo non nocebitis.
+
+[EXO.22.23] Si læseritis eos, vociferabuntur ad me, et ego audiam clamorem eorum :
+
+[EXO.22.24] et indignabitur furor meus, percutiamque vos gladio, et erunt uxores vestræ viduæ, et filii vestri pupilli.
+
+[EXO.22.25] Si pecuniam mutuam dederis populo meo pauperi qui habitat tecum, non urgebis eum quasi exactor, nec usuris opprimes.
+
+[EXO.22.26] Si pignus a proximo tuo acceperis vestimentum, ante solis occasum reddes ei.
+
+[EXO.22.27] Ipsum enim est solum, quo operitur, indumentum carnis ejus, nec habet aliud in quo dormiat : si clamaverit ad me, exaudiam eum, quia misericors sum.
+
+[EXO.22.28] Diis non detrahes, et principi populi tui non maledices.
+
+[EXO.22.29] Decimas tuas et primitias tuas non tardabis reddere : primogenitum filiorum tuorum dabis mihi.
+
+[EXO.22.30] De bobus quoque, et ovibus similiter facies : septem diebus sit cum matre sua, die octava reddes illum mihi.
+
+[EXO.22.31] Viri sancti eritis mihi : carnem, quæ a bestiis fuerit prægustata, non comedetis, sed projicietis canibus.
+
+## Exodus 23
+
+[EXO.23.1] Non suscipies vocem mendacii, nec junges manum tuam ut pro impio dicas falsum testimonium.
+
+[EXO.23.2] Non sequeris turbam ad faciendum malum : nec in judicio, plurimorum acquiesces sententiæ, ut a vero devies.
+
+[EXO.23.3] Pauperis quoque non misereberis in judicio.
+
+[EXO.23.4] Si occurreris bovi inimici tui, aut asino erranti, reduc ad eum.
+
+[EXO.23.5] Si videris asinum odientis te jacere sub onere, non pertransibis, sed sublevabis cum eo.
+
+[EXO.23.6] Non declinabis in judicium pauperis.
+
+[EXO.23.7] Mendacium fugies. Insontem et justum non occides : quia aversor impium.
+
+[EXO.23.8] Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justorum.
+
+[EXO.23.9] Peregrino molestus non eris. Scitis enim advenarum animas : quia et ipsi peregrini fuistis in terra Ægypti.
+
+[EXO.23.10] Sex annis seminabis terram tuam, et congregabis fruges ejus :
+
+[EXO.23.11] anno autem septimo dimittes eam, et requiescere facies, ut comedant pauperes populi tui : et quidquid reliquum fuerit, edant bestiæ agri : ita facies in vinea et in oliveto tuo.
+
+[EXO.23.12] Sex diebus operaberis : septimo die cessabis, ut requiescat bos et asinus tuus, et refrigeretur filius ancillæ tuæ, et advena.
+
+[EXO.23.13] Omnia quæ dixi vobis, custodite. Et per nomen externorum deorum non jurabitis, neque audietur ex ore vestro.
+
+[EXO.23.14] Tribus vicibus per singulos annos mihi festa celebrabitis.
+
+[EXO.23.15] Solemnitatem azymorum custodies. Septem diebus comedes azyma, sicut præcepi tibi, tempore mensis novorum, quando egressus es de Ægypto : non apparebis in conspectu meo vacuus.
+
+[EXO.23.16] Et solemnitatem messis primitivorum operis tui, quæcumque seminaveris in agro : solemnitatem quoque in exitu anni, quando congregaveris omnes fruges tuas de agro.
+
+[EXO.23.17] Ter in anno apparebit omne masculinum tuum coram Domino Deo tuo.
+
+[EXO.23.18] Non immolabis super fermento sanguinem victimæ meæ, nec remanebit adeps solemnitatis meæ usque mane.
+
+[EXO.23.19] Primitias frugum terræ tuæ deferes in domum Domini Dei tui. Non coques hædum in lacte matris suæ.
+
+[EXO.23.20] Ecce ego mittam angelum meum, qui præcedat te, et custodiat in via, et introducat in locum quem paravi.
+
+[EXO.23.21] Observa eum, et audi vocem ejus, nec contemnendum putes : quia non dimittet cum peccaveris, et est nomen meum in illo.
+
+[EXO.23.22] Quod si audieris vocem ejus, et feceris omnia quæ loquor, inimicus ero inimicis tuis, et affligam affligentes te.
+
+[EXO.23.23] Præcedetque te angelus meus, et introducet te ad Amorrhæum, et Hethæum, et Pherezæum, Chananæumque, et Hevæum, et Jebusæum, quos ego conteram.
+
+[EXO.23.24] Non adorabis deos eorum, nec coles eos : non facies opera eorum, sed destrues eos, et confringes statuas eorum.
+
+[EXO.23.25] Servietisque Domino Deo vestro, ut benedicam panibus tuis et aquis, et auferam infirmitatem de medio tui.
+
+[EXO.23.26] Non erit infœcunda, nec sterilis in terra tua : numerum dierum tuorum implebo.
+
+[EXO.23.27] Terrorem meum mittam in præcursum tuum, et occidam omnem populum, ad quem ingredieris : cunctorumque inimicorum tuorum coram te terga vertam :
+
+[EXO.23.28] emittens crabrones prius, qui fugabunt Hevæum, et Chananæum, et Hethæum, antequam introëas.
+
+[EXO.23.29] Non ejiciam eos a facie tua anno uno : ne terra in solitudinem redigatur, et crescant contra te bestiæ.
+
+[EXO.23.30] Paulatim expellam eos de conspectu tuo, donec augearis, et possideas terram.
+
+[EXO.23.31] Ponam autem terminos tuos a mari Rubro usque ad mare Palæstinorum, et a deserto usque ad fluvium : tradam in manibus vestris habitatores terræ, et ejiciam eos de conspectu vestro.
+
+[EXO.23.32] Non inibis cum eis fœdus, nec cum diis eorum.
+
+[EXO.23.33] Non habitent in terra tua, ne forte peccare te faciant in me, si servieris diis eorum : quod tibi certe erit in scandalum.
+
+## Exodus 24
+
+[EXO.24.1] Moysi quoque dixit : Ascende ad Dominum tu, et Aaron, Nadab et Abiu, et septuaginta senes ex Israël, et adorabitis procul.
+
+[EXO.24.2] Solusque Moyses ascendet ad Dominum, et illi non appropinquabunt : nec populus ascendet cum eo.
+
+[EXO.24.3] Venit ergo Moyses et narravit plebi omnia verba Domini, atque judicia : responditque omnis populus una voce : Omnia verba Domini, quæ locutus est, faciemus.
+
+[EXO.24.4] Scripsit autem Moyses universos sermones Domini : et mane consurgens, ædificavit altare ad radices montis, et duodecim titulos per duodecim tribus Israël.
+
+[EXO.24.5] Misitque juvenes de filiis Israël, et obtulerunt holocausta, immolaveruntque victimas pacificas Domino, vitulos.
+
+[EXO.24.6] Tulit itaque Moyses dimidiam partem sanguinis, et misit in crateras : partem autem residuam fudit super altare.
+
+[EXO.24.7] Assumensque volumen fœderis, legit audiente populo : qui dixerunt : Omnia quæ locutus est Dominus, faciemus, et erimus obedientes.
+
+[EXO.24.8] Ille vero sumptum sanguinem respersit in populum, et ait : Hic est sanguis fœderis quod pepigit Dominus vobiscum super cunctis sermonibus his.
+
+[EXO.24.9] Ascenderuntque Moyses et Aaron, Nadab et Abiu, et septuaginta de senioribus Israël :
+
+[EXO.24.10] et viderunt Deum Israël : et sub pedibus ejus quasi opus lapidis sapphirini, et quasi cælum, cum serenum est.
+
+[EXO.24.11] Nec super eos qui procul recesserant de filiis Israël, misit manum suam, videruntque Deum, et comederunt, ac biberunt.
+
+[EXO.24.12] Dixit autem Dominus ad Moysen : Ascende ad me in montem, et esto ibi : daboque tibi tabulas lapideas, et legem, ac mandata quæ scripsi : ut doceas eos.
+
+[EXO.24.13] Surrexerunt Moyses et Josue minister ejus : ascendensque Moyses in montem Dei,
+
+[EXO.24.14] senioribus ait : Expectate hic donec revertamur ad vos. Habetis Aaron et Hur vobiscum : si quid natum fuerit quæstionis, referetis ad eos.
+
+[EXO.24.15] Cumque ascendisset Moyses, operuit nubes montem,
+
+[EXO.24.16] et habitavit gloria Domini super Sinai, tegens illum nube sex diebus : septimo autem die vocavit eum de medio caliginis.
+
+[EXO.24.17] Erat autem species gloriæ Domini quasi ignis ardens super verticem montis in conspectu filiorum Israël.
+
+[EXO.24.18] Ingressusque Moyses medium nebulæ, ascendit in montem : et fuit ibi quadraginta diebus, et quadraginta noctibus.
+
+## Exodus 25
+
+[EXO.25.1] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.25.2] Loquere filiis Israël, ut tollant mihi primitias : ab omni homine qui offeret ultroneus, accipietis eas.
+
+[EXO.25.3] Hæc sunt autem quæ accipere debeatis : aurum, et argentum, et æs,
+
+[EXO.25.4] hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum,
+
+[EXO.25.5] et pelles arietum rubricatas, pellesque janthinas, et ligna setim :
+
+[EXO.25.6] oleum ad luminaria concinnanda : aromata in unguentum, et thymiamata boni odoris :
+
+[EXO.25.7] lapides onychinos, et gemmas ad ornandum ephod, ac rationale.
+
+[EXO.25.8] Facientque mihi sanctuarium, et habitabo in medio eorum :
+
+[EXO.25.9] juxta omnem similitudinem tabernaculi quod ostendam tibi, et omnium vasorum in cultum ejus. Sicque facietis illud :
+
+[EXO.25.10] arcam de lignis setim compingite, cujus longitudo habeat duos et semis cubitos : latitudo, cubitum et dimidium : altitudo, cubitum similiter ac semissem.
+
+[EXO.25.11] Et deaurabis eam auro mundissimo intus et foris : faciesque supra, coronam auream per circuitum :
+
+[EXO.25.12] et quatuor circulos aureos, quos pones per quatuor arcæ angulos : duo circuli sint in latere uno, et duo in altero.
+
+[EXO.25.13] Facies quoque vectes de lignis setim, et operies eos auro.
+
+[EXO.25.14] Inducesque per circulos qui sunt in arcæ lateribus, ut portetur in eis :
+
+[EXO.25.15] qui semper erunt in circulis, nec umquam extrahentur ab eis.
+
+[EXO.25.16] Ponesque in arca testificationem quam dabo tibi.
+
+[EXO.25.17] Facies et propitiatorium de auro mundissimo : duos cubitos et dimidium tenebit longitudo ejus, et cubitum ac semissem latitudo.
+
+[EXO.25.18] Duos quoque cherubim aureos et productiles facies, ex utraque parte oraculi.
+
+[EXO.25.19] Cherub unus sit in latere uno, et alter in altero.
+
+[EXO.25.20] Utrumque latus propitiatorii tegant expandentes alas, et operientes oraculum, respiciantque se mutuo versis vultibus in propitiatorium quo operienda est arca,
+
+[EXO.25.21] in qua pones testimonium quod dabo tibi.
+
+[EXO.25.22] Inde præcipiam, et loquar ad te supra propitiatorium, ac de medio duorum cherubim, qui erunt super arcam testimonii, cuncta quæ mandabo per te filiis Israël.
+
+[EXO.25.23] Facies et mensam de lignis setim, habentem duos cubitos longitudinis, et in latitudine cubitum, et in altitudine cubitum et semissem.
+
+[EXO.25.24] Et inaurabis eam auro purissimo : faciesque illi labium aureum per circuitum,
+
+[EXO.25.25] et ipsi labio coronam interrasilem altam quatuor digitis : et super illam, alteram coronam aureolam.
+
+[EXO.25.26] Quatuor quoque circulos aureos præparabis, et pones eis in quatuor angulis ejusdem mensæ per singulos pedes.
+
+[EXO.25.27] Subter coronam erunt circuli aurei, ut mittantur vectes per eos, et possit mensa portari.
+
+[EXO.25.28] Ipsos quoque vectes facies de lignis setim, et circumdabis auro ad subvehendam mensam.
+
+[EXO.25.29] Parabis et acetabula, ac phialas, thuribula, et cyathos, in quibus offerenda sunt libamina, ex auro purissimo.
+
+[EXO.25.30] Et pones super mensam panes propositionis in conspectu meo semper.
+
+[EXO.25.31] Facies et candelabrum ductile de auro mundissimo, hastile ejus, et calamos, scyphos, et sphærulas, ac lilia ex ipso procedentia.
+
+[EXO.25.32] Sex calami egredientur de lateribus, tres ex uno latere, et tres ex altero.
+
+[EXO.25.33] Tres scyphi quasi in nucis modum per calamos singulos, sphærulaque simul, et lilium : et tres similiter scyphi instar nucis in calamo altero, sphærulaque simul et lilium. Hoc erit opus sex calamorum, qui producendi sunt de hastili :
+
+[EXO.25.34] in ipso autem candelabro erunt quatuor scyphi in nucis modum, sphærulæque per singulos, et lilia.
+
+[EXO.25.35] Sphærulæ sub duobus calamis per tria loca, qui simul sex fiunt procedentes de hastili uno.
+
+[EXO.25.36] Et sphærulæ igitur et calami ex ipso erunt, universa ductilia de auro purissimo.
+
+[EXO.25.37] Facies et lucernas septem, et pones eas super candelabrum, ut luceant ex adverso.
+
+[EXO.25.38] Emunctoria quoque, et ubi quæ emuncta sunt extinguantur, fiant de auro purissimo.
+
+[EXO.25.39] Omne pondus candelabri cum universis vasis suis habebit talentum auri purissimi.
+
+[EXO.25.40] Inspice, et fac secundum exemplar quod tibi in monte monstratum est.
+
+## Exodus 26
+
+[EXO.26.1] Tabernaculum vero ita facies : decem cortinas de bysso retorta, et hyacintho, ac purpura, coccoque bis tincto, variatas opere plumario facies.
+
+[EXO.26.2] Longitudo cortinæ unius habebit viginti octo cubitos : latitudo, quatuor cubitorum erit. Unius mensuræ fient universa tentoria.
+
+[EXO.26.3] Quinque cortinæ sibi jungentur mutuo, et aliæ quinque nexu simili cohærebunt.
+
+[EXO.26.4] Ansulas hyacinthinas in lateribus ac summitatibus facies cortinarum, ut possint invicem copulari.
+
+[EXO.26.5] Quinquagenas ansulas cortina habebit in utraque parte, ita insertas ut ansa contra ansam veniat, et altera alteri possit aptari.
+
+[EXO.26.6] Facies et quinquaginta circulos aureos quibus cortinarum vela jungenda sunt, ut unum tabernaculum fiat.
+
+[EXO.26.7] Facies et saga cilicina undecim, ad operiendum tectum tabernaculi.
+
+[EXO.26.8] Longitudo sagi unius habebit triginta cubitos, et latitudo, quatuor : æqua erit mensura sagorum omnium.
+
+[EXO.26.9] E quibus quinque junges seorsum, et sex sibi mutuo copulabis, ita ut sextum sagum in fronte tecti duplices.
+
+[EXO.26.10] Facies et quinquaginta ansas in ora sagi unius, ut conjungi cum altero queat, et quinquaginta ansas in ora sagi alterius, ut cum altero copuletur.
+
+[EXO.26.11] Facies et quinquaginta fibulas æneas quibus jungantur ansæ, ut unum ex omnibus operimentum fiat.
+
+[EXO.26.12] Quod autem superfuerit in sagis quæ parantur tecto, id est unum sagum quod amplius est, ex medietate ejus operies posteriora tabernaculi.
+
+[EXO.26.13] Et cubitus ex una parte pendebit, et alter ex altera qui plus est in sagorum longitudine, utrumque latus tabernaculi protegens.
+
+[EXO.26.14] Facies et operimentum aliud tecto de pellibus arietum rubricatis : et super hoc rursum aliud operimentum de janthinis pellibus.
+
+[EXO.26.15] Facies et tabulas stantes tabernaculi de lignis setim,
+
+[EXO.26.16] quæ singulæ denos cubitos in longitudine habeant, et in latitudine singulos ac semissem.
+
+[EXO.26.17] In lateribus tabulæ, duæ incastraturæ fient, quibus tabula alteri tabulæ connectatur : atque in hunc modum cunctæ tabulæ parabuntur.
+
+[EXO.26.18] Quarum viginti erunt in latere meridiano quod vergit ad austrum.
+
+[EXO.26.19] Quibus quadraginta bases argenteas fundes, ut binæ bases singulis tabulis per duos angulos subjiciantur.
+
+[EXO.26.20] In latere quoque secundo tabernaculi quod vergit ad aquilonem, viginti tabulæ erunt,
+
+[EXO.26.21] quadraginta habentes bases argenteas, binæ bases singulis tabulis supponentur.
+
+[EXO.26.22] Ad occidentalem vero plagam tabernaculi facies sex tabulas,
+
+[EXO.26.23] et rursum alias duas quæ in angulis erigantur post tergum tabernaculi.
+
+[EXO.26.24] Eruntque conjunctæ a deorsum usque sursum, et una omnes compago retinebit. Duabus quoque tabulis quæ in angulis ponendæ sunt, similis junctura servabitur.
+
+[EXO.26.25] Et erunt simul tabulæ octo, bases earum argenteæ sedecim, duabus basibus per unam tabulam supputatis.
+
+[EXO.26.26] Facies et vectes de lignis setim quinque ad continendas tabulas in uno latere tabernaculi,
+
+[EXO.26.27] et quinque alios in altero, et ejusdem numeri ad occidentalem plagam :
+
+[EXO.26.28] qui mittentur per medias tabulas a summo usque ad summum.
+
+[EXO.26.29] Ipsas quoque tabulas deaurabis, et fundes in eis annulos aureos per quos vectes tabulata contineant : quos operies laminis aureis.
+
+[EXO.26.30] Et eriges tabernaculum juxta exemplar quod tibi in monte monstratum est.
+
+[EXO.26.31] Facies et velum de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumario et pulchra varietate contextum :
+
+[EXO.26.32] quod appendes ante quatuor columnas de lignis setim, quæ ipsæ quidem deauratæ erunt, et habebunt capita aurea, sed bases argenteas.
+
+[EXO.26.33] Inseretur autem velum per circulos, intra quod pones arcam testimonii, quo et sanctuarium, et sanctuarii sanctuaria dividentur.
+
+[EXO.26.34] Pones et propitiatorium super arcam testimonii in Sancto sanctorum,
+
+[EXO.26.35] mensamque extra velum, et contra mensam candelabrum in latere tabernaculi meridiano : mensa enim stabit in parte aquilonis.
+
+[EXO.26.36] Facies et tentorium in introitu tabernaculi de hyacintho, et purpura, coccoque bis tincto, et bysso retorta, opere plumarii.
+
+[EXO.26.37] Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium : quarum erunt capita aurea, et bases æneæ.
+
+## Exodus 27
+
+[EXO.27.1] Facies et altare de lignis setim, quod habebit quinque cubitus in longitudine, et totidem in latitudine, id est, quadrum, et tres cubitos in altitudine.
+
+[EXO.27.2] Cornua autem per quatuor angulos ex ipso erunt : et operies illud ære.
+
+[EXO.27.3] Faciesque in usus ejus lebetes ad suscipiendos cineres, et forcipes atque fuscinulas, et ignium receptacula ; omnia vasa ex ære fabricabis.
+
+[EXO.27.4] Craticulamque in modum retis æneam : per cujus quatuor angulos erunt quatuor annuli ænei.
+
+[EXO.27.5] Quos pones subter arulam altaris : eritque craticula usque ad altaris medium.
+
+[EXO.27.6] Facies et vectes altaris de lignis setim duos, quos operies laminis æneis :
+
+[EXO.27.7] et induces per circulos, eruntque ex utroque latere altaris ad portandum.
+
+[EXO.27.8] Non solidum, sed inane et cavum intrinsecus facies illud, sicut tibi in monte monstratum est.
+
+[EXO.27.9] Facies et atrium tabernaculi, in cujus australi plaga contra meridiem erunt tentoria de bysso retorta : centum cubitos unum latus tenebit in longitudine.
+
+[EXO.27.10] Et columnas viginti cum basibus totidem æneis, quæ capita cum cælaturis suis habebunt argentea.
+
+[EXO.27.11] Similiter et in latere aquilonis per longum erunt tentoria centum cubitorum, columnæ viginti, et bases æneæ ejusdem numeri, et capita earum cum cælaturis suis argentea.
+
+[EXO.27.12] In latitudine vero atrii, quod respicit ad occidentem, erunt tentoria per quinquaginta cubitos, et columnæ decem, basesque totidem.
+
+[EXO.27.13] In ea quoque atrii latitudine, quæ respicit ad orientem, quinquaginta cubiti erunt.
+
+[EXO.27.14] In quibus quindecim cubitorum tentoria lateri uno deputabuntur, columnæque tres et bases totidem :
+
+[EXO.27.15] et in latere altero erunt tentoria cubitos obtinentia quindecim, columnæ tres, et bases totidem.
+
+[EXO.27.16] In introitu vero atrii fiet tentorium cubitorum viginti ex hyacintho et purpura, coccoque bis tincto, et bysso retorta, opere plumarii : columnas habebit quatuor, cum basibus totidem.
+
+[EXO.27.17] Omnes columnæ atrii per circuitum vestitæ erunt argenteis laminis, capitibus argenteis, et basibus æneis.
+
+[EXO.27.18] In longitudine occupabit atrium cubitos centum, in latitudine quinquaginta, altitudo quinque cubitorum erit : fietque de bysso retorta, et habebit bases æneas.
+
+[EXO.27.19] Cuncta vasa tabernaculi in omnes usus et cæremonias, tam paxillos ejus quam atrii, ex ære facies.
+
+[EXO.27.20] Præcipe filiis Israël ut afferant tibi oleum de arboribus olivarum purissimum, piloque contusum, ut ardeat lucerna semper
+
+[EXO.27.21] in tabernaculo testimonii, extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii ejus, ut usque mane luceat coram Domino. Perpetuus erit cultus per successiones eorum a filiis Israël.
+
+## Exodus 28
+
+[EXO.28.1] Applica quoque ad te Aaron fratrem tuum cum filiis suis de medio filiorum Israël, ut sacerdotio fungantur mihi : Aaron, Nadab, et Abiu, Eleazar, et Ithamar.
+
+[EXO.28.2] Faciesque vestem sanctam Aaron fratri tuo in gloriam et decorem.
+
+[EXO.28.3] Et loqueris cunctis sapientibus corde quos replevi spiritu prudentiæ, ut faciant vestes Aaron, in quibus sanctificatus ministret mihi.
+
+[EXO.28.4] Hæc autem erunt vestimenta quæ faciet : rationale et superhumerale, tunicam et lineam strictam, cidarim et balteum. Facient vestimenta sancta fratri tuo Aaron et filiis ejus, ut sacerdotio fungantur mihi.
+
+[EXO.28.5] Accipientque aurum, et hyacinthum, et purpuram, coccumque bis tinctum, et byssum.
+
+[EXO.28.6] Facient autem superhumerale de auro et hyacintho et purpura, coccoque bis tincto, et bysso retorta, opere polymito.
+
+[EXO.28.7] Duas oras junctas habebit in utroque latere summitatum, ut in unum redeant.
+
+[EXO.28.8] Ipsa quoque textura et cuncta operis varietas erit ex auro et hyacintho, et purpura, coccoque bis tincto, et bysso retorta.
+
+[EXO.28.9] Sumesque duos lapides onychinos, et sculpes in eis nomina filiorum Israël :
+
+[EXO.28.10] sex nomina in lapide uno, et sex reliqua in altero, juxta ordinem nativitatis eorum.
+
+[EXO.28.11] Opere sculptoris et cælatura gemmarii, sculpes eos nominibus filiorum Israël, inclusos auro atque circumdatos :
+
+[EXO.28.12] et pones in utroque latere superhumeralis, memoriale filiis Israël. Portabitque Aaron nomina eorum coram Domino super utrumque humerum, ob recordationem.
+
+[EXO.28.13] Facies et uncinos ex auro,
+
+[EXO.28.14] et duas catenulas ex auro purissimo sibi invicem cohærentes, quas inseres uncinis.
+
+[EXO.28.15] Rationale quoque judicii facies opere polymito juxta texturam superhumeralis, ex auro, hyacintho, et purpura, coccoque bis tincto, et bysso retorta.
+
+[EXO.28.16] Quadrangulum erit et duplex : mensuram palmi habebit tam in longitudine quam in latitudine.
+
+[EXO.28.17] Ponesque in eo quatuor ordines lapidum : in primo versu erit lapis sardius, et topazius, et smaragdus :
+
+[EXO.28.18] in secundo carbunculus, sapphirus, et jaspis :
+
+[EXO.28.19] in tertio ligurius, achates, et amethystus :
+
+[EXO.28.20] in quarto chrysolithus, onychinus, et beryllus. Inclusi auro erunt per ordines suos.
+
+[EXO.28.21] Habebuntque nomina filiorum Israël : duodecim nominibus cælabuntur, singuli lapides nominibus singulorum per duodecim tribus.
+
+[EXO.28.22] Facies in rationali catenas sibi invicem cohærentes ex auro purissimo,
+
+[EXO.28.23] et duos annulos aureos, quos pones in utraque rationalis summitate :
+
+[EXO.28.24] catenasque aureas junges annulis, qui sunt in marginibus ejus,
+
+[EXO.28.25] et ipsarum catenarum extrema duobus copulabis uncinis in utroque latere superhumeralis quod rationale respicit.
+
+[EXO.28.26] Facies et duos annulos aureos, quos pones in summitatibus rationalis, in oris, quæ e regione sunt superhumeralis, et posteriora ejus aspiciunt.
+
+[EXO.28.27] Necnon et alios duos annulos aureos, qui ponendi sunt in utroque latere superhumeralis deorsum, quod respicit contra faciem juncturæ inferioris, ut aptari possit cum superhumerali,
+
+[EXO.28.28] et stringatur rationale annulis suis cum annulis superhumeralis vitta hyacinthina, ut maneat junctura fabrefacta, et a se invicem rationale et superhumerale nequeant separari.
+
+[EXO.28.29] Portabitque Aaron nomina filiorum Israël in rationali judicii super pectus suum, quando ingredietur Sanctuarium, memoriale coram Domino in æternum.
+
+[EXO.28.30] Pones autem in rationali judicii Doctrinam et Veritatem, quæ erunt in pectore Aaron, quando ingredietur coram Domino : et gestabit judicium filiorum Israël in pectore suo, in conspectu Domini semper.
+
+[EXO.28.31] Facies et tunicam superhumeralis totam hyacinthinam,
+
+[EXO.28.32] in cujus medio supra erit capitium, et ora per gyrum ejus textilis, sicut fieri solet in extremis vestium partibus, ne facile rumpatur.
+
+[EXO.28.33] Deorsum vero, ad pedes ejusdem tunicæ, per circuitum, quasi mala punica facies, ex hyacintho, et purpura, et cocco bis tincto, mistis in medio tintinnabulis,
+
+[EXO.28.34] ita ut tintinnabulum sit aureum et malum punicum : rursumque tintinnabulum aliud aureum et malum punicum.
+
+[EXO.28.35] Et vestietur ea Aaron in officio ministerii, ut audiatur sonitus quando ingreditur et egreditur sanctuarium in conspectu Domini, et non moriatur.
+
+[EXO.28.36] Facies et laminam de auro purissimo, in qua sculpes opere cælatoris, Sanctum Domino.
+
+[EXO.28.37] Ligabisque eam vitta hyacinthina, et erit super tiaram,
+
+[EXO.28.38] imminens fronti pontificis. Portabitque Aaron iniquitates eorum, quæ obtulerunt et sanctificaverunt filii Israël, in cunctis muneribus et donariis suis. Erit autem lamina semper in fronte ejus, ut placatus sit eis Dominus.
+
+[EXO.28.39] Stringesque tunicam bysso, et tiaram byssinam facies, et balteum opere plumarii.
+
+[EXO.28.40] Porro filiis Aaron tunicas lineas parabis et balteos ac tiaras in gloriam et decorem :
+
+[EXO.28.41] vestiesque his omnibus Aaron fratrem tuum et filios ejus cum eo. Et cunctorum consecrabis manus, sanctificabisque illos, ut sacerdotio fungantur mihi.
+
+[EXO.28.42] Facies et feminalia linea, ut operiant carnem turpitudinis suæ, a renibus usque ad femora :
+
+[EXO.28.43] et utentur eis Aaron et filii ejus quando ingredientur tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini ejus post eum.
+
+## Exodus 29
+
+[EXO.29.1] Sed et hoc facies, ut mihi in sacerdotio consecrentur. Tolle vitulum de armento, et arietes duos immaculatos,
+
+[EXO.29.2] panesque azymos, et crustulam absque fermento, quæ conspersa sit oleo, lagana quoque azyma oleo lita : de simila triticea cuncta facies.
+
+[EXO.29.3] Et posita in canistro offeres : vitulum autem et duos arietes.
+
+[EXO.29.4] Et Aaron ac filios ejus applicabis ad ostium tabernaculi testimonii. Cumque laveris patrem cum filiis suis aqua,
+
+[EXO.29.5] indues Aaron vestimentis suis, id est, linea et tunica, et superhumerali et rationali, quod constringes balteo.
+
+[EXO.29.6] Et pones tiaram in capite ejus, et laminam sanctam super tiaram,
+
+[EXO.29.7] et oleum unctionis fundes super caput ejus : atque hoc ritu consecrabitur.
+
+[EXO.29.8] Filios quoque illius applicabis, et indues tunicis lineis, cingesque balteo,
+
+[EXO.29.9] Aaron scilicet et liberos ejus, et impones eis mitras : eruntque sacerdotes mihi religione perpetua. Postquam initiaveris manus eorum,
+
+[EXO.29.10] applicabis et vitulum coram tabernaculo testimonii. Imponentque Aaron et filii ejus manus super caput illius,
+
+[EXO.29.11] et mactabis eum in conspectu Domini, juxta ostium tabernaculi testimonii.
+
+[EXO.29.12] Sumptumque de sanguine vituli, pones super cornua altaris digito tuo, reliquum autem sanguinem fundes juxta basim ejus.
+
+[EXO.29.13] Sumes et adipem totum qui operit intestina, et reticulum jecoris, ac duos renes, et adipem qui super eos est, et offeres incensum super altare :
+
+[EXO.29.14] carnes vero vituli et corium et fimum combures foris extra castra, eo quod pro peccato sit.
+
+[EXO.29.15] Unum quoque arietem sumes, super cujus caput ponent Aaron et filii ejus manus.
+
+[EXO.29.16] Quem cum mactaveris, tolles de sanguine ejus, et fundes circa altare.
+
+[EXO.29.17] Ipsum autem arietem secabis in frustra : lotaque intestina ejus ac pedes, pones super concisas carnes, et super caput illius.
+
+[EXO.29.18] Et offeres totum arietem in incensum super altare : oblatio est Domino, odor suavissimus victimæ Domini.
+
+[EXO.29.19] Tolles quoque arietem alterum, super cujus caput Aaron et filii ejus ponent manus.
+
+[EXO.29.20] Quem cum immolaveris, sumes de sanguine ejus, et pones super extremum auriculæ dextræ Aaron et filiorum ejus, et super pollices manus eorum ac pedis dextri, fundesque sanguinem super altare per circuitum.
+
+[EXO.29.21] Cumque tuleris de sanguine qui est super altare, et de oleo unctionis, asperges Aaron et vestes ejus, filios et vestimenta eorum. Consecratisque ipsis et vestibus,
+
+[EXO.29.22] tolles adipem de ariete, et caudam et arvinam, quæ operit vitalia, ac reticulum jecoris, et duos renes, atque adipem, qui super eos est, armumque dextrum, eo quod sit aries consecrationis :
+
+[EXO.29.23] tortamque panis unius, crustulam conspersam oleo, laganum de canistro azymorum, quod positum est in conspectu Domini :
+
+[EXO.29.24] ponesque omnia super manus Aaron et filiorum ejus, et sanctificabis eos elevans coram Domino.
+
+[EXO.29.25] Suscipiesque universa de manibus eorum : et incendes super altare in holocaustum, odorem suavissimum in conspectu Domini, quia oblatio ejus est.
+
+[EXO.29.26] Sumes quoque pectusculum de ariete, quo initiatus est Aaron, sanctificabisque illud elevatum coram Domino, et cedet in partem tuam.
+
+[EXO.29.27] Sanctificabisque et pectusculum consecratum, et armum quem de ariete separasti,
+
+[EXO.29.28] quo initiatus est Aaron et filii ejus, cedentque in partem Aaron et filiorum ejus jure perpetuo a filiis Israël : quia primitiva sunt et initia de victimis eorum pacificis quæ offerunt Domino.
+
+[EXO.29.29] Vestem autem sanctam, qua utetur Aaron, habebunt filii ejus post eum, ut ungantur in ea, et consecrantur manus eorum.
+
+[EXO.29.30] Septem diebus utetur illa qui pontifex pro eo fuerit constitutus de filiis ejus, et qui ingredietur tabernaculum testimonii ut ministret in sanctuario.
+
+[EXO.29.31] Arietem autem consecrationis tolles, et coques carnes ejus in loco sancto :
+
+[EXO.29.32] quibus vescetur Aaron et filii ejus. Panes quoque, qui sunt in canistro, in vestibulo tabernaculi testimonii comedent,
+
+[EXO.29.33] ut sit placabile sacrificium, et sanctificentur offerentium manus. Alienigena non vescetur ex eis, quia sancti sunt.
+
+[EXO.29.34] Quod si remanserit de carnibus consecratis, sive de panibus usque mane, combures reliquias igni : non comedentur, quia sanctificata sunt.
+
+[EXO.29.35] Omnia, quæ præcepi tibi, facies super Aaron et filiis ejus. Septem diebus consecrabis manus eorum :
+
+[EXO.29.36] et vitulum pro peccato offeres per singulos dies ad expiandum. Mundabisque altare cum immolaveris expiationis hostiam, et unges illud in sanctificationem.
+
+[EXO.29.37] Septem diebus expiabis altare, et sanctificabis, et erit Sanctum sanctorum : omnis, qui tetigerit illud, sanctificabitur.
+
+[EXO.29.38] Hoc est quod facies in altari : agnos anniculos duos per singulos dies jugiter,
+
+[EXO.29.39] unum agnum mane, et alterum vespere,
+
+[EXO.29.40] decimam partem similæ conspersæ oleo tuso, quod habeat mensuram quartam partem hin, et vinum ad libandum ejusdem mensuræ in agno uno.
+
+[EXO.29.41] Alterum vero agnum offeres ad vesperam juxta ritum matutinæ oblationis, et juxta ea quæ diximus, in odorem suavitatis :
+
+[EXO.29.42] sacrificium est Domino, oblatione perpetua in generationes vestras, ad ostium tabernaculi testimonii coram Domino, ubi constituam ut loquar ad te.
+
+[EXO.29.43] Ibique præcipiam filiis Israël, et sanctificabitur altare in gloria mea.
+
+[EXO.29.44] Sanctificabo et tabernaculum testimonii cum altari, et Aaron cum filiis suis, ut sacerdotio fungantur mihi.
+
+[EXO.29.45] Et habitabo in medio filiorum Israël, eroque eis Deus,
+
+[EXO.29.46] et scient quia ego Dominus Deus eorum, qui eduxi eos de terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum.
+
+## Exodus 30
+
+[EXO.30.1] Facies quoque altare ad adolendum thymiama, de lignis setim,
+
+[EXO.30.2] habens cubitum longitudinis, et alterum latitudinis, id est, quadrangulum, et duos cubitos in altitudine. Cornua ex ipso procedent.
+
+[EXO.30.3] Vestiesque illud auro purissimo, tam craticulam ejus, quam parietes per circuitum, et cornua. Faciesque ei coronam aureolam per gyrum,
+
+[EXO.30.4] et duos annulos aureos sub corona per singula latera, ut mittantur in eos vectes, et altare portetur.
+
+[EXO.30.5] Ipsos quoque vectes facies de lignis setim, et inaurabis.
+
+[EXO.30.6] Ponesque altare contra velum, quod ante arcum pendet testimonii coram propitiatorio quo tegitur testimonium, ubi loquar tibi.
+
+[EXO.30.7] Et adolebit incensum super eo Aaron, suave fragrans, mane. Quando componet lucernas, incendet illud :
+
+[EXO.30.8] et quando collocabit eas ad vesperum, uret thymiama sempiternum coram Domino in generationes vestras.
+
+[EXO.30.9] Non offeretis super eo thymiama compositionis alterius, nec oblationem, et victimam, nec libabitis libamina.
+
+[EXO.30.10] Et deprecabitur Aaron super cornua ejus semel per annum, in sanguine quod oblatum est pro peccato, et placabit super eo in generationibus vestris. Sanctum sanctorum erit Domino.
+
+[EXO.30.11] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.30.12] Quando tuleris summam filiorum Israël juxta numerum, dabunt singuli pretium pro animabus suis Domino, et non erit plaga in eis, cum fuerint recensiti.
+
+[EXO.30.13] Hoc autem dabit omnis qui transit ad nomen, dimidium sicli juxta mensuram templi (siclus viginti obolos habet) ; media pars sicli offeretur Domino.
+
+[EXO.30.14] Qui habetur in numero, a viginti annis et supra, dabit pretium.
+
+[EXO.30.15] Dives non addet ad medium sicli, et pauper nihil minuet.
+
+[EXO.30.16] Susceptamque pecuniam, quæ collata est a filiis Israël, trades in usus tabernaculi testimonii, ut sit monimentum eorum coram Domino, et propitietur animabus eorum.
+
+[EXO.30.17] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.30.18] Facies et labrum æneum cum basi sua ad lavandum : ponesque illud inter tabernaculum testimonii et altare. Et missa aqua,
+
+[EXO.30.19] lavabunt in ea Aaron et filii ejus manus suas ac pedes,
+
+[EXO.30.20] quando ingressuri sunt tabernaculum testimonii, et quando accessuri sunt ad altare, ut offerant in eo thymiama Domino,
+
+[EXO.30.21] ne forte moriantur ; legitimum sempiternum erit ipsi, et semini ejus per successiones.
+
+[EXO.30.22] Locutusque est Dominus ad Moysen,
+
+[EXO.30.23] dicens : Sume tibi aromata, primæ myrrhæ et electæ quingentos siclos, et cinnamomi medium, id est, ducentos quinquaginta siclos, calami similiter ducentos quinquaginta,
+
+[EXO.30.24] casiæ autem quingentos siclos, in pondere sanctuarii, olei de olivetis mensuram hin :
+
+[EXO.30.25] faciesque unctionis oleum sanctum, unguentum compositum opere unguentarii,
+
+[EXO.30.26] et unges ex eo tabernaculum testimonii, et arcam testamenti,
+
+[EXO.30.27] mensamque cum vasis suis, et candelabrum, et utensilia ejus, altaria thymiamatis,
+
+[EXO.30.28] et holocausti, et universam supellectilem quæ ad cultum eorum pertinet.
+
+[EXO.30.29] Sanctificabisque omnia, et erunt Sancta sanctorum ; qui tetigerit ea, sanctificabitur.
+
+[EXO.30.30] Aaron et filios ejus unges, sanctificabisque eos, ut sacerdotio fungantur mihi.
+
+[EXO.30.31] Filiis quoque Israël dices : Hoc oleum unctionis sanctum erit mihi in generationes vestras.
+
+[EXO.30.32] Caro hominis non ungetur ex eo, et juxta compositionem ejus non facietis aliud, quia sanctificatum est, et sanctum erit vobis.
+
+[EXO.30.33] Homo quicumque tale composuerit, et dederit ex eo alieno, exterminabitur de populo suo.
+
+[EXO.30.34] Dixitque Dominus ad Moysen : Sume tibi aromata, stacten et onycha, galbanum boni odoris, et thus lucidissimum ; æqualis ponderis erunt omnia :
+
+[EXO.30.35] faciesque thymiama compositum opere unguentarii, mistum diligenter, et purum, et sanctificatione dignissimum.
+
+[EXO.30.36] Cumque in tenuissimum pulverem universa contuderis, pones ex eo coram tabernaculo testimonii, in quo loco apparebo tibi. Sanctum sanctorum erit vobis thymiama.
+
+[EXO.30.37] Talem compositionem non facietis in usus vestros, quia sanctum est Domino.
+
+[EXO.30.38] Homo quicumque fecerit simile, ut odore illius perfruatur, peribit de populis suis.
+
+## Exodus 31
+
+[EXO.31.1] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.31.2] Ecce, vocavi ex nomine Beseleel filium Uri filii Hur de tribu Juda,
+
+[EXO.31.3] et implevi spiritu Dei, sapientia, et intelligentia et scientia in omni opere,
+
+[EXO.31.4] ad excogitandum quidquid fabrefieri potest ex auro, et argento, et ære,
+
+[EXO.31.5] marmore, et gemmis, et diversitate lignorum.
+
+[EXO.31.6] Dedique ei socium Ooliab filium Achisamech de tribu Dan. Et in corde omnis eruditi posui sapientiam : ut faciant cuncta quæ præcepi tibi,
+
+[EXO.31.7] tabernaculum fœderis, et arcam testimonii, et propitiatorium, quod super eam est, et cuncta vasa tabernaculi,
+
+[EXO.31.8] mensamque et vasa ejus, candelabrum purissimum cum vasis suis, et altaris thymiamatis,
+
+[EXO.31.9] et holocausti, et omnia vasa eorum, labrum cum basi sua,
+
+[EXO.31.10] vestes sanctas in ministerio Aaron sacerdoti, et filiis ejus, ut fungantur officio suo in sacris :
+
+[EXO.31.11] oleum unctionis, et thymiama aromatum in sanctuario, omnia quæ præcepi tibi, facient.
+
+[EXO.31.12] Et locutus est Dominus ad Moysen, dicens :
+
+[EXO.31.13] Loquere filiis Israël, et dices ad eos : Videte ut sabbatum meum custodiatis : quia signum est inter me et vos in generationibus vestris : ut sciatis quia ego Dominus, qui sanctifico vos.
+
+[EXO.31.14] Custodite sabbatum meum, sanctum est enim vobis : qui polluerit illud, morte morietur ; qui fecerit in eo opus, peribit anima illius de medio populi sui.
+
+[EXO.31.15] Sex diebus facietis opus : in die septimo sabbatum est, requies sancta Domino ; omnis qui fecerit opus in hac die, morietur.
+
+[EXO.31.16] Custodiant filii Israël sabbatum, et celebrent illud in generationibus suis. Pactum est sempiternum
+
+[EXO.31.17] inter me et filios Israël, signumque perpetuum ; sex enim diebus fecit Dominus cælum et terram, et in septimo ab opere cessavit.
+
+[EXO.31.18] Deditque Dominus Moysi, completis hujuscemodi sermonibus in monte Sinai, duas tabulas testimonii lapideas, scriptas digito Dei.
+
+## Exodus 32
+
+[EXO.32.1] Videns autem populus quod moram faceret descendendi de monte Moyses, congregatus adversus Aaron, dixit : Surge, fac nobis deos, qui nos præcedant : Moysi enim huic viro, qui nos eduxit de terra Ægypti, ignoramus quid acciderit.
+
+[EXO.32.2] Dixitque ad eos Aaron : Tollite inaures aureas de uxorum, filiorumque et filiarum vestrarum auribus, et afferte ad me.
+
+[EXO.32.3] Fecitque populus quæ jusserat, deferens inaures ad Aaron.
+
+[EXO.32.4] Quas cum ille accepisset, formavit opere fusorio, et fecit ex eis vitulum conflatilem : dixeruntque : Hi sunt dii tui Israël, qui te eduxerunt de terra Ægypti.
+
+[EXO.32.5] Quod cum vidisset Aaron, ædificavit altare coram eo, et præconis voce clamavit dicens : Cras solemnitas Domini est.
+
+[EXO.32.6] Surgentesque mane, obtulerunt holocausta, et hostias pacificas, et sedit populus manducare, et bibere, et surrexerunt ludere.
+
+[EXO.32.7] Locutus est autem Dominus ad Moysen, dicens : Vade, descende : peccavit populus tuus, quem eduxisti de terra Ægypti.
+
+[EXO.32.8] Recesserunt cito de via, quam ostendisti eis : feceruntque sibi vitulum conflatilem, et adoraverunt, atque immolantes ei hostias, dixerunt : Isti sunt dii tui Israël, qui te eduxerunt de terra Ægypti.
+
+[EXO.32.9] Rursumque ait Dominus ad Moysen : Cerno quod populus iste duræ cervicis sit :
+
+[EXO.32.10] dimitte me, ut irascatur furor meus contra eos, et deleam eos, faciamque te in gentem magnam.
+
+[EXO.32.11] Moyses autem orabat Dominum Deum suum, dicens : Cur, Domine, irascitur furor tuus contra populum tuum, quem eduxisti de terra Ægypti, in fortitudine magna, et in manu robusta ?
+
+[EXO.32.12] Ne quæso dicant Ægyptii : Callide eduxit eos, ut interficeret in montibus, et deleret e terra : quiescat ira tua, et esto placabilis super nequitia populi tui.
+
+[EXO.32.13] Recordare Abraham, Isaac, et Israël servorum tuorum, quibus jurasti per temetipsum, dicens : Multiplicabo semen vestrum sicut stellas cæli ; et universam terram hanc, de qua locutus sum, dabo semini vestro, et possidebitis eam semper.
+
+[EXO.32.14] Placatusque est Dominus ne faceret malum quod locutus fuerat adversus populum suum.
+
+[EXO.32.15] Et reversus est Moyses de monte, portans duas tabulas testimonii in manu sua, scriptas ex utraque parte,
+
+[EXO.32.16] et factas opere Dei : scriptura quoque Dei erat sculpta in tabulis.
+
+[EXO.32.17] Audiens autem Josue tumultum populi vociferantis, dixit ad Moysen : Ululatus pugnæ auditur in castris.
+
+[EXO.32.18] Qui respondit : Non est clamor adhortantium ad pugnam, neque vociferatio compellentium ad fugam : sed vocem cantantium ego audio.
+
+[EXO.32.19] Cumque appropinquasset ad castra, vidit vitulum, et choros : iratusque valde, projecit de manu tabulas, et confregit eas ad radicem montis :
+
+[EXO.32.20] arripiensque vitulum quem fecerant, combussit, et contrivit usque ad pulverem, quem sparsit in aquam, et dedit ex eo potum filiis Israël.
+
+[EXO.32.21] Dixitque ad Aaron : Quid tibi fecit hic populus, ut induceres super eum peccatum maximum ?
+
+[EXO.32.22] Cui ille respondit : Ne indignetur dominus meus : tu enim nosti populum istum, quod pronus sit ad malum :
+
+[EXO.32.23] dixerunt mihi : Fac nobis deos, qui nos præcedant : huic enim Moysi, qui nos eduxit de terra Ægypti, nescimus quid acciderit.
+
+[EXO.32.24] Quibus ego dixi : Quis vestrum habet aurum ? Tulerunt, et dederunt mihi : et projeci illud in ignem, egressusque est hic vitulus.
+
+[EXO.32.25] Videns ergo Moyses populum quod esset nudatus (spoliaverat enim eum Aaron propter ignominiam sordis, et inter hostes nudum constituerat),
+
+[EXO.32.26] et stans in porta castrorum, ait : Si quis est Domini, jungatur mihi. Congregatique sunt ad eum omnes filii Levi :
+
+[EXO.32.27] quibus ait : Hæc dicit Dominus Deus Israël : Ponat vir gladium super femur suum : ite, et redite de porta usque ad portam per medium castrorum, et occidat unusquisque fratrem, et amicum, et proximum suum.
+
+[EXO.32.28] Feceruntque filii Levi juxta sermonem Moysi, cecideruntque in die illa quasi viginti tria millia hominum.
+
+[EXO.32.29] Et ait Moyses : Consecrastis manus vestras hodie Domino, unusquisque in filio, et in fratre suo, ut detur vobis benedictio.
+
+[EXO.32.30] Facto autem altero die, locutus est Moyses ad populum : Peccastis peccatum maximum : ascendam ad Dominum, si quomodo quivero eum deprecari pro scelere vestro.
+
+[EXO.32.31] Reversusque ad Dominum, ait : Obsecro, peccavit populus iste peccatum maximum, feceruntque sibi deos aureos : aut dimitte eis hanc noxam,
+
+[EXO.32.32] aut si non facis, dele me de libro tuo quem scripsisti.
+
+[EXO.32.33] Cui respondit Dominus : Qui peccaverit mihi, delebo eum de libro meo :
+
+[EXO.32.34] tu autem vade, et duc populum istum quo locutus sum tibi : angelus meus præcedet te. Ego autem in die ultionis visitabo et hoc peccatum eorum.
+
+[EXO.32.35] Percussit ergo Dominus populum pro reatu vituli, quem fecerat Aaron.
+
+## Exodus 33
+
+[EXO.33.1] Locutusque est Dominus ad Moysen, dicens : Vade, ascende de loco isto tu, et populus tuus quem eduxisti de terra Ægypti, in terram quam juravi Abraham, Isaac et Jacob, dicens : Semini tuo dabo eam :
+
+[EXO.33.2] et mittam præcursorem tui angelum, ut ejiciam Chananæum, et Amorrhæum, et Hethæum, et Pherezæum, et Hevæum, et Jebusæum,
+
+[EXO.33.3] et intres in terram fluentem lacte et melle. Non enim ascendam tecum, quia populus duræ cervicis es : ne forte disperdam te in via.
+
+[EXO.33.4] Audiensque populus sermonem hunc pessimum, luxit : et nullus ex more indutus est cultu suo.
+
+[EXO.33.5] Dixitque Dominus ad Moysen : Loquere filiis Israël : Populus duræ cervicis es : semel ascendam in medio tui, et delebo te. Jam nunc depone ornatum tuum, ut sciam quid faciam tibi.
+
+[EXO.33.6] Deposuerunt ergo filii Israël ornatum suum a monte Horeb.
+
+[EXO.33.7] Moyses quoque tollens tabernaculum, tetendit extra castra procul, vocavitque nomen ejus, Tabernaculum fœderis. Et omnis populus, qui habebat aliquam quæstionem, egrediebatur ad tabernaculum fœderis, extra castra.
+
+[EXO.33.8] Cumque egrederetur Moyses ad tabernaculum, surgebat universa plebs, et stabat unusquisque in ostio papilionis sui, aspiciebantque tergum Moysi, donec ingrederetur tentorium.
+
+[EXO.33.9] Ingresso autem illo tabernaculum fœderis, descendebat columna nubis, et stabat ad ostium, loquebaturque cum Moyse,
+
+[EXO.33.10] cernentibus universis quod columna nubis staret ad ostium tabernaculi. Stabantque ipsi, et adorabant per fores tabernaculorum suorum.
+
+[EXO.33.11] Loquebatur autem Dominus ad Moysen facie ad faciem, sicut solet loqui homo ad amicum suum. Cumque ille reverteretur in castra, minister ejus Josue filius Nun, puer, non recedebat de tabernaculo.
+
+[EXO.33.12] Dixit autem Moyses ad Dominum : Præcipis ut educam populum istum : et non indicas mihi quem missurus es mecum, præsertim cum dixeris : Novi te ex nomine, et invenisti gratiam coram me.
+
+[EXO.33.13] Si ergo inveni gratiam in conspectu tuo, ostende mihi faciem tuam, ut sciam te, et inveniam gratiam ante oculos tuos : respice populum tuum gentem hanc.
+
+[EXO.33.14] Dixitque Dominus : Facies mea præcedet te, et requiem dabo tibi.
+
+[EXO.33.15] Et ait Moyses : Si non tu ipse præcedas, ne educas nos de loco isto.
+
+[EXO.33.16] In quo enim scire poterimus ego et populus tuus invenisse nos gratiam in conspectu tuo, nisi ambulaveris nobiscum, ut glorificemur ab omnibus populis qui habitant super terram ?
+
+[EXO.33.17] Dixit autem Dominus ad Moysen : Et verbum istud, quod locutus es, faciam : invenisti enim gratiam coram me, et teipsum novi ex nomine.
+
+[EXO.33.18] Qui ait : Ostende mihi gloriam tuam.
+
+[EXO.33.19] Respondit : Ego ostendam omne bonum tibi, et vocabo in nomine Domini coram te : et miserebor cui voluero, et clemens ero in quem mihi placuerit.
+
+[EXO.33.20] Rursumque ait : Non poteris videre faciem meam : non enim videbit me homo et vivet.
+
+[EXO.33.21] Et iterum : Ecce, inquit, est locus apud me, et stabis supra petram.
+
+[EXO.33.22] Cumque transibit gloria mea, ponam te in foramine petræ, et protegam dextera mea, donec transeam :
+
+[EXO.33.23] tollamque manum meam, et videbis posteriora mea : faciem autem meam videre non poteris.
+
+## Exodus 34
+
+[EXO.34.1] Ac deinceps : Præcide, ait, tibi duas tabulas lapideas instar priorum, et scribam super eas verba, quæ habuerunt tabulæ quas fregisti.
+
+[EXO.34.2] Esto paratus mane, ut ascendas statim in montem Sinai, stabisque mecum super verticem montis.
+
+[EXO.34.3] Nullus ascendat tecum, nec videatur quispiam per totum montem : boves quoque et oves non pascantur e contra.
+
+[EXO.34.4] Excidit ergo duas tabulas lapideas, quales antea fuerant : et de nocte consurgens ascendit in montem Sinai, sicut præceperat ei Dominus, portans secum tabulas.
+
+[EXO.34.5] Cumque descendisset Dominus per nubem, stetit Moyses cum eo, invocans nomen Domini.
+
+[EXO.34.6] Quo transeunte coram eo, ait : Dominator Domine Deus, misericors et clemens, patiens et multæ miserationis, ac verax,
+
+[EXO.34.7] qui custodis misericordiam in millia ; qui aufers iniquitatem, et scelera, atque peccata, nullusque apud te per se innocens est ; qui reddis iniquitatem patrum filiis, ac nepotibus in tertiam et quartam progeniem.
+
+[EXO.34.8] Festinusque Moyses, curvatus est pronus in terram, et adorans
+
+[EXO.34.9] ait : Si inveni gratiam in conspectu tuo, Domine, obsecro ut gradiaris nobiscum (populus enim duræ cervicis est) et auferas iniquitates nostras atque peccata, nosque possideas.
+
+[EXO.34.10] Respondit Dominus : Ego inibo pactum videntibus cunctis : signa faciam quæ numquam visa sunt super terram, nec in ullis gentibus, ut cernat populus iste, in cujus es medio, opus Domini terribile quod facturus sum.
+
+[EXO.34.11] Observa cuncta quæ hodie mando tibi : ego ipse ejiciam ante faciem tuam Amorrhæum, et Chananæum, et Hethæum, Pherezæum quoque, et Hevæum, et Jebusæum.
+
+[EXO.34.12] Cave ne umquam cum habitatoribus terræ illius jungas amicitias, quæ sint tibi in ruinam :
+
+[EXO.34.13] sed aras eorum destrue, confringe statuas, lucosque succide :
+
+[EXO.34.14] noli adorare deum alienum. Dominus zelotes nomen ejus ; Deus est æmulator.
+
+[EXO.34.15] Ne ineas pactum cum hominibus illarum regionum : ne, cum fornicati fuerint cum diis suis, et adoraverint simulacra eorum, vocet te quispiam ut comedas de immolatis.
+
+[EXO.34.16] Nec uxorem de filiabus eorum accipies filiis tuis : ne, postquam ipsæ fuerint fornicatæ, fornicari faciant et filios tuos in deos suos.
+
+[EXO.34.17] Deos conflatiles non facies tibi.
+
+[EXO.34.18] Solemnitatem azymorum custodies. Septem diebus vesceris azymis, sicut præcepi tibi, in tempore mensis novorum : mense enim verni temporis egressus es de Ægypto.
+
+[EXO.34.19] Omne quod aperit vulvam generis masculini, meum erit. De cunctis animantibus, tam de bobus, quam de ovibus, meum erit.
+
+[EXO.34.20] Primogenitum asini redimes ove : sin autem nec pretium pro eo dederis, occidetur. Primogenitum filiorum tuorum redimes : nec apparebis in conspectu meo vacuus.
+
+[EXO.34.21] Sex diebus operaberis ; die septimo cessabis arare et metere.
+
+[EXO.34.22] Solemnitatem hebdomadarum facies tibi in primitiis frugum messis tuæ triticeæ, et solemnitatem, quando redeunte anni tempore cuncta conduntur.
+
+[EXO.34.23] Tribus temporibus anni apparebit omne masculinum tuum in conspectu omnipotentis Domini Dei Israël.
+
+[EXO.34.24] Cum enim tulero gentes a facie tua, et dilatavero terminos tuos, nullus insidiabitur terræ tuæ, ascendente te, et apparente in conspectu Domini Dei tui ter in anno.
+
+[EXO.34.25] Non immolabis super fermento sanguinem hostiæ meæ : neque residebit mane de victima solemnitatis Phase.
+
+[EXO.34.26] Primitias frugum terræ tuæ offeres in domo Domini Dei tui. Non coques hædum in lacte matris suæ.
+
+[EXO.34.27] Dixitque Dominus ad Moysen : Scribe tibi verba hæc, quibus et tecum et cum Israël pepigi fœdus.
+
+[EXO.34.28] Fuit ergo ibi cum Domino quadraginta dies et quadraginta noctes : panem non comedit, et aquam non bibit, et scripsit in tabulis verba fœderis decem.
+
+[EXO.34.29] Cumque descenderet Moyses de monte Sinai, tenebat duas tabulas testimonii, et ignorabat quod cornuta esset facies sua ex consortio sermonis Domini.
+
+[EXO.34.30] Videntes autem Aaron et filii Israël cornutam Moysi faciem, timuerunt prope accedere.
+
+[EXO.34.31] Vocatique ab eo, reversi sunt tam Aaron, quam principes synagogæ. Et postquam locutus est ad eos,
+
+[EXO.34.32] venerunt ad eum etiam omnes filii Israël : quibus præcepit cuncta quæ audierat a Domino in monte Sinai.
+
+[EXO.34.33] Impletisque sermonibus, posuit velamen super faciem suam.
+
+[EXO.34.34] Quod ingressus ad Dominum, et loquens cum eo, auferebat donec exiret, et tunc loquebatur ad filios Israël omnia quæ sibi fuerant imperata.
+
+[EXO.34.35] Qui videbant faciem egredientis Moysi esse cornutam, sed operiebat ille rursus faciem suam, siquando loquebatur ad eos.
+
+## Exodus 35
+
+[EXO.35.1] Igitur congregata omni turba filiorum Israël, dixit ad eos : Hæc sunt quæ jussit Dominus fieri.
+
+[EXO.35.2] Sex diebus facietis opus : septimus dies erit vobis sanctus, sabbatum, et requies Domini : qui fecerit opus in eo, occidetur.
+
+[EXO.35.3] Non succendetis ignem in omnibus habitaculis vestris per diem sabbati.
+
+[EXO.35.4] Et ait Moyses ad omnem catervam filiorum Israël : Iste est sermo quem præcepit Dominus, dicens :
+
+[EXO.35.5] Separate apud vos primitias Domino. Omnis voluntarius et prono animo offerat eas Domino : aurum et argentum, et æs,
+
+[EXO.35.6] hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum,
+
+[EXO.35.7] pellesque arietum rubricatas, et janthinas, ligna setim,
+
+[EXO.35.8] et oleum ad luminaria concinnanda, et ut conficiatur unguentum, et thymiama suavissimum,
+
+[EXO.35.9] lapides onychinos, et gemmas ad ornatum superhumeralis et rationalis.
+
+[EXO.35.10] Quisque vestrum sapiens est, veniat, et faciat quod Dominus imperavit :
+
+[EXO.35.11] tabernaculum scilicet, et tectum ejus, atque operimentum, annulos, et tabulata cum vectibus, paxillos, et bases :
+
+[EXO.35.12] arcam et vectes, propitiatorium, et velum, quod ante illud oppanditur :
+
+[EXO.35.13] mensam cum vectibus et vasis, et propositionis panibus :
+
+[EXO.35.14] candelabrum ad luminaria sustentanda, vasa illius et lucernas, et oleum ad nutrimenta ignium :
+
+[EXO.35.15] altare thymiamatis, et vectes, et oleum unctionis et thymiama ex aromatibus : tentorium ad ostium tabernaculi :
+
+[EXO.35.16] altare holocausti, et craticulam ejus æneam cum vectibus et vasis suis : labrum et basim ejus :
+
+[EXO.35.17] cortinas atrii cum columnis et basibus, tentorium in foribus vestibuli,
+
+[EXO.35.18] paxillos tabernaculi et atrii cum funiculis suis :
+
+[EXO.35.19] vestimenta, quorum usus est in ministerio sanctuarii, vestes Aaron pontificis ac filiorum ejus, ut sacerdotio fungantur mihi.
+
+[EXO.35.20] Egressaque omnis multitudo filiorum Israël de conspectu Moysi,
+
+[EXO.35.21] obtulerunt mente promptissima atque devota primitias Domino, ad faciendum opus tabernaculi testimonii. Quidquid ad cultum et ad vestes sanctas necessarium erat,
+
+[EXO.35.22] viri cum mulieribus præbuerunt, armillas et inaures, annulos et dextralia : omne vas aureum in donaria Domini separatum est.
+
+[EXO.35.23] Si quis habebat hyacinthum, et purpuram, coccumque bis tinctum, byssum et pilos caprarum, pelles arietum rubricatas, et janthinas,
+
+[EXO.35.24] argenti, ærisque metalla, obtulerunt Domino, lignaque setim in varios usus.
+
+[EXO.35.25] Sed et mulieres doctæ, quæ neverant, dederunt hyacinthum, purpuram, et vermiculum, ac byssum,
+
+[EXO.35.26] et pilos caprarum, sponte propria cuncta tribuentes.
+
+[EXO.35.27] Principes vero obtulerunt lapides onychinos, et gemmas ad superhumerale et rationale,
+
+[EXO.35.28] aromataque et oleum ad luminaria concinnanda, et ad præparandum unguentum, ac thymiama odoris suavissimi componendum.
+
+[EXO.35.29] Omnes viri et mulieres mente devota obtulerunt donaria, ut fierent opera, quæ jusserat Dominus per manum Moysi. Cuncti filii Israël voluntaria Domino dedicaverunt.
+
+[EXO.35.30] Dixitque Moyses ad filios Israël : Ecce, vocavit Dominus ex nomine Beseleel filium Uri, filii Hur de tribu Juda,
+
+[EXO.35.31] implevitque eum spiritu Dei, sapientia et intelligentia, et scientia et omni doctrina,
+
+[EXO.35.32] ad excogitandum, et faciendum opus in auro, et argento, et ære,
+
+[EXO.35.33] sculpendisque lapidibus, et opere carpentario, quidquid fabre adinveniri potest,
+
+[EXO.35.34] dedit in corde ejus : Ooliab quoque filium Achisamech de tribu Dan :
+
+[EXO.35.35] ambos erudivit sapientia, ut faciant opera abietarii, polymitarii, ac plumarii, de hyacintho ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quæque reperiant.
+
+## Exodus 36
+
+[EXO.36.1] Fecit ergo Beseleel, et Ooliab, et omnis vir sapiens, quibus dedit Dominus sapientiam et intellectum, ut scirent fabre operari quæ in usus sanctuarii necessaria sunt, et quæ præcepit Dominus.
+
+[EXO.36.2] Cumque vocasset eos Moyses et omnem eruditum virum, cui dederat Dominus sapientiam, et qui sponte sua obtulerant se ad faciendum opus,
+
+[EXO.36.3] tradidit eis universa donaria filiorum Israël. Qui cum instarent operi, quotidie mane vota populus offerebat.
+
+[EXO.36.4] Unde artifices venire compulsi,
+
+[EXO.36.5] dixerunt Moysi : Plus offert populus quam necessarium est.
+
+[EXO.36.6] Jussit ergo Moyses præconis voce cantari : Nec vir, nec mulier quidquam offerat ultra in opere sanctuarii. Sicque cessatum est a muneribus offerendis,
+
+[EXO.36.7] eo quod oblata sufficerent et superabundarent.
+
+[EXO.36.8] Feceruntque omnes corde sapientes ad explendum opus tabernaculi, cortinas decem de bysso retorta, et hyacintho, et purpura, coccoque bis tincto, opere vario, et arte polymita :
+
+[EXO.36.9] quarum una habebat in longitudine viginti octo cubitos, et in latitudine quatuor ; una mensura erat omnium cortinarum.
+
+[EXO.36.10] Conjunxitque cortinas quinque, alteram alteri, et alias quinque sibi invicem copulavit.
+
+[EXO.36.11] Fecit et ansas hyacinthinas in ora cortinæ unius ex utroque latere, et in ora cortinæ alterius similiter,
+
+[EXO.36.12] ut contra se invicem venirent ansæ, et mutuo jungerentur.
+
+[EXO.36.13] Unde et quinquaginta fudit circulos aureos, qui morderent cortinarum ansas, et fieret unum tabernaculum.
+
+[EXO.36.14] Fecit et saga undecim de pilis caprarum ad operiendum tectum tabernaculi :
+
+[EXO.36.15] unum sagum in longitudine habebat cubitos triginta, et in latitudine cubitos quatuor : unius mensuræ erant omnia saga :
+
+[EXO.36.16] quorum quinque junxit seorsum, et sex alia separatim.
+
+[EXO.36.17] Fecitque ansas quinquaginta in ora sagi unius, et quinquaginta in ora sagi alterius, ut sibi invicem jungerentur.
+
+[EXO.36.18] Et fibulas æneas quinquaginta, quibus necteretur tectum, ut unum pallium ex omnibus sagis fieret.
+
+[EXO.36.19] Fecit et opertorium tabernaculi de pellibus arietum rubricatis : aliudque desuper velamentum de pellibus janthinis.
+
+[EXO.36.20] Fecit et tabulas tabernaculi de lignis setim stantes.
+
+[EXO.36.21] Decem cubitorum erat longitudo tabulæ unius : et unum ac semis cubitum latitudo retinebat.
+
+[EXO.36.22] Binæ incastraturæ erant per singulas tabulas, ut altera alteri jungeretur. Sic fecit in omnibus tabernaculi tabulis.
+
+[EXO.36.23] E quibus viginti ad plagam meridianam erant contra austrum,
+
+[EXO.36.24] cum quadraginta basibus argenteis. Duæ bases sub una tabula ponebantur ex utraque parte angulorum, ubi incastraturæ laterum in angulis terminantur.
+
+[EXO.36.25] Ad plagam quoque tabernaculi, quæ respicit ad aquilonem, fecit viginti tabulas,
+
+[EXO.36.26] cum quadraginta basibus argenteis, duas bases per singulas tabulas.
+
+[EXO.36.27] Contra occidentem vero, id est, ad eam partem tabernaculi quæ mare respicit, fecit sex tabulas,
+
+[EXO.36.28] et duas alias per singulos angulos tabernaculi retro :
+
+[EXO.36.29] quæ junctæ erant a deorsum usque sursum, et in unam compaginem pariter ferebantur. Ita fecit ex utraque parte per angulos :
+
+[EXO.36.30] ut octo essent simul tabulæ, et haberent bases argenteas sedecim, binas scilicet bases sub singulis tabulis.
+
+[EXO.36.31] Fecit et vectes de lignis setim, quinque ad continendas tabulas unius lateris tabernaculi,
+
+[EXO.36.32] et quinque alios ad alterius lateris coaptandas tabulas : et extra hos, quinque alios vectes ad occidentalem plagam tabernaculi contra mare.
+
+[EXO.36.33] Fecit quoque vectem alium, qui per medias tabulas ab angulo usque ad angulum perveniret.
+
+[EXO.36.34] Ipsa autem tabulata deauravit, fusis basibus earum argenteis. Et circulos eorum fecit aureos, per quos vectes induci possent : quos et ipsos laminis aureis operuit.
+
+[EXO.36.35] Fecit et velum de hyacintho, et purpura, vermiculo, ac bysso retorta, opere polymitario, varium atque distinctum :
+
+[EXO.36.36] et quatuor columnas de lignis setim, quas cum capitibus deauravit, fusis basibus earum argenteis.
+
+[EXO.36.37] Fecit et tentorium in introitu tabernaculi ex hyacintho, purpura, vermiculo, byssoque retorta, opere plumarii :
+
+[EXO.36.38] et columnas quinque cum capitibus suis, quas operuit auro, basesque earum fudit æneas.
+
+## Exodus 37
+
+[EXO.37.1] Fecit autem Beseleel et arcam de lignis setim, habentem duos semis cubitos in longitudine, et cubitum ac semissem in latitudine, altitudo quoque unius cubiti fuit et dimidii : vestivitque eam auro purissimo intus ac foris.
+
+[EXO.37.2] Et fecit illi coronam auream per gyrum,
+
+[EXO.37.3] conflans quatuor annulos aureos per quatuor angulos ejus : duos annulos in latere uno, et duos in altero.
+
+[EXO.37.4] Vectes quoque fecit de lignis setim, quos vestivit auro,
+
+[EXO.37.5] et quos misit in annulos, qui erant in lateribus arcæ ad portandum eam.
+
+[EXO.37.6] Fecit et propitiatorium, id est, oraculum, de auro mundissimo, duorum cubitorum et dimidii in longitudine, et cubiti ac semis in latitudine.
+
+[EXO.37.7] Duos etiam cherubim ex auro ductili, quos posuit ex utraque parte propitiatorii :
+
+[EXO.37.8] cherub unum in summitate unius partis, et cherub alterum in summitate partis alterius : duos cherubim in singulis summitatibus propitiatorii,
+
+[EXO.37.9] extendentes alas, et tegentes propitiatorium, seque mutuo et illud respicientes.
+
+[EXO.37.10] Fecit et mensam de lignis setim in longitudine duorum cubitorum, et in latitudine unius cubiti, quæ habebat in altitudine cubitum ac semissem.
+
+[EXO.37.11] Circumdeditque eam auro mundissimo, et fecit illi labium aureum per gyrum,
+
+[EXO.37.12] ipsique labio coronam auream interrasilem quatuor digitorum, et super eamdem, alteram coronam auream.
+
+[EXO.37.13] Fudit et quatuor circulos aureos, quos posuit in quatuor angulis per singulos pedes mensæ
+
+[EXO.37.14] contra coronam : misitque in eos vectes, ut possit mensa portari.
+
+[EXO.37.15] Ipsos quoque vectes fecit de lignis setim, et circumdedit eos auro.
+
+[EXO.37.16] Et vasa ad diversos usus mensæ, acetabula, phialas, et cyathos, et thuribula, ex auro puro, in quibus offerenda sunt libamina.
+
+[EXO.37.17] Fecit et candelabrum ductile de auro mundissimo, de cujus vecte calami, scyphi, sphærulæque, ac lilia procedebant :
+
+[EXO.37.18] sex in utroque latere, tres calami ex parte una, et tres ex altera :
+
+[EXO.37.19] tres scyphi in nucis modum per calamos singulos, sphærulæque simul et lilia : et tres scyphi instar nucis in calamo altero, sphærulæque simul et lilia. Æquum erat opus sex calamorum, qui procedebant de stipite candelabri.
+
+[EXO.37.20] In ipso autem vecte erant quatuor scyphi in nucis modum, sphærulæque per singulos simul et lilia :
+
+[EXO.37.21] et sphærulæ sub duobus calamis per loca tria, qui simul sex fiunt calami procedentes de vecte uno.
+
+[EXO.37.22] Et sphærulæ igitur, et calami ex ipso erant, universa ductilia ex auro purissimo.
+
+[EXO.37.23] Fecit et lucernas septem cum emunctoriis suis, et vasa ubi ea, quæ emuncta sunt, extinguantur, de auro mundissimo.
+
+[EXO.37.24] Talentum auri appendebat candelabrum cum omnibus vasis suis.
+
+[EXO.37.25] Fecit et altare thymiamatis de lignis setim, per quadrum singulos habens cubitos, et in altitudine duos : e cujus angulis procedebant cornua.
+
+[EXO.37.26] Vestivitque illud auro purissimo cum craticula ac parietibus et cornibus.
+
+[EXO.37.27] Fecitque ei coronam aureolam per gyrum, et duos annulos aureos sub corona per singula latera, ut mittantur in eos vectes, et possit altare portari.
+
+[EXO.37.28] Ipsos autem vectes fecit de lignis setim, et operuit laminis aureis.
+
+[EXO.37.29] Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis opere pigmentarii.
+
+## Exodus 38
+
+[EXO.38.1] Fecit et altare holocausti de lignis setim, quinque cubitorum per quadrum, et trium in altitudine :
+
+[EXO.38.2] cujus cornua de angulis procedebant, operuitque illum laminis æneis.
+
+[EXO.38.3] Et in usus ejus paravit ex ære vasa diversa, lebetes, forcipes, fuscinulas, uncinos, et ignium receptacula.
+
+[EXO.38.4] Craticulamque ejus in modum retis fecit æneam, et subter eam in altaris medio arulam,
+
+[EXO.38.5] fusis quatuor annulis per totidem retiaculi summitates, ad immittendos vectes ad portandum :
+
+[EXO.38.6] quos et ipsos fecit de lignis setim, et operuit laminis æneis :
+
+[EXO.38.7] induxitque in circulos, qui in lateribus altaris eminebant. Ipsum autem altare non erat solidum, sed cavum ex tabulis, et intus vacuum.
+
+[EXO.38.8] Fecit et labrum æneum cum basi sua de speculis mulierum, quæ excubabant in ostio tabernaculi.
+
+[EXO.38.9] Fecit et atrium, in cujus australi plaga erant tentoria de bysso retorta, cubitorum centum,
+
+[EXO.38.10] columnæ æneæ viginti cum basibus suis, capita columnarum, et tota operis cælatura, argentea.
+
+[EXO.38.11] Æque ad septentrionalem plagam tentoria columnæ, basesque et capita columnarum ejusdem mensuræ, et operis ac metalli, erant.
+
+[EXO.38.12] In ea vero plaga, quæ ad occidentem respicit, fuerunt tentoria cubitorum quinquaginta, columnæ decem cum basibus suis æneæ, et capita columnarum, et tota operis cælatura, argentea.
+
+[EXO.38.13] Porro contra orientem quinquaginta cubitorum paravit tentoria :
+
+[EXO.38.14] e quibus, quindecim cubitos columnarum trium, cum basibus suis, unum tenebat latus :
+
+[EXO.38.15] et in parte altera (quia inter utraque introitum tabernaculi fecit) quindecim æque cubitorum erant tentoria, columnæque tres, et bases totidem.
+
+[EXO.38.16] Cuncta atrii tentoria byssus retorta texuerat.
+
+[EXO.38.17] Bases columnarum fuere æneæ, capita autem earum cum cunctis cælaturis suis argentea : sed et ipsas columnas atrii vestivit argento.
+
+[EXO.38.18] Et in introitu ejus opere plumario fecit tentorium ex hyacintho, purpura, vermiculo, ac bysso retorta, quod habebat viginti cubitos in longitudine, altitudo vero quinque cubitorum erat juxta mensuram, quam cuncta atrii tentoria habebant.
+
+[EXO.38.19] Columnæ autem in ingressu fuere quatuor cum basibus æneis, capitaque earum et cælaturæ argenteæ.
+
+[EXO.38.20] Paxillos quoque tabernaculi et atrii per gyrum fecit æneos.
+
+[EXO.38.21] Hæc sunt instrumenta tabernaculi testimonii, quæ enumerata sunt juxta præceptum Moysi in cæremoniis Levitarum per manum Ithamar filii Aaron sacerdotis :
+
+[EXO.38.22] quæ Beseleel filius Uri filii Hur de tribu Juda, Domino per Moysen jubente, compleverat,
+
+[EXO.38.23] juncto sibi socio Ooliab filio Achisamech de tribu Dan : qui et ipse artifex lignorum egregius fuit, et polymitarius atque plumarius ex hyacintho, purpura, vermiculo et bysso.
+
+[EXO.38.24] Omne aurum quod expensum est in opere sanctuarii, et quod oblatum est in donariis, viginti novem talentorum fuit, et septingentorum triginta siclorum ad mensuram sanctuarii.
+
+[EXO.38.25] Oblatum est autem ab his qui transierunt ad numerum a viginti annis et supra, de sexcentis tribus millibus et quingentis quinquaginta armatorum.
+
+[EXO.38.26] Fuerunt præterea centum talenta argenti e quibus conflatæ sunt bases sanctuarii, et introitus, ubi velum pendet.
+
+[EXO.38.27] Centum bases factæ sunt de talentis centum, singulis talentis per bases singulas supputatis.
+
+[EXO.38.28] De mille autem septingentis et septuaginta quinque, fecit capita columnarum, quas et ipsas vestivit argento.
+
+[EXO.38.29] Æris quoque oblata sunt talenta septuaginta duo millia, et quadringenti supra sicli,
+
+[EXO.38.30] ex quibus fusæ sunt bases in introitu tabernaculi testimonii, et altare æneum cum craticula sua, omniaque vasa quæ ad usum ejus pertinent,
+
+[EXO.38.31] et bases atrii tam in circuitu quam in ingressu ejus, et paxilli tabernaculi atque atrii per gyrum.
+
+## Exodus 39
+
+[EXO.39.1] De hyacintho vero et purpura, vermiculo ac bysso, fecit vestes, quibus indueretur Aaron quando ministrabat in sanctis, sicut præcepit Dominus Moysi.
+
+[EXO.39.2] Fecit igitur superhumerale de auro, hyacintho, et purpura, coccoque bis tincto, et bysso retorta,
+
+[EXO.39.3] opere polymitario : inciditque bracteas aureas, et extenuavit in fila, ut possent torqueri cum priorum colorum subtegmine,
+
+[EXO.39.4] duasque oras sibi invicem copulatas in utroque latere summitatum,
+
+[EXO.39.5] et balteum ex eisdem coloribus, sicut præceperat Dominus Moysi.
+
+[EXO.39.6] Paravit et duos lapides onychinos, astrictos et inclusos auro, et sculptos arte gemmaria nominibus filiorum Israël :
+
+[EXO.39.7] posuitque eos in lateribus superhumeralis in monimentum filiorum Israël, sicut præceperat Dominus Moysi.
+
+[EXO.39.8] Fecit et rationale opere polymito juxta opus superhumeralis, ex auro, hyacintho, purpura, coccoque bis tincto, et bysso retorta :
+
+[EXO.39.9] quadrangulum, duplex, mensuræ palmi.
+
+[EXO.39.10] Et posuit in eo gemmarum ordines quatuor. In primo versu erat sardius, topazius, smaragdus.
+
+[EXO.39.11] In secundo, carbunculus, sapphirus, et jaspis.
+
+[EXO.39.12] In tertio, ligurius, achates, et amethystus.
+
+[EXO.39.13] In quarto, chrysolithus, onychinus, et beryllus, circumdati et inclusi auro per ordines suos.
+
+[EXO.39.14] Ipsique lapides duodecim sculpti erant nominibus duodecim tribuum Israël, singuli per nomina singulorum.
+
+[EXO.39.15] Fecerunt in rationali et catenulas sibi invicem cohærentes, de auro purissimo :
+
+[EXO.39.16] et duos uncinos, totidemque annulos aureos. Porro annulos posuerunt in utroque latere rationalis,
+
+[EXO.39.17] e quibus penderent duæ catenæ aureæ, quas inseruerunt uncinis, qui in superhumeralis angulis eminebant.
+
+[EXO.39.18] Hæc et ante et retro ita conveniebant sibi, ut superhumerale et rationale mutuo necterentur,
+
+[EXO.39.19] stricta ad balteum et annulis fortius copulata, quos jungebat vitta hyacinthina, ne laxa fluerent, et a se invicem moverentur, sicut præcepit Dominus Moysi.
+
+[EXO.39.20] Feceruntque quoque tunicam superhumeralis totam hyacinthinam,
+
+[EXO.39.21] et capitium in superiori parte contra medium, oramque per gyrum capitii textilem :
+
+[EXO.39.22] deorsum autem ad pedes mala punica ex hyacintho, purpura, vermiculo, ac bysso retorta :
+
+[EXO.39.23] et tintinnabula de auro purissimo, quæ posuerunt inter malogranata, in extrema parte tunicæ per gyrum :
+
+[EXO.39.24] tintinnabulum autem aureum, et malum punicum, quibus ornatus incedebat pontifex quando ministerio fungebatur, sicut præceperat Dominus Moysi.
+
+[EXO.39.25] Fecerunt et tunicas byssinas opere textili Aaron et filiis ejus :
+
+[EXO.39.26] et mitras cum coronulis suis ex bysso :
+
+[EXO.39.27] feminalia quoque linea, byssina :
+
+[EXO.39.28] cingulum vero de bysso retorta, hyacintho, purpura, ac vermiculo bis tincto, arte plumaria, sicut præceperat Dominus Moysi.
+
+[EXO.39.29] Fecerunt et laminam sacræ venerationis de auro purissimo, scripseruntque in ea opere gemmario, Sanctum Domini :
+
+[EXO.39.30] et strinxerunt eam cum mitra vitta hyacinthina, sicut præceperat Dominus Moysi.
+
+[EXO.39.31] Perfectum est igitur omne opus tabernaculi et tecti testimonii : feceruntque filii Israël cuncta quæ præceperat Dominus Moysi.
+
+[EXO.39.32] Et obtulerunt tabernaculum et tectum et universam supellectilem, annulos, tabulas, vectes, columnas ac bases,
+
+[EXO.39.33] opertorium de pellibus arietum rubricatis, et aliud operimentum de janthinis pellibus,
+
+[EXO.39.34] velum ; arcam, vectes, propitiatorium,
+
+[EXO.39.35] mensam cum vasis suis et propositionis panibus ;
+
+[EXO.39.36] candelabrum, lucernas, et utensilia earum cum oleo ;
+
+[EXO.39.37] altare aureum, et unguentum, et thymiama ex aromatibus,
+
+[EXO.39.38] et tentorium in introitu tabernaculi ;
+
+[EXO.39.39] altare æneum, retiaculum, vectes, et vasa ejus omnia ; labrum cum basi sua ; tentoria atrii, et columnas cum basibus suis ;
+
+[EXO.39.40] tentorium in introitu atrii, funiculosque illius et paxillos. Nihil ex vasis defuit, quæ in ministerium tabernaculi, et in tectum fœderis jussa sunt fieri.
+
+[EXO.39.41] Vestes quoque, quibus sacerdotes utuntur in sanctuario, Aaron scilicet et filii ejus,
+
+[EXO.39.42] obtulerunt filii Israël, sicut præceperat Dominus.
+
+[EXO.39.43] Quæ postquam Moyses cuncta vidit completa, benedixit eis.
+
+## Exodus 40
+
+[EXO.40.1] Locutusque est Dominus ad Moysen, dicens :
+
+[EXO.40.2] Mense primo, prima die mensis, eriges tabernaculum testimonii,
+
+[EXO.40.3] et pones in eo arcam, dimittesque ante illam velum :
+
+[EXO.40.4] et illata mensa, pones super eam quæ rite præcepta sunt. Candelabrum stabit cum lucernis suis,
+
+[EXO.40.5] et altare aureum, in quo adoletur incensum, coram arca testimonii. Tentorium in introitu tabernaculi pones,
+
+[EXO.40.6] et ante illud altare holocausti :
+
+[EXO.40.7] labrum inter altare et tabernaculum, quod implebis aqua.
+
+[EXO.40.8] Circumdabisque atrium tentoriis, et ingressum ejus.
+
+[EXO.40.9] Et assumpto unctionis oleo unges tabernaculum cum vasis suis, ut sanctificentur :
+
+[EXO.40.10] altare holocausti et omnia vasa ejus,
+
+[EXO.40.11] labrum cum basi sua : omnia unctionis oleo consecrabis, ut sint Sancta sanctorum.
+
+[EXO.40.12] Applicabisque Aaron et filios ejus ad fores tabernaculi testimonii, et lotos aqua
+
+[EXO.40.13] indues sanctis vestibus, ut ministrent mihi, et unctio eorum in sacerdotium sempiternum proficiat.
+
+[EXO.40.14] Fecitque Moyses omnia quæ præceperat Dominus.
+
+[EXO.40.15] Igitur mense primo anni secundi, prima die mensis, collocatum est tabernaculum.
+
+[EXO.40.16] Erexitque Moyses illud, et posuit tabulas ac bases et vectes, statuitque columnas,
+
+[EXO.40.17] et expandit tectum super tabernaculum, imposito desuper operimento, sicut Dominus imperaverat.
+
+[EXO.40.18] Posuit et testimonium in arca, subditis infra vectibus, et oraculum desuper.
+
+[EXO.40.19] Cumque intulisset arcam in tabernaculum, appendit ante eam velum ut expleret Domini jussionem.
+
+[EXO.40.20] Posuit et mensam in tabernaculo testimonii ad plagam septentrionalem extra velum,
+
+[EXO.40.21] ordinatis coram propositionis panibus, sicut præceperat Dominus Moysi.
+
+[EXO.40.22] Posuit et candelabrum in tabernaculo testimonii e regione mensæ in parte australi,
+
+[EXO.40.23] locatis per ordinem lucernis, juxta præceptum Domini.
+
+[EXO.40.24] Posuit et altare aureum sub tecto testimonii contra velum,
+
+[EXO.40.25] et adolevit super eo incensum aromatum, sicut jusserat Dominus Moysi.
+
+[EXO.40.26] Posuit et tentorium in introitu tabernaculi testimonii,
+
+[EXO.40.27] et altare holocausti in vestibulo testimonii, offerens in eo holocaustum, et sacrificia, ut Dominus imperaverat.
+
+[EXO.40.28] Labrum quoque statuit inter tabernaculum testimonii et altare, implens illud aqua.
+
+[EXO.40.29] Laveruntque Moyses et Aaron ac filii ejus manus suas et pedes,
+
+[EXO.40.30] cum ingrederentur tectum fœderis, et accederent ad altare, sicut præceperat Dominus Moysi.
+
+[EXO.40.31] Erexit et atrium per gyrum tabernaculi et altaris, ducto in introitu ejus tentorio. Postquam omnia perfecta sunt,
+
+[EXO.40.32] operuit nubes tabernaculum testimonii, et gloria Domini implevit illud.
+
+[EXO.40.33] Nec poterat Moyses ingredi tectum fœderis, nube operiente omnia, et majestate Domini coruscante, quia cuncta nubes operuerat.
+
+[EXO.40.34] Siquando nubes tabernaculum deserebat, proficiscebantur filii Israël per turmas suas :
+
+[EXO.40.35] si pendebat desuper, manebant in eodem loco.
+
+[EXO.40.36] Nubes quippe Domini incubabat per diem tabernaculo, et ignis in nocte, videntibus cunctis populis Israël per cunctas mansiones suas.

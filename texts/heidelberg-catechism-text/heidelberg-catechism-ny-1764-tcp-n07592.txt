@@ -1,0 +1,678 @@
+Title: The Heidelbergh catechism, or method of instruction, in the Christian religion, as the same is taught in the Reformed churches and schools of Holland
+Work: Heidelberger Katechismus (Heidelberg Catechism)
+Author: Heidelberg Catechism (1563)
+Language: english
+Credit: The Heidelbergh catechism, or method of instruction, in the Christian religion, as the same is taught in the Reformed churches and schools of Holland, in EEBO-TCP/Evans-TCP N07592 (Evans 9694): New York: John Holt, 1764, translated for the Reformed Protestant Dutch Church of the City of New York, trans. Collegiate Reformed Protestant Dutch Church of the City of New York (translator not named) (New York: John Holt, at the Exchange, 1764). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/textcreationpartnership/N07592/master/N07592.xml
+Retrieved: 2026-11-05 (source file 111933 bytes, SHA-256 df5991df8a1dec8ed29f8fcbcdc2f45de6a61f609ab0404d0e7e88459944cf2d)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":43,"note":389,"unread":2}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## front.1
+
+[front.1.1] THIS Tranſlation of the Heidelbergh Catechiſm, from the Dutch, having firſt been examined, compared and approved of, by the Conſiſtory of the reformed Proteſtant Dutch Church, of the City of New-York, is by them recommended for the Uſe of their Church and Schools, and printed by their Order.
+
+[front.1.2] June 5th, 1764.
+
+## I. LORD'S DAY.
+
+[1.1] FIRST QUESTION.
+
+[1.2] WHAT is thy only Comfort in Life and Death?
+
+[1.3] Anſwer. That I with Body and Soul, both in Life and Death am not my own, but belong unto my faithful Saviour Jeſus Chriſt, who with his precious Blood hath fully ſatisfied for all my Sins, and delivered me from all the Power of the Devil; and ſo preſerves me, that without the Will of my heavenly Father, not a Hair can fall from my Head; yea that all Things muſt be ſubſervient to my Salvation. And therefore, by his Holy Spirit, He alſo aſſures me of eternal Life, and makes me ſincerely willing and ready, henceforth, to live unto him.
+
+[1.4] 〈1… pages missing〉
+
+[1.5] Queſt. 10. Will God ſuffer ſuch Diſobedience and Rebellion to go unpuniſhed?
+
+[1.6] Anſ. By no Means: But is terribly diſpleaſed with our original as well as actual Sins; and will puniſh them in his juſt Judgment temporally and eternally, as he hath declared,
+Curſed is every one that contiueth not in all Things, which are written in the Book of the Law, to do them.
+
+[1.7] Queſt. 11. Is not God then alſo merciful?
+
+[1.8] Anſ. God is indeed merciful, but alſo, juſt; therefore his Juſtice requires, that Sin which is committed againſt the moſt high Majeſty of God, be alſo puniſhed with extreme, that is, with everlaſting Puniſhments, both of Body and Soul.
+
+## THE SECOND PART. Of Man's Deliverance. V. LORD'S DAY.
+
+[2.1] Queſt. 12th. Since then, by the righteous Judgment of God, we deſerve temporal and eternal Puniſhment, is there no Way by which we may eſcape that Puniſhment, and be again received into Favour?
+
+[2.2] Anſ. God will have his Juſtice. ſatisfied; and therefore we muſt make this full Satisfaction, either by ourſelves, or by another.
+
+[2.3] Queſt. 13th. Can we ourſelves then make this Satisfaction?
+
+[2.4] Anſ. By no Means; but on the Contrary we daily increaſe our Debt.
+
+[2.5] Queſt. 14th. Can there then be found any where, one who is a mere Creature, able to ſatisfy for us?
+
+[2.6] Anſ. None; for firſt, God will not puniſh any other Creature for the Sin which Man hath committed; and further no mere Creature can ſuſtain the Burden of God's eternal Wrath againſt Sin, ſo as to deliver others from it.
+
+[2.7] Queſt. 15th. What Sort of a Mediator and Deliverer then muſt we ſeek for?
+
+[2.8] Anſ. For one who is very Man, and perfectly righteous; and yet more powerful than all Creatures; that is, one who is alſo very God.
+
+## VI. LORD'S DAY.
+
+[1.3.1] Queſt. 16th. Why muſt he be very Man, and alſo perfectly righteous?
+
+[1.3.2] Anſ. Becauſe the Juſtice of God, requires that the ſame human Nature, which hath ſinned, ſhould likewiſe make Satisfaction for Sin; and one who is himſelf a Sinner cannot ſatisfy for others.
+
+[1.3.3] Queſt. 17th. Why muſt He in one Perſon be alſo very God?
+
+[1.3.4] Anſ. That He might, by the Power of his Godhead, ſuſtain in his human Nature, the Burthen of God's Wrath; and might obtain for, and reſtore to us, Righteouſneſs and Life.
+
+[1.3.5] Queſt. 18th. Who then is that Mediator, who is in one Perſon both very God, and a real righteous Man?
+
+[1.3.6] Anſ. Our Lord Jeſus Chriſt,
+who of God is made unto us Wiſdom, and Righteouſneſs, and Sanctification, and Redemption.
+
+[1.3.7] Queſt. 19th. Whence knoweſt thou this?
+
+[1.3.8] Anſ. From the Holy Goſpel, which God himſelf revealed firſt in Paradiſe; and afterwards publiſhed by the Patriarchs and Prophets, and was pleaſed to repreſent it, by the Shadows of Sacrifices and the other Ceremonies of the Law; and laſtly, has accompliſhed it by his only begotten Son.
+
+## VII. LORD'S DAY.
+
+[1.4.1] Queſt. 20th. Are all Men then, as they periſhed in Adam, ſaved by Chriſt?
+
+[1.4.2] Anſ. No; only thoſe who are ingrafted into him, and receive all his Benefits, by a true Faith.
+
+[1.4.3] Queſt. 21ſt. What is true Faith?
+
+[1.4.4] Anſ. True Faith is not only a certain Knowledge, whereby I hold for Truth all that God has revealed to us in his Word, but alſo an aſſured Confidence, which the Holy Ghoſt works by the Goſpel, in my Heart; that not only to others, but to me alſo, Remiſſion of Sin, everlaſting Righteouſneſs and Salvation, are freely given by God, meerly of Grace, only for the Sake of Chriſt's Merits.
+
+[1.4.5] Queſt. 22d. What is then neceſſary for a Chriſtian to believe?
+
+[1.4.6] Anſ. All Things promiſed us in the Goſpel, which the Articles of our Catholick undoubted Chriſtian Faith briefly teach us.
+
+[1.4.7] Queſt. What are theſe Articles!
+
+[1.4.8] Anſw.
+I. I believe in God, the Father Almighty, Maker of Heaven and Earth.
+II. And in Jeſus Chriſt, His only begotten Son, our Lord:
+III. Who was conceived by the Holy Ghoſt, born of the Virgin Mary:
+IV. Suffered under Pontius Pilate; was crucified, dead and buried. He deſcended into Hell:
+V. The Third Day he roſe again from the Dead:
+VI. He aſcended into Heaven, and ſitteth at the right Hand of God the Father Almighty:
+VII. From thence he ſhall come to judge the Quick and the Dead.
+VIII. I believe in the Holy Ghoſt.
+IX. I believe an Holy Catholick Church: The Communion of Saints:
+X. The Forgiveneſs of Sins:
+XI. The Reſurrection of the Body:
+XII. And the Life everlaſting. Amen.
+
+## VIII. LORD'S DAY.
+
+[1.5.1] Queſt. 24th. How are theſe Articles divided?
+
+[1.5.2] Anſ. Into three Parts; the firſt is of God the Father, and our Creation; the ſecond of God the Son, and our Redemption; the third of God the Holy Ghoſt, and our Sanctification.
+
+[1.5.3] Queſt. 25th. Since there is only but one
+Divine Eſſence, why ſpeakeſt thou of Father, Son, and Holy Ghoſt?
+
+[1.5.4] Anſ. Becauſe God hath ſo revealed himſelf in His Word, that theſe three diſtinct Perſons are the one only true and eternal God.
+
+## OF GOD THE FATHER. IX. LORD'S DAY.
+
+[1.6.1] Queſt. 25d. What believeſt thou, when thou ſayeſt,
+I BELIEVE IN GOD THE FATHER ALMIGHTY, MAKER OF HEAVEN AND EARTH?
+
+[1.6.2] Anſ. That the eternal Father of Our Lord Jeſus Chriſt, (Who of nothing made Heaven and Earth, with all that is in them; Who likewiſe upholds and governs the ſame by His eternal Counſel and Providence) is for the Sake of Chriſt His Son, my God, and my Father; on whom I rely ſo entirely, that I have no Doubt, but He will provide me with all Things neceſſary for Soul and Body: And further, that He will make whatever Evils He ſends upon me, in this Valley of Tears, turn out to my Advantage; for He is able to do it, being Almighty God; and willing, being a faithful Father.
+
+## X. LORD'S DAY.
+
+[1.7.1] Queſt. 27th. What doſt thou mean by the Providence of God?
+
+[1.7.2] Anſ. The Almighty and every where preſent Power of God; whereby, as it were by His Hand He upholds and governs Heaven,
+Earth, and all Creatures; ſo that Herbs and Graſs, Rain and Drought, fruitful and barren Years, Meat and Drink, Health and Sickneſs, Riches and Poverty, yea all Things come, not by Chance, but by His fatherly Hand.
+
+[1.7.3] Queſt. 28. What Advantage is it to us to know that God has created, and by his Providence doth ſtill uphold all Things?
+
+[1.7.4] Anſ. That we may be patient in Adverſity, thankful in Proſperity; and that in all Things, which may hereafter befal us, we place our firm Truſt in our faithful God and Father, that nothing ſhall ſeparate us from His Love, ſince all Creatures are ſo in His Hand, that without His Will they cannot ſo much as move.
+
+## OF GOD THE SON. XI. LORD'S DAY.
+
+[1.8.1] Queſt. 29th. Why is the Son of God called Jeſus, that is a Saviour?
+
+[1.8.2] Anſ. Becauſe He ſaveth us, and delivereth us from our Sins; and likewiſe, becauſe we ought not to ſeek, neither can find, Salvation in any other.
+
+[1.8.3] Queſt. 30. Do ſuch then believe in Jeſus the only Saviour, who ſeek their Salvation and Happineſs of Saints, of themſelves, or any where elſe?
+
+[1.8.4] Anſ. They do not; for tho' they boaſt of Him in Words, yet in Deeds they deny Jeſus the only Deliverer and Saviour; for one
+of theſe two Things muſt be true, that either Jeſus is not a complete Saviour; or that they who by a true Faith receive this Saviour, muſt find all Things in Him neceſſary to their Salvation.
+
+## XII. LORD'S DAY.
+
+[1.9.1] Queſt. 31ſt. Why is He called Christ, that is anointed?
+
+[1.9.2] Anſ. Becauſe He is ordained of God the Father, and anointed with the Holy Ghoſt, to be our chief Prophet and Teacher; Who has fully revealed to us the ſecret Council and Will of God concerning our Redemption: And to be our only High Prieſt, Who by the one Sacrifice of His Body, has redeemed us, & makes continual Interceſſion with the Father for us; and alſo to be our eternal King, Who governs us by His Word and Spirit; and Who defends and preſerves us in [the Enjoyment of] that Salvation He has purchaſed for us.
+
+[1.9.3] Queſt. 32. But why art thou called a Chriſtian?
+
+[1.9.4] Anſ. Becauſe I am a Member of Chriſt by Faith, and thus am Partaker of His anointing, that ſo I may confeſs His Name, & preſent myſelf a living Sacrifice of Thankfulneſs to Him: and alſo that with a free and good Conſcience I may fight againſt Sin and Satan in this Life; and afterwards reign with Him eternally, over all Creatures.
+
+## XIII. LORD'S DAY.
+
+[1.10.1] Queſt. 33. Why is Chriſt called the only begotten Son of God, ſince we are alſo the Children of God?
+
+[1.10.2] Anſ. Becauſe Chriſt alone is the eternal and natural Son of God; but we are Children adopted of God, by Grace, for His Sake.
+
+[1.10.3] Queſt. 34th. Wherefore calleſt thou Him our Lord?
+
+[1.10.4] Anſ. Becauſe He hath redeemed us, both Soul & Body, from all our Sins, not with Gold or Silver but with His precious Blood, and hath delivered us from all the Power of the Devil; and thus hath made us His own Property.
+
+## XIV. LORD'S DAY.
+
+[1.11.1] Queſt. 35th. What is the Meaning of theſe Words,
+HE WAS CONCEIVED BY THE HOLY GHOST, BORN OF THE VIRGIN MARY?
+
+[1.11.2] Anſ. That God's eternal Son, who is, and continueth true and eternal God, took upon Him the very Nature of Man, of the Fleſh and Blood of the Virgin Mary, by the Operation of the Holy Ghoſt; That He might alſo, be the true Seed of David, like unto his Brethren in all Things, Sin excepted.
+
+[1.11.3] Queſt. 36th. What Profit doſt thou receive by Chriſt's holy Conception and Nativity?
+
+[1.11.4] Anſ. That He is our Mediator; and with his Innocence and perfect Holineſs, covers in the Sight of God, my Sins, wherein I was conceived and brought forth!
+
+## XV. LORD'S DAY.
+
+[1.12.1] Queſt. 37th. What doſt thou underſtand by the Word, "HE SUFFERED?"
+
+[1.12.2] Anſ. That He, all the Time He lived on Earth, but eſpecially at the End of his Life, ſuſtained in Body and Soul, the Wrath of God againſt the Sins of all Mankind. That ſo by His Paſſion, as the only propitiatory Sacrifice, He might redeem our Body and Soul from everlaſting Damnation, and obtain for us the Favour of God, Righteouſneſs and eternal Life.
+
+[1.12.3] Queſtion 38th. Why did He ſuffer under Pontius Pilate, as His Judge?
+
+[1.12.4] Anſ. That He, being innocent, and yet condemned by a temporal Judge, might thereby free us from the ſevere Judgment of God, to which we were expoſed.
+
+[1.12.5] Queſt. 39th. Is there any-Thing more in His being crucified, than if He had died ſome other Death?
+
+[1.12.6] Anſ. Yes [there is]; for thereby I am aſſured, that he took on Him the Curſe which lay upon me; for the Death of the Croſs was accurſed of God.
+
+## XVI. LORD'S DAY.
+
+[1.13.1] Queſt. 40th. Why was it neceſſary for Chriſt to humble himſelf even to Death?
+
+[1.13.2] Anſ. Becauſe, with reſpect to the Juſtice and Truth of God, Satisfaction for our Sins could be made no otherwiſe than by the Death of the Son of God.
+
+[1.13.3] Queſt. 41. Why was He alſo "BURIED?"
+
+[1.13.4] Anſ. Thereby to prove that He was really dead.
+
+[1.13.5] Queſt. 42. Since then Chriſt died for us, why muſt we alſo die?
+
+[1.13.6] Anſ. Our Death is not a Satisfaction for our Sins, but only an aboliſhing of Sin, and a Paſſage into eternal Life.
+
+[1.13.7] Queſt. 43. What further Benefit do we receive from the Sacrifice and Death of Chriſt on the Croſs?
+
+[1.13.8] Anſ. That by Virtue thereof, our Old Man is crucified, dead, and buried with Him; that ſo the corrupt Inclinations of the Fleſh may no more reign in us; but that we may offer ourſelves unto Him a Sacrifice of Thankſgiving.
+
+[1.13.9] Queſt. 44th. Why is there added
+HE DESCENDED INTO HELL?
+
+[1.13.10] Anſ. That in my greateſt Temptations, I may be aſſured, and wholly comfort myſelf in this, that my Lord Jeſus Chriſt by His inexpreſſible Anguiſh, Pains, Terrors, and helliſh Agonies, in which He was plunged during all His Sufferings, but eſpecially on the Croſs, hath delivered me from the Anguiſh and Torments of Hell.
+
+## XVII. LORD'S DAY.
+
+[1.14.1] Queſt. 45th. What doth the Reſurrection of Chriſt profit us?
+
+[1.14.2] Anſ. Firſt; by His Reſurrection He hath overcome Death, that He might make us Partakers of that Righteouſneſs which He had purchaſed for us by His Death. Secondly, we are alſo by His Power, raiſed up to a new Life. And laſtly, the Reſurrection of Chriſt is a ſure Pledge of our bleſſed Reſurrection.
+
+## XVIII. LORD'S DAY.
+
+[1.15.1] Queſt. 46th. How doſt thou underſtand theſe Words,
+HE ASCENDED INTO HEAVEN?
+
+[1.15.2] Anſ. That Chriſt, in Sight of His Diſciples was taken up from Earth into Heaven; and that He continues there for our Intereſt, until He come again to judge the Quick and the Dead.
+
+[1.15.3] Queſt. 47th. Is not Chriſt then with us even to the End of the World, as He hath promiſed?
+
+[1.15.4] Anſ. Chriſt is very Man and very God: With Reſpect to his human Nature, He is no more on Earth; but with Reſpect to His Godhead, Majeſty, Grace and Spirit, He is at no Time abſent from us.
+
+[1.15.5] Queſt. 48th. But if his human Nature is not preſent, where-ever His Godhead is, are not then theſe two Natures in Chriſt ſeparated from one another?
+
+[1.15.6] Anſw. Not at all, for ſince the Godhead is incomprehenſible and omnipreſent; it muſt neceſſarily follow that the ſame is not limited with the human Nature He aſſumed, and yet remains perſonally united to it.
+
+[1.15.7] Queſt. 49th. Of what Advantage to us is Chriſt's Aſcenſion into Heaven?
+
+[1.15.8] Anſw. Firſt, That He is our Advocate in the Preſence of His Father in Heaven: Secondly, That we have our Fleſh in Heaven as a ſure Pledge, that He as the Head, will alſo take up to himſelf, us his Members. Thirdly, That He ſends us His Spirit as an Earneſt, by whoſe Power we ſeek the Things which are above, where Chriſt ſitteth on the right Hand of God, and not Things on Earth.
+
+## XIX. LORD'S DAY.
+
+[1.16.1] Queſt. 50th. Why is it added,
+AND SITTETH AT THE RIGHT HAND OF GOD?
+
+[1.16.2] Anſ. Becauſe Chriſt is aſcended into Heaven for this End, That He might there appear as head of His Church, by whom the Father governs all Things.
+
+[1.16.3] Queſt. 51ſt. What Profit is this Glory of Chriſt our Head unto us?
+
+[1.16.4] Anſw. Firſt, that by His holy Spirit He poureth out heavenly Graces upon us his Members: And then that by His Power He defends and preſerves us againſt all Enemies.
+
+[1.16.5] Queſt. 52d. What Comfort is it to thee that
+CHRIST SHALL COME AGAIN TO JUDGE THE QUICK AND THE DEAD?
+
+[1.16.6] Anſ. That in all my Sorrows and Perſecutions, with uplifted Head I look for the very ſame Perſon, who before offered Himſelf for my Sake, to the Tribunal of God, and hath removed all Curſe from me, to come as Judge from Heaven; who ſhall caſt all his and my Enemies into everlaſting Condemnation, but ſhall tranſlate me with all his Choſen-ones to Himſelf, into heavenly Joys and Glory.
+
+## OF GOD THE HOLY GHOST. XX. LORD'S DAY.
+
+[1.17.1] Queſt. 53d. What doſt thou believe concerning the Holy Ghoſt?
+
+[1.17.2] Anſ. Firſt, That He is true and co-eternal God with the Father and the Son: Secondly, that He is alſo given me, to make me by a true Faith, Partaker of Chriſt and all his Benefits, that He may comfort me, and abide with me forever.
+
+## XXI. LORD'S DAY.
+
+[1.18.1] Queſt. 54th. What believeſt thou concerning the "HOLY CATHOLICK CHURCH" of Chriſt?
+
+[1.18.2] Anſ. That the Son of God from the Beginning to the End of the World, gathers, defends, and preſerves to himſelf by his Spirit and Word, out of the whole human
+Race, a Church choſen to everlaſting Life, agreeing in true Faith; and that I am, and forever ſhall remain, a living Member thereof.
+
+[1.18.3] Queſt. 55th. What do you underſtand by "THE COMMUNION OF SAINTS?"
+
+[1.18.4] Anſ. Firſt, that all and every one who believes, being Members of Chriſt, are in common Partakers of Him, and of all his Riches and Gifts: Secondly, that every one muſt know it to be his Duty, readily and cheerfully to employ his Gifts, for the Advantage and Salvation of other Members.
+
+[1.18.5] Queſt. 56th. What believeſt thou concerning "THE FORGIVENESS OF SINS?"
+
+[1.18.6] Anſ. That God for the Sake of Chriſt's Satisfaction, will no more remember my Sins, neither my corrupt Nature, againſt which I have to ſtruggle all my Life long; but will graciouſly impute to me the Righteouſneſs of Chriſt, that I may never be condemned before the Tribunal of God.
+
+## XXII. LORD'S DAY.
+
+[1.19.1] Queſt. 57th. What Comfort doth the Reſurrection of the Body afford thee?
+
+[1.19.2] Anſ. That not only my Soul after this Life, ſhall be immediately taken up to Chriſt its Head; but alſo, that this my Body, being raiſed by the Power of Chriſt, ſhall be reunited with my Soul, and made like unto the glorious Body of Chriſt.
+
+[1.19.3] Queſt. 58th. What Comfort takeſt thou from the Article of Life everlaſting?
+
+[1.19.4] Anſ. That ſince I now feel in my Heart
+the Beginning of eternal Joy, after this Life,
+〈◊〉 ſhall inherit perfect Salvation, which Eye hath not ſeen, nor Ear heard, neither hath it entered into the Heart of Man to conceive, and that, to praiſe God therein forever.
+
+## XXIII. LORD'S DAY.
+
+[1.20.1] Queſt. 59th. But what doth it profit thee now that thou believeſt all this?
+
+[1.20.2] Anſ. That I am righteous 〈◊〉 Chriſt before God, and an heir of eternal Life.
+
+[1.20.3] Queſt. 60th. How art thou righteous before God?
+
+[1.20.4] Anſ. Only by a true Faith in Jeſus Chriſt; ſo that, tho' my Conſcience accuſe me, that I have groſsly tranſgreſſed all the Commands of God, and kept none of them, and am, ſtill inclined to all Evil; notwithſtanding, God, without any Merit of mine, but only of mere Grace, grants and imputes to me, the perfect Satisfaction, Righteouſneſs and Holineſs of Chriſt; even ſo, as if I never had had, nor committed any Sin: Yea, as if I had fully accompliſhed all that Obedience which Chriſt hath accompliſhed for me; in as much as I embrace ſuch Benefit with a believing Heart.
+
+[1.20.5] Queſt. 61ſt. Why ſayeſt thou, that thou art righteous by Faith only?
+
+[1.20.6] Anſ. Not that I am acceptable to God, on Account of the Worthineſs of my Faith; but becauſe only the Satisfaction, Righteousneſs, and Holineſs of Chriſt, is my Righteouſneſs
+before God, and that I cannot receive and apply the ſame to myſelf any other Way than by Faith only.
+
+## XXIV. LORD'S DAY.
+
+[1.21.1] Queſt. 62d. But why cannot our good Works be the Whole or Part of our Righteouſneſs before God?
+
+[1.21.2] Anſ. Becauſe, that the Righteouſneſs, which can be approved of before the Tribunal of God, muſt be abſolutely perfect, and in all Reſpects conformable to the divine Law: and alſo, that our beſt Works in this Life, are all imperfect and defiled with Sin.
+
+[1.21.3] Queſt. 63d. What! do not our good Works merit, which yet God will reward in this and in a future Life?
+
+[1.21.4] Anſ. This Reward is not of Merit, but of Grace.
+
+[1.21.5] Queſt. 64th. But doth not this Doctrine make Men careleſs and profane?
+
+[1.21.6] Anſ. By no Means: For it is impoſſible that thoſe who are implanted into Chriſt by a true Faith, ſhould not bring forth Fruits of Thankfulneſs.
+
+## OF THE SACRAMENTS. XXV. LORD'S DAY.
+
+[1.22.1] Queſt. 65th. Since then we are made Partakers of Chriſt and all his Benefits by Faith only, whence doth this Faith proceed?
+
+[1.22.2] Anſ. From the Holy Ghoſt, who works Faith in our Hearts by the preaching of the Goſpel, and confirms it by the Uſe of the Sacraments.
+
+[1.22.3] Queſt. 66th. What are the Sacraments?
+
+[1.22.4] Anſ. The Sacraments are holy viſible Signs and Seals appointed of God for this End, that by the Uſe thereof, He may the more fully declare and ſeal to us the Promiſe of the Goſpel; viz. That He grants us freely the Remiſſion of Sin and Life eternal, for the Sake of that one Sacrifice of Chriſt accompliſhed on the Croſs.
+
+[1.22.5] Queſt. 67th. Are both Word and Sacraments then ordained and appointed for this End, that they may direct our Faith to the Sacrifice of Jeſus Chriſt on the Croſs, as the only Ground of our Salvation?
+
+[1.22.6] Anſ. Yes indeed; for the Holy Ghoſt teaches us in the Goſpel, and aſſures us by the Sacraments, that the whole of our Salvation depends upon that one Sacrifice of Chriſt, which He offered for us on the Croſs.
+
+[1.22.7] Queſt. 68th. How many Sacraments has Chriſt inſtituted in the New Covenant, or Teſtament?
+
+[1.22.8] Anſ.
+Two, namely Holy Baptiſm, and the Holy Supper.
+
+## OF HOLY BAPTISM. XXVI. LORD'S DAY.
+
+[1.23.1] Queſt. 69th. How art thou admoniſhed and aſſured by Holy Baptiſm, that the one Sacrifice
+of Chriſt upon the Croſs is of real Advantage to thee?
+
+[1.23.2] Anſ. Thus, that Chriſt appointed this external Waſhing with Water, adding thereto this Promiſe, that I am as certainly waſhed by His Blood and Spirit from all the Pollution of my Soul, that is from all my Sins, as I am waſhed externally with Water, by which the Filthineſs of the Body is commonly waſhed away.
+
+[1.23.3] Queſt. 70th. What is it to be waſhed with the Blood and Spirit of Chriſt?
+
+[1.23.4] Anſ. It is to receive of God the Remiſſion of Sins, freely, for the Sake of Chriſt's Blood, which He ſhed for us in his Sacrifice upon the Croſs: and alſo to be renewed by the Holy Ghoſt, and ſanctified to be Members of Chriſt; that ſo we may more and more die unto Sin, and lead holy and unblameable Lives.
+
+[1.23.5] Queſt. 71ſt. Where has Chriſt promiſed us, that He will as certainly waſh us by his Blood and Spirit, as we are waſhed with the Water of Baptiſm?
+
+[1.23.6] Anſ. In the Inſtitution of Baptiſm, which is thus expreſſed,
+Go ye therefore, and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt:" "He that believeth and is baptized ſhall be ſaved; but he that believeth not, ſhall be damned. This Promiſe is alſo repeated, where the Scripture calls Baptiſm the Waſhing of Regeneration, and the Waſhing away of Sins.
+
+## XXVII. LORD'S DAY.
+
+[1.24.1] Queſt. 72d. Is then the external Baptiſm with Water, the waſhing away of Sin itſelf?
+
+[1.24.2] Anſ. Not at all; for the Blood of Jeſus Chriſt only, and the Holy Ghoſt, cleanſe us from all Sin.
+
+[1.24.3] Queſt. 73d. Why then doth the Holy Ghoſt call Baptiſm "the Waſhing of Regeneration" and "the Waſhing away of Sins?"
+
+[1.24.4] Anſ. God ſpeaks thus not without great Cauſe, to wit, not only thereby to teach us, that as the Filth of the Body is purged away by Water, ſo our Sins are removed by the Blood and Spirit of Jeſus Chriſt; but eſpecially, that by this Divine Pledge and Sign He may aſſure us, that we are ſpiritually cleanſed from our Sins as really, as we are externally waſhed with Water.
+
+[1.24.5] Queſt. 74th. Are Infants alſo to be baptiſed?
+
+[1.24.6] Anſ. Yes, for ſince they, as well as the Adult, are included in the Covenant and Church of God; and ſince Redemption from Sin by the Blood of Chriſt, and the Holy Ghoſt, the Author of Faith, is promiſed to them no leſs than to the Adult; they muſt therefore by Baptiſm, as a Sign of the Covenant, be alſo admitted into the Chriſtian Church; and be diſtinguiſhed from the Children of Infidels, as was done in the Old Covenant or Teſtament by Circumciſion, inſtead of which, Baptiſm is inſtituted in the New Covenant.
+
+## OF THE HOLY SUPPER OF OUR LORD JESUS CHRIST. XXVIII. LORD'S DAY.
+
+[1.25.1] Queſt. 75th. How art thou admoniſhed and aſſured in the Lord's Supper, that thou art a Partaker of that one Sacrifice of Chriſt, accompliſhed on the Croſs, and of all his Benifits?
+
+[1.25.2] Anſ. Thus, That Chriſt has commanded me and all Believers, to eat of this broken Bread, and to Drink of this Cup, in Remembrance of Him, adding theſe Promiſes; Firſt, that His Body was offered and broken on the Croſs for me, and His Blood ſhed for me, as certainly as I ſee with my Eyes, the Bread of the Lord broken for me, and the Cup communicated to me: And further, that He feeds and nouriſhes my Soul to everlaſting Life, with His crucified Body, and ſhed Blood, as aſſuredly as I receive from the Hands of the Miniſter, and taſte with my Mouth the Bread and Cup of the Lord, as certain Signs of the Body and Blood of Chriſt.
+
+[1.25.3] Queſt. 76th. What is it then to eat the crucified Body, and drink the ſhed Blood of Chriſt?
+
+[1.25.4] Anſ. It is not only to embrace with a believing Heart all the Sufferings and Death of Chriſt, and thereby to obtain the Pardon of Sin and Life eternal; but alſo, beſides that, to become more and more united to His ſacred
+Body by the Holy Ghoſt who dwells both in Chriſt and in us; ſo that we, though Chriſt is in Heaven and we on Earth, are notwithſtanding Fleſh of His Fleſh, and Bone of His Bone; and that we live and are governed forever by one Spirit, as Members of the ſame Body are by one Soul.
+
+[1.25.5] Queſt. 77th. Where has Chriſt promiſed that He will as certainly feed and nouriſh Believers with His Body and Blood, as they eat of this broken Bread, and drink of this Cup?
+
+[1.25.6] Anſ. In the Inſtitution of the Supper which is thus expreſs'd;
+The Lord Jeſus in the ſame Night in which he was betrayed, took Bread, & when He had given Thanks, He brake it, and ſaid, take, eat; this is my Body, which is broken for you; this do in Remembrance of me: After the ſame Manner alſo He took the Cup, when he had ſupped, ſaying, this Cup is the New Teſtament in my Blood: This do ye as often as ye drink it, in Remembrance of me. For as often as ye eat this Bread, and drink this Cup, ye do ſhew the Lord's Death till he come.
+
+[1.25.7] This Promiſe is repeated by the Holy Apoſtle Paul, where he ſays,
+The Cup of Bleſſing which we bleſs, is it not the Communion of the Blood of Chriſt? The Bread which we break is it not the Communion of the Body of Chriſt? For we being many, are one Bread and one Body; becauſe we are all Partakers of that one Bread.
+
+## XXIX. LORD'S DAY.
+
+[1.26.1] Queſt. 78th. Do then the Bread and Wine become the very Body and Blood of Chriſt.
+
+[1.26.2] Anſ. Not at all: But as the Water in Baptiſm is not changed into the Blood of Chriſt, neither is the Waſhing away of Sin itſelf, being only the Sign and Confirmation thereof appointed of God; ſo the Bread in the Lord's Supper is not changed into the very Body of Chriſt, tho' agreeable to the Nature and Properties of Sacraments, it is called the Body of Chriſt Jeſus.
+
+[1.26.3] Queſt. 79th. Why then doth Chriſt call the Bread his Body, and the Cup his Blood, or the New Covenant in his Blood, and Paul the Communion of the Body and Blood of Chriſt.
+
+[1.26.4] Anſ. Chriſt ſpeaks thus not without great reaſon, namely, not only thereby to teach us, that as Bread and Wine ſupport this temporal Life, ſo his crucified Body, and ſhed Blood are the true Meat and Drink whereby our Souls are fed to eternal Life; but more eſpecially by theſe viſible Signs and Pledges to aſſure us, that we are as really Partakers of his true Body and Blood (by the Operation of the Holy Ghoſt) as we receive by the Mouths of our Bodies theſe Holy Signs in Remembrance of Him; and that all his Sufferings and Obedience, are as certainly ours, as if we had in our own Perſons ſuffered and made Satisfaction for our Sins to God.
+
+## XXX. LORD'S DAY.
+
+[1.27.1] Queſt. 80th. What Difference is there between the Lord's Supper and the Popiſh Maſs?
+
+[1.27.2] Anſ. The Lord's Supper teſtifies to us, that we have a full Pardon of all Sin by the only Sacrifice of Jeſus Chriſt, which He himſelf has once accompliſhed on the Croſs; and, that we by the Holy Ghoſt are ingrafted into Chriſt, who, according to his human Nature is now not on Earth, but in Heaven, at the Right Hand of God his Father, and will there be worſhipped by us: But the Maſs teacheth that the Living and Dead have not the Pardon of Sins through the Sufferings of Chriſt, unleſs Chriſt is alſo daily offered for them by the Prieſts; and further, that Chriſt is bodily under the Form of Bread and Wine, and therefore is to be worſhipped in them; ſo that the Maſs at Bottom, is nothing elſe than a Denial of the one Sacrifice and Sufferings of Jeſus Chriſt, and an accurſed Idolatry.
+
+[1.27.3] Queſt. 81ſt. For whom is the Lord's Supper inſtituted?
+
+[1.27.4] Anſ. For thoſe who are truly ſorrowful for their Sins, and yet truſt that theſe are forgiven them for the Sake of Chriſt; and that their remaining Infirmities are covered by his Paſſion and Death; and who alſo earneſtly deſire to have their Faith more and more ſtrengthened, and their Lives more holy; but Hypocrites, and ſuch as turn not to God
+with ſincere Hearts, eat and drink Judgment to themſelves.
+
+[1.27.5] Queſt. 82d. Are they alſo to be admitted to this Supper, who by Confeſſion and Life declare themſelves Infidels and Ungodly?
+
+[1.27.6] Anſ. No; for by this, the Covenant of God would be profaned, and His Wrath kindled againſt the whole Congregation; therefore it is the Duty of the Chriſtian Church, according to the Appointment of Chriſt and his Apoſtles, to exclude ſuch Perſons by the Keys of the Kingdom of Heaven, till they ſhow Amendment of Life.
+
+## XXXI. LORD'S DAY.
+
+[1.28.1] Queſt. 83d. What are
+the Keys of the Kingdom of Heaven?
+
+[1.28.2] Anſ. The Preaching of the Holy Goſpel, and Chriſtian Diſcipline, or Excommunication out of the Chriſtian Church; by theſe two, the Kingdom of Heaven is opened to Believers, and ſhut againſt Unbelievers.
+
+[1.28.3] Queſt. 84th. How is the Kingdom of Heaven opened and ſhut by the Preaching of the Holy Goſpel?
+
+[1.28.4] Anſ. Thus; when according to the Command of Chriſt, it is declared and publickly teſtified to all and every Believer, that whenever they receive the Promiſe of the Goſpel by a true Faith, all their Sins are really forgiven them of God, for the Sake of Chriſt's Merits; and on the Contrary, when it is declared and teſtified to all Unbelievers, and ſuch as do not ſincerely repent, that they
+ſtand expoſed to the Wrath of God, and eternal Condemnation, ſo long as they are unconverted: According to which Teſtimony of the Goſpel, God will judge them, both in this, and the Life to come.
+
+[1.28.5] Queſt. 85th. How is the Kingdom of Heaven ſhut and opened by Chriſtian Diſcipline?
+
+[1.28.6] Anſ. Thus; when according to the Command of Chriſt, thoſe who under the Name of Chriſtians maintain Doctrines, or Practices inconſiſtent therewith; will not, after having been often brotherly admoniſhed, renounce their Errors and wicked Courſe of Life, are complained of to the Church, or to thoſe who are thereunto appointed by the Church; and, if they deſpiſe their Admonition, are by them forbid the Uſe of the Sacraments, whereby they are excluded from the Chriſtian Church, and by God himſelf from the Kingdom of Chriſt; and when they promiſe and ſhew real Amendment, are again received as Members of Chriſt and His Church.
+
+## THE THIRD PART. OF THANKFULNESS. XXXII. LORD'S DAY.
+
+[1.29.1] Queſt. 86th. Since then we are delivered from our Miſery, merely of Grace, through Chriſt, without any Merit of ours; why muſt we ſtill do good Works?
+
+[1.29.2] Anſw. Becauſe that Chriſt, having redeemed
+and delivered us by his Blood, alſo renews us by His Holy Spirit, after his own Image; that ſo we may teſtify by the whole of our Conduct, our Gratitude to God for his Bleſſings, and that He may be praiſed by us: Alſo, that every one may be aſſured in himſelf of his Faith, by the Fruits thereof; and that by our Godly Converſation others may be gained to Chriſt.
+
+[1.29.3] Queſt. 87th. Cannot they then be ſaved, who continuing in their wicked and ungrateful lives, are not converted to God?
+
+[1.29.4] Anſ. By no Means; for the Holy Scripture declares that no unchaſt Perſon, Idolater, Adulterer, Thief, covetous Man, Drunkard, Slanderer, Robber, or any ſuch like, ſhall inherit the Kingdom of God.
+
+## XXXIII. LORD'S DAY.
+
+[1.30.1] Queſt. 88th. In how many Parts doth the true Converſion of Man conſiſt?
+
+[1.30.2] Anſ. In two Parts; in the Mortification of the Old, and in the Quickening of the New Man.
+
+[1.30.3] Queſt. 89th. What is the Mortification of the Old Man?
+
+[1.30.4] Anſ. It is a ſincere Sorrow of Heart, that we have provoked God by our Sins, and more and more to hate and flee from them.
+
+[1.30.5] Queſt. 90th. What is the Quickening of the New Man?
+
+[1.30.6] Anſ. It is a ſincere Joy of Heart in God, through Chriſt, and with Love and Delight
+to live according to the Will of God in all good Works.
+
+[1.30.7] Queſt. 91ſt. But what are good Works?
+
+[1.30.8] Anſ. Only thoſe which proceed from a true Faith, are performed according to the Law of God, and to His Glory; and not ſuch as are founded on our Imaginations, or the Inſtitutions of Men.
+
+## XXXIV. LORD'S DAY.
+
+[1.31.1] Queſt. 29th. What is the Law of God?
+
+[1.31.2] Anſ. God ſpake all theſe Words, Exod. xx. Deut. v. ſaying, I am the Lord thy God, which hath brought thee out of the Land of Egypt, out of the Houſe of Bondage.
+
+[1.31.3] I. COM. Thou ſhalt have no other Gods before me.
+II. COM. Thou ſhalt not make unto thyſelf any graven Image, nor the Likeneſs of any Thing that is in Heaven above, or in the Earth beneath, or in the Water under the Earth. Thou ſhalt not bow down to them, nor ſerve them; for I the Lord thy God am a jealous God, viſiting the Iniquity of the Fathers upon the Children, unto the third and fourth Generation of them that hate me, and ſhewing Mercy unto thouſands of them that love me, and keep my Commandments.
+III. COM. Thou ſhalt not take the Name of the Lord thy God in vain; for the Lord will not hold him guiltleſs, that taketh his Name in vain.
+IV. COM. Remember the Sabbath Day, to keep it holy, ſix Days ſhalt thou labour, and do all thy Work, but the ſeventh Day is the Sabbath of the Lord thy God: In it thou ſhalt do no Manner of Work, thou nor thy Son, nor thy Daughter, thy Man Servant, nor thy Maid Servant, nor thy Cattle, nor the Stranger that is within thy Gates. For in Six Days the Lord made Heaven and Earth, the Sea, and all that in them is, and reſted the ſeventh Day; wherefore the Lord bleſſed the Sabbath Day, and hallowed it.
+V. COM. Honour thy Father and thy Mother, that thy Days may be long in the Land, which the Lord thy God giveth thee.
+VI. COM. Thou ſhalt not kill.
+VII. COM. Thou ſhalt not commit Adultery.
+VIII. COM. Thou ſhalt not ſteal.
+IX. COM. Thou ſhalt not bear falſe Witneſs againſt thy Neighbour.
+X. COM. Thou ſhalt not covet thy Neighbour's Houſe, thou ſhalt not covet thy Neighbour's Wife, nor his Servant, nor his Maid, nor his Ox, nor his Aſs, nor any thing that is thy Neighbour's.
+
+[1.31.4] Queſt. 93. How are theſe ten Commands divided?
+
+[1.31.5] Anſ. Into two
+Tables, the
+firſt of which teaches us how we muſt behave towards God; the ſecond, what Duties we owe to our Neighbour.
+
+[1.31.6] Queſt. 94. What doth God enjoin in the firſt Command?
+
+[1.31.7] Anſw. That I, as ſincerely as I deſire the Salvation of my own Soul, avoid and flee from all Idolatry,
+Sorcery,
+Soothſaying, Superſtition,
+Invocation of Saints, or any other Creatures, and learn
+rightly to know the only true God: s truſt in him alone; with Humility t and Patience
+ſubmit to Him,
+expect all good Things from Him only;
+love,
+fear, and
+glority Him with my whole Heart: So that I renounce
+and forſake all Creatures, rather than
+commit even the leaſt Thing, contrary to his Will.
+
+[1.31.8] Queſt. 95. What is Idolatry?
+
+[1.31.9] Anſ. Idolatry is inſtead of, or beſides that one true God, who has manifeſted Himſelf in His Word, to contrive, or have any other Object in which Men place their Truſt.
+
+## XXXV. LORD'S DAY.
+
+[1.32.1] Queſt. 96. What doth God require in the ſecond Command?
+
+[1.32.2] Anſ. That we in no Wiſe repreſent God by Images, nor worſhip Him in any other Way than He has commanded in his Word.
+
+[1.32.3] Queſt. 97. Are Images then not at all to be made?
+
+[1.32.4] Anſw. God neither can, nor may be repreſented by any Means: But as to Creatures, tho' they may be repreſented, yet God forbids to make, or have any Reſemblance of them, either in Order to worſhip them, or to ſerve God by them.
+
+[1.32.5] Queſt. 98. But may not Images be tolerated in the Churches, as Books to the Laity?
+
+[1.32.6] Anſ. No; for we muſt not pretend to be wiſer than God, who will have his People taught, not by dumb Images, but by the lively preaching of his Word.
+
+## XXXVI. LORD'S DAY.
+
+[1.33.1] Queſt. 99. What is required in the third Command?
+
+[1.33.2] Anſ. That we, not only by curſing or Perjury; but alſo by raſh ſwearing, muſt not profane or abuſe the Name of God; nor by Silence or Connivance be Partakers of theſe horrible Sins in others; and briefly, that we uſe the holy Name of God no otherwiſe than with Fear and Reverence; ſo that He may be rightly confeſſed and worſhipped by us, and be glorified in all our Words and Works.
+
+[1.33.3] Queſt. 100. Is then the profaning of God's Name by ſwearing and curſing, ſo heinous a Sin, that His Wrath is kindled againſt thoſe who do not endeavour as much as in them lies to prevent and forbid, ſuch Curſing and Swearing.
+
+[1.33.4] Anſ. It undoubtedly is, for there is no Sin greater, or more provoking to God, than the profaning of his Name; and therefore He has commanded this Sin to be puniſhed with Death.
+
+## XXXVII. LORD'S DAY.
+
+[1.34.1] Queſt. 101. May we then ſwear religiouſly by the Name of God?
+
+[1.34.2] Anſ. Yes; either when the Magiſtrates demand it of the Subjects; or when Neceſſity requires us thereby to confirm Fidelity, and Truth, to the Glory of God, and the Safety of our Neighbour; for ſuch an Oath is founded on God's Word, and therefore was juſtly uſed by the Saints, both in the Old and New Teſtament.
+
+[1.34.3] Queſt. 102. May we alſo ſwear by Saints, or any other Creature?
+
+[1.34.4] Anſ. No; for a lawful Oath is a Calling upon God, as the only one who knows the Heart, that He will bear Witneſs to the Truth, and puniſh me if I ſwear faſlely; which Honour is due to no Creature.
+
+## XXXVIII. LORD'S DAY.
+
+[1.35.1] Queſt. 103d. What doth God require in the fourth Command?
+
+[1.35.2] Anſ. Firſt, that the Miniſtry of the Goſpel, and the Schools be maintained; and that I, eſpecially on the Sabbath, that is on the Day of Reſt, diligently frequent the Church of God, to hear his Word, to uſe the Sacraments, publickly to call upon the Lord, and contribute to the Relief of the Poor, as becomes
+a Chriſtian. Secondly, that all the Days of my Life I ceaſe from my Evil Works, and yield myſelf to the Lord, to work by His Holy Spirit in me; and thus begin in this Life the eternal Sabbath.
+
+## XXXIX. LORD'S DAY.
+
+[1.36.1] Queſt. 104th. What doth God require in the fifth Command?
+
+[1.36.2] Anſ. That I ſhew all Honour, Love, and Fidelity to my Father and Mother, and all in Authority over me, and ſubmit myſelf to their good Inſtruction and Correction, with due Obedience; and alſo patiently bear with their Weakneſſes and Infirmities, ſince it pleaſes God to govern us by their Hand.
+
+## XL. LORD'S DAY.
+
+[1.37.1] Queſt. 105th. What doth God require in the ſixth Command?
+
+[1.37.2] Anſ. That neither in Thoughts, nor Words, nor Geſtures, much leſs in Deeds, I diſhonour, hate, wound or kill my Neighbour, by myſelf or by another; but that I lay aſide all deſire of Revenge: alſo, that I hurt not myſelf, or willfully expoſe myſelf to any Danger. Wherefore alſo the Magiſtrate is armed with the Sword, to prevent Murder.
+
+[1.37.3] Queſt. 106th. But this Command ſeems only to ſpeak of Murder?
+
+[1.37.4] Anſ. In forbidding Murder, God teaches us, that He abhors the Cauſes thereof; ſuch as Envy, Hatred, Anger, and Deſire of Revenge; and that He accounts all theſe as Murder.
+
+[1.37.5] Queſt. 107th. But is it enough that we don't kill any Man in the Manner mentioned above?
+
+[1.37.6] Anſ. No; for when God forbids Envy, Hatred, and Anger; He commands us to love our Neighbour as ourſelves; to ſhow Patience, Peace, Meekneſs, Mercy, and all Kindneſs towards Him, and prevent his Hurt as much as in us lies: And that we do good, even to our Enemies.
+
+## XLI. LORD'S DAY.
+
+[1.38.1] Queſt. 108th. What doth the ſeventh Command teach us?
+
+[1.38.2] Anſ. That all Uncleanneſs is accurſed of God, and that therefore we muſt with all our Hearts deteſt the ſame, and live chaſtely and temperately, whether in holy Wedlock, or in a ſingle Life.
+
+[1.38.3] Queſt. 109th. Doth God forbid in this Command, only Adultery, and ſuch like groſs Sins?
+
+[1.38.4] Anſ. Since both our Body and Soul are Temples of the Holy Ghoſt, He commands us to preſerve them pure and holy; therefore he forbids all unchaſte Actions, Geſtures, Words, Thoughts, Deſires, and whatever can entice Men thereto.
+
+## XLII. LORD'S DAY.
+
+[1.39.1] Queſt. 110th. What doth God forbid in the eighth Command?
+
+[1.39.2] Anſ. God forbids not only thoſe Thefts and Robberies which are puniſhable by the Magiſtrate; but He comprehends under the Name of Theft, all wicked Tricks and Devices, whereby we deſign to appropriate to ourſelves the Goods which belong to our Neighbour; whether it be by Force, or under the Appearance of right; as by unjuſt Weights, Ells, Meaſures, fraudulent Merchandize, falſe Coins, Uſury, or by any other Way forbidden by God; as alſo all covetouſneſs, all Abuſe and Waſte of his Gifts.
+
+[1.39.3] Queſt. 111. But what doth God require in this Command?
+
+[1.39.4] Anſ. That I promote the Advantage of my Neighbour in every Inſtance I can or may; and deal with him as I deſire to be dealt with by others; further alſo that I faithfully labour, ſo that I may be able to relieve the needy.
+
+## XLIII. LORD'S DAY.
+
+[1.40.1] Queſt. 112. What is required in the ninth Command?
+
+[1.40.2] Anſ. That I bear falſe Witneſs againſt no Man; nor falſify any Man's Words:
+That I be no Backbiter, or Slanderer; that I do not judge, or join in condemning any Man raſhly or unheard; but that I avoid all Sorts of Lies and Deceit, as the proper Works of the Devil, unleſs I would bring down upon me the heavy Wrath of God: Likewiſe that in Judgment and all other Dealings, I love the Truth, ſpeak it uprightly and confeſs it: Alſo that I defend and promote, as much as I am able, the Honour and good Character of my Neighbour.
+
+## XLIV. LORD'S DAY.
+
+[1.41.1] Queſt. 113. What doth the tenth Command require of us?
+
+[1.41.2] Anſ. That even the ſmalleſt Inclination or Thought, contrary to any of God's Commands, never riſe in our Hearts; but that at all Times we hate all Sin with our whole Hearts, and delight in all Righteouſneſs.
+
+[1.41.3] Queſt. 114. But can thoſe who are converted to God, perfectly keep theſe Commands?
+
+[1.41.4] Anſ. No; but even the holieſt Men while in this Life, have only ſmall Beginnings of this Obedience, yet ſo, that with a ſincere Reſolution, they begin to live, not only according to ſome, but all the Commands of God.
+
+[1.41.5] Queſt. 115. Why will God then have the ten Commands ſo ſtrictly preached, ſince no Man in this Life can keep them?
+
+[1.41.6] Anſ. Firſt, that all our Life Time, we may learn more and more to know our ſinful
+Nature, and thus become the more earneſt in ſeeking the Remiſſion of Sin, and Righteouſneſs in Chriſt: Likewiſe, that we conſtantly endeavour and pray to God for the Grace of the Holy Spirit, that we may become more and more conformable to the Image of God, till we arrive at the Perfection propoſed to us, in a Life to come.
+
+## OF PRAYER. XLV. LORD'S DAY.
+
+[1.42.1] Queſt. 116th. Why is Prayer neceſſary for Chriſtians?
+
+[1.42.2] Anſ. Becauſe it is that chief Part of Thankfulneſs which God requires of us: And alſo becauſe God will give His Grace and Holy Spirit to thoſe only who with ſincere Deſires continually aſk them of Him, and are thankful for them.
+
+[1.42.3] Queſt. 117th. What are the Requiſites of that Prayer, which is acceptable to God, and which He will hear?
+
+[1.42.4] Anſ. Firſt, that we from the Heart pray to the one true God only, who hath manifeſted himſelf in His Word, for all Things he hath commanded us, to aſk of Him: Secondly, that we rightly and thoroughly know our Need & Miſery, that ſo we may deeply humble ourſelves in the Preſence of His divine Majeſty; thirdly, that we be fully perſuaded that He, notwithſtanding we are p unworthy of it, will, for the Sake of Chriſt our Lord, certainly hear our Prayer, as He has promiſed us in his Word.
+
+[1.42.5] Queſt. 118th. What Hath God commanded us to aſk of Him?
+
+[1.42.6] Anſ. All Things neceſſary for Soul and Body; which Chriſt our Lord has compriſed, in that Prayer He himſelf has taught us.
+
+[1.42.7] Queſt. 119. What are the Words of that Prayer?
+
+[1.42.8] Anſ. Our Father which art in Heaven, Hollowed be Thy Name. Thy Kingdom come. Thy Will be done on Earth, as it is in Heaven. Give us this Day our daily Bread, and forgive us our Debts, as we forgive our Debtors, and lead us not into Temptation; but deliver us from Evil. For Thine is the Kingdom, the Power, and the Glory, forever and ever, Amen.
+
+## XLVI. LORD'S DAY.
+
+[1.43.1] Queſt. 120. Why hath Chriſt commanded us to addreſs God thus "OUR FATHER?
+
+[1.43.2] Anſ. That immediately, in the very Beginning of our Prayer, He might excite in us a Child-like Reverence for, and Confidence in God, which are the Foundation of our Prayer; namely, that God is become our Father in Chriſt, and will much leſs deny us what we aſk of Him in true Faith, than our Parents will refuſe us earthly Things.
+
+[1.43.3] Queſt. 121. Why is it here added,
+WHICH ART IN HEAVEN?
+
+[1.43.4] Anſ. Leſt we ſhould form any earthly Conceptions of God's Heavenly Majeſty, & that we may expect from His Almighty Power all Things neceſſary for Soul and Body.
+
+## XLVII. LORD'S DAY.
+
+[1.44.1] Queſt. 122d. Which is the firſt Petition?
+
+[1.44.2] Anſ.
+"HALLOWED BE THY NAME"; that is, grant us firſt rightly to know Thee, and to ſanctify, glorify and praiſe Thee, in all thy Works, in which Thy Power, Wiſdom, Goodneſs, Juſtice, Mercy and Truth, are clearly diſplayed; and further alſo, that we may ſo order and direct or whole Lives, our Thoughts, Words and Actions, as that Thy Name may never be blaſphemed, but rather honoured and praiſed, on our Account.
+
+## XLVIII. LORD'S DAY.
+
+[1.45.1] Queſt. 123d. Which is the Second Petition?
+
+[1.45.2] Anſ.
+"THY KINGDOM COME;" that is, rule us ſo by Thy Word and Spirit, that we may ſubmit ourſelves more and more to Thee; preſerve and increaſe thy Church, deſtroy the Works of the Devil, and all Violence which would exalt itſelf againſt Thee; and alſo, all wicked counſels deviſed againſt thy holy Word; till the full Perfection of thy Kingdom takes Place, wherein Thou ſhalt be all in all.
+
+## XLIX. LORD'S DAY.
+
+[1.46.1] Queſt. 124. Which is the third Petition?
+
+[1.46.2] Anſ.
+"THY WILL BE DONE IN EARTH AS IT IS IN HEAVEN." That is, grant that we and all Men may renounce our own Will, & without murmuring obey Thy Will which is only good; that ſo every one may attend to and perform the Duties of his Station and Calling as willingly and faithfully, as the Angels do in Heaven.
+
+## L. LORD'S DAY.
+
+[1.47.1] Queſt. 125th. Which is the fourth Petition?
+
+[1.47.2] Anſ.
+"GIVE US THIS DAY OUR DAILY BREAD; That is, be pleaſed to provide us with all Things neceſſary for the Body, that we may thereby acknowledge Thee to be the only Fountain of all Good, and that neither our Care nor Induſtry nor even Thy Gifts, can profit us without Thy Bleſſing and therefore that we may withdraw our Truſt from all Creatures, and place it alone in Thee.
+
+## LI. LORD'S DAY.
+
+[1.48.1] Queſt. 126. Which is the fifth Petition?
+
+[1.48.2] Anſ. " AND FORGIVE US OUR DEBTS, AS WE FORGIVE OUR DEBTORS;" that is, be pleaſed, for the Sake of Chriſt's Blood, not to impute to us poor Sinners, our Tranſgreſſions, nor that Depravity which always cleaves to us: even as we feel this Evidence of Thy Grace in us, that it is our firm Reſolution from the Heart to forgive our Neighbour.
+
+## LII. LORD'S DAY.
+
+[1.49.1] Queſt. 127. Which is the ſixth Petition?
+
+[1.49.2] Anſ. " AND LEAD US NOT INTO TEMPTATION, BUT DELIVER US FROM EVIL;" that is, ſince we are ſo weak in ourſelves, that we cannot ſtand a Moment; and beſides this, ſince our mortal Enemies, the Devil, the World, and our own Fleſh, ceaſe not to aſſault us; do Thou therefore preſerve and ſtrengthen us by the Power of Thy Holy Spirit, that we may not be overcome in this ſpiritual Warfare; but conſtantly and ſtrenuouſly may reſiſt our Foes, till at laſt we obtain a complete Victory.
+
+[1.49.3] Queſt. 128. How doſt thou conclude thy Prayer?
+
+[1.49.4] Anſ. " FOR THINE IS THE KINGDOM, THE POWER, AND THE GLORY FOREVER," that is, all theſe we aſk of Thee, becauſe Thou being our King and Almighty, art willing and able to give us all Good; and all this we pray for, that thereby, not we, but Thy Holy Name may be glorified forever.
+
+[1.49.5] Queſt. 129th. What doth the Word
+"AMEN" ſignify?
+
+[1.49.6] Anſ. " AMEN," ſignifies, it ſhall truely and certainly be; for my Prayer is more aſſuredly heard of God, than I feel in my Heart, that I deſire theſe Things of Him.

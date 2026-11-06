@@ -1,0 +1,131 @@
+Title: Habakkuk — Biblia Sacra Vulgatae editionis (Clementine)
+Work: Habakkuk
+Author: The Vulgate (c. 382–405 (largely Jerome); Clementine edition 1592–1598)
+Language: latin
+Credit: Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml
+Retrieved: 2026-11-05 (source file 4652377 bytes, SHA-256 5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## Habakkuk 1
+
+[HAB.1.1] Onus quod vidit Habacuc propheta.
+
+[HAB.1.2] Usquequo, Domine, clamabo, et non exaudies ? vociferabor ad te, vim patiens, et non salvabis ?
+
+[HAB.1.3] Quare ostendisti mihi iniquitatem et laborem, videre prædam et injustitiam contra me ? Et factum est judicium, et contradictio potentior.
+
+[HAB.1.4] Propter hoc lacerata est lex, et non pervenit usque ad finem judicium ; quia impius prævalet adversus justum, propterea egreditur judicium perversum.
+
+[HAB.1.5] Aspicite in gentibus, et videte ; admiramini, et obstupescite : quia opus factum est in diebus vestris, quod nemo credet cum narrabitur.
+
+[HAB.1.6] Quia ecce ego suscitabo Chaldæos, gentem amaram et velocem, ambulantem super latitudinem terræ, ut possideat tabernacula non sua.
+
+[HAB.1.7] Horribilis et terribilis est : ex semetipsa judicium et onus ejus egredietur.
+
+[HAB.1.8] Leviores pardis equi ejus, et velociores lupis vespertinis : et diffundentur equites ejus : equites namque ejus de longe venient ; volabunt quasi aquila festinans ad comedendum.
+
+[HAB.1.9] Omnes ad prædam venient, facies eorum ventus urens ; et congregabit quasi arenam captivitatem.
+
+[HAB.1.10] Et ipse de regibus triumphabit, et tyranni ridiculi ejus erunt ; ipse super omnem munitionem ridebit, et comportabit aggerem, et capiet eam.
+
+[HAB.1.11] Tunc mutabitur spiritus, et pertransibit, et corruet : hæc est fortitudo ejus dei sui.
+
+[HAB.1.12] Numquid non tu a principio, Domine, Deus meus, sancte meus, et non moriemur ? Domine, in judicium posuisti eum, et fortem, ut corriperes, fundasti eum.
+
+[HAB.1.13] Mundi sunt oculi tui, ne videas malum, et respicere ad iniquitatem non poteris. Quare respicis super iniqua agentes, et taces devorante impio justiorem se ?
+
+[HAB.1.14] Et facies homines quasi pisces maris, et quasi reptile non habens principem.
+
+[HAB.1.15] Totum in hamo sublevavit, traxit illud in sagena sua, et congregavit in rete suum. Super hoc lætabitur, et exsultabit.
+
+[HAB.1.16] Propterea immolabit sagenæ suæ, et sacrificabit reti suo, quia in ipsis incrassata est pars ejus, et cibus ejus electus.
+
+[HAB.1.17] Propter hoc ergo expandit sagenam suam, et semper interficere gentes non parcet.
+
+## Habakkuk 2
+
+[HAB.2.1] Super custodiam meam stabo, et figam gradum super munitionem : et contemplabor ut videam quid dicatur mihi, et quid respondeam ad arguentem me.
+
+[HAB.2.2] Et respondit mihi Dominus, et dixit : Scribe visum, et explana eum super tabulas, ut percurrat qui legerit eum.
+
+[HAB.2.3] Quia adhuc visus procul ; et apparebit in finem, et non mentietur : si moram fecerit, exspecta illum, quia veniens veniet, et non tardabit.
+
+[HAB.2.4] Ecce qui incredulus est, non erit recta anima ejus in semetipso ; justus autem in fide sua vivet.
+
+[HAB.2.5] Et quomodo vinum potantem decipit, sic erit vir superbus, et non decorabitur : qui dilatavit quasi infernus animam suam, et ipse quasi mors, et non adimpletur : et congregabit ad se omnes gentes, et coacervabit ad se omnes populos.
+
+[HAB.2.6] Numquid non omnes isti super eum parabolam sument, et loquelam ænigmatum ejus, et dicetur : Væ ei qui multiplicat non sua ? usquequo et aggravat contra se densum lutum ?
+
+[HAB.2.7] Numquid non repente consurgent qui mordeant te, et suscitabuntur lacerantes te, et eris in rapinam eis ?
+
+[HAB.2.8] Quia tu spoliasti gentes multas, spoliabunt te omnes qui reliqui fuerint de populis, propter sanguinem hominis, et iniquitatem terræ, civitatis, et omnium habitantium in ea.
+
+[HAB.2.9] Væ qui congregat avaritiam malam domui suæ, ut sit in excelso nidus ejus, et liberari se putat de manu mali !
+
+[HAB.2.10] Cogitasti confusionem domui tuæ ; concidisti populos multos, et peccavit anima tua.
+
+[HAB.2.11] Quia lapis de pariete clamabit, et lignum, quod inter juncturas ædificiorum est, respondebit.
+
+[HAB.2.12] Væ qui ædificat civitatem in sanguinibus, et præparat urbem in iniquitate !
+
+[HAB.2.13] Numquid non hæc sunt a Domino exercituum ? laborabunt enim populi in multo igne, et gentes in vacuum, et deficient.
+
+[HAB.2.14] Quia replebitur terra, ut cognoscant gloriam Domini, quasi aquæ operientes mare.
+
+[HAB.2.15] Væ qui potum dat amico suo mittens fel suum, et inebrians ut aspiciat nuditatem ejus !
+
+[HAB.2.16] Repletus es ignominia pro gloria ; bibe tu quoque, et consopire. Circumdabit te calix dexteræ Domini, et vomitus ignominiæ super gloriam tuam.
+
+[HAB.2.17] Quia iniquitas Libani operiet te, et vastitas animalium deterrebit eos de sanguinibus hominum, et iniquitate terræ, et civitatis, et omnium habitantium in ea.
+
+[HAB.2.18] Quid prodest sculptile, quia sculpsit illud fictor suus, conflatile, et imaginem falsam ? quia speravit in figmento fictor ejus, ut faceret simulacra muta.
+
+[HAB.2.19] Væ qui dicit ligno : Expergiscere ; Surge, lapidi tacenti ! Numquid ipse docere poterit ? ecce iste coopertus est auro et argento, et omnis spiritus non est in visceribus ejus.
+
+[HAB.2.20] Dominus autem in templo sancto suo : sileat a facie ejus omnis terra !
+
+## Habakkuk 3
+
+[HAB.3.1] Oratio Habacuc prophetæ, pro ignorantiis.
+
+[HAB.3.2] Domine, audivi auditionem tuam, et timui. Domine, opus tuum, in medio annorum vivifica illud ; in medio annorum notum facies : cum iratus fueris, misericordiæ recordaberis.
+
+[HAB.3.3] Deus ab austro veniet, et Sanctus de monte Pharan : operuit cælos gloria ejus, et laudis ejus plena est terra.
+
+[HAB.3.4] Splendor ejus ut lux erit, cornua in manibus ejus : ibi abscondita est fortitudo ejus.
+
+[HAB.3.5] Ante faciem ejus ibit mors, et egredietur diabolus ante pedes ejus.
+
+[HAB.3.6] Stetit, et mensus est terram ; aspexit, et dissolvit gentes, et contriti sunt montes sæculi : incurvati sunt colles mundi ab itineribus æternitatis ejus.
+
+[HAB.3.7] Pro iniquitate vidi tentoria Æthiopiæ ; turbabuntur pelles terræ Madian.
+
+[HAB.3.8] Numquid in fluminibus iratus es, Domine ? aut in fluminibus furor tuus ? vel in mari indignatio tua ? Qui ascendes super equos tuos, et quadrigæ tuæ salvatio.
+
+[HAB.3.9] Suscitans suscitabis arcum tuum, juramenta tribubus quæ locutus es ; fluvios scindes terræ.
+
+[HAB.3.10] Viderunt te, et doluerunt montes ; gurges aquarum transiit : dedit abyssus vocem suam ; altitudo manus suas levavit.
+
+[HAB.3.11] Sol et luna steterunt in habitaculo suo : in luce sagittarum tuarum ibunt, in splendore fulgurantis hastæ tuæ.
+
+[HAB.3.12] In fremitu conculcabis terram ; in furore obstupefacies gentes.
+
+[HAB.3.13] Egressus es in salutem populi tui, in salutem cum christo tuo : percussisti caput de domo impii, denudasti fundamentum ejus usque ad collum.
+
+[HAB.3.14] Maledixisti sceptris ejus, capiti bellatorum ejus, venientibus ut turbo ad dispergendum me : exsultatio eorum, sicut ejus qui devorat pauperem in abscondito.
+
+[HAB.3.15] Viam fecisti in mari equis tuis, in luto aquarum multarum.
+
+[HAB.3.16] Audivi, et conturbatus est venter meus ; a voce contremuerunt labia mea. Ingrediatur putredo in ossibus meis, et subter me scateat : ut requiescam in die tribulationis, ut ascendam ad populum accinctum nostrum.
+
+[HAB.3.17] Ficus enim non florebit, et non erit germen in vineis ; mentietur opus olivæ, et arva non afferent cibum : abscindetur de ovili pecus, et non erit armentum in præsepibus.
+
+[HAB.3.18] Ego autem in Domino gaudebo ; et exsultabo in Deo Jesu meo.
+
+[HAB.3.19] Deus Dominus fortitudo mea, et ponet pedes meos quasi cervorum : et super excelsa mea deducet me victor in psalmis canentem.

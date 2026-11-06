@@ -1,0 +1,65 @@
+Title: Philemon — Biblia Sacra Vulgatae editionis (Clementine)
+Work: Philemon
+Author: The Vulgate (c. 382–405 (largely Jerome); Clementine edition 1592–1598)
+Language: latin
+Credit: Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml
+Retrieved: 2026-11-05 (source file 4652377 bytes, SHA-256 5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## Philemon 1
+
+[PHM.1.1] Paulus vinctus Christi Jesu, et Timotheus frater, Philemoni dilecto, et adjutori nostro,
+
+[PHM.1.2] et Appiæ sorori carissimæ, et Archippo commilitoni nostro, et ecclesiæ, quæ in domo tua est.
+
+[PHM.1.3] Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.
+
+[PHM.1.4] Gratias ago Deo meo, semper memoriam tui faciens in orationibus meis,
+
+[PHM.1.5] audiens caritatem tuam, et fidem, quam habes in Domino Jesu, et in omnes sanctos :
+
+[PHM.1.6] ut communicatio fidei tuæ evidens fiat in agnitione omnis operis boni, quod est in vobis in Christo Jesu.
+
+[PHM.1.7] Gaudium enim magnum habui, et consolationem in caritate tua : quia viscera sanctorum requieverunt per te, frater.
+
+[PHM.1.8] Propter quod multam fiduciam habens in Christo Jesu imperandi tibi quod ad rem pertinet :
+
+[PHM.1.9] propter caritatem magis obsecro, cum sis talis, ut Paulus senex, nunc autem et vinctus Jesu Christi :
+
+[PHM.1.10] obsecro te pro meo filio, quem genui in vinculis, Onesimo,
+
+[PHM.1.11] qui tibi aliquando inutilis fuit, nunc autem et mihi et tibi utilis,
+
+[PHM.1.12] quem remisi tibi. Tu autem illum, ut mea viscera, suscipe :
+
+[PHM.1.13] quem ego volueram mecum detinere, ut pro te mihi ministraret in vinculis Evangelii :
+
+[PHM.1.14] sine consilio autem tuo nihil volui facere, uti ne velut ex necessitate bonum tuum esset, sed voluntarium.
+
+[PHM.1.15] Forsitan enim ideo discessit ad horam a te, ut æternum illum reciperes :
+
+[PHM.1.16] jam non ut servum, sed pro servo carissimum fratrem, maxime mihi : quanto autem magis tibi et in carne, et in Domino ?
+
+[PHM.1.17] Si ergo habes me socium, suscipe illum sicut me :
+
+[PHM.1.18] si autem aliquid nocuit tibi, aut debet, hoc mihi imputa.
+
+[PHM.1.19] Ego Paulus scripsi mea manu : ego reddam, ut non dicam tibi, quod et teipsum mihi debes :
+
+[PHM.1.20] ita, frater. Ego te fruar in Domino : refice viscera mea in Domino.
+
+[PHM.1.21] Confidens in obedientia tua scripsi tibi : sciens quoniam et super id, quod dico, facies.
+
+[PHM.1.22] Simul autem et para mihi hospitium : nam spero per orationes vestras donari me vobis.
+
+[PHM.1.23] Salutat te Epaphras concaptivus meus in Christo Jesu,
+
+[PHM.1.24] Marcus, Aristarchus, Demas, et Lucas, adjutores mei.
+
+[PHM.1.25] Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.

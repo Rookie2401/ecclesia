@@ -1,0 +1,331 @@
+Title: Lamentations — Biblia Sacra Vulgatae editionis (Clementine)
+Work: Lamentations
+Author: The Vulgate (c. 382–405 (largely Jerome); Clementine edition 1592–1598)
+Language: latin
+Credit: Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml
+Retrieved: 2026-11-05 (source file 4652377 bytes, SHA-256 5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## Lamentations 1
+
+[LAM.1.1] Prologus Et factum est, postquam in captivitatem redactus est Israël, et Jerusalem deserta est, sedit Jeremias propheta flens, et planxit lamentatione hac in Jerusalem : et amaro animo suspirans et ejulans, dixit : Aleph Quomodo sedet sola civitas plena populo ! Facta est quasi vidua domina gentium ; princeps provinciarum facta est sub tributo.
+
+[LAM.1.2] Beth Plorans ploravit in nocte, et lacrimæ ejus in maxillis ejus : non est qui consoletur eam ex omnibus caris ejus ; omnes amici ejus spreverunt eam, et facti sunt ei inimici.
+
+[LAM.1.3] Ghimel Migravit Judas propter afflictionem, et multitudinem servitutis ; habitavit inter gentes, nec invenit requiem : omnes persecutores ejus apprehenderunt eam inter angustias.
+
+[LAM.1.4] Daleth Viæ Sion lugent, eo quod non sint qui veniant ad solemnitatem : omnes portæ ejus destructæ, sacerdotes ejus gementes ; virgines ejus squalidæ, et ipsa oppressa amaritudine.
+
+[LAM.1.5] He Facti sunt hostes ejus in capite ; inimici ejus locupletati sunt : quia Dominus locutus est super eam propter multitudinem iniquitatum ejus. Parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.
+
+[LAM.1.6] Vau Et egressus est a filia Sion omnis decor ejus ; facti sunt principes ejus velut arietes non invenientes pascua, et abierunt absque fortitudine ante faciem subsequentis.
+
+[LAM.1.7] Zain Recordata est Jerusalem dierum afflictionis suæ, et prævaricationis, omnium desiderabilium suorum, quæ habuerat a diebus antiquis, cum caderet populus ejus in manu hostili, et non esset auxiliator : viderunt eam hostes, et deriserunt sabbata ejus.
+
+[LAM.1.8] Heth Peccatum peccavit Jerusalem, propterea instabilis facta est ; omnes qui glorificabant eam spreverunt illam, quia viderunt ignominiam ejus : ipsa autem gemens conversa est retrorsum.
+
+[LAM.1.9] Teth Sordes ejus in pedibus ejus, nec recordata est finis sui ; deposita est vehementer, non habens consolatorem. Vide, Domine, afflictionem meam, quoniam erectus est inimicus.
+
+[LAM.1.10] Jod Manum suam misit hostis ad omnia desiderabilia ejus, quia vidit gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in ecclesiam tuam.
+
+[LAM.1.11] Caph Omnis populus ejus gemens, et quærens panem ; dederunt pretiosa quæque pro cibo ad refocillandam animam. Vide, Domine, et considera quoniam facta sum vilis !
+
+[LAM.1.12] Lamed O vos omnes qui transitis per viam, attendite, et videte si est dolor sicut dolor meus ! quoniam vindemiavit me, ut locutus est Dominus, in die iræ furoris sui.
+
+[LAM.1.13] Mem De excelso misit ignem in ossibus meis, et erudivit me : expandit rete pedibus meis, convertit me retrorsum ; posuit me desolatam, tota die mœrore confectam.
+
+[LAM.1.14] Nun Vigilavit jugum iniquitatum mearum ; in manu ejus convolutæ sunt, et impositæ collo meo. Infirmata est virtus mea : dedit me Dominus in manu de qua non potero surgere.
+
+[LAM.1.15] Samech Abstulit omnes magnificos meos Dominus de medio mei ; vocavit adversum me tempus ut contereret electos meos. Torcular calcavit Dominus virgini filiæ Juda.
+
+[LAM.1.16] Ain Idcirco ego plorans, et oculus meus deducens aquas, quia longe factus est a me consolator, convertens animam meam. Facti sunt filii mei perditi, quoniam invaluit inimicus.
+
+[LAM.1.17] Phe Expandit Sion manus suas ; non est qui consoletur eam. Mandavit Dominus adversum Jacob in circuitu ejus hostes ejus ; facta est Jerusalem quasi polluta menstruis inter eos.
+
+[LAM.1.18] Sade Justus est Dominus, quia os ejus ad iracundiam provocavi. Audite, obsecro, universi populi, et videte dolorem meum : virgines meæ et juvenes mei abierunt in captivitatem.
+
+[LAM.1.19] Coph Vocavi amicos meos, et ipsi deceperunt me ; sacerdotes mei et senes mei in urbe consumpti sunt, quia quæsierunt cibum sibi ut refocillarent animam suam.
+
+[LAM.1.20] Res Vide, Domine, quoniam tribulor : conturbatus est venter meus, subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interfecit gladius, et domi mors similis est.
+
+[LAM.1.21] Sin Audierunt quia ingemisco ego, et non est qui consoletur me ; omnes inimici mei audierunt malum meum, lætati sunt quoniam tu fecisti : adduxisti diem consolationis, et fient similes mei.
+
+[LAM.1.22] Thau Ingrediatur omne malum eorum coram te : et vindemia eos, sicut vindemiasti me propter omnes iniquitates meas : multi enim gemitus mei, et cor meum mœrens.
+
+## Lamentations 2
+
+[LAM.2.1] Aleph Quomodo obtexit caligine in furore suo Dominus filiam Sion ; projecit de cælo in terram inclytam Israël, et non est recordatus scabelli pedum suorum in die furoris sui !
+
+[LAM.2.2] Beth Præcipitavit Dominus, nec pepercit omnia speciosa Jacob : destruxit in furore suo munitiones virginis Juda, et dejecit in terram ; polluit regnum et principes ejus.
+
+[LAM.2.3] Ghimel Confregit in ira furoris sui omne cornu Israël ; avertit retrorsum dexteram suam a facie inimici, et succendit in Jacob quasi ignem flammæ devorantis in gyro.
+
+[LAM.2.4] Daleth Tetendit arcum suum quasi inimicus, firmavit dexteram suam quasi hostis, et occidit omne quod pulchrum erat visu in tabernaculo filiæ Sion ; effudit quasi ignem indignationem suam.
+
+[LAM.2.5] He Factus est Dominus velut inimicus, præcipitavit Israël : præcipitavit omnia mœnia ejus, dissipavit munitiones ejus, et replevit in filia Juda humiliatum et humiliatam.
+
+[LAM.2.6] Vau Et dissipavit quasi hortum tentorium suum ; demolitus est tabernaculum suum. Oblivioni tradidit Dominus in Sion festivitatem et sabbatum ; et in opprobrium, et in indignationem furoris sui, regem et sacerdotem.
+
+[LAM.2.7] Zain Repulit Dominus altare suum ; maledixit sanctificationi suæ : tradidit in manu inimici muros turrium ejus. Vocem dederunt in domo Domini sicut in die solemni.
+
+[LAM.2.8] Heth Cogitavit Dominus dissipare murum filiæ Sion ; tetendit funiculum suum, et non avertit manum suam a perditione : luxitque antemurale, et murus pariter dissipatus est.
+
+[LAM.2.9] Teth Defixæ sunt in terra portæ ejus, perdidit et contrivit vectes ejus ; regem ejus et principes ejus in gentibus : non est lex, et prophetæ ejus non invenerunt visionem a Domino.
+
+[LAM.2.10] Jod Sederunt in terra, conticuerunt senes filiæ Sion ; consperserunt cinere capita sua, accincti sunt ciliciis : abjecerunt in terram capita sua virgines Jerusalem.
+
+[LAM.2.11] Caph Defecerunt præ lacrimis oculi mei, conturbata sunt viscera mea ; effusum est in terra jecur meum super contritione filiæ populi mei, cum deficeret parvulus et lactens in plateis oppidi.
+
+[LAM.2.12] Lamed Matribus suis dixerunt : Ubi est triticum et vinum ? cum deficerent quasi vulnerati in plateis civitatis, cum exhalarent animas suas in sinu matrum suarum.
+
+[LAM.2.13] Mem Cui comparabo te, vel cui assimilabo te, filia Jerusalem ? cui exæquabo te, et consolabor te, virgo, filia Sion ? magna est enim velut mare contritio tua : quis medebitur tui ?
+
+[LAM.2.14] Nun Prophetæ tui viderunt tibi falsa et stulta ; nec aperiebant iniquitatem tuam, ut te ad pœnitentiam provocarent ; viderunt autem tibi assumptiones falsas, et ejectiones.
+
+[LAM.2.15] Samech Plauserunt super te manibus omnes transeuntes per viam ; sibilaverunt et moverunt caput suum super filiam Jerusalem : Hæccine est urbs, dicentes, perfecti decoris, gaudium universæ terræ ?
+
+[LAM.2.16] Phe Aperuerunt super te os suum omnes inimici tui : sibilaverunt, et fremuerunt dentibus, et dixerunt : Devorabimus : en ista est dies quam exspectabamus ; invenimus, vidimus.
+
+[LAM.2.17] Ain Fecit Dominus quæ cogitavit ; complevit sermonem suum, quem præceperat a diebus antiquis : destruxit, et non pepercit, et lætificavit super te inimicum, et exaltavit cornu hostium tuorum.
+
+[LAM.2.18] Sade Clamavit cor eorum ad Dominum super muros filiæ Sion : Deduc quasi torrentem lacrimas per diem et noctem ; non des requiem tibi, neque taceat pupilla oculi tui.
+
+[LAM.2.19] Coph Consurge, lauda in nocte, in principio vigiliarum ; effunde sicut aquam cor tuum ante conspectum Domini : leva ad eum manus tuas pro anima parvulorum tuorum, qui defecerunt in fame in capite omnium compitorum.
+
+[LAM.2.20] Res Vide, Domine, et considera quem vindemiaveris ita. Ergone comedent mulieres fructum suum, parvulos ad mensuram palmæ ? si occiditur in sanctuario Domini sacerdos et propheta ?
+
+[LAM.2.21] Sin Jacuerunt in terra foris puer et senex ; virgines meæ et juvenes mei ceciderunt in gladio : interfecisti in die furoris tui, percussisti, nec misertus es.
+
+[LAM.2.22] Thau Vocasti quasi ad diem solemnem, qui terrerent me de circuitu ; et non fuit in die furoris Domini qui effugeret, et relinqueretur : quos educavi et enutrivi, inimicus meus consumpsit eos.
+
+## Lamentations 3
+
+[LAM.3.1] Aleph Ego vir videns paupertatem meam in virga indignationis ejus.
+
+[LAM.3.2] Aleph Me minavit, et adduxit in tenebras, et non in lucem.
+
+[LAM.3.3] Aleph Tantum in me vertit et convertit manum suam tota die.
+
+[LAM.3.4] Beth Vetustam fecit pellem meam et carnem meam ; contrivit ossa mea.
+
+[LAM.3.5] Beth Ædificavit in gyro meo, et circumdedit me felle et labore.
+
+[LAM.3.6] Beth In tenebrosis collocavit me, quasi mortuos sempiternos.
+
+[LAM.3.7] Ghimel Circumædificavit adversum me, ut non egrediar ; aggravavit compedem meum.
+
+[LAM.3.8] Ghimel Sed et cum clamavero, et rogavero, exclusit orationem meam.
+
+[LAM.3.9] Ghimel Conclusit vias meas lapidibus quadris ; semitas meas subvertit.
+
+[LAM.3.10] Daleth Ursus insidians factus est mihi, leo in absconditis.
+
+[LAM.3.11] Daleth Semitas meas subvertit, et confregit me ; posuit me desolatam.
+
+[LAM.3.12] Daleth Tetendit arcum suum, et posuit me quasi signum ad sagittam.
+
+[LAM.3.13] He Misit in renibus meis filias pharetræ suæ.
+
+[LAM.3.14] He Factus sum in derisum omni populo meo, canticum eorum tota die.
+
+[LAM.3.15] He Replevit me amaritudinibus ; inebriavit me absinthio.
+
+[LAM.3.16] Vau Et fregit ad numerum dentes meos ; cibavit me cinere.
+
+[LAM.3.17] Vau Et repulsa est a pace anima mea ; oblitus sum bonorum.
+
+[LAM.3.18] Vau Et dixi : Periit finis meus, et spes mea a Domino.
+
+[LAM.3.19] Zain Recordare paupertatis, et transgressionis meæ, absinthii et fellis.
+
+[LAM.3.20] Zain Memoria memor ero, et tabescet in me anima mea.
+
+[LAM.3.21] Zain Hæc recolens in corde meo, ideo sperabo.
+
+[LAM.3.22] Heth Misericordiæ Domini, quia non sumus consumpti ; quia non defecerunt miserationes ejus.
+
+[LAM.3.23] Heth Novi diluculo, multa est fides tua.
+
+[LAM.3.24] Heth Pars mea Dominus, dixit anima mea ; propterea exspectabo eum.
+
+[LAM.3.25] Teth Bonus est Dominus sperantibus in eum, animæ quærenti illum.
+
+[LAM.3.26] Teth Bonum est præstolari cum silentio salutare Dei.
+
+[LAM.3.27] Teth Bonum est viro cum portaverit jugum ab adolescentia sua.
+
+[LAM.3.28] Jod Sedebit solitarius, et tacebit, quia levavit super se.
+
+[LAM.3.29] Jod Ponet in pulvere os suum, si forte sit spes.
+
+[LAM.3.30] Jod Dabit percutienti se maxillam : saturabitur opprobriis.
+
+[LAM.3.31] Caph Quia non repellet in sempiternum Dominus.
+
+[LAM.3.32] Caph Quia si abjecit, et miserebitur, secundum multitudinem misericordiarum suarum.
+
+[LAM.3.33] Caph Non enim humiliavit ex corde suo et abjecit filios hominum.
+
+[LAM.3.34] Lamed Ut conteret sub pedibus suis omnes vinctos terræ.
+
+[LAM.3.35] Lamed Ut declinaret judicium viri in conspectu vultus Altissimi.
+
+[LAM.3.36] Lamed Ut perverteret hominem in judicio suo ; Dominus ignoravit.
+
+[LAM.3.37] Mem Quis est iste qui dixit ut fieret, Domino non jubente ?
+
+[LAM.3.38] Mem Ex ore Altissimi non egredientur nec mala nec bona ?
+
+[LAM.3.39] Mem Quid murmuravit homo vivens, vir pro peccatis suis ?
+
+[LAM.3.40] Nun Scrutemur vias nostras, et quæramus, et revertamur ad Dominum.
+
+[LAM.3.41] Nun Levemus corda nostra cum manibus ad Dominum in cælos.
+
+[LAM.3.42] Nun Nos inique egimus, et ad iracundiam provocavimus ; idcirco tu inexorabilis es.
+
+[LAM.3.43] Samech Operuisti in furore, et percussisti nos ; occidisti, nec pepercisti.
+
+[LAM.3.44] Samech Opposuisti nubem tibi, ne transeat oratio.
+
+[LAM.3.45] Samech Eradicationem et abjectionem posuisti me in medio populorum.
+
+[LAM.3.46] Phe Aperuerunt super nos os suum omnes inimici.
+
+[LAM.3.47] Phe Formido et laqueus facta est nobis vaticinatio, et contritio.
+
+[LAM.3.48] Phe Divisiones aquarum deduxit oculus meus, in contritione filiæ populi mei.
+
+[LAM.3.49] Ain Oculus meus afflictus est, nec tacuit, eo quod non esset requies.
+
+[LAM.3.50] Ain Donec respiceret et videret Dominus de cælis.
+
+[LAM.3.51] Ain Oculus meus deprædatus est animam meam in cunctis filiabus urbis meæ.
+
+[LAM.3.52] Sade Venatione ceperunt me quasi avem inimici mei gratis.
+
+[LAM.3.53] Sade Lapsa est in lacum vita mea, et posuerunt lapidem super me.
+
+[LAM.3.54] Sade Inundaverunt aquæ super caput meum ; dixi : Perii.
+
+[LAM.3.55] Coph Invocavi nomen tuum, Domine, de lacu novissimo.
+
+[LAM.3.56] Coph Vocem meam audisti ; ne avertas aurem tuam a singultu meo et clamoribus.
+
+[LAM.3.57] Coph Appropinquasti in die quando invocavi te ; dixisti : Ne timeas.
+
+[LAM.3.58] Res Judicasti, Domine, causam animæ meæ, redemptor vitæ meæ.
+
+[LAM.3.59] Res Vidisti, Domine, iniquitatem illorum adversum me : judica judicium meum.
+
+[LAM.3.60] Res Vidisti omnem furorem, universas cogitationes eorum adversum me.
+
+[LAM.3.61] Sin Audisti opprobrium eorum, Domine, omnes cogitationes eorum adversum me.
+
+[LAM.3.62] Sin Labia insurgentium mihi, et meditationes eorum adversum me tota die.
+
+[LAM.3.63] Sin Sessionem eorum et resurrectionem eorum vide ; ego sum psalmus eorum.
+
+[LAM.3.64] Thau Redes eis vicem, Domine, juxta opera manuum suarum.
+
+[LAM.3.65] Thau Dabis eis scutum cordis, laborem tuum.
+
+[LAM.3.66] Thau Persequeris in furore, et conteres eos sub cælis, Domine.
+
+## Lamentations 4
+
+[LAM.4.1] Aleph Quomodo obscuratum est aurum, mutatus est color optimus ! dispersi sunt lapides sanctuarii in capite omnium platearum !
+
+[LAM.4.2] Beth Filii Sion inclyti, et amicti auro primo : quomodo reputati sunt in vasa testea, opus manuum figuli !
+
+[LAM.4.3] Ghimel Sed et lamiæ nudaverunt mammam, lactaverunt catulos suos : filia populi mei crudelis quasi struthio in deserto.
+
+[LAM.4.4] Daleth Adhæsit lingua lactentis ad palatum ejus in siti ; parvuli petierunt panem, et non erat qui frangeret eis.
+
+[LAM.4.5] He Qui vescebantur voluptuose, interierunt in viis ; qui nutriebantur in croceis, amplexati sunt stercora.
+
+[LAM.4.6] Vau Et major effecta est iniquitas filiæ populi mei peccato Sodomorum, quæ subversa est in momento, et non ceperunt in ea manus.
+
+[LAM.4.7] Zain Candidiores Nazaræi ejus nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiro pulchriores.
+
+[LAM.4.8] Heth Denigrata est super carbones facies eorum et non sunt cogniti in plateis ; adhæsit cutis eorum ossibus : aruit, et facta est quasi lignum.
+
+[LAM.4.9] Teth Melius fuit occisis gladio quam interfectis fame, quoniam isti extabuerunt consumpti a sterilitate terræ.
+
+[LAM.4.10] Jod Manus mulierum misericordium coxerunt filios suos ; facti sunt cibus earum in contritione filiæ populi mei.
+
+[LAM.4.11] Caph Complevit Dominus furorem suum, effudit iram indignationis suæ : et succendit ignem in Sion, et devoravit fundamenta ejus.
+
+[LAM.4.12] Lamed Non crediderunt reges terræ, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Jerusalem.
+
+[LAM.4.13] Mem Propter peccata prophetarum ejus, et iniquitates sacerdotum ejus, qui effuderunt in medio ejus sanguinem justorum.
+
+[LAM.4.14] Nun Erraverunt cæci in plateis, polluti sunt in sanguine ; cumque non possent, tenuerunt lacinias suas.
+
+[LAM.4.15] Samech Recedite polluti, clamaverunt eis ; recedite, abite, nolite tangere : jurgati quippe sunt, et commoti dixerunt inter gentes : Non addet ultra ut habitet in eis.
+
+[LAM.4.16] Phe Facies Domini divisit eos, non addet ut respiciat eos ; facies sacerdotum non erubuerunt, neque senum miserti sunt.
+
+[LAM.4.17] Ain Cum adhuc subsisteremus, defecerunt oculi nostri ad auxilium nostrum vanum ; cum respiceremus attenti ad gentem quæ salvare non poterat.
+
+[LAM.4.18] Sade Lubricaverunt vestigia nostra in itinere platearum nostrarum ; appropinquavit finis noster, completi sunt dies nostri, quia venit finis noster.
+
+[LAM.4.19] Coph Velociores fuerunt persecutores nostri aquilis cæli ; super montes persecuti sunt nos, in deserto insidiati sunt nobis.
+
+[LAM.4.20] Res Spiritus oris nostri, christus Dominus, captus est in peccatis nostris, cui diximus : In umbra tua vivemus in gentibus.
+
+[LAM.4.21] Sin Gaude et lætare, filia Edom, quæ habitas in terra Hus ! ad te quoque perveniet calix : inebriaberis, atque nudaberis.
+
+[LAM.4.22] Thau Completa est iniquitas tua, filia Sion : non addet ultra ut transmigret te. Visitavit iniquitatem tuam, filia Edom ; discooperuit peccata tua.
+
+## Lamentations 5
+
+[LAM.5.1] Recordare, Domine, quid acciderit nobis ; intuere et respice opprobrium nostrum.
+
+[LAM.5.2] Hæreditas nostra versa est ad alienos, domus nostræ ad extraneos.
+
+[LAM.5.3] Pupilli facti sumus absque patre, matres nostræ quasi viduæ.
+
+[LAM.5.4] Aquam nostram pecunia bibimus ; ligna nostra pretio comparavimus.
+
+[LAM.5.5] Cervicibus nostris minabamur, lassis non dabatur requies.
+
+[LAM.5.6] Ægypto dedimus manum et Assyriis, ut saturaremur pane.
+
+[LAM.5.7] Patres nostri peccaverunt, et non sunt : et nos iniquitates eorum portavimus.
+
+[LAM.5.8] Servi dominati sunt nostri : non fuit qui redimeret de manu eorum.
+
+[LAM.5.9] In animabus nostris afferebamus panem nobis, a facie gladii in deserto.
+
+[LAM.5.10] Pellis nostra quasi clibanus exusta est, a facie tempestatum famis.
+
+[LAM.5.11] Mulieres in Sion humiliaverunt, et virgines in civitatibus Juda.
+
+[LAM.5.12] Principes manu suspensi sunt ; facies senum non erubuerunt.
+
+[LAM.5.13] Adolescentibus impudice abusi sunt, et pueri in ligno corruerunt.
+
+[LAM.5.14] Senes defecerunt de portis, juvenes de choro psallentium.
+
+[LAM.5.15] Defecit gaudium cordis nostri ; versus est in luctum chorus noster.
+
+[LAM.5.16] Cecidit corona capitis nostri : væ nobis, quia peccavimus !
+
+[LAM.5.17] Propterea mœstum factum est cor nostrum ; ideo contenebrati sunt oculi nostri,
+
+[LAM.5.18] propter montem Sion quia disperiit ; vulpes ambulaverunt in eo.
+
+[LAM.5.19] Tu autem, Domine, in æternum permanebis, solium tuum in generationem et generationem.
+
+[LAM.5.20] Quare in perpetuum oblivisceris nostri, derelinques nos in longitudine dierum ?
+
+[LAM.5.21] Converte nos, Domine, ad te, et convertemur ; innova dies nostros, sicut a principio.
+
+[LAM.5.22] Sed projiciens repulisti nos : iratus es contra nos vehementer.

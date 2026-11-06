@@ -1,0 +1,33 @@
+Title: The Nicene Creed (325), with Percival's headnote
+Work: Nicene Creed of 325 (Symbolum Nicaenum)
+Author: First Council of Nicaea (325) (325)
+Language: english
+Credit: The Nicene Creed (325), with Percival's headnote, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_First_Ecumenical_Council/The_Nicene_Creed
+Retrieved: 2026-11-05 (source file 3964 bytes, SHA-256 26256e439c6ae7e8611a24b58e1e67a0f6040f3fd7477f74f975436636adc8a8)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":3}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## front
+
+[front.1] The Nicene Creed.
+
+[front.2] (Found in the Acts of the Ecumenical Councils of Ephesus and Chalcedon, in the Epistle of Eusebius of Cæsarea to his own Church, in the Epistle of St. Athanasius Ad Jovianum Imp., in the Ecclesiastical Histories of Theodoret and Socrates, and elsewhere, The variations in the text are absolutely without importance.)
+
+[front.3] The Synod at Nice set forth this Creed.
+
+[front.4] The Ecthesis of the Synod at Nice.
+
+[front.5] We believe in one God, the Father Almighty, maker of all things visible and invisible; and in one Lord Jesus Christ, the Son of God, the only-begotten of his Father, of the substance of the Father, God of God, Light of Light, very God of very God, begotten (γεννηθέντα), not made, being of one substance (ὁμοούσιον, consubstantialem) with the Father. By whom all things were made, both which be in heaven and in earth. Who for us men and for our salvation came down [from heaven] and was incarnate and was made man. He suffered and the third day he rose again, and ascended into heaven. And he shall come again to judge both the quick and the dead. And [we believe] in the Holy Ghost. And whosoever shall say that there was a time when the Son of God was not (ἤν ποτε ὅτε οὐκ ἦν), or that before he was begotten he was not, or that he was made of things that were not, or that he is of a different substance or essence [from the Father] or that he is a creature, or subject to change or conversion—all that so say, the Catholic and Apostolic Church anathematizes them.
+
+[front.6] Notes.
+
+[front.7] The Creed of Eusebius of Cæsarea, which he presented to the council, and which some suppose to have suggested the creed finally adopted.
+
+[front.8] (Found in his Epistle to his diocese; vide: St. Athanasius and Theodoret.)
+
+[front.9] We believe in one only God, Father Almighty, Creator of things visible and invisible; and in the Lord Jesus Christ, for he is the Word of God, God of God, Light of Light, life of life, his only Son, the first-born of all creatures, begotten of the Father before all time, by whom also everything was created, who became flesh for our redemption, who lived and suffered amongst men, rose again the third day, returned to the Father, and will come again one day in his glory to judge the quick and the dead. We believe also in the Holy Ghost. We believe that each of these three is and subsists; the Father truly as Father, the Son truly as Son, the Holy Ghost truly as Holy Ghost; as our Lord also said, when he sent his disciples to preach: Go and teach all nations, and baptize them in the name of the Father, and of the Son, and of the Holy Ghost.

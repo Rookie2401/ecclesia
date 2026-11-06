@@ -1,0 +1,5032 @@
+Title: Of temptation: the nature and power of it
+Work: Of temptation: the nature and power of it
+Author: John Owen (1616–1683)
+Language: english
+Credit: Of temptation: the nature and power of it, in EEBO-TCP text A90277 (STC Wing O782; STC Thomason E2112_1; STC) (Oxford: Printed by H. Hall, printer to the University, for T. Robinson, 1658). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/A90277/master/A90277.xml
+Retrieved: 2026-11-05 (source file 255017 bytes, SHA-256 9270022961e61afb1cd43d8e528603cb2e96de1d325e516eee217b5b8484ec5d)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":191,"unread":9,"note":9}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## TO THE READER.
+
+[front.1.1] Chriſtian Reader,
+
+[front.1.2] IF thou art in any meaſure awake in
+theſe daies wherein we live, and haſt taken
+notice of the manifold, great, and various
+Temptations wherewith all ſorts of
+perſons that know the Lord, and profeſſe his
+name are beſet, and whereunto they are
+continually expoſed; with what ſucceſſe
+thoſe Temptations have obtained to the
+unſpeakable ſcandall of the Goſpell, with
+the wounding and ruine of innumerable
+ſoules: I ſuppoſe thou wilt not inquire any
+farther after other Reaſons of the publiſhing
+of the enſuing warnings and directions,
+being ſuited to the times that paſſe
+over us, and thine own concernment in
+them. This I ſhall only ſay to thoſe who think
+meet to perſiſt in any ſuch enquiry, that
+though my firſt engagement for the expoſing
+of theſe meditations unto publick
+view, did ariſe from the deſires of ſome,
+whoſe avouching the intereſt of Chriſt in
+the world by perſonall holineſs, and conſtant
+adhering to every thing that is made pretious
+by its Relation to him, have given
+them power over me, to require at any time
+ſervices of greater importance, yet I dare
+not lay my doing of it ſo upon that account,
+as in the leaſt, to intimate, that with reſpect
+to the generall ſtate of things mentioned,
+I did not my ſelfe eſteeme it ſeaſonable
+and neceſsary. The variety of outward Providences
+and Diſpenſations, wherewith I
+have my ſelfe been exerciſed in this world,
+with the inward trials they have been attended
+withall, added to the obſervation
+that I have had advantages to make of the
+waies and walkings of others, their beginnings,
+progreſſes, and endings, their riſings
+and falls in profeſsion, and converſation,
+in darkneſſe and light, have left ſuch
+a conſtant ſenſe & impreſsion of the Power
+& danger of Temptations upon my mind
+and ſpirit, that without other pleas and pretences,
+I cannot but own a ſerious call unto
+mē to bewar, with a diſcovery of ſome of the
+moſt eminent waies and meanes of the prevalency
+of preſent tēptations, to have been
+in my own judgment, in this ſeaſon, needfull.
+But now Reader, if thou art amongſt
+them, who takeſt no notice of theſe things,
+or careſt not for them, who haſt no ſenſe of
+the efficacy and dangers of Temptations
+in thine own walking and profeſsion, nor
+haſt obſerved the power of them upon others;
+who diſcerneſt not the manifold advantages
+that they have got in theſe daies,
+wherein all things are ſhaken, nor haſt been
+troubled or moved for the ſad ſucceſſes they
+have had amongſt profeſſors, but ſuppoſeſt
+that all things are well within door, and
+without, and would be better, couldeſt thou
+obtaine fuller ſatisfaction to ſome of thy
+Luſts, in the pleaſures or profits of the
+world, I deſire thee to knovv, that I vvrite
+not for thee, nor do eſteeme thee a fit Reader,
+or judge of what is here written.
+Whileſt all the iſſues of Providentiall diſpenſations,
+in reference to the publick concernements
+of theſe nations are perplexed
+and intangled, the footſteps of God lying in
+the deep, where his pathes are not known;
+whilſt in particular, unparalleled diſtreſſes,
+and ſtrange proſperities are meaſured
+out to men, yea to Profeſſors; whileſt a ſpirit
+of errour, giddineſſe, and deluſion goes
+forth with ſuch ſtrength and efficacy, as it
+ſeemes to have received a Commiſſion to go
+and proſper; whilſt there are ſuch diviſions
+ſtrifes, emulations, attended with ſuch evil
+ſurmiſes, wrath, & revenge, found amongst
+brethren; whileſt the deſperate iſſues and
+products of mens temptations are ſeen day•
+in partiall, & totall apoſtacy, in the decay of
+love, the overthrow of faith; our dayes being
+filled with fearful examples of back
+ſliding, ſuch as former Ages never knew
+whilſt there is a viſible declenſion from
+Reformation ſeizing upon the profeſsing
+party of theſe nations, both as to perſonall
+holineſſe, and zele for the intereſt
+of Chriſt; He that underſtands not that
+there is an houre of temptatiō come upon the
+world to try them that dwell in the earth
+is doubtleſse either himſelfe at preſent captivated
+under the power of ſome woefull
+luſt, corruption, or Temptation, or is indeed
+ſtarke blind, and knowes not at all what
+it is to ſerve God in temptations: With
+ſuch then I have not at preſent to doe; for
+thoſe who have in generall a ſenſe of theſe
+things, who alſo in ſome meaſure are able to
+conſider that the Plague is begun, that they
+may be farther awakened to look about thē,
+leſt the infection have approached nearer to
+them, by ſome ſecret & imperceptible wayes,
+than they did apprehend; or leſt they ſhould
+be ſurprized at unawares hereafter by any
+of thoſe temptations that in theſe dayes either
+waſt at noone, or elſe walke in darkneſſe,
+is the enſuing warning intended; &
+for the ſake of them that mourne in ſecret,
+for all the Abominations that are found among,
+and upon them that profeſſe the Goſpell;
+and who are under the conduct of the
+Captaine of their ſalvation fighting and
+reſiſting the power of Temptations, from
+what ſpring ſoever they riſe, in themſelves,
+are the enſuing directions propoſed to
+conſideration. That our faithfull and
+mercifull High Prieſt, who both ſuffered
+and was tempted, and is on that account
+touched with the feeling of our infirmities,
+would accompany this ſmall diſcourſe
+with ſeaſonable ſupplyes of his ſpirit, and
+ſuitable mercy to them that ſhall conſider it,
+that it may be uſefull to his ſervants for the
+ends whereunto it is deſigned, is the prayer
+of him, who received this handfull of ſee
+from his Storehouſe, and treaſure,
+
+[front.1.3] JOH: OVVEN
+
+## CHAP. I.
+
+[1.1] Matth. 26. 41.
+Watch and pray that you enter not
+into temptation.
+
+[1.2] THESE words of our Saviour are
+repeated with very litle alteration
+in three Evangeliſts; only whereas
+Matthew and Mark have recorded
+them as above written, Luke reporteth
+them thus; ariſe and pray, that
+you enter not into temptation; ſo that
+the whole of his caution ſeemes to
+have beene; ariſe, watch and pray that
+you enter not into temptation.
+
+[1.3] Solomon tells us of ſome, that lye
+downe on the top of a maſt in the middeſt
+of the ſea, Prov. 23. 34. Men overborne
+by ſecurity in the mouth of deſtruction.
+If ever poore ſoules lay
+downe on the top of a maſt in the middeſt
+of the ſea, theſe diſciples with our
+Saviour in the Garden did ſo. Their
+Maſter at a litle diſtance from them,
+was offering up prayers and ſupplications
+with ſtrong cryes, and teares; Heb.
+5. 4. being then taking into his hand,
+and beginning to
+taſt that cup that
+was filled with the curſe and wrath due
+to their ſinnes. The Jewes armed for
+his▪
+and their deſtruction, being but a
+litle more diſtant from them, on the
+other hand. Our Saviour had a litle
+before, informed them, that, that
+night he ſhould be betraid, and be delivered
+up to be ſlaine; They ſaw that
+he was ſorrowfull, and very heavy verſ.
+37. Nay he told them plainely, that
+his ſoule was exceeding ſorrowfull even
+unto death: verſ. 38. and therefore entreated
+them to tarry, and watch with
+him, now he was dying, and that for
+them. In this condition, leaving them
+but a litle ſpace like men forſaken of
+all love towards him, or care of themſelves,
+they fall faſt aſleepe. Even the
+beſt of Saints, being left to themſelves,
+will quickly appeare to be leſſe then
+men, to be nothing. All our owne
+ſtrength is weakneſſe, and all our
+Wiſdome, folly. Peter being one of
+them, who but a litle before, had with
+ſo much ſelfe-confidence, affirm'd,
+that though all men forſooke him, yet he
+never would ſo do; our Saviour expoſtulates
+the matter in particular with
+him, verſ. 40. He ſaith unto Peter, could
+you not watch with me one houre: as if
+he ſhould have ſaid; Art thou he Peter
+who but now boaſted'ſt of thy Reſolution,
+never to forſake me? Is it
+likely that thou ſhouldeſt hold out
+therein, when thou canſt not watch
+with me one houre? is this thy dying
+for me; to be dead in ſecurity, when
+I am dying for thee? And indeed it
+would be an amazing thing, to conſider,
+that Peter ſhould make ſo high a
+promiſe, and be immediately ſo careleſſe
+and remiſſe in the purſuit of it;
+but that we find the root of the ſame
+treachery abiding and working in our
+owne hearts, and do ſee the fruit of it
+brought forth every day. The moſt
+noble engagements unto obedience,
+quickly ending in deplorable negligence,
+Rom. 7. 18.
+
+[1.4] In this eſtate our Saviour admoniſhes
+them of their condition, their
+weakneſſe, their danger, and ſtirres
+them up to a prevention of that ruine,
+which lay at the doore; ſaith he, ariſe,
+watch, and pray, &c.
+
+[1.5] I ſhall not inſiſt on the particular
+aimed at here by our Saviour in this
+Caution to them that were then preſent
+with him, the great Temptation
+that was coming on them, from the
+ſcandall of the Croſſe, was doubtleſſe
+in his eye; but I ſhall conſider the
+words as containing a generall direction
+to all the diſciples of Chriſt in
+their following of him throughout all
+generations.
+
+[1.6] There are three things in the
+words;
+
+[1.7] 1. The evill cautioned againſt:
+Temptation.
+
+[1.8] 2. The meanes of its prevalency;
+by our entering into it.
+
+[1.9] 3. The way of preventing it, watch
+and pray.
+
+[1.10] It is not in my thoughts to handle
+the common place of Temptations, but
+only the danger of them in Generall,
+with the meanes of preventing that
+danger. Yet that we may know what
+we affirme, and whereof we ſpeak,
+ſome concernements of the Generall
+nature of Temptation, may be premiſed.
+
+[1.11] For the Generall nature of tempting
+and Temptation, it lyes among
+things indifferent; to try, to experiment,
+to prove, to peirce a veſſell,
+that the liquor that is in it may be
+knowne, is as much as is ſignified by
+it.
+
+[1.12] Hence God is ſaid ſometimes to
+tempt; and we are commanded as our
+duty to tempt or try or ſearch our
+ſelves, to know what is in us; and to
+pray that God would do ſo alſo. So
+Temptation is like a knife, that may
+either cut the meat, or the throat of a
+man; it may be his food, or his poyſon,
+his exerciſe, or his deſtruction.
+
+[1.13] Temptation in its ſpeciall nature: as
+it denotes any evill, is conſidered, either
+actively, as it leads to evill, or
+paſſively as it hath an evill and ſuffering
+in it, ſo Temptation is taken for
+affliction, Jam. 1. 2. For in that ſenſe,
+we are to count it all joy when we fall into
+temptation, in the other, that we
+enter not into it.
+
+[1.14] Againe actively conſidered, it either
+denotes in the Tempter, a deſigne
+for the bringing about of the ſpeciall
+end of temptation, namely a leading
+into evill; ſo it is ſaid, that God tempts
+no man, Jam. 1. 13. with a deſigne
+for ſinne, as ſuch: or the Generall nature,
+and end of Temptation which is
+Triall; ſo God tempted Abraham,
+Gen: 21. 1. And he proveth, or tempteth
+by falſe prophets, Deut. 13. 3.
+
+[1.15] Now as to Gods tempting of any,
+two things are to be conſidered.
+
+[1.16] 1. The end why he doth it.
+
+[1.17] 2. The way whereby he doth it.
+
+[1.18] For the firſt, his Generall Ends are
+two.
+
+[1.19] 1. He doth it to ſhew unto man
+what is in him, that is the man himſelfe:
+and that either as to his grace,
+or to his Corruption. (I ſpeak not
+now of it, as it may have a place and
+beare a part in judiciary obduration.)
+Grace and corruption lye deep in the
+heart, men oftentimes deceive themſelves
+in the ſearch after the one, or
+the other of them. When we give
+vent to the ſoule, to try what grace
+is there, Corruption comes out: and
+when we ſearch for corruption, Grace
+appeares; ſo is the ſoule kept in uncertainty;
+we faile in our trialls. God
+comes with a Gage, that goes to the
+bottome. He ſends his inſtruments
+of triall into the body, and the inmoſt
+parts of the ſoule, and lets man ſee
+what is in him, of what mettall he is
+conſtituted.
+
+[1.20] Thus he tempted Abraham, to
+ſhew him his faith. Abraham knew
+not what faith he had; (I meane what
+power and vigour was in his faith) untill
+God drew it out by that great triall
+and Temptation; when God ſaies
+he knew it, He made Abraham know
+it.
+
+[1.21] So he tryed Hezekiah, to diſcover
+his pride: God left him that he might
+ſee what was in his heart, 2 Chron. 32.
+31. He knew not that he had ſuch a
+proud heart, ſo apt to be lifted up, as
+he appeared to have, untill God tryed
+him, and ſo let out his filth, and powred
+it out before his face. The iſſues
+of ſuch diſcoveries to the Saints in
+thankfulneſſe, humiliation, and treaſuring
+up of experiences, I ſhall not
+treat of.
+
+[1.22] 2. God doth it to ſhew himſelfe
+unto man, and that
+
+[1.23] 1. In a way of preventing Grace;
+A man ſhall ſee that it is God alone
+who keeps from all ſinne. Untill we
+are tempted, we think we live on our
+owne ſtrength. Though all men do
+this or that, we will not. When the
+triall comes, we quickly ſee, whence
+is our preſervation by ſtanding, or falling.
+So was it in the caſe of Abimeleck,
+Gen. 20. 6. I withheld thee.
+
+[1.24] 2. In a way of renewing Grace.
+He would have the Temptation continue
+with Paul, that he might reveale
+himſelfe to him, in the ſufficiency
+of his renewing grace, 2 Cor. 12. 9.
+We know not the power and ſtrength,
+that God puts forth in our behalfe,
+nor what is the ſufficiency of his Grace,
+untill comparing the Temptation with
+our owne weakneſſe it appeares unto
+us. The efficacy of an Antidote is
+found when poyſon hath been taken,
+and the pretiouſneſſe of medicines is
+made knowne by diſeaſes. We ſhall
+never know what ſtrength there is in
+Grace, if we know not what ſtrength
+there is in Temptation. We muſt be
+tryed, that we may be made ſenſible
+of being preſerved.
+
+[1.25] And many other good and gracious
+ends He hath, which He accompliſheth
+towards his Saints by his trialls
+and temptations, not now to be inſiſted
+on.
+
+[1.26] 2. For the waies whereby God
+accompliſheth this his ſearch, triall,
+or temptation, theſe are ſome of
+them.
+
+[1.27] 1. He puts men on Great Duties,
+ſuch as they cannot apprehend that
+they have any ſtrength for, nor indeed
+have. So he tempted Abraham, by
+calling him to that Duty of ſacrificing
+his ſonne; a thing abſurd to Reaſon,
+bitter to nature, and grievous to him
+on all accounts whatever. Many men
+know not what is in them, or rather
+what is ready for them, untill they are
+put upon what ſeemes utterly above
+their ſtrength, Indeed upon what is
+really above their ſtrength. The duties
+that God in an ordinary way requires
+at our hands, are not proportioned to
+what ſtrength we have in our ſelves,
+but to what help and reliefe is laid up
+for us in Chriſt; And we are to addreſſe
+our ſelves to the greateſt performances,
+with a ſetled perſwaſion
+that we have not ability for the
+leaſt. This is the law of Grace; But
+yet when any duty is required, that
+is extraordinary, that is a ſecret note
+often diſcovered, in the yoke of Chriſt;
+it is a triall, a temptation.
+
+[1.28] 2. By putting them upon great
+ſufferings. How many have unexpectedly
+found ſtrength, to dye at a ſtake,
+to endure tortures for Chriſt. Yet
+their call to it was a triall. This Peter
+tells us is one way whereby we are
+brought into trying temptations, 1 Pe.
+1. 6, 7. Our temptations ariſe from
+the fiery triall, and yet the end is but
+the triall of our faith.
+
+[1.29] 3. By his providentiall diſpoſing
+of things ſo, as that occaſions unto
+ſinne will be adminiſtred unto men,
+which is the caſe mentioned, Dent. 13.
+3. and innumerable other inſtances
+may be adjoyned.
+
+[1.30] Now they are not properly the Temptations
+of God, as coming from him,
+with his end upon them that are here
+intended: and therefore I ſhall ſet theſe
+apart from our preſent conſideration,
+that is then Temptation in its ſpeciall
+nature, as it denotes an active Efficiency
+towards ſinning (as it is mannaged
+with evill, unto evill) that I
+intend.
+
+[1.31] In this ſenſe, Temptation may proceed
+either ſingly from Satan, or the
+world, or other men in the world, or
+from our ſelves, or joyntly from all,
+or ſome of them, in their ſeverall
+Combinations.
+
+[1.32] Satan tempts ſometimes ſingly by
+himſelfe, without taking advantage
+from the world, the things, or perſons
+of it, or our ſelves. So he deales
+in his injection of evill and blaſphemous
+thoughts of God, into the hearts
+of the Saints; which is his own work
+alone, without any advantage from
+the world or our owne hearts. For
+nature will contribute nothing thereunto,
+nor any thing that is in the
+world, nor any man of the world;
+for none can conceive a God, and conceive
+evill of him.
+
+[1.33] Herein Sathan is alone in the ſin▪
+and
+ſhall be ſo in the puniſhment. Theſe
+fiery darts are prepared in the forge of
+his owne malice, and ſhall with all their
+venome and poyſon, be turned into
+his owne heart for ever.
+
+[1.34] 2 Sometimes he makes uſe of the
+world, and joines forces againſt us,
+without any helps from within. So
+he Tempted our Saviour, by ſhewing
+him the kingdomes of the world,
+and
+the glory of them. And the variety of
+the Aſsiſtances he findes from the
+world, in perſons, and things which I
+muſt not inſiſt on, the innumerable
+inſtruments and weapons he takes from
+thence of all ſortes, and at all ſeaſons,
+are inexpreſſible.
+
+[1.35] 3. Sometimes he takes in Aſsiſtance
+from our ſelves alſo. It is not
+with us, as it was with Chriſt, when
+Satan came to tempt him, he declares
+that he had nothing in him, Joh. 14.
+30. It is otherwiſe with us: He
+hath, for the compaſſing of moſt of
+his ends, a ſure party within our owne
+breaſts, Jam. 1. 14, 15. Thus he tempted
+Judas; He was at worke himſelfe;
+he put it into his heart, to betray
+Chriſt, Luk▪ 22. 3; he entred into him
+for that purpoſe, and he ſets the world
+at worke, the things of it, providing
+for him 30 peices of ſilver, verſ. 5.
+they covenanted to give him money; and
+the men of it: even the Prieſts and
+Phariſees; and calleth in the aſſiſtance
+of his own corruption; he was coveteous,
+a theife, and had the bagge.
+
+[1.36] I might alſo ſhew, how the world
+and our own Corruptions doe act ſingly
+by themſelves, and joyntly in conjunction
+with Satan, and one another
+in this buſineſſe of Temptation.
+
+[1.37] But the Truth is; the principles,
+wayes and meanes of Temptations,
+the kinds, degrees, efficacy, and cauſes
+of them, are ſo inexpreſſibly large,
+and various, the circumſtances of them,
+from providence, Natures, conditions,
+ſpirituall, and naturall, with the particular
+caſes thence ariſing, ſo innumerable,
+and impoſſible to be comprized,
+within any bound or order,
+that to attempt the giving an account
+of them, would be to undertake that,
+which would be endleſſe. I ſhall content
+my ſelfe to give a deſcription of
+the generall nature of that which we
+are to watch againſt; which will make
+way for what I ayme at.
+
+[1.38] Temptation then in Generall! is
+any Thing, ſtate, way, condition, that
+upon any account whatever, hath a force
+or efficacy to ſeduce, to draw the mind,
+and heart of a man from that obedience
+which God requires of him, into any
+ſinne, in any degree of it whatever.
+
+[1.39] In particular, that is a Temptation
+to any man, which cauſes, or occaſions
+him to ſinne, or in any thing to goe
+off from his dutie, either by bringing
+evill into his heart, or drawing out that
+evill, that is in his heart, or any other
+way, diverting him from communion
+with God, and that conſtant, equall,
+univerſall obedience, in matter, and
+manner, that is required of him.
+
+[1.40] For the clearing of this deſcription,
+I ſhall only obſerve that, Though temptation
+ſeemes to be of a more active
+importance, and ſo to denote only the
+power of ſeduction to ſinne it ſelfe, yet
+in the Scripture it is commonly taken
+in a neuter ſenſe, and denotes the matter
+of the Temptation, or the thing
+whereby we are tempted.
+
+[1.41] And this is a Ground of the deſcription
+I have given of it; be it how it
+will, that from any thing whatever,
+within us, or without us, hath advantage
+to hinder in duty, or to provoke
+unto, or in any way to occaſion ſinne,
+that is a Temptation, and ſo to be looked
+on; Be it buſineſſe, imployment,
+courſe of life, company, Affections,
+nature, or corrupt deſigne, coyne, Relations,
+delights, name, Reputation,
+Eſteeme, Abilities, parts or excellencies
+of body, or mind, place, dignity,
+art, ſo farre as they further,
+or occaſion the promotion of the Ends
+before mentioned they are all of them,
+no leſſe truely Temptations, than the
+moſt violent ſolicitations of Sathan or
+allurements of the world; and that
+ſoule lyes at the brink of ruine, who
+diſcernes it not; and this will be farther
+diſcovered in our proceſſe.
+
+## CHAP. 2.
+
+[2.1] HAving ſhewed what Temptation
+is, I come in the next
+place to manifeſt what it is
+to enter into Temptation:
+
+[2.2] 1. This is not merely to be tempted:
+It is impoſſible that we ſhould
+be ſo freed from temptation, as not
+to be at all tempted. Whileſt Satan
+continues in his power and malice, whileſt
+the world and luſt are in being, we
+ſhall be tempted: Chriſt (ſayes one,)
+was made like unto us, that he might
+be tempted; and we are tempted that
+we may be made like unto Chriſt:
+Temptation in generall, is comprehenſive
+of our whole warfare; as our
+Saviour calls the time of his miniſtry,
+the time of his Temptation, Luk. 22.
+28. We have no promiſe that we ſhall
+not be tempted at all, nor are to pray
+for an abſolute freedome from temptations,
+becauſe we have no ſuch
+promiſe of being heard therein.
+
+[2.3] The direction we have for our prayers
+is, lead us not into temptation, Mat.
+6. 9. it is entering into temptation, that
+we are to pray againſt: We may be
+tempted, and yet not enter into temptation:
+ſo that,
+
+[2.4] 2. Something more is intended
+by this expreſſion, then the ordinary
+work of Satan, and our own luſts, which
+will be ſure to tempt us every day.
+There is ſomething ſignall, in this entring
+into Temptation, that is, not the
+Saints every dayes worke: It is ſomething
+that befals them peculiarly in reference
+to ſeduction unto ſinne, on
+one account or other, by the way of
+allurement, or affrightment.
+
+[2.5] 3. It is not to be conquered by a
+temptation; to fall downe under it;
+to commit the ſinne or evill that we
+are tempted to, or to omit the duties
+that are oppoſed. A man may enter
+into temptation, and yet not fall under
+Temptation. God can make a
+way for a man to eſcape, when he is in,
+he can breake the ſnare, tread downe
+Satan, and make the ſoule more than
+a Conquerour, though it have entered
+into temptation: Chriſt entered
+into it, but was not in the leaſt foyled
+by it, but
+
+[2.6] 4. It is, as the Apoſtle expreſſeth
+it. 1 Tim. 6. 9. 〈 in non-Latin alphabet 〉; to fall into
+Temptation; as a man falls into a pit,
+or a deep place, where are gins, and
+ſnares, wherewith he is intangled.
+The man is not preſently kill'd, and
+deſtroyed, but he is intangled and detained:
+He knowes not how to get
+free, or be at liberty: ſo it is expreſſed
+againe to the ſame purpoſe, 1 Cor.
+10. 13. no temptation hath taken you:
+it is to be taken by a temptation, and
+to be intangled with it, held in its
+cords, not finding at preſent a way
+to eſcape. Thence ſaith Peter 2 Ep.
+2. 9. The Lord knoweth how to deliver
+the Godly out of temptations: They are
+entangled with them, God knowes
+how to deliver them out of them.
+When we ſuffer a temptation to enter
+into us, then we enter into temptation.
+Whileſt it knocks at the doore, we
+are at liberty; but when any Temptation
+comes in, and parlies with the
+heart, Reaſons with the mind, entices
+and allures the affections, be it a long
+or a ſhort time, doe it thus inſenſibly
+and imperceptibly, or do the
+ſoule take notice of it, we enter into
+Temptation;
+
+[2.7] So then; unto our entring into Temptation
+is required;
+
+[2.8] 1: That by ſome Advantage, or
+on ſome Occaſion, Satan be more
+earneſt than ordinary in his ſolicitations
+to ſinne, by affrightments, or
+allurements, by perſecutions, or ſeductions,
+by himſelfe or others; or
+that ſome luſt or corruption by his inſtigation,
+and advantages of outward
+objects provoking, as in proſperity,
+or terrifying, as in trouble, do tumultuate
+more than ordinary within us:
+There is a ſpeciall acting of the Authour,
+and principles of Temptation,
+required thereunto.
+
+[2.9] 2. That the heart be ſo farre entangled
+with it, as to be put to diſpute,
+and argue in its owne defence, and
+yet not to be able wholy to eject or
+caſt out the poyſon, and leaven that
+hath been injected; but is ſurprized,
+if it be never ſo little off its watch, into
+an intanglement not eaſy to be avoided;
+ſo that the ſoule may cry, and
+pray, and cry againe, and yet not be
+delivered; as Paul ſought the Lord
+thriſe for the departure of his temptation,
+and prevailed not. The entanglement
+continues. And this uſually
+fals out in one of theſe two ſeaſons.
+
+[2.10] 1. When Satan by the permiſſion
+of God, for ends beſt knowne to
+himſelfe, hath got ſome peculiar Advantage
+againſt the ſoule. As in the
+caſe of Peter: he ſought to winnow him,
+and prevailed.
+
+[2.11] 2. When a mans luſts and corruptions,
+meet with peculiarly provoking
+objects, and occaſions, through
+the condition of life, that a man is in,
+with the Circumſtances of it: as it was
+with David: of both which afterward.
+
+[2.12] In this ſtate of things, a man is entred
+into Temptation; and this is called
+the houre of Temptation, Rev. 3. 10.
+The ſeaſon wherein it growes to a
+head; the diſcovery whereof will give
+farther light into the preſent enquiry,
+about what it is to enter into Temptation;
+for when the houre of Temptation
+is come upon us, we are entred into
+it.
+
+[2.13] Every great and preſſing temptation
+hath its houre, a ſeaſon wherein
+it growes to a head, wherein it is moſt
+vigorous, active, operative and prevalent.
+It may be long in riſing, it may
+be long urging more or leſſe; but it
+hath a ſeaſon, wherein from the conjunction
+of other occurrences, ſuch as
+thoſe mentioned, outward or inward, it
+hath a dangerous houre, and then for
+the moſt part, men enter into it.
+
+[2.14] Hence that very temptation which
+at one time, hath little or no power on
+a man, he can deſpiſe it, ſcorne the
+motions of it, eaſily reſiſt it; at another,
+beares him away quite before it.
+It hath from other circumſtances and
+occurrences, got new ſtrength and efficacy;
+or the man is enervated and
+weakened, the houre is come, he is
+entred into it, and it prevailes. David
+probably had Temptations before
+in his younger dayes to Adultery or murder,
+as he had in the caſe of Nabal;
+but the houre of temptation was not
+come, it had not got its advantages aabout
+it, and ſo he eſcaped, untill afterwards.
+Let men looke for it, that
+are expoſed unto temptations, as who
+is not: They will have a ſeaſon wherein
+their ſolicitations will be more urgent,
+their Reaſonings more plauſible, pretences
+more glorious, hopes of Recovery
+more appearing, opportunities
+more broad and open, the doores of
+evill made more beautifull than ever
+they have been: Bleſſed is he who is
+prepared for ſuch a ſeaſon, without
+which there is no eſcaping. This as
+I ſaid is the firſt thing required to entring
+into Temptation; if it ſtay here,
+we are ſafe.
+
+[2.15] Before I deſcend to other particulars,
+having now entered hereon I ſhall
+ſhew in generall.
+
+[2.16] 1. How, or by what meanes, commonly
+any Temptation attaines its houre.
+
+[2.17] 2. How we may know when any
+temptation is come to its high noone,
+and is in its houre.
+
+[2.18] 1. It doth the firſt by ſeverall wayes.
+
+[2.19] 1. By long ſolicitations, cauſing the
+mind frequently to converſe with the
+evill ſolicited unto, it begets extenuating
+thoughts of it. If it make this
+proceſſe, it is coming towards its
+houre. It may be when firſt it began
+to preſſe upon the ſoule, the ſoule
+was amazed with the ugly appearance
+of what it aymed at, and cryed, am I a
+dogge? if this indignation be not dayly
+heightened, but the ſoule by converſing
+with the evill, begins to grow
+as it were familiar with it, not to be
+ſtartled as formerly, but rather enclines
+to cry, is it not a little one? then the
+Temptation is coming towards its
+high noone, Luſt hath then entiſed
+and entangled, and is ready to conceive,
+Jam, 1. 14. of which more at large afterwards,
+in our enquiry, how we may
+know, whether we are entred into temptation,
+or no: our preſent inqueſt is
+after the houre and power of Temptation
+its ſelfe.
+
+[2.20] 2. When it hath prevailed on others,
+and the ſoule is not filled with
+diſlike and abhorrency of them
+and their wayes, nor with pitty and
+prayer for their deliverance. This
+proves an advantage unto it, and rayſes
+it towards its height. When that
+Temptation ſets upon any one, which
+at the ſame time, hath poſſeſſed and
+prevailed with many, it hath ſo great,
+and ſo many Advantages thereby,
+that it is ſurely growing towards its
+houre. Its prevailing with others, is
+a meanes to give it its houre againſt
+us. The falling off of Hymeneus and
+Philetus, is ſaid to overthrow the faith
+of ſome, 2 Tim. 2. 17, 18.
+
+[2.21] 3. By complicating its ſelfe with
+many conſiderations, that perhaps are
+not abſolutely evill. So did the Temptation
+of the Galathians to fall from
+the purity of the Goſpell, freedome
+from perſecution, union and conſent
+with the Jewes: things in themſelves
+good, were pleaded in it, and gave
+life to the Temptation it ſelfe. But
+I ſhall not now inſiſt on the ſeveral advantages,
+that any temptation hath to
+heighten & greaten its ſelfe, to make its
+ſelfe prevalent and effectuall, with
+the contribution that it receives to
+this purpoſe, from various circumſtances,
+opportunities, ſpecious pleas
+and pretences, neceſſities for the doing
+that, which cannot be done without
+anſwering the Temptation, and
+the like; becauſe I muſt ſpeak unto
+ſome of them afterwards.
+
+[2.22] 2. For the ſecond, it may be
+knowne,
+
+[2.23] 1. By its reſtleſſe urgency, and arguing.
+When a Temptation is in its
+houre it is reſtleſſe: it is the time of
+battell, and it gives the ſoule no reſt.
+Satan ſees his Advantage, conſiders
+his conjunction of forces, and knowes
+that he muſt now prevaile, or be hopeleſſe
+for ever. Here are Opportunities,
+here are advantages, here are
+ſpecious pleas and pretences; ſome
+ground is already got by former arguings,
+here are extenuations of the
+evill, hopes of pardon, by after endeavours,
+all in a readineſſe; if he can
+do nothing now, he muſt ſit downe
+loſt in his undertakings. So when he
+had got all things in a readineſſe againſt
+Chriſt, he made it the houre of darkneſſe.
+When a temptation diſcovers
+mille nocendi artes, preſſes within
+doores by imaginations and reaſonings,
+without, by ſolicitatious, Advantages
+and Opportunities, let the ſoule know,
+that the houre of it is come, and the
+Glory of God, with its owne welfare,
+depends on its behaviour in this triall:
+as we ſhall ſee in the particular caſes
+following.
+
+[2.24] 2. When it makes a Conjunction
+of Affrightments and Allurements.
+Theſe two comprize the whole forces
+of temptation. When both are
+brought together, Temptation is in
+its houre. They were both in Davids
+caſe, as to the murder of Uriah; there
+was the feare of his revenge on his
+vvife, and poſſibly on himſelfe; and
+feare of the publication of his ſinne, at
+leaſt; and there was the allurement of
+his preſent enjoyment of her, whom
+he luſted after. Men ſometimes are
+carried into ſinne by love to it, and
+are continued in it by feare of what will
+enſue upon it. But in any caſe, where
+theſe two meet, ſomething allures
+us, ſomething affrights us, and the
+reaſonings that runne between them
+are ready to entangle us, then is the
+houre of temptation.
+
+[2.25] This then it is to enter into Temptation,
+this is the houre of it, of which
+more in the proceſſe of our diſcourſe.
+
+[2.26] 3. There is the meanes of prevention
+preſcribed by our Saviour,
+they are two.
+
+[2.27] 1. Watch. 2. Pray.
+
+[2.28] 1. The firſt is a generall expreſſion,
+by no meanes to be limited to
+its native ſignification, of waking from
+ſleepe: to watch is as much as to be on
+our guard, to take heed, to conſider
+all waies, and meanes whereby an enemy
+may approach to us. So the Apoſtle
+1 Cor. 16. 13. This it is to
+watch in this buſineſſe, to ſtand faſt in
+the faith, as good ſouldiers, to quit our
+ſelves like men. It is as much as 〈 in non-Latin alphabet 〉,
+to take heed, or look to our ſelves,
+as the ſame thing is by our Saviour
+often expreſſed. So Rev. 3. 2. An
+univerſall carefulneſſe, and diligence,
+exerciſing its ſelfe in, and by all waies
+and meanes, preſcribed by God, over
+our hearts and waies, the baits and
+methods of Satan, the occaſions and
+advantages of ſinne in the world, that
+we be not intangled, is that which in
+this word is preſſed on us.
+
+[2.29] 2. For the ſecond direction of
+prayer, I need not ſpeak to it. The
+duty and its concernments are known
+to all: I ſhall only adde, that theſe two
+comprize the whole endeavour of faith
+for the ſoules preſervation from temptation.
+
+## CHAP. III.
+
+[3.1] HAving thus opened the words
+as in the foregoing Chapter, ſo
+farre as is neceſſary to diſcover the
+foundation of the truth to be inſiſted
+on, and improved, I ſhall lay it downe
+in the enſuing obſervation.
+
+[3.2] It is the great duty of all believers
+to uſe all diligence in the waies of Chriſts
+appointment, that they fall not into
+temptation.
+
+[3.3] I know God is able to deliver the
+Godly out of temptation. I know he is
+faithfull, not to ſuffer us to be tempted
+above what we are able, but will make
+a way for our eſcape; yet I dare ſay
+I ſhall convince, who will attend unto
+what is delivered, and written, that it
+is our great duty and concernment to
+uſe all diligence, watchfulneſſe and
+care, that we enter not into Temptation;
+and I ſhall evince it by the enſuing
+conſiderations.
+
+[3.4] 1. In that compendious inſtruction
+given us by our Saviour, concerning
+what we ought to pray for, this of
+not entering into temptation, is expreſſely
+one head. Our Saviour knew
+of what concernment it was to us,
+not to enter into Temptation, when
+he gave us this, as one ſpeciall ſubject
+of our daily dealing with God,
+Matth. 6. 13. And the order of the
+words ſhowes us, of what importance
+it is, lead us not into temptation, but
+deliver us from evill. If we are lead into
+temptation, Evill will befall us,
+more or leſſe. How God may be ſaid
+to tempt us, or to lead us into Temptation
+I ſhewed before. In this direction,
+it is not ſo much the not giveing
+us up to it, as the powerfull keeping
+us from it, that is intended.
+
+[3.5] The laſt words are as it were exegeticall,
+or expoſitory of the former; lead
+us not into temptation,
+〈 in non-Latin alphabet 〉:
+but deliver us from the evill:
+ſo deale with us, that we may be powerfully
+delivered from that evill which
+attends our entering into temptation.
+
+[3.6] Our bleſſed Saviour knowes full
+well our ſtate and condition; he knows
+the power of Temptations, having
+had experience of it; he knowes our
+vaine confidence, and the reſerves we
+have concerning our ability to deale
+with Temptations, as he found it in
+Peter; but he knowes our weakneſſe
+and folly, and how ſoone we are caſt
+to the ground; and therefore doth he
+lay in this proviſion for inſtruction, at
+the Entrance of his miniſtry, to make
+us heedfull, if poſſible, in that which
+is of ſo great concernment to us. If
+then we will repoſe any confidence in
+the Wiſdome, Love, and Care of Jeſus
+Chriſt towards us, we muſt grant
+the truth pleaded for.
+
+[3.7] 2. Chriſt promiſeth this freedome
+and deliverance as a great Reward, of
+moſt acceptable obedience, Rev. 3. 10.
+This is the great promiſe made to
+the Church of Philadelphia, wherein
+Chriſt found nothing that he would
+blame. Thou ſhalt be kept from the
+houre of temptation; not thou ſhalt be
+preſerved in it, but he goes higher,
+thou ſhalt be kept from it. There is,
+ſaith our Saviour, an houre of Temptation
+coming: a ſeaſon that will make
+havoke in the world; multitudes ſhall
+then fall from the faith, deny and blaſpheme
+me! Oh how few will be able
+to ſtand and hold out? Some will be
+utterly deſtroyed and periſh for ever,
+ſome will get wounds to their ſoules
+that ſhall never be well healed, whilſt
+they live in this world, and have their
+bones broken, ſo as to go halting all
+their daies. But ſaith he, becauſe thou
+haſt kept the word of my patience, I will
+be tender towards thee, and keep thee
+from this houre of temptation. Certainely
+that which Chriſt thus promiſes
+to his beloved Church, as a Reward
+of her ſervice, Love, and Obedience,
+is no light thing; whatever
+Chriſt promiſeth to his ſpouſe, is a
+fruit of unſpeakable Love; that is ſo
+in an eſpeciall manner, which is promiſed
+as a Reward of ſpeciall obedience.
+
+[3.8] 3. Let us to this purpoſe conſider
+the Generall iſſues of mens entering
+into temptation; and that of bad and
+good men, of ungrounded profeſſors,
+and of the choyſeſt Saints.
+
+[3.9] For the firſt I ſhall offer but one or
+two Texts of Scripture, Luk. 8. 13.
+They on the rock, are they which, when
+they heare, receive the word with joy, and
+have no roote, but for a while believe:
+well! how long do they believe?
+they are affected with the preaching
+of the word, and believe thereon:
+make profeſſion, bring forth ſome
+fruits: but untill when do they abide?
+ſaies he, in the time of temptation they
+fall away: when once they enter into
+temptation they are gone for ever:
+Temptation withers all their profeſſion,
+and ſlaies their ſoules. We ſee
+this accompliſhed every day; men
+who have attended on the preaching
+of the Goſpell, been affected and delighted
+with it, and have beene looked on,
+it may be, as believers, and thus have
+continued for ſome yeares; no ſooner
+doth a temptation befall them, that
+hath vigor and permanency in it, but
+they are turned out of the way, and
+are gone for ever: They fall to hate
+the word they have delighted in, deſpiſe
+the profeſſors of it, and are hardened
+by ſinne. So Matth. 7. 26. He
+that heareth theſe words of mine, and
+doth them not, is like a man that built
+his houſe upon the ſand: but what doth
+this houſe of profeſſion do? it ſhelters
+him, keeps him warme, and ſtands
+for a while; but ſaith he, verſ. 27.
+when the raine deſcendes, when Temptation
+comes, it falls utterly, and its
+fall is great. Judas followes our Saviour
+three yeares, and all goes well
+vvith him; He no ſooner enters into
+temptation, Satan hath got him, and
+winnowed him, but he is gone. Demas
+vvill preach the Goſpell, untill the
+love of the world befall him, and he is
+utterly turned aſide, It vvere endleſſe
+to give inſtances of this; Entrance into
+temptation, is with this ſort of men
+an entrance into Apoſtaſy, more or
+leſſe, in part or in whole, it faileth
+not.
+
+[3.10] 2. For the saints of God themſelves,
+let us ſee by ſome inſtances,
+what iſſue they have had of thir entring
+int. Temptation. I ſhall name a
+fevv; Adam, was the ſonne of God,
+Luk. 3. created in the image of God:
+full of that integrity, rightouſneſſe
+and holineſſe which might be and
+was an eminent Reſemblance of the
+Holineſſe of God. He had a farre
+greater inherent ſtock of Ability then
+we; and had nothing in him to entice
+or ſeduce him, yet this Adam no
+ſooner enters into temptation, but he
+is gone, loſt, and ruined, he and all
+his poſterity with him. What can
+we expect in the like condition, that
+have not only in our temptations, as
+he had, a cunning devill to deale withall,
+but a curſed world, and a corrupt
+heart alſo.
+
+[3.11] Abraham was the father of the
+faithfull; whoſe faith is propoſed as a patterne to all them that ſhall believe,
+yet he entring twice into the ſame temptation,
+namely that of feare about his
+wife, was twice over powred by it, to
+the diſhonour of God, and no doubt
+the diſquietment of his owne ſoule.
+
+[3.12] David is called a man after Gods
+owne heart by God himſelfe; yet
+what a dreadfull thing is the ſtory of
+his entring into temptation: He is no
+ſooner entangled, but he is plunged
+into Adultery; thence ſeeking deliverance
+by his owne invention, like a
+poore creature in toyle he is entangled
+more and more, untill he lies as
+one dead, under the power of ſinne and
+folly.
+
+[3.13] I might mention Noah, Lot, Hezekiah,
+Peter, and the reſt whoſe
+temptations, and falls therein, are
+on record for our inſtruction. Certainely
+be that hath any heart in theſe
+things, cannot but ſay as the inhabitants
+of Samaria upon the letter of
+Jehu; behold two Kings ſtood not before
+him, how ſhall we ſtand? Oh
+Lord! if ſuch mighty pillars have been
+caſt to the ground, ſuch Cedars blowne
+downe, how ſhall I ſtand before temptations?
+Oh keep me that I enter not
+in; veſtigia terrent, behold the footſteps
+of them that have gone in; whom
+doe you ſee retiring without a wound?
+a blemiſh at leaſt? On this account
+would the Apoſtle have us to exerciſe
+tenderneſſe towards them that are
+fallen into ſinne, Gal. 6. 1. conſidering
+thy ſelfe, leſt thou alſo be tempted: he
+doth not ſay, leſt thou alſo ſinne, or
+fall, or be overtaken with a fault; but
+leſt thou alſo be tempted; thou ſeeſt
+the power of temptation in others, and
+knoweſt not how ſoone thou may'ſt be
+tempted, nor what will be the ſtate and
+condition, of thy ſoule thereupon. Aſſuredly
+he that hath ſeene ſo many
+better, ſtronger men than himſelfe
+faile, and caſt downe in the triall, will
+thinke it incumbent on him to remember
+the battell, and if it be poſſible, to
+come there no more. Is it not a madneſſe
+for a man that can ſcarce crawle
+up and downe, he is ſo weake, (which
+is the caſe of moſt of us) if he avoid
+not what he hath ſeen Giants foyled
+in the undertaking of? Thou art yet
+whole and ſound, take heed of temptation,
+leſt it be with thee as it was with
+Abraham, David, Lot, Peter, Hezekiah,
+the Galathians who fell all in the
+time of triall.
+
+[3.14] In nothing doth the folly of the
+hearts of men ſhew it ſelfe more openly
+in the dayes wherein we live, than
+in this curſed boldneſſe, after ſo many
+warnings from God, and ſo many
+ſad experiences every day under
+their eyes, of running into, and putting
+themſelves upon Temptations.
+Any ſociety, any companie, any conditions
+of outward advantages without
+once weighing what their ſtrength,
+or what the concernment of their
+poore ſoules, they are ready for,
+Though they goe over the dead, and
+the ſlaine, that in thoſe wayes and
+pathes, but even now, fell downe before
+them, yet they will goe on without
+regard or trembling. At this
+doore are gone out hundreds, thouſands
+of Profeſſors within a few yeares.
+But
+
+[3.15] 4. Let us, conſider our ſelves; what
+our weakneſſe is, and what Temptation
+is; its power and efficacy, with
+what it leades unto.
+
+[3.16] 1. For our ſelves, we are weakneſſe
+it ſelfe. We have no ſtrength, no
+power to withſtand. Confidence
+of any ſtrength in us, is one great part
+of our weakneſſe. It was ſo in Peter.
+He that ſayes he can doe any thing,
+can doe nothing as he ſhould. And
+which is worſe, it is the worſt kind of
+weakneſſe that is in us: a weakneſſe from
+treachery; a weakneſſe ariſing from
+that party which every Temptation
+hath in us. If a caſtle or fort be never
+ſo ſtrong and well fortified, yet if there
+be a treacherous party within, that is
+ready to betray it on every opportunity,
+there is no preſerving it from the
+Enemy. There are Traytors in our
+hearts, ready to take part, to cloſe,
+and ſide with every Temptation, and
+to give up all to them; yea to ſolicite
+and bribe temptations to doe the work;
+as Traytors incite an enemy. Doe not
+flatter your ſelves that you ſhall hold
+out; there are ſecret luſts that lie lurking
+in your hearts, which perhaps
+now ſtir not, which aſſoone as any
+temptation befals you, will riſe, tumultuate,
+cry, diſquiet, ſeduce, and never
+give over, untill they are either
+killed, or ſatisfied. He that promiſes
+himſelfe, that the frame of his heart
+will be the ſame under a Temptation,
+as it is before, will be wofully miſtaken:
+Am I a dog, that I ſhould doe this
+thing? ſayes Hazael; yea! thou wilt be
+ſuch a dog, if ever thou be King of Syria:
+Temptation from thy intereſt will unman
+thee: He that now abhors the
+thoughts of ſuch and ſuch a thing, if
+he once enters into temptation, will
+find his heart enflamed towards it,
+and all contrary reaſonings overborne
+and ſilenced. He will deride his former
+feares, caſt out his ſcruples, and
+contemne the conſideration that he lived
+upon. Little did Peter thinke he
+ſhould deny and forſweare his maſter,
+ſo ſoone as ever he was queſtioned
+whether he knew him or no; it was
+no better when the houre of Temptation
+came; All reſolutions were forgotten,
+all love to Chriſt buried, the
+preſent Temptation cloſing with his
+carnall feare carryed all before it.
+
+[3.17] To handle this a little more diſtinctly;
+I ſhall conſider the meanes of
+ſafety from the power of Temptation, if
+we enter therein, that may be expected
+from our ſelves; and that in generall
+as to the ſpring and riſe of them;
+and in particular, as to the wayes of
+exerting that ſtrength we have, or
+ſeeme to have.
+
+[3.18] 1. In generall, all we can looke
+for is from our hearts; what a mans
+heart is that is, Hee; but now what
+is the heart of a man in ſuch a ſeaſon?
+
+[3.19] 1. Suppoſe a man is not a Believer,
+but only a Profeſſor of the Goſpell,
+what can the heart of ſuch an
+one doe? Prov. 10. 20. The heart of
+the wicked is little worth; and ſurely
+that vvhich is little worth in any thing,
+is not much worth in this. A vvicked
+man, may in outward things be of
+great uſe; but come to his heart; that
+is falſe and a thing of nought. Now
+withſtanding of Temptation is heart
+worke; and when it comes like a flood,
+can ſuch a rotten turfe as a wicked mans
+heart, ſtand before it? but of theſe
+before; entring into Temptation,
+and Apoſtacy is the ſame with them.
+
+[3.20] 2. Let it be whoſe heart it will;
+Prov. 28. 26. He that truſteth in his
+owne heart is a foole; He that doth ſo,
+be he what he will, in that he is fooliſh:
+Peter did ſo in his Temptation;
+he truſted in his own heart; though
+all men forſake thee I will not; it
+was his folly; but why was is it his
+folly? He ſhall not be delivered; It
+will not preſerve him in ſnares; it will
+not deliver him in temptations. The
+Heart of a man will promiſe him very
+faire before a Temptation comes;
+am I a dogge, ſayes Hazael, that I
+ſhould doe this thing? though all
+men ſhould deny thee I will not: ſhall
+I doe this evill? it cannot be; All
+the Arguments that are ſuited to give
+check to the heart in ſuch a condition,
+are muſtered up; did not Peter thinke
+you do ſo? What, deny my maſter,
+the Son of God; my Redeemer; who
+loves me? Can ſuch ingratitude, unbeliefe,
+rebellion, befall me? I will
+not doe it; ſhall then a man reſt in it,
+that his heart will be ſtedfaſt? let the
+wiſeman anſwer, he that truſteth in his
+owne heart is a foole. The heart is deceitfull,
+Jer. 17. 9. We would not
+willingly truſt any thing wherein there
+is any deceit or guile; Here is that
+which is deceitfull above all things. It
+hath a thouſand ſhifts and treacheries,
+that it will deale withall, when it
+comes to the triall, every temptation
+will ſteale it away; Hoſ▪
+4. 11. Generally
+mens hearts deceive them no
+oftner then they doe truſt in them,
+and then they never faile ſo to doe.
+
+[3.21] 2. Conſider the particular wayes
+and meanes, that ſuch an heart hath,
+or can uſe to ſafeguard its ſelfe, in the
+houre of Temptation, & their inſufficiency
+to that purpoſe will quickly appeare.
+I ſhall inſtance in ſome few
+only.
+
+[3.22] 1. Love of honour in the world;
+Reputation and eſteem in the Church,
+obtained by former profeſſion and
+walking, is one of the hearts owne
+weapons to defend its ſelfe in the houre
+of Temptation. Shall ſuch an one as
+I fly? I who have had ſuch a Reputation
+in the Church of God, ſhall I
+now loſe it by giving way to this luſt?
+to this temptation? by cloſing with
+this, or that publick evill? This Conſideration
+hath ſuch an influence on the
+ſpirits of ſome, that they thinke it
+will be a ſhield and buckler, againſt any
+aſſaults that may befall them. They
+will dye a thouſand times before they
+will forfeit that repute they have in the
+Church of God. But alas, this is but
+a which, or a new cord, to bind a
+Gyant temptation withall: What
+thinke you of the third part of the
+ſtarres of heaven? Revel. 12. 4. Had
+they not ſhone in the firmament of the
+Church? Were they not ſenſible
+more then enough of their owne honour,
+height, uſefulneſſe, and reputation?
+but when the Dragon comes
+with his temptations, he caſts them
+downe to the earth. Yea great temptations
+vvill make men, vvho have
+not a better defence, inſenſibly fortify
+themſelves againſt that diſhonour,
+and diſreputation that their vvayes are
+attended vvithall: populus ſibilet, nec
+mihi plaudo; doe vve not knovv inſtances
+yet living, of ſome, vvho have
+ventured on compliances vvith vvicked
+men, after the Glory of a long
+and uſefull profeſſion, and vvithin a
+vvhile finding themſelves caſt dovvn
+thereby from their Reputation vvith
+the Saints, have hardened themſelves againſt
+it, & ended in Apoſtacy? as Joh.
+15. 6. This kept not Judas, it kept not
+Hymeneus nor Philetus, it kept not the
+ſtarres of heaven, nor will it keepe
+thee.
+
+[3.23] 2. There is on the other ſide, the
+conſideration of ſhame, reproach, loſſe,
+and the like. This alſo men may put
+their truſt in, as a defence againſt temptations;
+and doe not feare but to be
+ſafeguarded and preſerved by it. They
+would not for the world bring that
+ſhame and reproach upon themſelves,
+that ſuch and ſuch miſcarriages are attended
+withall.
+
+[3.24] Now beſides that this conſideration
+extends it ſelfe only to open ſins,
+ſuch as the world takes notice of, and
+abhorres, and ſo is of no uſe at all in
+ſuch caſes, as wherein pretences and colours
+may be invented and uſed, nor
+in publicke temptations to looſe and
+careleſſe walking, like thoſe of our
+dayes, nor in caſes that may be diſputable
+in themſelves, though expreſly
+ſinfull to the conſciences of perſons
+under temptations, nor in heart ſins,
+in all vvhich, and moſt other caſes
+of temptation, there are innumerable
+reliefes ready to be tendered unto the
+heart againſt this conſideration; beſides
+all this I ſay vve ſee by experience,
+hovv eaſily this coord is broken
+vvhen once the heart begins to be entangled:
+each corner of the land is full
+of examples to this purpoſe. But
+
+[3.25] 3. They have yet that which outweighes
+theſe leſſer conſiderations;
+namely that they will not wound their
+owne conſciences, and diſturbe their
+peace; and bring themſelves in danger
+of hell fire. This ſurely, if any thing,
+will preſerve men in the houre of temptation.
+They will not laviſh away
+their peace, nor venture their ſoules, by
+running on God, and the thick boſſes
+of his buckler. What can be of more
+efficacy and prevalency? I confeſſe
+this is of great importance; and oh
+that it were more pondered than it is;
+that we laid more weight upon the
+preſervation of our peace with God,
+than we doe, yet I ſay that even this
+conſideration in him who is otherwhere
+off from his watch, and doth
+not make it his worke to follow the
+other rules inſiſted on; it will not preſerve
+him: For
+
+[3.26] 1. The peace of ſuch an one, may
+be falſe peace, or ſecurity; made up of
+preſumption and falſe hopes, yea
+though he be a Believer, it may be ſo;
+ſuch was Davids peace after his ſinne,
+before Nathan came to him; ſuch was
+Laodicha's peace, when ready to periſh;
+and Sardis her peace, when dying.
+What ſhould ſecure a ſoule that
+it is otherwiſe; ſeeing it is ſuppoſed,
+that it doth not univerſally labour to
+keep the word of Chriſts patience, and
+to be watchfull in all things? thinke
+you that the peace of many in theſe
+dayes, will be found to be true peace
+at laſt? nothing leſſe; they goe alive
+downe to hell, and death will have
+dominion over them in the morning.
+Now if a mans peace be ſuch, doe you
+think that can preſerve him, which
+cannot preſerve its ſelfe? It will give
+way at the firſt vigorous aſſault of a
+Temptation in its hight and houre.
+Like a broken reed, it will runne into
+the hand of him that leaneth on it: But
+
+[3.27] 2. Suppoſe the peace cared for, and
+propoſed to ſafeguard the ſoule, be
+true and good; yet when all is laid up in
+this one bottome, when the houre of
+tēptation comes, ſo many reliefs will be
+tendred againſt this conſideration, as
+vvill make it uſeleſſe. This evill is
+ſmall, it is queſtionable, it fals not openly
+and dovvnright upon conſcience;
+I doe but feare conſequences, it may
+be I may keep my peace notvvithſtanding
+others of the people of God, have
+fallen and yet kept, or recovered their
+peace: if it be loſt for a ſeaſon, it may
+be obtained againe; I vvill not ſolicite
+its ſtation any more; or though
+peace be loſt, ſafty may remaine; and
+a thouſand ſuch pleas there are, vvhich
+are all planted as batteries againſt this
+fort, So that it cannot long hold out.
+
+[3.28] 3. The fixing on this particular
+only; is to make good one paſſage or
+entrance, vvhileſt the Enemy aſſaults
+us round about. It is true, a little
+armour vvould ſerve to defend a man,
+if he might chooſe vvhere his enemy
+ſhould ſtrike him; but vve are commanded
+to take the whole armour of
+God if vve intend to reſiſt and ſtand,
+Epheſ. 6. This vve ſpeake of is but
+one peice, and vvhen our eye is only
+to that, Temptation may enter and
+prevaile twenty other wayes. For inſtance!
+a man may be tempted to
+wordlineſſe, unjuſt gaine, revenge, vaine
+glory or the like; if he fortify himſelfe
+alone with this conſideration, he
+will not doe this thing, and wound
+his conſcience, and looſe his peace; fixing
+his eye on this particular, and
+counting himſelfe ſafe, whileſt he is
+not overcome on that hand; it may
+be neglect of private Communion with
+God, ſenſuality and the like doe creep
+in & he is not one jot in a better condition,
+then if he had fallen under the
+power of that part of the temptation,
+which was moſt viſibly preſſing on him.
+
+[3.29] 4. Experience gives to ſee that this
+doth & will faile alſo. There is no Saint
+of God, but puts a valuation on the
+peace he hath: yet how many of them
+faile in the day of temptation? but yet
+
+[3.30] 4. They have another conſideration
+alſo, and that is, the vileneſſe of
+ſinning againſt God? how ſhall they doe
+this thing and ſin againſt God the God
+of their mercies, of their ſalvation. How
+ſhall they wound Jeſus Chriſt who dyed
+for them? This ſurely cannot but
+preſerve them.
+
+[3.31] Anſ. 1. We ſee every day this
+conſideration failing alſo. There is
+no child of God that is overcome of
+temptation, but overcomes this conſideration.
+It is not then a ſure and
+infallible defenſative.
+
+[3.32] 2. This conſideration is twofold;
+either it expreſſes the thoughts of the
+ſoule with particular reference to the
+Temptation contended withall; and
+then it will not preſerve it: Or it expreſſes
+the univerſall habituall frame
+of heart that is in us, upon all accounts,
+and then it falleth in with what I ſhall
+tender as the univerſall medicine and
+remedy, in this caſe, in the proceſſe
+of this diſcourſe; whereof afterwards.
+
+[3.33] 2. Conſider the power of Temptation
+partly from what was ſhewed before,
+from the effects and fruites of
+it, in the Saints of old; partly from
+ſuch other effects in Generall as we find
+aſcribed to it: as
+
+[3.34] 1. It will darken the mind, that a
+man ſhall not be able to make a right
+Judgement of things, ſo as he did before
+he entred into it. As in the
+men of the world, the God of this
+world blindes their mindes, that they
+ſhould not ſee the Glory of Chriſt in the
+Goſpel, 2 Cor. 4. 4. and whore dome, wine,
+and new wine take away their hearts,
+Ho. 4. 11. So it is in the nature of every
+temptation more or leſſe, to take away
+the heart, or to darken the underſtanding
+of the perſon tempted.
+
+[3.35] And this it doth divers waies:
+
+[3.36] 1. By fixing the imagination, and
+the thoughts, upon the object whereto
+it tends, ſo that the mind ſhall be
+diverted from the conſideration of the
+things that would reliefe and ſuccour
+it in the ſtate wherein it is. A man is
+tempted to apprehend that he is forſaken
+of God, that he is an object of
+his hatred, that he hath no intereſt in
+Chriſt; by the craft of Satan, the
+mind ſhall be ſo fixed to the conſideration
+of this ſtate and condition, with
+the diſtreſſe of it, that he ſhall not be
+able to mannage any of the reliefes
+ſuggeſted, and tender'd to him againſt
+it; but following the fullneſſe of his
+owne thoughts, ſhall walk on in darkneſſe,
+and have no light. I ſay a Temptation
+will ſo poſſeſſe and fill the
+mind with thoughtfullneſſe of its ſelfe;
+and the matter of it, that it will take
+off from that cleare conſideration of
+things which otherwiſe it might, and
+would have. And thoſe things whereof
+the mind was wont to have a vigorous
+ſenſe, to keep it from ſinne, will
+by this meanes come to have no force
+nor efficacy with it: Nay it will commonly
+bring men to that ſtate and
+condition, that when others to whom
+their eſtate is knowne, are ſpeaking
+to them the things that concerne their
+deliverance and peace, their minds
+will be ſo poſſeſſed with the matter of
+their temptation, as not at all to underſtand,
+ſcarſe to heare one word that
+is ſpoken to them.
+
+[3.37] 2. By woefull intangling of the
+Affections, which when they are ingaged,
+what influence they have in
+blinding the mind, and darkening the
+underſtanding, is knowne: if any know
+it not, let him but open his eyes, in
+theſe daies, and he will quickly learne
+it. By what waies and meanes it is,
+that engaged Affections will becloude
+the mind and darken it, I ſhall not now
+declare. Only I ſay; give me a man ingaged
+in hope, love, feare, in reference
+to any particulars, wherein he ought
+not, and I ſhall quickly ſhew you,
+wherein he is darkened and blinded.
+This then you will faile in, if you enter
+into temptation: The preſent Judgment
+you have of things, will not be
+utterly altered, but darkened, and
+render'd infirme, to influence the will,
+and maſter the Affections; Theſe being
+ſet at liberty by Temptation, will
+runne on in madneſſe. Forthwith deteſtation
+of ſinne, abhorring of it, terrors
+of the Lord, ſenſe of love, preſence
+of Chriſt crucified all depart
+and leave the heart a prey to its
+enemy.
+
+[3.38] 3. Temptation will give oyle and
+fuell to our luſts, incite, provoke,
+and make them tumultuate, and rage
+beyond meaſure; Tendering a luſt, a
+corruption, a ſutable object, advantage,
+occaſion, it heightens and exaſpertes
+it, makes it for a ſeaſon wholly
+predominant; ſo dealt it with carnall
+feare in Peter, with pride in Hezekiah,
+with Coveteouſneſſe in Achan,
+with uncleaneſſe in David, with worldlineſſe
+in Demas, with Ambition in
+Diotrephes; it will lay the reines on the
+neck of a Luſt, and put ſpurs to the
+ſides of it, that it may ruſh forward,
+like an horſe into the battell. A man
+knowes not the pride, fury, madneſſe
+of a corruption, untill it meet with a
+ſutable temptation. And what now
+will a poore ſoule think to do! His
+Mind is darkened, his Affections entangled,
+his luſts enflamed, and provoked,
+his reliefe is defeated, and
+what will be the iſſue of ſuch a Condition?
+
+[3.39] 3. Conſider that Temptations are
+either publick or private; and let us a
+litle view the efficacy, and power of
+them apart.
+
+[3.40] 1. There are publick temptations;
+ſuch as that mentioned, Revel. 3. 10.
+that was to come upon the world to try
+them that dwell upon the earth; or a
+combination of perſecution and ſeduction
+for the triall of a Careleſſe Generation
+of profeſſors: now carrying ſuch
+a Temptation; conſider, that
+
+[3.41] 1. It hath an Efficacy in reſpect of
+God, who ſends it to revenge the neglect
+and contempt of the Goſpell on the
+one hand; and treachery of falſe profeſſors
+on the other. Hence it ſhall
+certainely accompliſh what it receives
+Commiſſion from him to do. When
+Satan offers his ſervice to go forth
+and ſeduce Ahab, that he might fall;
+God ſaies to him thou ſhalt perſwade
+him and prevaile alſo, go forth and do
+ſo, 1 King. 22. 22, he is permitted as
+to his wickedneſſe, and Commiſſionated
+as to the event, and puniſhment
+intended. When the Chriſtian world,
+was to be given up to folly and falſe
+worſhip, for their neglect of the truth,
+and their naked, barren, fruitleſſe,
+Chriſt-diſhonouring profeſſion; it is
+ſaid of the Temptation that fell upon
+them; that God ſent them ſtrong deluſions,
+that they ſhould believe a lye,
+2. Theſ. 2. 11. That, that comes
+ſo from God in a judiciary manner,
+hath a power with it, and ſhall prevaile;
+That ſelfiſh, ſpiritually ſlothfull, careleſſe
+and worldly frame of ſpirit, which
+in theſe daies hath infected almoſt the
+body of profeſſors, if it have a Commiſſion
+from God, to kill hypocrities, to
+wound negligent ſaints, to breake their
+bones, and make them ſcandalous,
+that they may be aſhamed, ſhall it not
+have a power and efficacy ſo to do?
+What work hath the ſpirit of error
+made amongſt us? is it not from
+hence; that as ſome men delighted not
+to retaine God in their hearts ſo he
+hath given them up to a reprobate mind,
+Rom. 1. 28. A man would think it
+ſtrange, yea it is matter of amazement,
+to ſee perſons of a ſober ſpirit, pretending
+to great things in the waies of
+God, overcome, captivated, enſnared,
+deſtroyed, by weak meanes, ſottiſh
+opinions, fooliſh imaginations, ſuch
+as a man would think it impoſſible that
+they ſhould ever lay hold on ſenſible
+or rationall men, much leſſe on profeſſors
+of the Goſpell. But that which
+God will have to be ſtrong, let us not
+think weak? no ſtrength but the
+ſtrength of God, can ſtand in the way
+of the weakeſt things of the world,
+that are commiſſionated from God,
+for any end or purpoſe whatever.
+
+[3.42] 2. There is in ſuch Temptations,
+the ſecret inſinuation of Examples in
+thoſe that are accounted Godly, and
+are profeſſours, Matth. 24. 12. Becauſe
+iniquity ſhall abound the love of many
+ſhall wax cold, &c. the abounding of
+iniquity in ſome will inſenſibly caſt
+water on the zeale and love of others,
+that by litle and litle it ſhall wax cold.
+Some begin to grow negligent, careleſſe,
+worldly, wanton; they breake
+the ice towards the pleaſing of the
+fleſh; at firſt others blame, judge
+them, perhaps reprove them in a ſhort
+ſpace their love alſo waxes cold, and
+the brunt being over, they alſo conforme
+to them, and are caſt into the
+ſame mould with them. A litle leaven
+leaveneth the whole lumpe, Paul
+repeates this ſaying twice; 1 Cor. 5. 6.
+and Gal. 5. 9. He would have us take
+notice of it, and it is of the danger of
+the infection of the whole body from the
+ill examples of ſome, whereof he
+ſpeakes. We know how inſenſibly a
+leaven proceedeth to give a ſavour to
+the whole: So it is termed a roote of
+bitterneſſe that ſpringeth up, and defileth
+many: Heb. 12. 15. If one litle
+peice of leaven, if one bitter roote may
+endanger the whole, how much more
+when there are many roots of that nature,
+and much leaven is ſcattered abroad.
+It is eaſy following a multitude
+to do evill; and ſaying a conſpiracy
+to them to whom the people ſay
+a conſpiracy. Would any one have
+thought it poſſible, that ſuch and ſuch
+profeſſors in our daies, ſhould have
+fallen into waies of ſelfe, of fleſh, of
+the world? to play at cards, dice, revell,
+dance? to neglect family, cloſet
+duties, to be proud, haughty, ambitious,
+worldly, covetous, oppreſſive?
+or that they ſhould be turned away
+after fooliſh, vaine, ridiculous opinions,
+diſerting the Goſpell of
+Chriſt? in which two, lyes the great
+temptation that is come on us the inhabitants
+of this world to try us: but
+doth not every man ſee, that this is
+come to paſſe? and may we not ſee
+how it is come to paſſe? Some looſe
+empty profeſſors, that had never more
+then a forme of Godlineſſe, when they
+had ſerved their turne of that, began
+the way to them; then others began
+a litle to comply, and to pleaſe the
+fleſh in ſo doing; this by litle and litle
+hath reached even the top boughs and
+branches of our profeſſion; untill almoſt
+all fleſh hath corrupted its waies;
+and he that departeth from theſe iniquities,
+makes his name a prey, if not
+his perſon.
+
+[3.43] 3. Publicke Temptations are uſually
+accompanied with ſtrong reaſonings
+and pretences, that are too hard
+for men, or at leaſt inſenſibly prevaile
+upon them, to an undervaluation
+of the evill whereunto the Temptation
+leads, to give ſtrength to that
+complicated temptation which in theſe
+daies hath even caſt downe the People
+of God, from their excellency, hath
+cut their locks, and made them become
+like other men; how full is the world
+of ſpecious pretences and pleadings!
+As there is the liberty and freedome of
+Chriſtians, delivered from a bondage
+frame; This is a doore that in my owne
+obſervation, I have ſeene ſundry going
+out at, into ſenſuality and Apoſtacy;
+beginning at a light converſation,
+proceeding to a neglect of the
+ſabbath, publick and private duties,
+ending in diſſoluteneſſe and profaneneſſe;
+and then there is leaving of publick
+things to providence, being contented
+with what is; things Good in
+themſelves, but diſputed into wretched
+carnall complyances, and the utter
+ruine of all zeale for God, the intereſt
+of Chriſt, or his people in the
+world. Theſe and the like conſiderations,
+joyned with the eaſe, and
+plenty, the greatneſſe and promotion
+of profeſſors, have ſo brought things
+about, that whereas we have by providence
+ſhifted places with the men of
+the world, we have by ſinne, ſhifted
+ſpirits with them alſo: We are like a
+plantation of men, carried into a forraigne
+country: in a ſhort ſpace they
+degenerate from the manners of the
+people from whence they came, and
+fall into that of the country whereunto
+they are brought; as if there were
+ſomething in the ſoyle and the aire
+that transformed them. Give me leave
+a litle to follow my ſimilitude; He
+that ſhould ſee the prevailing party
+of theſe nations, many of thoſe in Rule,
+power, favour with all their adherents,
+and remember that they were
+a colony of Puritans, whoſe habitation
+was in a low place, as the prophet ſpeaks
+of the city of God, tranſlated by an
+high hand to the mountaines, they now
+poſſeſſe; cannot but wonder, how
+ſoone they have forgot the cuſtomes,
+manners, waies, of their owne old
+people, and are caſt into the mould
+of them that went before them, in
+the places whereunto they are tranſlated.
+I ſpeak of us all; eſpecially of us,
+who are amongſt the loweſt of the
+people; where perhaps this iniquity
+doth moſt abound. What were thoſe
+before us, that we are not? What did
+they, we do not? Proſperity hath
+ſlaine the fooliſh, and wounded the
+wiſe.
+
+[3.44] 2. Suppoſe the Temptation is
+private; this hath been ſpoken to before;
+I ſhall adde two things,
+
+[3.45] 1. Its Union and incorporation
+with luſt, whereby it gets within the
+ſoule, and lyes at the bottome of its
+actings. John tells us: 1 Epiſt. 2. 16.
+that things that are in the world, are the
+luſt of the fleſh, the luſt of the eyes, the
+pride of life. Now it is evident that
+all theſe things, are principally in the
+ſubject, not in the object; in the heart,
+not in the world. But they are ſaid
+to be in the world, becauſe the world
+gets into them; mixes its ſelfe with
+them, unites, incorporates. As faith
+and the promiſes are ſaid to be mixed,
+Heb. 4. 2. So are luſt and Temptation
+mixed; they twine together, receive
+mutuall improvement from one another;
+grow each of them higher and
+higher by the mutuall ſtrength, they
+adminiſter to one another. Now by
+this meanes temptation gets ſo deepe
+in the heart, that no contrary reaſonings
+can reach unto it; nothing but
+what can kill the luſt, can conquer the
+Temptation. Like leproſy that hath
+mingled it ſelfe with the wall; the
+wall its ſelfe muſt be pulled downe, or
+the leproſy vvill not be cured. Like
+a Gangreen that mixes poyſon vvith
+the blood and ſpirits, and cannot be
+ſeperated from the place vvhere it is;
+but both muſt be cut off together.
+For inſtance, in Davids Temptation
+to uncleanneſſe: Ten thouſand conſiderations
+might have been taken in, to
+ſtop the mouth of the Temptation;
+but it had united its ſelfe vvith his luſt,
+and nothing but the killing of that,
+could deſtroy it, or get him the conqueſt.
+This deceives many a one: they
+have ſome preſſing Temptation, that
+having got ſome advantages is urgent
+upon them: they pray againſt it, oppoſe
+it vvith all povverfull conſiderations;
+ſuch, as vvhereof every one
+ſeemes ſufficient to conquer and deſtroy
+it, at leaſt to overpovver it, that
+it ſhould never be troubleſome any
+more but no good is done, no ground
+is got or obtained, yea it growes upon
+them more and more: what is the
+Reaſon of it? it hath incorporated and
+united its ſelfe with the Luſt, and is
+ſafe from all the oppoſition they
+make. If they would make work indeed,
+they are to ſet upon the whole
+of the luſt its ſelfe; their ambition,
+pride, worldlineſſe, ſenſuality, or
+what ever it be, that the Temptation
+is united with. All other dealings
+with it are like Temperings with a
+prevailing gangreen; the part or whole
+may be preſerved a litle while, in great
+torment; Exciſion or death muſt come
+at laſt. The ſoule may cruciate its ſelfe
+for a ſeaſon, with ſuch a procedure;
+but it muſt come to this, its luſt muſt
+dye, or the ſoule muſt dye.
+
+[3.46] 2. In what part ſoever of the ſoule
+the Luſt be ſeated wherewith the Temptation
+is united, it drawes after it the
+whole ſoule, by one meanes or other,
+and ſo prevents or anticipates any oppoſition.
+Suppoſe it be a luſt of the
+mind; as there are luſts of the mind,
+and uncleaneſſe of the ſpirit; ſuch as
+Ambition, vaine glory, and the like;
+what a world of waies hath the underſtanding
+to bridle the Affections, that
+they ſhould not ſo tenaciouſly cleave
+to God, ſeeing in what it aimeth at,
+there is ſo much to give them contentment
+and ſatisfaction. It will not
+only prevent all the Reaſonings of the
+mind, which it doth neceſſarily, being
+like a bloody infirmity in the eyes,
+preſenting all things to the common
+ſenſe and perception in that hue and
+colour; but it will draw the whole
+ſoule on other accounts, and collaterall
+conſiderations, into the ſame
+frame. It promiſes the whole a ſhare
+in the ſpoyle aimed at; as Judas his
+money, that he firſt deſired from covetouſneſſe,
+was to be ſhared among
+all his luſts. Or be it in the more ſenſuall
+part, and firſt poſſeſſeth the Affections;
+what prejudices they will
+bring upon the underſtanding, how
+they will bribe it to an acquieſcency,
+what Arguments, what hopes they
+will ſupply it withall cannot eaſily be
+expreſſed; as was before ſhewed. In
+briefe there is no particular Temptation,
+but, when it is in its houre, it hath
+ſuch a contribution of aſſiſtance from
+things Good, evill, indifferent, is fed
+by ſo many conſiderations, that ſeeme
+to be moſt alien and forraigne to it, in
+ſome caſes hath ſuch ſpecious pleas
+and pretences, that its ſtrength will
+eaſily be acknowledged.
+
+[3.47] 5. Conſider the End of any Temptation;
+This is Satans end, and ſins
+end; that is, the diſhonour of God, and
+the ruine of our ſoules.
+
+[3.48] 6. Conſider what hath been the
+iſſue of any former Temptations that
+thou haſt had; have they not defiled
+thy conſcience, diſquieted thy peace,
+weakened thee in thy obedience, clouded
+the face of God? though thou waſt
+not prevailed on to the outward evill
+or utmoſt iſſue of thy temptation; yet
+haſt thou not been foiled, hath not thy
+ſoul been ſullied and greviouſly perplexed
+with it? yea dideſt thou ever in
+thy life come fairly of without ſenſible,
+loſſe from any temptation almoſt
+that thou hadſt to deale withall? And
+And wouldſt thou willingly be intangled
+againe? if thou art at Liberty,
+take heed, enter no more if it be poſſible,
+leſt a worſe thing happen to thee.
+
+[3.49] Theſe I ſay are ſome of thoſe many
+conſiderations, that might be inſiſted
+on, to manifeſt the importance of the
+truth propoſed, and the fulneſſe of our
+concernment, in taking care that we
+enter not into temptation.
+
+[3.50] Againſt it have been ſpoken, ſome
+objections that ſecretly inſinuate
+themſelves into the ſouls of men,
+and have an efficacy to make them negligent
+and careleſſe, in this thing which
+is of ſuch importance to them; a duty
+of ſuch indiſpenſable neceſſity to them
+who intend to walke with God, in any
+peace, or with any faithfulneſſe: which
+objections are to be conſidered & rennounced:
+and they are theſe that follow.
+
+[3.51] Obj: 1. Why ſhould we ſo feare,
+and labour to avoid temptation? Jam.
+1. 2. we are commanded to count it all
+joy when we fall into divers temptations:
+now certainly I need not ſolicitouſly avoid
+the falling into that, which when
+I am fallen into, I am to count it all joy.
+
+[3.52] Anſ 1. You will not hold by
+this Rule in all things: namely, that a
+man need not ſeek to avoid that, which
+when he cannot but fall into, it is his
+duty to rejoyce therein. The ſame
+Apoſtle bids the rich rejoyce that they
+are made low, Chap. 1. 10. And without
+doubt to him who is acquainted
+with the Goodneſſe and wiſdome, and
+Love of God in his diſpenſations in every
+condition that is needfull for him,
+it will be a matter of rejoycing to him;
+but yet how few rich Godly men can
+you perſwade not to take heed, and
+uſe all lawfull meanes that they be not
+made poore and low; and in moſt caſes,
+the truth is it were their ſinne, not
+to doe ſoe. It is our buſineſſe to
+make good our ſtations, and to ſecure
+our ſelves as we can; if God alter our
+condition, we are to rejoyce in it: if the
+Temptations here mentioned befall
+us, we may have cauſe to rejoyce; but
+not if by a neglect of duty we fall into
+them.
+
+[3.53] 2. Temptations are taken two wayes;
+
+[3.54] 1. Paſſively and merely materially,
+for ſuch things, as are, or in ſome
+caſes may be temptations; or 2. actively
+for ſuch as do entiſe to ſinne: James
+ſpeakes of temptations in the firſt
+ſenſe only: for having ſaid, count it
+all joy, when you fall into manifold
+temptations, v. 2. he addes v. 12.
+bleſſed is the man that endureth Temptation;
+for when he is tryed he ſhall receive
+the crowne of life. But now
+whereas a man might ſay, if this be
+ſo, then Temptations are good, and
+from God; no ſayes James; Take
+Temptation in ſuch a ſenſe, as that it
+is a thing enticing and leading to ſinne
+ſo God tempts none; but every man is
+tempted of his own luſt. v. 13. 14.
+To have ſuch temptations, to be tempted
+to ſinne, that is not the bleſſed
+thing I intend; but the enduring
+of Afflictions that God ſends, for the
+triall of our faith: that is a bleſſed thing:
+ſo that though I muſt count it all joy,
+when through the will of God I fall into
+divers Afflictions, for my tryall,
+which yet have the matter of temptation
+in them, yet I am to uſe all care
+and diligence, that my Luſt have no
+occaſions or advantages given unto it,
+to tempt me to ſinne.
+
+[3.55] Obj. 2. But was not our Saviour
+Chriſt himſelfe tempted; and is it evill
+to be brought into the ſame ſtate and
+condition with him? Yea it is not
+only ſaid, that he was tempted: but his
+being ſo, is expreſſed as a thing advantageous,
+and conducing to his mercifullneſſe
+as our high Prieſt, Heb. 2.
+17, 18. in that himſelfe hath ſuffered
+being tempted, he is able to ſuccour them
+that are tempted. And he makes it a
+ground of a great promiſe, to his diſciples,
+that they had abode with him
+in his temptations, Luk. 22. 28.
+
+[3.56] Anſ. It is true! our Saviour was
+tempted; but yet his temptations, are
+reckoned among the evills that befell
+him in the dayes of his fleſh; things
+that came on him through the malice
+of the world, and the Prince thereof.
+He did not willfully caſt himſelfe into
+temptation, which he ſaid was to tempt
+the Lord our God, Math. 4. 7. as indeed
+willingly to enter into any temptation
+is highly to tempt God. Now our condition
+is ſo, that uſe the greateſt diligence
+and watchfulneſſe that we can,
+yet we ſhall be ſure to be tempted, and
+be made like to Chriſt therein.
+
+[3.57] This hinders not, but that it is our
+duty to the utmoſt to prevent our falling
+into them; and that namely on
+this account. Chriſt had only the ſuffering
+part of temptation, when he
+entred into it, we have alſo the ſinning
+part of it. When the Prince of this
+world came to Chriſt he had no part in
+him, but when he comes to us, he hath
+ſo, in us; ſo that though in one effect
+of Temptations; namely, trialls and
+diſquietneſſe; we are made like to
+Chriſt and ſo are to rejoyce, as far as
+by any meanes that is produced; yet
+by another, we are made unlike to him,
+which is our being defiled and entangled,
+and are therefore to ſeek by all
+meanes to avoid them, we never come
+of like Chriſt: who of us enter into
+temptation and are not defiled?
+
+[3.58] 3. Obj: But what need this great
+indeavour and carefulneſſe? is it not
+ſaid that God is faithfull, who will not
+ſuffer us to be tempted above what we are
+able, but will with the temptation alſo
+make a way to eſcape? 1 Cor. 10. 13. and
+he knoweth how to deliver the Godly out
+of temptation, 2 Pet. 2. 9: what need
+we then be ſolticious that we enter not
+into them?
+
+[3.59] Anſ. I much queſtion what Aſſiſtance
+he will have from God in his
+Temptation, who willingly enters into
+it, becauſe he ſuppoſes God hath promiſed
+to deliver him out of it. The
+Lord knowes, that through the craft
+of Satan, the ſubtility and malice of the
+world, the deceitfulneſſe of ſinne that
+doth ſo eaſily beſet us, when we have
+done our utmoſt, yet we ſhall enter
+into divers temptations; in his Love,
+Care, Tenderneſſe, and faithfulneſſe,
+he hath provided ſuch a ſufficiency of
+Grace for us, that they ſhall not utterly
+prevaile to make an everlaſting ſeparation
+between him and our ſoules:
+yet I have 3. things to ſay to this objection.
+
+[3.60] 1. He that wilfully or negligently
+enters into Temptation, hath no
+reaſon in the world to promiſe himſelfe
+any aſſiſtance from God, or any
+deliverance from the Temptation
+wherinto he is entred.
+
+[3.61] The promiſe is made to them whom
+temptations doe befall in their way,
+whether they will or no; not them that
+wilfully fall into them, that runne out
+of their way to meet with them. And
+therefore the Divell (as is uſually obſerved)
+when he tempted our Saviour,
+left out that expreſſion of the Text of
+Scripture, which he wreſted to his purpoſe,
+all thy wayes: The promiſe of
+deliverance is to them who are in their
+wayes; whereof this is one principall,
+to beware of Temptation.
+
+[3.62] 2. Though there be a ſufficiency of
+Grace provided for all the Elect, that
+they ſhall by no temptation fall utterly
+from God; yet it would make any
+gracious heart to tremble; to thinke
+what diſhonour to God, what ſcandall
+to the Goſpel, what woefull darkneſſe,
+and diſquietneſſe they may bring upon
+their own ſoules, though they periſh
+not. And they who are ſcared by
+nothing but feare of Hell, on whom other
+conſiderations ſhort thereof, have
+no influence, in my apprehenſion, have
+more reaſon to feare it, then perhaps
+they are aware of.
+
+[3.63] 3. To enter on temptation on this
+account, is to venture on ſinne (which
+is the ſame with continuing in ſinne)
+that Grace may abound; which the Apoſtle
+rejects the thoughts of; with
+greateſt deteſtation is it not a madneſſe
+for a man willingly to ſuffer the ſhip
+wherein he is to ſplit it ſelfe on a rock,
+to the irrecoverable loſſe of his merchandize
+becauſe he ſuppoſes he ſhall
+in his own perſon ſwim ſafely to ſhore
+on a planke? Is it leſſe in him, who
+will hazard the ſhipwrack of all his comfort,
+peace, joy, and ſo much of the
+Glory of God, and honour of the Goſpell
+as he is intruſted with, merely on
+ſuppoſition that his ſoule ſhall yet eſcape?
+theſe things a man would thinke
+did not deſerve to be mentioned; & yet
+with ſuch as theſe, doe poore ſoules
+ſometimes delude themſelves.
+
+## CHAP. 4.
+
+[4.1] THESE things being premiſed
+in Generall, I preceed to
+the Conſideration of 3 particular
+Caſes ariſing from the truth propoſed,
+the firſt whereof relates unto
+the thing it ſelfe; the ſecond unto the
+time or ſeaſon thereof; and the laſt unto
+our deportment in reference unto
+the prevention of the evill treated of.
+
+[4.2] Firſt then it may be enquired,
+
+[4.3] 1. How a man may know, when he is
+entred into temptation.
+
+[4.4] 2. What ſeaſons there are wherein a
+man may, and ought to feare, that an
+houre of temptation is at hand.
+
+[4.5] 3▪ What Directions are to be given,
+for the preventing of our entring into
+Temptation.
+
+[4.6] How ſhall a man know whether he
+be entred into temptation or no, is
+our firſt enquiry: I ſay then,
+
+[4.7] 1. When a man is drawne into any
+ſinne, he may be ſure that he hath entred
+into temptation. All ſinne is from
+Temptation, James. 1. 14. Sinne is a
+fruit, that comes only from that Root.
+Though a man be never ſo ſuddenly,
+or violently ſurprized in, or with any
+ſinne, yet it is from ſome Temptation
+or other, that he hath been ſo ſurprized:
+ſo the Apoſtle, Gal. 6. 1. If
+a man be ſurprized, overtaken with a
+fault, yet he was tempted to it: for
+ſayes He, conſider thy ſelfe leſt thou alſo
+be tempted, that is, as he was, when
+he was ſo ſurprized, as it were at unawares.
+This men ſometimes take no
+notice of, to their great diſadvantage;
+When they are overtaken with a ſinne,
+they ſet themſelves to repent of that
+ſinne, but doe not conſider the temptation
+that was the cauſe of it, to ſet
+themſelves againſt that alſo; to take
+care that they enter no more into it;
+Hence are they quickly againe entangled
+by it; though they have the greateſt
+deteſtation of the ſinne it ſelfe,
+that can be expreſſed. He that would
+indeed get the Conqueſt over any ſin,
+muſt conſider his Temptations to it, and
+ſtrike at that root; Without deliverance
+from thence, he will not be healed.
+
+[4.8] This is a folly that poſſeſſes many,
+who have yet a quick and living ſenſe
+of ſinne: They are ſenſible of their
+ſinnes, not of their temptations; are diſpleaſed
+with the bitter fruit, but cheriſh
+the poyſonous root: Hence in the middeſt
+of their humiliations for ſinne,
+they will continue in thoſe wayes, thoſe
+ſocieties, in the purſuit of thoſe ends,
+which have occaſioned that ſin; of which
+more afterwards.
+
+[4.9] 2. Temptations have ſeverall degrees:
+Some ariſe to ſuch an height,
+doe ſo preſſe on the ſoule, ſo cruciate
+and diſquiet it, ſo fight againſt all oppoſition
+that is made to it, that it muſt
+needs be paſt all doubt to him who is
+ſo aſſaulted, that it is a peculiar power of
+temptation that he is to wreſtle withall.
+When a feavour rages, a man knovves
+he is ſick, unleſſe his diſtemper have
+made him mad. The luſts of men as
+James tels us, entiſe, draw away, & ſeduce
+them to ſin; but this they doe of themſelves
+without peculiar inſtigation, in
+a more quiet, even, and ſedate manner;
+if they grow violent, if they hurry the
+ſoule up and downe, give it no reſt, the
+ſoule may know that they have got the
+help of temptation to this aſſiſiſtance.
+
+[4.10] Take an empty veſſell, and put it into
+ſome ſtreame, that is in its courſe to
+the ſea; it will infallibly be carried thither,
+according to the courſe and ſpeed
+of the ſtreame; But let ſtrong winds
+ariſe upon it, it will be driven with violence
+on every banke and rocke, untill
+being broken in peices, it is ſwallowed
+up of the ocean. Mens luſts will
+infallibly (if not mortified in the death
+of Chriſt) carry them into eternall
+ruine; but oftentimes without much
+noyſe, according to the courſe of the
+ſtream of their corruptions. But let the
+wind of ſtrong temptations befal them,
+they are hurried into innumerable ſcandalous
+ſins, and ſo broken upon all accounts,
+are ſwallowed up in eternity; ſo is
+it in generall with men; ſo in particular.
+
+[4.11] Hezekiah had the roote of pride in
+him alwayes, yet it did not make him
+runne up and downe to ſhow his treaſure,
+and his riches, untill he fell into
+Temptation, by the Ambaſſadours of
+the King off Babylon; ſo had David!
+yet could he keep of from numbering
+the people, untill Satan ſtood up and
+provoked him, and ſolicited him to
+doe it. Judas was covetous from
+the beginning, yet he did not contrive
+to ſatisfie it, by ſelling of his Maſter,
+untill the Devill entered into him,
+and he thereby into Temptation. The
+like may be ſaid of Abraham, Jonah,
+Peter and the reſt. So that when any
+luſt or corruption whatever, tumultuates
+and diſquieteth the ſoule, puts
+it with violence on ſinne; leſt the ſoule
+know that it hath got the advantage of
+ſome outward temptation, though as
+yet, it perceiveth not wherein, or at
+leaſt is become its ſelfe a peculiar temptation,
+by ſome incitation or provocation
+that hath befallen it and is to be
+looked to, more then ordinarily.
+
+[4.12] 3. Entring into temptation may be ſeen
+in the leſt degrees of it. As for inſtance
+when the heart begins ſecretly to like
+the matter of the temptation, and is
+content to feed it, and encreaſe it by any
+wayes that it may, without downright
+ſinne.
+
+[4.13] 1. Then, in particular, a man begins
+to be in repute for piety, wiſdome, learning
+or the like: He is ſpoken of
+much to that purpoſe. His heart is
+tickled to heare of it, and his pride and
+Ambition affected with it. If this man
+now with all his ſtrength, ply the
+things from whence his repute and
+eſteeme and glory amongſt men do
+ſpring, with a ſecret eye to have it increaſed,
+he is entring into temptation,
+which if he take not heed will quickly
+render him a ſlave of luſt. So was
+it with Jehu, He perceived that his
+repute for zeale began to grow abroad,
+and he got honour by it; Jonadab
+comes in his way; a good and holy
+man; now thinks Jehu, I have an opportunity
+to grow in the honour of
+my zeale: ſo he cals Jonadab to him,
+and to worke he goes moſt ſeriouſly:
+The things he did, were good in themſelves,
+but he was entred into Temptation,
+and ſerved his luſt in all that he
+did. So is it with many Schollars;
+they find themſelves eſteemed and favoured
+for their learning; this takes
+hold of the pride and ambition of their
+hearts; hence they ſet themſelves to
+ſtudy with all diligence day and night;
+a thing good in it ſelfe; but they doe
+it, that they may ſatisfie the thoughts
+and words of men wherein they delight,
+and ſo in all they doe, they
+make proviſion for the fleſh to fullfill
+the luſts thereof.
+
+[4.14] It is true! God oftentimes brings
+light out of this darkneſſe; and turnes
+things to a better iſſue. After it may
+be a man hath ſtudied ſundry yeares,
+with an eye upon his luſts; his ambitition,
+pride, and vaine glory; riſing early,
+and going to bed late to give them
+ſatisfaction; God comes in with his
+Grace; turnes the ſoule to himſelfe;
+and ſo robbes thoſe Aegyptian luſts,
+and ſo conſecrates that to the uſe of
+the Tabernacle, which was provided
+for Idols.
+
+[4.15] Men may be thus entangled in better
+things than learning; even in the profeſsion
+of piety, in their labour in the
+miniſtry, and the like.
+
+[4.16] Some mens profeſſion is a ſnare to
+them; they are in reputation, and are
+much honoured on the account of their
+profeſſion and ſtrict walking; This often
+fals out in the daies wherein we live,
+wherein all things are carried by parties;
+ſome find themſelves on the accounts
+mentioned perhaps to be the
+darlings, and ingentia decora, or glory
+of their party; if thoughts hereof
+ſecretly inſinuate themſelves into their
+hearts, and influence them into more
+then ordinary diligence, and activity
+in their way and profeſſion, they are
+entangled; and inſtead of ayming at
+more glory, had need lye in the duſt, in
+a ſenſe of their owne vileneſſe; and ſo
+cloſe with this temptation; that oftentimes
+it requires no food to feed upon,
+but that he who is intangled with it,
+do avoid all meanes and waies of honour
+and reputation; ſo that it can but
+whiſper in the heart, that, that avoidance
+is honorable; The ſame may be
+the condition with men, as was ſaid,
+in preaching the Goſpell, in the work of
+the Miniſtry; many things in that work
+may yeeld them eſteeme, their Ability,
+their plaineſſe, their frequency, their
+ſucceſſe; and all in this ſenſe may be
+fuell unto temptations. Let then a
+man know, that when he likes that
+which feeds his luſt, and keeps it up,
+by waies either good in themſelves, or
+not downe right ſinfull, he is entred
+into Temptation.
+
+[4.17] 4. When by a mans ſtate or condition
+of life, or any meanes whatever,
+it comes to paſſe, that his Luſt, and
+any Temptation meet with Occaſions
+and Opportunities for its provocation
+and ſtirring up; Let that man know,
+whether he perceive it or not, that he
+is certainly entred into Temptation.
+I told you before, that to enter into
+temptation, is not meerly to be tempted,
+but ſo to be under the power of
+it, as to be intangled by it. Now
+it is impoſſible almoſt, for a man to
+have Opportunities, Occaſions, Advantages
+ſuited to his Luſt and corruption,
+but he will be intangled. If
+Ambaſſadors come from the King of
+Babilon, Hezekiahs pride will caſt him
+into temptation. If Hazael be King
+of Syria, his cruelty and Ambition
+will make him to rage ſavagely againſt
+Iſrael; if the Prieſts come with
+their peices of ſilver, Judas his covetouſneſſe
+will inſtantly be at work to
+ſell his Maſter; and many inſtances of
+the like kind may in the daies wherein
+we live be given. Some men think
+to play on the hole of the aſpe, and not
+be ſtung, to touch pitch, and not be
+defiled; to take fire in their cloaths,
+and not be burnt; but they will be
+miſtaken. If thy buſineſſe, courſe of
+life, ſocieties, (or what ever elſe it be
+of the like kind,) do caſt thee on ſuch
+Things, Waies, Perſons, as ſuit thy
+Luſt or corruption; know that thou
+art entred into Temptation; how thou
+wilt come out, God only knowes:
+let us ſuppoſe a man that hath any
+ſeeds of filthineſſe in his heart, engaged
+in the courſe of his life, in ſociety,
+light, vaine, and fooliſh; what notice
+ſoever, litle, great, or none at all,
+it be, that he takes of it; he is undoubtedly
+entred into temptation; ſo
+is it with ambition in high places; paſſion
+in a multitude of perplexing affaires;
+polluted, corrupt fancy in vaine
+ſocieties, and the peruſall of idle
+books, or Treatiſes of vanity and folly;
+fire and things combuſtible may
+more eaſily be induced to lye together
+without affecting each other, then
+peculiar luſts and ſuitable objects or
+occaſions for their exerciſe.
+
+[4.18] 5. When a man is weakened, made
+negligent, or formall in duty, when
+he can omit duties, or content himſelfe
+with a careleſſe, lifeleſſe performance
+of them, without delight, joy,
+or ſatisfaction to his ſoule, who had
+another frame formerly; let him know,
+that though he may not be acquainted
+with the particular diſtemper, wherein
+it conſiſts; yet in ſomething or other,
+he is entred into Temptation, which
+at the length he will find evident to
+his trouble and perill. How many have
+we ſeene, and knowne in our daies,
+who from a warme profeſſion, have
+fallen to be negligent, careleſſe, indifferent
+in Praying, Reading, Hearing
+and the like? give an inſtance of
+one who hath come off without a
+wound, and I dare ſay you may find
+out an hundred for him that have manifeſted
+themſelves to have been a
+ſleepe on the top of the maſt; that they
+were in the jaws of ſome vile Temptation
+or other, that afterwards
+brought forth bitter fruit in their lives
+and waies: from ſome few Returnes,
+from folly, we have every day theſe
+dolefull complaints made. Oh I neglected
+private prayer, I did not meditate
+on the Word, nor attend to hearing; but
+rather deſpiſed theſe things, & yet ſaid
+I was rich, and wanted nothing: litle
+did I conſider, that this uncleane luſt
+was ripening in my heart, this Atheiſme,
+theſe Abominations were fomenting
+there. This is a certaine rule; if his heart
+grow cold, negligent, or formall in duties
+of the worſhip of God, and that
+either as to the matter, or manner of
+them, who hath had another frame,
+one Temptation or other, hath laid
+hold upon him. World, or pride,
+or uncleaneſſe, or ſelfe ſeeking, or
+malice and envy, or one thing or other,
+hath poſſeſſed his ſpirit; gray haires
+are here and there upon him, though
+he perceive it not. And this is to be
+obſerved as to the manner of duties,
+as well as to the matter. Men may
+upon many ſiniſter accounts, eſpecially
+for the ſatisfaction of their conſciences,
+keep up, and frequent duties of
+Religion, as to the ſubſtance and matter
+of them; when they have no heart
+to them, no life in them, as to the ſpirituality
+required in their performance.
+Sardis kept up the performance of duties,
+and had therefore a name to live;
+but it wanted ſpirituall life in their
+performance and was therefore dead,
+Rev. 3. 1. As it is in diſtempers of
+the body; if a man find his ſpirits faint,
+his Heart oppreſſed, his Head heavy,
+the whole perſon indiſpoſed, though
+he do not yet actually burne, nor rave;
+yet he will cry, I feare I am entering
+into a feaver; I am ſo out of order and
+indiſpoſed. A man may do ſo in this
+ſickneſſe of the ſoule, If he find his pulſe
+not beat aright, and evenly towards
+duties of worſhip, and communion
+with God, if his ſpirit be low, and
+his heart faint in them, let him conclude,
+though his luſt doth not yet
+burne nor rage, that he is entered into
+Temptation, and it is high time for
+him to conſider the particular Cauſes
+of his diſtemper. If the head be heavy,
+and ſlumber in the things of Grace,
+if the heart be cold in duties, evill lies
+at the doore. And if ſuch a ſoule do
+eſcape a great Temptation unto ſinne,
+yet it ſhall not eſcape a great temptation
+by deſertion. The ſpouſe cries, I
+ſleepe, Cant. 5. 2. and that ſhe had put
+off her coat, and could not put it on; had
+an indiſpoſition to duties, and Communion
+with Chriſt. What is the
+next newes, you have of her verſ. 6.
+her beloved had withdrawne himſelfe;
+Chriſt was gone, and ſhee ſeeks him
+long and finds him not. There is ſuch
+a ſuitableneſſe between the new nature
+that is wrought and created in believers,
+and the duties of the worſhip of
+God, that they will not be parted nor
+kept aſunder, unleſſe it be by the interpoſition
+of ſome diſturbing diſtēper.
+The new creature feeds upon them,
+is ſtrengthened and increaſed by them,
+finds ſweetneſſe in them, yea meets in
+them with its God and Father; ſo that
+it cannot but of its ſelfe, unleſſe made
+ſick by ſome temptation, but delight
+in them, and deſire to be in the exerciſe
+of them; This frame is deſcribed
+in the 119th
+Pſalme throughout. It is
+not I ſay caſt out of this frame and temper,
+unleſſe it be oppreſſed, and diſorder'd,
+by one ſecret Temptation or other.
+Sundry other evidences there are
+of a ſoules entring into temptation,
+which upon enquiry it may diſcover.
+
+[4.19] I propoſe this to take off the ſecurity
+that we are apt to fall into; and to
+manifeſt what is the peculiar duty that
+we are to apply our ſelves unto in the
+ſpeciall ſeaſons of Temptation. For
+he that is already entred into temptation
+is to apply himſelfe unto meanes for
+disintanglement, not to labour to prevent
+his entering in. How this may be
+done I ſhall afterwards declare.
+
+## CHAP. V.
+
+[5.1] HAving ſeene the danger of entring
+into temptation, and alſo
+diſcovered, the waies and
+ſeaſons, whereby, and wherein men
+uſually do ſo.
+
+[5.2] Our ſecond enquiry is; what generall
+directions may be given to preſerve
+a ſoule from that condition that
+hath been ſpoken of. And we ſee our
+Saviours direction in the place ſpoken
+of before, Matth. 26. 41. He ſums
+up all in theſe two words Watch, and
+Pray; I ſhall a little labour to unfold
+them, and ſhew what is enwrapped and
+contained in them: and that both jointly,
+and ſeverally.
+
+[5.3] 1. There is included in them, a
+cleare abiding Apprehenſion of the
+great evill that there is in entering into
+Temptation. That which a man
+watches, and prayes againſt. He looks
+upon as evill to him, and by all meanes
+to be avoided.
+
+[5.4] This then is the firſt direction; Alwaies
+beare in mind, the great danger
+that it is, for any ſoule to enter into
+Temptation. It is a woefull thing to
+conſider what ſlight thoughts the
+moſt have of this thing: ſo men can
+keep themſelves from ſinne it ſelfe,
+in open action, they are content, they
+ſcarce aime at more; on any Temptation
+in the world, all ſorts of men
+will venture at any time.
+
+[5.5] How will young men put themſelves
+on any company, any ſociety; at firſt
+being delighted with evill company,
+then with the evill of the company.
+How vaine are all Admonitions, and
+Exhortations to them, to take heed
+of ſuch, or ſuch perſons, debauched
+in themſelves, corrupters of others,
+deſtroyers of ſoules? at firſt they will
+venture on the company, abhorring
+the thoughts of practiſing; their lewdneſſe:
+but what is the iſſue? unleſſe it
+be here or there one, whom God ſnatches
+with a mighty hand, from the
+jawes of deſtruction, they are all loſt,
+and become after a while in love with
+the evill, which at firſt they abhorred.
+This open doore, to the ruine of ſoules,
+is too evident; and woefull experience
+makes it no leſſe evident, that it is
+almoſt impoſſible to faſten upon many
+poore creatures, any feare or dread
+of Temptation, who yet will profeſſe a
+feare, and abhorrency of ſin. Would
+it were only thus with young men; ſuch
+as are unaccuſtomed to the yoke of the
+Lord. What ſort of man is free from
+this folly in one thing or other?
+
+[5.6] How many profeſſors have I known
+that would plead for their Liberty as
+they called it. They could heare any
+thing, all things; all ſorts of men, all
+men; they would try all things, whither
+they come to them, in the way
+of God or no; and on that account
+would runne to heare and to attend to
+every broacher of falſe and abominable
+opinions; every ſeducer though
+ſtigmatized by the generality of the
+Saints, for ſuch a one they had their
+liberty, they could do it; but the opinions
+they hated as much as any; what
+hath been the iſſue? I ſcarce ever
+knew any come off without a wound;
+the moſt have had their faith overthrowne:
+Let no man then pretend to
+feare ſinne, that doth not feare temptation
+to it. They are too nearely ally'd,
+to be ſeperated. Satan hath put
+them ſo together that it is very hard,
+for any man to put them aſunder: He
+hates not the fruit, who delights in the
+root.
+
+[5.7] When men ſee, that ſuch waies,
+ſuch companies, ſuch courſes, ſuch
+buſineſſes, ſuch ſtuddies and aymes do
+entangle them, make them cold, careleſſe,
+are quenchcoles to them, indiſpoſe
+them to even, univerſall, and conſtant
+obedience, if they adventure on
+them, ſinne lies at the doore. It is a
+tender frame of ſpirit, ſenſible of its
+owne weakneſſe, and corruption, of
+the craft of Satan, of the evill of ſin,
+of the efficacy of Temptation, that
+can performe this duty. And yet untill
+we bring our hearts to this frame,
+upon the conſiderations before mentioned,
+or the like that may be propoſed
+we ſhall never free our ſelves
+from ſinnefull intanglements.
+
+[5.8] Boldneſſe upon temptation, ſpringing
+from ſeverall pretences; hath as is
+knowne ruined innumerable profeſſors
+in thoſe daies; and ſtill continues to
+caſt many downe from their Excellency;
+nor have I the leaſt hope of a more
+fruitfull profeſſion amongſt us, untill
+I ſee more feare of Temptation. Sin
+will not long ſeeme great or heavy unto
+any, to whom temptations ſeeme
+light or ſmall.
+
+[5.9] This is the firſt thing enwrapped in
+this Generall direction; The daily exerciſe
+of our thoughts with an apprehenſion
+of the great danger that lyes
+in entring into Temptation is required
+of us. Griefe of the ſpirit of God,
+diſquietment of our owne ſoules, loſſe
+of peace, Hazard of eternall welfare,
+lyes at the doore: If the ſoule be not
+prevailed withall, to the obſervation
+of this direction, all that enſues, will
+be of no value; Temptation deſpiſed,
+will conquer: and if the heart be
+made tender and watchfull here, halfe
+the work of ſecuring a Good Converſation
+is over. And let not him go any
+farther, who reſolves not to improve
+this direction in a daily Conſcientious
+obſervation of it.
+
+[5.10] 2. There is this in it alſo, That
+it is not a thing in our owne power to
+keep and preſerve our ſelves from entring
+into temptation. Therefore are
+we to pray that we may be preſerved
+from it, becauſe we cannot ſave our
+ſelves. This is another meanes of preſervation;
+As we have no ſtrength, to
+reſiſt a Temptation when it doth come,
+when we are entred into it, but ſhall
+fall under it, without a ſupply of ſufficiency
+of Grace from God, ſo to reckon
+that we have no power or wiſdome
+to keep our ſelves from entring into
+temptation, but muſt be kept by the
+power and wiſdome of God, is a preſerving
+principle, 1 Pet. 1. 5. We are in
+all things kept by the power of God.
+This our Saviour inſtructs us in, not
+only by directing us to pray that we
+be not lead into temptation; but alſo
+by his owne praying for us, that we
+may be kept from it. Joh. 17. 15. I
+pray not that thou ſhouldeſt take them
+out of the world, but that thou ſhouldeſt
+keep them from the evill: That is the
+Temptations of the world, unto evill,
+unto ſinne, 〈 in non-Latin alphabet 〉, out of the evill
+that is in the world, that is Temptation,
+which is all that is evill in the world;
+or from the evill one, who in the world,
+makes uſe of the world, unto Temptation.
+Chriſt prays his Father to
+keep us; and inſtructs us to pray that
+we be ſo kept; it is not then a thing in
+our owne power. The waies of our
+entring into temptation are ſo many,
+various, and imperceptible; the meanes
+of it, ſo efficacious and powerfull, the
+entrances of it ſo deceitfull, ſubtile,
+inſenſible, and plauſible; our weakneſſe,
+our unwatchfulneſſe ſo unſpeakable,
+that we cannot in the leaſt keep
+or preſerve our ſelves from it: we faile
+both in wiſdome and power for this
+work.
+
+[5.11] Let the heart then commune with its
+ſelfe and ſay, I am poore and weake, Satan
+is ſubtile, cunning, powerfull,
+watching conſtantly for Advantages
+againſt my ſoule; the world earneſt,
+preſſing, and full of ſpecious pleas, innumerable
+pretences, and waies of deceit;
+my owne corruption violent and
+tumultuating, enticing, entangling,
+conceiving ſinne, and warring in me, againſt
+me. Occaſions and advantages
+of Temptation innumerable in all
+things, I have, done, or ſuffer, in all
+buſineſſes and perſons with whom I
+converſe.
+
+[5.12] The firſt beginnings of Temptation
+inſenſible and plauſible; ſo that left
+unto my ſelfe I ſhall not know that I
+am enſnared, untill my bonds be made
+ſtrong, and ſinne hath got ground in
+my heart; therefore on God alone
+will I rely for preſervation, and continually
+will I look up to him, on
+that account; This will make the ſoule
+be alwaies committing its ſelfe to the
+care of God, reſting its ſelfe on him;
+and to do nothing, undertake nothing
+&c: without asking counſell of him.
+So that a double Advantage will ariſe
+from the Obſervation of this direction,
+both of ſingular uſe for the ſoules
+preſervation from the evill feared.
+
+[5.13] Firſt, The engagement of the grace
+and compaſſion of God, who hath called
+the Fatherleſſe, and helpleſſe to reſt
+upon him; nor did ever ſoule faile
+of ſupplys who in a ſenſe of want, rolled
+its ſelfe on him, on the account
+of his gratious invitation.
+
+[5.14] Secondly, the keeping of it in ſuch
+a frame, as on various accounts, is
+uſefull for its preſervation; He that
+looks to God for aſſiſtance, in a due
+manner, is both ſenſible of his danger,
+and conſcientiouſly carefull in the uſe
+of meanes to preſerve himſelfe, which
+tvvo, of vvhat importance they are in
+this caſe, may eaſily be apprehended,
+by them vvho have their hearts exerciſed
+in theſe things.
+
+[5.15] 3. This alſo is in it, Act, Faith on the
+promiſe of God for preſervation: To
+believe that he vvill preſerve us, is a
+meanes of preſervation. For this God
+vvill certainly doe, or make avvay for
+us, to escape out of Temptation if vve
+fall into it, under ſuch a believing
+frame. We are to pray for vvhat God
+hath promiſed. Our requeſts are to
+be regulated by his promiſes, and commands,
+vvhich are of the ſame extent,
+faith cloſes vvith the promiſes, and
+ſo finds reliefe in this caſe. This
+James inſtructs us in, Ch. 1. 5, 7. What
+we vvant vve muſt aske of God: but
+vve muſt aske it in faith, for othervviſe
+vve muſt not think that we ſhall receive
+any thing of the Lord. This then alſo
+is in this direction of our Saviour;
+that vve act Faith on the promiſes of
+God, for our preſervation out of Temptation.
+He hath promiſed that he
+will keep us in all our wayes; that we
+ſhall be directed in a way, that though
+we are fooles, we ſhall not erre in it,
+Iſa. 55. 8. that he will lead us, guide us,
+and deliver us from the evill one. Set
+faith on worke on theſe promiſes of
+God, and expect a good and comfortable
+iſſue. It is not eaſily conceived
+what a traine of Graces, faith is attended
+withall, when it goes forth to meet
+Chriſt in the promiſes: nor what a
+power for the preſervation of the ſoul,
+lyes in this thing: But I have ſpoken
+to this elſevvhere.
+
+[5.16] 4. Weigh theſe things ſeverally,
+and 1. take prayer into conſideration,
+to pray that we enter not into Temptation,
+is a meanes to preſerve us from
+it. Glorious things are by all men,
+that know ought of thoſe things ſpoken
+of this duty; & yet the truth is, not
+one halfe of its Excellency, power, and
+efficacy is knowne. It is not my buſineſſe,
+to ſpeake of it in Generall; but
+this I ſay as to my preſent purpoſe;
+he that would be little in temptation, let
+him be much in prayer. This calls in the
+ſutable help & ſuccour that is laid up in
+Chriſt for us, Heb. 4. 16. This caſteth
+our ſoules into a frame of oppoſition
+to every Temptation. When Paul had
+given inſtruction for the taking to our
+ſelves the whole armour of God, that we
+may reſiſt and ſtand in a time of Temptation,
+he addes this generall cloſe
+of the whole, Ep. 6. 18. praying alwaies
+with all prayer and ſupplication
+in the ſpirit, and watching thereunto,
+with all perſeverance, and ſupplication.
+
+[5.17] Without this all the reſt will
+be of no efficacy for the end propoſed.
+And therefore conſider what weight he
+layes on it: praying alwaies! that is at
+all times and ſeaſons, or be alwaies ready
+and prepared for the diſcharge of
+that duty, Luk. 18. 1. 1 Theſ. 5. 14.
+with all prayer and ſupplications in the
+ſpirit; putting forth all kindes of deſires
+unto God, that are ſuited to our
+condition, according to his will, and
+which we are aſſiſted in by the Spirit,
+and watching thereunto, leſt we be diverted,
+by any thing what ever; and
+that not for a little while, but with all
+perſeverance; continuance lengthned
+out to the utmoſt ſo ſhall we ſtand. The
+ſoule ſo framed, is in a ſure poſture;
+and this is one of the meanes without
+which this worke will not be done.
+If we doe not abide in prayer, we ſhall
+abide in curſed Temptations. Let this
+then be another direction. Abide in
+prayer! and that expreſſly to this purpoſe;
+that we enter not into Temptations:
+Let this be one part of our dayly
+contending with God: that he would
+preſerve our ſoules; and keep our hearts,
+and our wayes, that we be not entangled;
+that his good and wiſe providence
+will order our wayes, and affaires that
+no preſſing temptation befall us, that
+he would give us diligence, carefulneſſe,
+watchfulneſſe, over our own
+waies: ſo ſhall we be delivered, when
+others are held with the cords of their
+own folly.
+
+## CHAP. 6.
+
+[6.1] THE other part of our Saviours direction,
+namely to watch is more
+generall, and extends it ſelfe to many
+particulars; I ſhall fix on ſome things
+that are contained therein.
+
+[6.2] 1. VVatch the Seaſons wherein
+men uſually doe enter into Temptation.
+There are ſundry ſeaſons, wherein
+an houre of Temptation is commonly
+at hand; and will unavoidably ſeize
+upon the ſoule, unleſſe it be delivered
+by mercy in the uſe of watchfulneſſe.
+When we are under ſuch a ſeaſon, then
+are we peculiarly to be upon our guard,
+that we enter not into, that we fall not
+under the power of Temptation. Some
+of thoſe ſeaſons may be named.
+
+[6.3] 1. A ſeaſon of unuſuall outward
+proſperity is uſually accompanied with
+an houre of Temptation. Proſperity
+and temptation goe together; yea
+proſperity is a temptation; many temptations;
+and that becauſe without eminent
+ſupplies of Grace, it is apt to
+caſt a ſoule into a frame & temper expoſed
+to any Temptation, and provides
+it will fuell and food for all; it
+hath proviſion for luſt; and darts for
+Sathan.
+
+[6.4] The wiſe man tells us, that the proſperity
+of fooles deſtroys them, Prov. 1.
+31. it hardens them in their way, makes
+them deſpiſe inſtruction, and put the
+evill day (whoſe terrour ſhould influence
+them into amendment) far
+from them. Without a ſpeciall aſſiſtance,
+it hath an inconceivably malignant
+influence on Believers themſelves.
+Hence Agur prayes againſt
+Riches, becauſe of the Temptation that
+attends them, leſt ſaith he, I be full
+and deny thee, and ſay, who is the Lord,
+Prov. 30. 8, 9. Leſt, being filled with
+them he ſhould forget the Lord; as
+God complaines that his people did,
+Hoſ. 13. 6. We know how David
+was miſtaken in this caſe, Pſal. 30. 6.
+I ſaid in my proſperity I ſhall never be
+moved: all is well, and will be well,
+but what was at hand, what lay at the
+doore, that David thought not of?
+verſ. 7. Thou diddeſt hide thy face, and
+I was troubled: God was ready to hide
+his face, and David to enter into a
+temptation of deſertion, and he knew
+it not.
+
+[6.5] As then unto a proſperous condition.
+I ſhall not run croſſe to Solomons counſell,
+in the day of proſperity rejoyce,
+Eccleſ. 7. 14. Rejoyce in the God
+of thy mercies, who doth thee good in
+his patience and forbearance, notvvithſtanding
+all thy unworthineſſe: Yet
+I may adde to it from the ſame fountaine
+of wiſdome, conſider alſo, leſt
+evill lye at the doore. A man in that
+ſtate is in the middeſt of ſnares; Satan
+hath many advantages againſt him,
+He forgeth darts out of all his enjoyments,
+and if he watch not, he will
+be entangled before he is aware.
+
+[6.6] Thou wanteſt that which ſhould
+poyſe and ballaſt thy heart. Formality
+in Religion will be apt to creep upon
+thee, and that layes the ſoule open
+to all Temptations in their full power
+and ſtrength. Satisfaction and delight
+in creature comforts, the poyſon
+of the ſoule will be apt to grow
+upon thee. In ſuch a time, be vigilant,
+be circumſpect, or thou wilt be
+ſurprized. Job ſayes, that in his Affliction
+God made his heart ſoft, Ch.
+23. 16. There is an hardneſſe, an inſenſible
+want of ſpirituall ſenſe, gathered
+in proſperity, that if not watched againſt,
+will expoſe the heart to the deceits
+of ſin & baits of Sathan: Watch
+and pray in this ſeaſon: Many mens
+negligence in it, hath coſt them deare,
+their woefull experience cryes out, to
+take heed. Bleſſed is he that feareth
+alwaies; but eſpecially in a time of
+proſperity.
+
+[6.7] 2. As in part was manifeſted before,
+A Time of the ſlumber of Grace,
+of neglect in Communion with God, of
+formality in duty is a ſeaſon to be
+watched in, as that which hath certainly
+ſome other temptation attending
+it. Let a ſoule in ſuch an eſtate awake,
+and looke about him; his enemy is at
+hand, and he is ready to fall into ſuch
+a condition as may coſt him deare all
+the dayes of his life: His preſent eſtate
+is bad enough in its ſelfe; but it
+is an indication of that which is worſe,
+that lyes at the doore.
+
+[6.8] The Diſciples that were with Chriſt;
+in the mount, had not only a bodily,
+but a ſpirituall drowzineſſe upon them.
+
+[6.9] What ſayes our Saviour to them?
+ariſe, watch and pray, that you enter
+not into temptation. We know, how
+neare one of them was to a bitter houre
+of temptation; and not watching as he
+ought, he immediately entred into it.
+
+[6.10] I mentioned before the caſe of the
+ſpouſe, Cant. 5. 2, 3, 4, 5. ſhe ſlept,
+and was drowſy, and unwilling to gird
+up her ſelfe to a vigorous performance
+of duties, in a way of quick active
+communion with Chriſt. Before ſhe
+is aware, ſhe hath loſt her beloved; then
+ſhe meanes, enquires, cryes, endures
+woundings, reproaches, and all, before
+ſhe obtaines him againe. Conſider
+then O poore ſoule, thy ſtate and condition!
+doth thy light burne dimme?
+or though it give to others as great a
+blaze, as formerly, yet thou ſeeſt not
+ſo clearly the face of God in Chriſt,
+by it as thou haſt done? is thy zeale
+cold? or if it doe the ſame workes as
+formerly, yet thy heart is not warmed
+with the Love of God, and to God,
+in them as formerly, but only thou
+proceedeſt in the courſe thou haſt
+been in? art thou negligent in duties of
+praying or hearing? or if thou doſt obſerve
+them, thou doeſt it not with that
+life and vigour as formerly? Doſt
+thou flagge in thy profeſſion? or if
+thou keep it up, yet thy wheeles are
+oyled by ſome ſiniſter reſpects from
+within or without? does thy delight
+in the people of God faint and grow
+cold? or is thy love to them changing
+from that which is purely ſpirituall,
+into that which is very carnall, upon
+the account of ſutableneſſe of principles,
+and naturall ſpirits, if not worſe
+foundations? if thou art drowſing in
+ſuch a condition as this; take heed!
+thou art falling into ſome wofull
+temptation, that will break all thy
+bones, and give thee wounds that ſhall
+ſtick by thee all the dayes of thy life.
+Yea when thou awakeſt thou wilt find,
+that it hath indeed laid hold of thee already,
+though thou perceivedſt it not;
+it hath ſmitten and wounded thee,
+though thou haſt not complained, nor
+ſought for reliefe or healing.
+
+[6.11] Such was the ſtate of the Church of
+Sardis, Rev. 3. 2. the things that remained
+were ready to dye: be watchfull
+ſayes our Saviour and ſtrengthen
+them, or a worſe thing will befall thee:
+if any that reads the word of this direction
+be in this condition, if he hath
+any regard of his poore ſoule, let him
+now awake, before he be entangled beyond
+recovery. Take this warning
+from God; deſpiſe it not.
+
+[6.12] 3. A ſeaſon of great ſpirituall enjoyments,
+is often by the malice of Satan,
+and the weakneſſe of our hearts,
+turned into a ſeaſon of danger: as to
+this buſineſſe of Temptation.
+
+[6.13] We know how the caſe ſtood with
+Paul, 2 Cor. 12. 7. he had glorious
+ſpirituall Revelations of God, & Jeſus
+Chriſt; inſtantly Satan fals upon him;
+a meſſenger from him buffets him, ſo
+that he earneſtly begges its departure;
+but yet is left to ſtruggle with it.
+God is pleaſed ſometimes to give us
+eſpeciall diſcoveries of himſelfe and his
+love; to fill the heart with his kindneſſe:
+Chriſt takes us into the banqueting
+houſe, and gives our hearts
+their fills of love; and this by ſome
+ſignall worke of his ſpirit, overpowering
+us with a ſenſe of Love, in the
+unſpeakable priviledge of Adoption,
+and ſo fills our ſoules with joy unſpeakable
+and glorious; A man would
+thinke, this was the ſecureſt condition
+in the world: what ſoule does not cry
+with Peter in the mount; it is Good for
+me to be here, to abide here for ever:
+But yet very frequently, ſome bitter
+temptation is now at hand. Satan ſees,
+that being poſſeſt by the Joy before us,
+we quickly neglect many wayes of approach
+to our ſoules, wherein he ſeeks,
+and finds advantages againſt us. Is this
+then our ſtate and condition? does God
+at any time give us to drinke of the rivers
+of pleaſure, that are at his right
+hand, and ſatisfy our ſoules with his
+kindneſſe as with marrow and fatneſſe?
+
+[6.14] Let us not ſay, we ſhall never be
+moved; we know not how ſoone God
+may hide his face, or a meſſenger from
+Satan may buffet us.
+
+[6.15] Beſides, there lyes oftentimes a greater,
+and worſe deceit in this buſineſſe▪
+men cheat their ſoules with their own
+fancies, in ſtead of a ſenſe of Gods love
+by the Holy Ghoſt; and when they are
+lifted up, with their imaginations,
+it is not expreſſible how fearfully they
+are expoſed to all manner of Temptations;
+and how they are able to find
+reliefe againſt their conſciences, from
+their own fooliſh fancies, and deceivings
+wherewith they ſport themſelves:
+may we not ſee ſuch every day?
+perſons walking in the vanities and
+wayes of this world, yet boaſting of
+their ſenſe of the love of God; ſhall
+we believe them? vve muſt not then
+believe truth its ſelfe; and hovv vvofull
+then, muſt their condition needs
+be?
+
+[6.16] 4. A 4th ſeaſon, is a ſeaſon of ſelfe
+confidence; then uſually Temptation
+is at hand. The caſe of Peter is cleare
+unto this: I will not deny thee; though
+all men ſhould deny thee, I will not:
+though I vvere to dye for it, I vvould
+not doe it. This ſaid the poore man,
+vvhen he ſtood on the very brinke of
+that temptation, that coſt him in the
+iſſue, ſuch bitter teares. And this taught
+him ſo far to knovv himſelfe all his
+dayes, and gave him ſuch acquaintance
+with the ſtate of all Believers, that
+when he had received more of the ſpirit
+and of power, yet he had leſſe of confidence,
+and ſaw it was fit that others
+ſhould have ſo alſo; And therefore
+perſwades all men to paſſe the time of
+their ſojurning here in feare, 1 Pet. 1.
+17. Not to be confident and high, as
+he was, leſt, as he did, they fall. At the
+firſt triall he compares himſelfe with
+others, & vaunts himſelfe above them;
+though all men ſhould forſake thee, yet I
+will not; he feares every man more than
+himſelfe: But when our Saviour afterwards
+comes to him & puts him directly
+upon the compariſon, Simon Peter loveſt
+thou me, more than theſe, Joh. 21.
+15. he hath done comparing himſelfe
+with others, and only cryeth Lord thou
+knoweſt that I love thee: He will lift up
+himſelfe above others no more. Such
+a ſeaſon oftentimes falls out. Temptations
+are abroad in the world, falſe
+doctrines, with innumerable other allurements
+& provocations; we are ready
+every one to be very confident, that
+we ſhall not be ſurprized with them:
+though all men ſhould fall into theſe
+follies, yet we would not: ſurely we
+ſhall never goe off from our walking
+with God; it is impoſſible our hearts
+ſhould be ſo ſottiſh: But ſayes the
+Apoſtle, be not high minded but
+feare; let him that ſtandeth take
+heed leſt he fall. Wouldeſt thou thinke
+that Peter, who had walked on the ſea
+with Chriſt, confeſſed him to be the
+Sonne of God, been with him on the
+mount when he heard the voice from
+the excellent Glory, ſhould at the word
+of a ſervant girle, when there was no
+legall inquiſition after him, no proceſſe
+againſt him, nor any one in his condition,
+inſtantly fall a curſing and ſweareing
+that he knew him not, let them
+take heed of ſelfe-confidence who have
+any mind to take heed of ſinne. And
+this is the firſt thing in our watching,
+to conſider well the ſeaſons wherein
+temptation uſually makes its approaches
+to the ſoule, and be armed againſt
+them. And theſe are ſome of the
+ſeaſons, wherein Temptations are nigh
+at hand.
+
+## CHAP. VII.
+
+[7.1] THat part of watchfulneſſe againſt
+Temptation which we
+have conſidered, regards the
+outward meanes, occaſions, and advantages
+of Temptation; proceed we
+now to that which reſpects the heart
+its ſelfe, which is wrought upon, and
+entangled by Temptation: watching
+or keeping of the heart, which above
+all keepings we are obliged unto,
+comes within the compaſſe of this
+duty alſo; for the right performance
+whereof, take theſe enſuing directions.
+
+[7.2] 1. Let him that would not enter
+into Temptation labour to know his
+owne heart, to be acquainted with his
+owne ſpirit, his naturall frame, and
+temper, his Luſts and Corruptions, his
+naturall, ſinfull, or ſpirituall weakneſſes,
+that finding where his weakneſſe
+lyes, he may be carefull to keep
+at a diſtance from all occaſions of
+ſinne. Our Saviour tells the diſciples
+that they knew not what Spirit
+they were of, which under a pretence
+of zeale betraid them into ambition
+and deſire of Revenge. Had they
+knowne it, they would have watched
+over themſelves. David tells us,
+Pſal. 18. 23. that he conſidered his
+waies, and kept himſelfe from his iniquity,
+which he was particularly prone
+unto.
+
+[7.3] There are Advantages for temptations
+lying oftentimes in mens naturall
+tempers and conſtitution: ſome
+are naturally gentle, facile, eaſy to be
+intreated, pliable, which though it
+be the nobleſt temper of nature, and
+the beſt and choyſeſt ground when
+well broken up and fallowed for grace
+to grow in, yet if not watched over,
+will be a meanes of innumerable ſurprizalls,
+and entanglements in Temptation.
+Others are earthy, froward,
+moroſe; ſo that envy, malice, ſelfiſhneſſe,
+peeviſhneſſe, harſh thoughts of
+others, repinings, lye at the very
+doore of their natures, and they can
+ſcarce ſtep out, but they are in the
+ſnare of one or other of them: Others
+are paſſionate and the like. Now he
+that would watch, that he enter not
+into temptation, had need be acquainted
+with his owne naturall temper:
+that he may watch over the treacheries
+that lye in it continually; Take
+heed leſt you have a Jehu in you, that
+ſhall make you drive furiouſly, or a
+Jonah in you, that will make you ready
+to repine; or a David, that will
+make you haſty in your determinations
+as he was often in the warmth and
+goodneſſe of his naturall temper. He
+who watches not this throughly, who
+is not exactly kill'd in the knowledge
+of himſelfe, will never be diſintangled
+from one Temptation or another, all
+his daies.
+
+[7.4] Againe! as men have peculiar naturall
+tempers, which according as they
+are attended or mannaged, prove a
+great Fomes of ſinne, or advantage to
+the exerciſe of Grace; ſo men may
+have peculiar luſts or corruptions,
+which either by their naturall conſtitution
+or education and other prejudices,
+have got deep rooting and
+ſtrength in them. This alſo is to be
+found out by him, who would not enter
+into temptation. Unleſſe, he know
+it, unleſſe his eye be alwaies on it, unleſſe
+he obſerve its actings, motions,
+advantages, it will continually be intangling
+and inſnaring of him. This
+then is our fixt direction in this kind;
+labour to know thine owne frame and
+temper, what ſpirit thou art of; what
+aſſociates in thy heart Satan hath,
+where Corruption is ſtrong, where
+Grace is weak; what ſtrong hold luſt
+hath in thy naturall conſtitution and
+the like. How many have all their comforts
+blaſted, and peace diſturbed, by
+their naturall paſſion and peeviſhneſſe?
+How many are rendred uſeleſſe in the
+world, by their frowardneſſe and diſcontent?
+how many are diſquieted even
+by their owne gentleneſſe and ſanctity?
+be acquainted then with thine
+owne heart, though it be deepe, ſearch
+it: though it be dark, enquire into it:
+though it give all its diſtempers other
+names then what are their due believe
+it not. Were not men utter ſtrangers
+to themſelves, did they not give flattering
+titles to their naturall diſtempers,
+did they not ſtrive rather to juſtify
+palliate or excuſe the evills of
+their hearts, that are ſuited to their
+naturall tempers and conſtitutions,
+then to deſtroy them, and by theſe
+meanes keep themſelves off from taking
+a cleare and diſtinct view of them;
+it were impoſſible that they ſhould all
+their daies hang in the ſame briers without
+attempt for deliverance; uſeleſſeneſſe
+and ſcandall in profeſſors, are
+branches growing conſtantly on this
+root of unacquaintedneſſe with their
+owne frame and temper; and how
+few are there, who will either ſtudy
+them themſelves; or beare with thoſe
+who would acquaint them with
+them.
+
+[7.5] 2. When thou knoweſt the ſtate
+and condition of thy heart as to the
+particulars mentioned, watch againſt
+all ſuch Occaſions, Opportunities,
+Employments, ſocieties, retirements,
+buſineſſes, as are apt to intangle thy
+naturall temper, or provoke thy corruption.
+It may be there are ſome
+waies, ſome ſocieties, ſome buſineſſes,
+that thou never in thy life eſcaped'ſt
+them, but ſuffered'ſt by them, more
+or leſſe through their ſutableneſſe to
+tice, or provoke thy Corruption. It
+may be, thou art in a ſtate and condition
+of life, that inſnares thee day
+by day, on the account of thy ambition,
+paſſion, diſcontent or the like;
+if thou haſt any love to thy ſoule, it
+is time for thee to awake, and to deliver
+thy ſelfe as a bird from the evill
+ſnare. Peter will not come againe in
+haſt to the High-prieſts hall, nor would
+David walke againe in the top of his
+houſe, when he ſhould have been in
+the high places of the field. But the
+particulars of this inſtance are ſo various,
+and of ſuch ſeverall natures in
+reſpect of ſeverall perſons, that it is
+impoſſible to enumerate them, Prov.
+4. 14, 15. Herein lyes no ſmall part of
+that Wiſdome, which conſiſts in our
+ordering our Converſation aright. Seeing
+we have ſo litle power over our
+hearts, when once they meet with ſuitable
+provocations, we are to keep
+them aſunder, as a man would do fire
+and the combuſtible parts of the houſe
+wherein he dwells.
+
+[7.6] 3. Be ſure to lay in proviſion in
+ſtore, againſt the approaching of any
+Temptation. This alſo belongs to
+our watchfulneſſe over our hearts. You
+will ſay, what proviſion is intended,
+and where is it to be laid up? Our
+hearts, (as our Saviour ſpeaks are
+our Treaſury. There we lay up whatever
+we have, Good or bad; and thence
+do we draw it, for our uſe, Matth. 12.
+35. It is the heart then wherein proviſion
+is to be laid up againſt Temptation.
+When an Enemy drawes nigh
+to a fort, or Caſtle to beſeige and take
+it; oftentimes if he find it well manned,
+and furniſhed with proviſion for
+a ſeige, and ſo able to hold out, he
+withdrawes and aſſaults it not. If Satan
+the Prince of this world come, and
+find our hearts fortified againſt his batteries,
+and provided to hold out, he
+not only departs, but as James ſaies,
+he flyes; he will fly from us, Jam. 4. 7.
+for the proviſion to be laid up, it is
+that which is provided in the Goſpell
+for us, Goſpell proviſions will do
+this work; that is, keep the heart full
+of a ſenſe of the love of God in Chriſt:
+this is the greateſt preſervative againſt
+the power of temptation in the world.
+Joſeph had this; and therefore on the
+firſt appearance of a temptation, he
+cries out; how can I do this great evill,
+and ſinne againſt God? and there is an
+end of the temptation, as to him, it
+layes no hold on him, but departs.
+He was furniſhed with ſuch a ready
+ſenſe of the love of God; as Temptation
+could not ſtand before, Gen. 39. 9.
+The love of Chriſt conſtraines us, ſaith
+the Apoſtle, to live to him, 2 Cor. 5.
+14. and ſo conſequently, to withſtand
+Temptation. A man may, nay he
+ought to lay in proviſions of the Law
+alſo; feare of death, hell puniſhment,
+with the terror of the Lord in them.
+But theſe are farre more eaſily conquered
+then the other: Nay they will
+never ſtand alone againſt a vigorous
+aſſault. They are conquered in convinced
+perſons every day: hearts ſtored
+with them, will ſtruggle for a
+while, but quickly give over: But
+ſtore the heart with a ſenſe of the Love
+of God in Chriſt; with the eternall
+deſigne of his grace, with a taſt of the
+blood of Chriſt, and his Love in the
+ſhedding of it; get a reliſh of the priviledges
+we have thereby; our Adoption,
+Juſtification, Acceptation with
+God, fill the heart with thoughts of
+the beauty of holineſſe as it is deſigned
+by Chriſt for the End, Iſſue, and effect
+of his death, and thou wilt in an
+ordinary courſe of walking with God,
+have great peace and ſecurity as to the
+diſturbance of temptations. When
+men can live and plod on, in their profeſſion,
+and not be able to ſay, when
+they had any living ſenſe of the Love
+of God, or of the priviledges which we
+have in the blood of Chriſt; I know
+not what they can have to keep them
+from falling into ſnares. The Apoſtle
+tells us, that the peace of God
+〈 in non-Latin alphabet 〉 Phi. 4. 7. ſhall keepe
+our hearts; 〈 in non-Latin alphabet 〉, is a military word a
+garriſon: and ſo 〈 in non-Latin alphabet 〉, is, ſhall keep
+as in a Garriſon: Now a Garriſon hath
+two things attending it. 1. That it is
+expoſed to the aſſaaults of its enemies.
+2. That ſafety lies in it from their
+attempts. It is ſo with our ſoules:
+They are expoſed to Temptations,
+aſſaulted continually: but if there be
+a garriſon in them, or if they be kept
+as in a garriſon, temptation ſhall not
+enter, and conſequently we ſhall not
+enter into temptation. Now how is
+this done? ſaith he, the peace of God
+ſhall do it: what is this peace of God?
+a ſenſe of his love and favour in Jeſus
+Chriſt. Let this abide in you, and it
+ſhall garriſon you, againſt all aſſaults
+whatever: Beſides, there is that in an
+eſpeciall manner, which is alſo in all
+the reſt of the directions; namely that
+the thing its ſelfe lyes in a direct oppoſition
+to all the waies and meanes
+that Temptation can make uſe of to
+approach unto our ſoules. Contending
+to obtaine, and keep, a ſenſe of
+the love of God in Chriſt, in the nature
+of it, obviates all the workings
+and inſinuations of Temptation. Let
+this be a third direction then in our
+watching againſt Temptation: Lay in
+ſtore of Goſpell proviſions, that may
+make the ſoule a defenced place, againſt
+all the aſſaults thereof.
+
+[7.7] 4. In the firſt approach of any
+Temptation, (as we are all tempted)
+theſe directions following are alſo ſuited
+to carry on the work of watching
+which we are in the purſuit of.
+
+[7.8] 1. Be alwaies awake, that thou
+may'ſt have an early diſcovery of thy
+Temptation; that thou may'ſt know it
+ſo to be. Moſt men perceive not their
+enemy, untill they are wounded by him.
+Yea others may ſometimes ſee them
+deeply ingaged, whileſt themselves are
+utterly inſenſible; They ſleepe without
+any ſenſe of danger, untill others come
+and awake them, by telling them that
+their houſe is on fire. Temptation in
+a neuter ſenſe is not eaſily diſcoverable:
+namely as it denotes, ſuch a way,
+or thing, or matter, as is, or may be
+made uſe of, for the ends of Temptation;
+few take notice of it, untill it is
+too late; and they find themſelves intangled,
+if not wounded. Watch then
+to underſtand betimes, the ſnares that
+are laid for thee; to underſtand the advantages
+thy enemies have againſt
+thee, before they get ſtrength & power;
+before they are incorporated with
+thy luſts, and have diſtilled poyſon
+into thy ſoule.
+
+[7.9] 2. Conſider the ayme and tendency
+of the Temptation, whatever it be,
+and of all that are concerned in it.
+Thoſe who have an active concurrence
+into thy Temptation, are Satan, and
+thy owne luſts. For thine owne luſt
+I have manifeſted elſewhere what it
+aimes at in all its actings and enticings.
+It never riſes up, but its intendment
+is the worſt of evills. Every acting of
+it, would be a formed Enmity againſt
+God. Hence look upon it, in its firſt
+attempts, what pretences ſoever may
+be made, as thy mortall enemy; I hate
+it, ſaith the Apoſtle, Rom. 7. 15. that
+is the working of Luſt in me, I hate
+it; it is the greateſt enemy I have. Oh
+that it were killed and deſtroyed: Oh
+that I were delivered out of the power
+of it. Know then that in the firſt
+attempt or aſſault in any temptation,
+thy moſt curſed ſworne enemy is at
+hand, is ſetting on thee, and that for
+thy utter ruine; ſo that it were the
+greateſt madneſſe in the world, to
+throw thy ſelfe into his armes, to be
+deſtroyed. But of this I have ſpoken
+in my diſcourſe of Mortification.
+
+[7.10] Hath Satan any more friendly aime
+and intention towards thee, who is a
+ſharer in every Temptation? To beguile
+thee as a ſerpent, to devoure thee
+as a Lyon, is the friendſhip that he
+owes thee. I ſhall only adde that the
+ſinne he tempts thee to againſt the
+Law, is not the thing he aymes at; his
+deſigne lies againſt thy intereſt in the
+Goſpell. He would make ſin, but a
+bridg to get over to a better ground to
+aſſault thee, as to thy intereſt in Chriſt.
+He who perhaps will ſay to day thou
+mayſt venture on ſinne, becauſe thou
+haſt an intereſt in Chriſt; will to morrow
+tell thee to the purpoſe, that thou
+haſt none, becauſe thou haſt done ſo.
+
+[7.11] 3. Meet thy temptation in its entrance
+with thoughts of faith concerning
+Chriſt on the Croſſe: This will
+make it ſinke before thee. Entertaine
+no parly, no diſpute with it, if thou
+wouldeſt not enter into it. Say it is
+Chriſt that dyed, that dyed for ſuch ſins
+as theſe. This is called taking the
+ſheild of Faith to quench the fiery darts
+of Satan, Ep. 6. 16. Faith doth it, by
+laying hold on Chriſt crucified, his
+Love therein, and what from thence
+he ſuffered for ſinne. Let thy temptation
+be what it will; be it unto ſin,
+to feare or doubting for ſinne, or about
+thy ſtate and condition, its not
+able to ſtand before faith lifting up the
+ſtandard of the Croſſe. We know
+what meanes the Papiſts, who have loſt
+the power of faith, uſe to keep up the
+forme. They will ſigne themſelves
+with the ſigne of the croſſe; or make aeriall
+Croſſes, and by virtue of that
+worke done think to ſcare away the
+Devill. To act faith on Chriſt crucified,
+is really to ſigne our ſelves with
+the ſigne of the Croſſe; and thereby ſhall
+we overcome that wicked one, 1 Pe. 5. 9
+
+[7.12] 4. Suppoſe the ſoule hath been
+ſurprized by temptation and intangled
+at unavvares, ſo that novv it is too
+late to reſiſt the firſt entrances of it;
+vvhat ſhall ſuch a ſoule doe, that it be
+not plunged into it, and carried avvay
+vvith the povver thereof?
+
+[7.13] 1. Doe as Paul did; beſeech God
+againe and againe, that it may depart
+from thee, 2 Cor. 12. 7. and if
+thou abideſt therein, thou ſhalt certainely
+either be ſpecedily deliverd out
+of it, or receive a ſufficiency of Grace
+not to be foyled utterly by it. Only!
+as I ſaid in part before, do not ſo much
+imploy thy thoughts about the things
+vvhereunto thou art tempted, vvhich
+oftentimes raiſeth further intanglements;
+but ſet thy ſelfe againſt the
+Temptation it ſelfe. Pray againſt the
+temptation that it may depart; and
+vvhen that is taken avvay, the things
+themſelves may be more calmely conſidered.
+
+[7.14] 2: Fly to Chriſt, in a peculiar manner,
+as he was tempted; and beg of him
+to give thee ſuccour in this needfull
+time of trouble, Heb. 2. 18. the Apoſtle
+inſtructs us herein: in that he hath been
+tempted, he is able to ſuccour them that
+are tempted: this is the meanining of it;
+vvhen you are tempted, and are ready
+to faint, vvhen you vvant ſuccour, you
+muſt have it or you dye; act faith peculiarly
+on Chriſt, as he vvas tempted.
+That is! conſider that he vvas tempted
+himſelfe, that he ſuffered thereby,
+that he conquered all temptations, and
+that not merely on his ovvne account,
+ſeeing for our ſakes he ſubmitted to be
+tempted; but for us: (he conquered in,
+and by himſelfe, but for us) and draw,
+yea expect ſuccour from him, Heb. 4.
+15, 16. lye dovvne at his feet, make
+thy complaint knovvne to him, begge
+his aſſiſtance, & it vvill not be in vaine.
+
+[7.15] 3. Looke to him who hath promiſed
+deliverance: Conſider that he
+is faithfull, and will not ſuffer thee to
+be tempted above what thou art able.
+Conſider that he hath promiſed a comfortable
+iſſue of theſe trialls and temptations.
+Call all the promiſes to mind,
+of Aſſiſtance and deliverance that he
+hath made: ponder them in thy heart,
+and reſt upon it, that God hath innumerable
+wayes that thou knoweſt not
+of, to give thee in deliverance: as,
+
+[7.16] 1 He can ſend an Affliction, that
+ſhall mortifie thy heart unto the matter
+of the Temptation, whatever it be:
+That that which was before a ſweet
+morſell under the tongue, ſhall neither
+have taſt, or reliſh in it unto thee; thy
+deſire to it ſhall be killed: as was the
+caſe with David: or
+
+[7.17] 2. He can by ſome providence alter
+that whole ſtate of things, from whence
+thy temptation doth ariſe; ſo taking
+fuell from the fire, cauſing it to goe
+out of it ſelfe; as it was with the ſame
+David in the day of Battell: or,
+
+[7.18] 3. He can tread down Satan under
+thy feet, that he ſhall not dare to ſuggeſt
+any thing any more to thy diſadvantage
+(the God of peace ſhall doe
+it;) that thou ſhalt heare of him no
+more: or
+
+[7.19] 4. He can give thee ſuch ſupply of
+Grace, as that thou mayeſt be freed,
+though not from the temptation it
+ſelfe, yet from the tendency and danger
+of it, as was the caſe with Paul: or
+
+[7.20] 5. He can give thee ſuch a comfortable
+perſwaſion of Good ſucceſſe in
+the iſſue, as that thou ſhalt have refreſhment
+in thy trialls, and be kept
+from the trouble of the temptation:
+As was the caſe with the ſame Paul:
+or
+
+[7.21] 6. He can utterly remove it, and
+make thee a compleat Conquerour:
+And innumerable other wayes he hath,
+of keeping thee from entring into
+temptation, ſo as to be foyled by it.
+
+[7.22] 4. Conſider where the Temptation
+wherevvith thou art ſurprized,
+hath made its entrance, and by vvhat
+meanes, and vvith all ſpeed make up
+that breach: ſtop that paſſage vvhich
+the waters have made to enter in at.
+
+[7.23] Deale vvith thy ſoule like a wiſe
+Phyſitian; inquire vvhen, hovv by
+vvhat meanes thou felleſt into this diſtempet:
+and if thou findeſt negligence,
+Careleſſneſſe, vvant of keeping vvatch
+over thy fleſh, to have lyen at the bottome
+of it, fix thy ſoule there; bevvaile
+that before the Lord; make up
+that breach, and then proceed to the
+vvorke that lyes before thee.
+
+## CHAP. 8.
+
+[8.1] The Directions inſiſted on, in the
+former chapters are ſuch as are
+partly given us, in their ſeverall
+particulars, up and downe the Scripture;
+partly ariſe from the nature of
+the thing it ſelfe; There is one Generall
+direction remaines, which is comprehenſive
+of all that went before, and
+alſo addes many more particulars unto
+them; This containes an approved
+antidote againſt the poyſon of Temptation;
+a Remedy, that Chriſt himſelfe
+hath marked with a note of efficacy and
+ſucceſſe that is given us, Revel. 3. 10.
+in the words of our ſaviour himſelfe to
+the Church of Philadelphia. Becauſe
+(ſaith he) thou haſt kept the word of my
+patience, I will alſo keepe thee from the
+houre of temptation, which ſhall come upon
+all the world, to try them that dwell in
+the earth; Chriſt is the ſame, yeſterday,
+to day, and for ever; as he dealt with
+the Church of Philadelphia, ſo will he
+deale with us; if we keep the word of his
+patience, he will keepe us from the houre
+of Temptation. This then being a way
+of rolling the whole care of this weighty
+affaire on him who is able to beare
+it, it requires our peculiar conſideration.
+And therefore, I ſhall firſt
+ſhew what it is to keep the word of
+Chriſts patience, that we may know
+how to performe our duty; then how
+this will be a meanes of our preſervation,
+which will eſtabliſh us in the faith
+of Chriſts promiſe.
+
+[8.2] The word of Chriſt, is the word of
+the Goſpell; The word by him revealed
+from the boſome of the Father.
+The word of the word; the word ſpoken
+in time by the eternall word. So
+it is called, the word of Chriſt. Col. 3.
+16. or the Goſpell of Chriſt. Rom. 1. 16.
+1. Cor. 9. 12. And the doctrine of Chriſt.
+Heb. 6. 1. of Chriſt, that is, as its Authour,
+Heb. 1. 1, 2. and of him, as the
+chiefe ſubject or matter of it, 1 Cor.
+1. 20. Now this word, is called the
+word of Chriſts patience, or tolerance,
+and forbearance, upon the account of
+that patience, and long ſuffering which
+in the diſpenſation of it, the Lord
+Chriſt exerciſeth towards the world,
+and all perſons in it; and that both actively,
+and paſsively; in his bearing
+with men, and enduring from them.
+
+[8.3] 1. He is patient towards his Saints,
+he beares with them, ſuffers from them.
+He is patient to us-ward, 2. Pet. 3. 9,
+that is, that believe. The Goſpell is
+the word of Chriſts patience even to
+Believers. A ſoule acquainted with
+the Goſpell, knowes that there is no
+Property of Chriſt rendred more glorious
+therein, than that of his patience;
+That he ſhould beare with ſo many
+unkindneſſes, ſo many cauſeleſſe breaches,
+ſo many neglects of his love,
+ſo many affronts done to his Grace, ſo
+many violations of ingagements, as he
+doth; it manifeſts his Goſpell to be
+not only the word of his Grace, but alſo
+of his patience. He ſuffers alſo
+from them, in all the reproaches, they
+bring upon his name and wayes: and
+he ſuffers in them; for in all their Afflictions,
+he is afflicted.
+
+[8.4] 2. Towards his Elect, not yet effectually
+called. Revel. 3. 20. He ſtands
+waiting at the doore of their hearts, and
+knocks for an entrance. He deales with
+them by all meanes, and yet ſtands and
+waits, untill, his head is filled with the
+dew, and his lockes with the drops of
+the night, Cant. 5. 2. as enduring the
+cold and inconvenencies of the night,
+that when his morning is come; he may
+have entrance. Oftentimes for a long
+ſeaſon, he is by them ſcorned in his
+perſon, perſecuted in his Saints and
+wayes, reviled in his word, whileſt he
+ſtands at the doore, in the word of his
+patience, with his heart full of love towards
+their poore rebellious ſoules.
+
+[8.5] 3. To the periſhing world; Hence
+the time of his Kingdome, in this
+world is called the time of his patience.
+Revel. 1. 9. he endures the veſſels of
+wrath with much long ſuffering. Rom.
+9. 22. Whileſt the Goſpell is adminiſtred
+in the vvorld, He is patient
+tovvards the men thereof, untill the
+Saints in heaven and earth are aſtoniſhed,
+and cry out, how long? Pſal. 13. 1, 2.
+Pſal. 35. 17. Revel. 6. 10; and themſelves
+doe mocke at him as if he vvere
+an Idol, 2. Pet. 3. 4. He endures from
+them bitter things; in his name, wayes,
+worſhip, ſaints, promiſes, threats, all
+his intereſt of honour and love; and
+yet paſſeth by them, lets them alone,
+does them Good; nor will he cut this
+way of proceeding ſhort, untill the
+Goſpell ſhall be preached no more;
+patience muſt accompany the Goſpell.
+
+[8.6] Now this is the Word that is to be
+kept, that we may be kept from the
+houre of Temptation. Three things
+are implyed in the keeping of this
+Word,
+1. Knowledge.
+2. Valuation.
+3. Obedience.
+
+[8.7] 1. Knowledge, He that will keep
+this Word muſt know it, be acquainted
+with it; under a foure fold Notion,
+
+[8.8] 1. As a word of Grace and Mercy
+to ſave him.
+
+[8.9] 2. As a word of Holineſſe and Purity
+to ſancitfy him.
+
+[8.10] 3. As a word of Liberty and Power
+to enoble him, and ſet him free.
+
+[8.11] 4. As a word of Conſolation to
+ſupport him in every Condition.
+
+[8.12] 1. As a word of Grace, and Mercy
+able to ſave us: It is the power of
+God unto ſalvation, Rom. 1. 16. The
+Grace of God that bringeth ſalvation,
+Titus, 2. 11. The word of Grace,
+that is able to build us up, and to give
+us an inheritance among all them that
+are ſanctified, Act. 20. 32. The word
+that is able to ſave our ſoules, Jam. 1.
+21. When the word of the Goſpell is
+knowne, as a word of mercy, Grace,
+and pardon, as the ſole evidence for
+life, as the conveyance of an eternall
+inheritance; when the ſoule finds it
+ſuch to it ſelfe, it will ſtrive to keep
+it.
+
+[8.13] 2. As a word of Holineſſe and Purity
+able to ſanctify him; Ye are
+cleane through the word I have ſpoken
+unto you, ſaith our Saviour, Joh. 15. 3.
+To that purpoſe is his prayer, Joh. 17.
+17. He that knowes not the word of
+Chriſts patience, as a ſanctifying cleanſing
+word, in the power of it, upon
+his owne ſoule; neither knowes it, nor
+keeps it. The empty profeſſion of
+our daies, knowes not one ſtep towards
+this duty; and thence it is, that
+the moſt are ſo overborne under the
+power of Temptations: men full of
+ſelfe, of the world, of Fury, Ambition,
+and almoſt all unclean luſts, do
+yet talk of keeping the word of Chriſt,
+See 1. Pet. 1. 22. 2. Tim. 2. 19.
+
+[8.14] 3. As a word of Liberty and Power,
+to enoble him, and ſet him free;
+and this, not only from the guilt of
+ſinne and wrath, for that it doth, as
+it is a word of Grace and mercy; nor
+only from the power of ſinne, for that
+it doth as it is a word of Holineſſe; but
+alſo from all outward reſpects of men,
+or the world, that might entangle
+him, or enſlave him, that declares us
+to be Chriſts freemen, and in bondage
+unto none, Joh. 8. 32. 1. Cor. 7. 23.
+we are not by it, freed from due ſubjection
+unto ſuperiours, not from any
+duty, not unto any ſinne, 1. Pet. 2.
+16. but in two reſpects, it is a word
+of freedome, liberty, largeneſſe of
+mind, power, and deliverance from
+Bondage.
+
+[8.15] 1. In reſpect of Conſcience, as to
+the worſhip of God, Gal. 5. 1.
+
+[8.16] 2. In reſpect of ignoble ſlaviſh reſpects,
+unto the men, or things of
+the world, in the Courſe of our pilgrimage;
+The Goſpell gives a free,
+large, and noble Spirit in ſubjection to
+God, and none elſe; There is adminiſtred
+in it, a ſpirit not of feare, but
+of power, and of love, and of a ſound
+mind, 2 Tim. 1. 7. A mind in nothing
+terrified, Phil. 1. 28. not ſwayed with
+any by reſpect whatever; There is nothing
+more unworthy of the Goſpell,
+then a mind in bondage to perſons, or
+things proſtituting its ſelfe to the
+luſts of men, or affrightments of the
+world. And he that thus knowes the
+word of Chriſts patience, really and in
+power, is even thereby freed from
+innumerable, from unſpeakable Temptations.
+
+[8.17] 4. As a word of Conſolation to
+ſupport him in every condition; and
+to be a full portion in the want of all,
+that is a word attended with Joy unſpeakable
+and full of Glory; it gives
+ſupportment, reliefe, refreſhment,
+ſatisfaction, peace, conſolation, joy,
+boaſting, Glory, in every Condition
+whatever; Thus to know the word
+of Chriſts patience, thus to know the
+Goſpell, is the firſt part, and it is a
+great part of this condition of our preſervation
+from the houre, and power
+of Temptation.
+
+[8.18] 2. Valuation of what is thus
+knowne, belongs to the keeping of
+this word, that is to be kept as a Treaſure,
+2 Tim. 1. 14. 〈 in non-Latin alphabet 〉,
+that excellent depoſitum (that is the
+word of the Goſpell) keep it, (ſaith
+the Apoſtle) by the Holy Ghoſt; And,
+hold faſt the faithfull word, Tit. 1. 9.
+It is a Good Treaſure, a faithfull word,
+hold it faſt. It is a word that comprizes
+the whole intereſt of Chriſt in the
+world. To value that as our chiefeſt
+treaſure, is to keep the word of
+Chriſts patience. They that will have
+a regard from Chriſt in the time of
+Temptation, are not to be regardleſſe,
+of his Concernments.
+
+[8.19] 3. Obedience, perſonall Obedience,
+in the Univerſall obſervation of all the
+commands of Chriſt, is the keeping
+of his Word, Joh. 14. 15. Cloſe adherence
+unto Chriſt, in Holineſſe, and
+univerſall Obedience, then when the
+oppoſition, that the Goſpell of Chriſt
+doth meet withall in the world, doth
+render it ſignally the word of his patience,
+is the life and ſoule of the Duty
+required.
+
+[8.20] Now all theſe are to be ſo managed,
+with that intention of mind and ſpirit,
+that care of heart, and diligence
+of the whole perſon, as to make up a
+keeping of this word; which evidently
+includes all thoſe Conſiderations.
+
+[8.21] We are arrived then to the ſumme
+of this ſafeguarding Duty; of this
+Condition of freedome from the power
+of Temptation; He that having a
+due acquaintance with the Goſpell, in
+its Excellencies, as to him, a word
+of Mercy, Holineſſe, Liberty and Conſolation,
+values it, in all its Concernments
+as his choiſeſt and only Treaſure;
+makes it his buſineſſe, and the
+work of his life, to give himſelfe up
+unto it in univerſall obedience, then
+eſpecially, when Oppoſition, and Apoſtacy
+put the patience of Chriſt to
+the utmoſt, he ſhall be preſerved from
+the houre of Temptation.
+
+[8.22] This is that which is comprehenſive
+of all that went before; and is excluſive
+of all other waies for the obtaining
+of the End propoſed; nor let any
+man think without this, to be kept
+one houre from entring into Temptation;
+where ever he failes there
+Temptation enters. That this will be
+a ſure preſervative may appeare, from
+the enſuing Conſiderations.
+
+[8.23] 1. It hath the Promiſe of Preſervation,
+and this alone hath ſo. It is
+ſolemnly promiſed in the place mentioned
+to the Church of Philadelphia
+on this account. When a great triall
+and Temptation was to come on the
+world, at the opening of the ſeventh
+ſeale, Rev. 7. 3. a caution is given for
+the preſervation of Gods ſealed ones,
+which are deſcribed to be thoſe, who
+keep the word of Chriſt: for the promiſe
+is, that it ſhould be ſo. Now in
+every promiſe there are three things to
+be conſidered.
+
+[8.24] 1. The faithfulneſſe of the Father
+who gives it.
+
+[8.25] 2. The Grace of the Son which is
+the matter of it.
+
+[8.26] 3. The power and efficacy of the
+Holy Ghoſt which puts the promiſe in
+Execution. And all theſe are ingaged
+for the preſervation of ſuch perſons
+from the houre of Temptation.
+
+[8.27] 1. The faithfulneſſe of God, accompanyeth
+the promiſe. On this
+account is our deliverance laid, 1 Cor.
+10. 13. Though we be tempted, yet
+we ſhall be kept from the houre of
+Temptation; it ſhall not grow too
+ſtrong for us. What comes on us,
+we ſhall be able to beare; and what
+would be too hard for us, we ſhall eſcape.
+But what ſecurity have we
+hereof? even the faithfulneſſe of God;
+God is faithfull who will not ſuffer you
+&c. And wherein is God's faithfulneſſe
+ſeen and exerciſed? He is faithfull
+that promiſed, Heb. 10. 23. His
+faithfulneſſe conſiſts in his diſcharge
+of his promiſes. He abideth faithfull,
+he cannot deny himſelfe, 2 Tim. 2. 13.
+ſo that by being under the promiſe,
+we have the faithfulneſſe of God ingaged
+for our preſervation.
+
+[8.28] 2. There is in every promiſe of
+the Covenant the Grace of the Son;
+that is the ſubject matter of all promiſes.
+I will keep thee, how? by
+my Grace with thee: ſo that what Aſſiſtance
+the Grace of Chriſt can give
+to a ſoule that hath a right in this promiſe,
+in the houre of Temptation, it
+ſhall enjoy it. Pauls Temptation
+grew very high; it was likely to have
+come to its prevalent houre: He beſeeches
+the Lord, (that is the Lord Jeſus
+Chriſt) for help, 2 Cor. 12. 8.
+and receives that anſwer from him,
+my Grace is ſufficient for thee; verſ. 9:
+That it was the Lord Chriſt and his
+Grace, with whom he had peculiarly
+to do, is evident from the cloſe of
+that verſe; I will glory in my infirmity,
+that the power of Chriſt may reſt
+upon me; or the efficacy of the Grace
+of Chriſt in my preſervation, be made
+evident, So Heb. 2. 18.
+
+[8.29] 3. The Efficacy of the ſpirit, accompanyeth
+the promiſes. He is called
+the Holy Spirit of promiſe; not only,
+becauſe he is promiſed by Chriſt,
+but alſo, becauſe he effectually makes
+Good the promiſe, and gives it accompliſhment
+in our ſoules. He alſo
+then is ingaged to preſerve the ſoule
+walking according to the rule laid
+downe: See Iſai. 59. the laſt. Thus
+where the promiſe is, there is all this
+aſſiſtance; the faithfulneſſe of the father,
+the Grace of the Son, the power
+of the Spirit; all are ingaged in our
+preſervation.
+
+[8.30] 2. This conſtant univerſall keeping
+of Chriſts word of Patience, will
+keep the heart and ſoule in ſuch a frame
+as wherein no prevalent Temptation,
+by virtue of any advantages whatever,
+can ſeize upon it, ſo as totally to
+prevaile againſt it. So David prayes,
+Pſ. 25. 21. Let integrity preſerve me.
+This integrity and uprightneſſe, is the
+old-Teſtament-keeping the word of
+Chriſt, univerſall cloſe walking with
+God. Now how can they preſerve a
+man? why by keeping his heart in ſuch
+a frame, ſo defended on every ſide, that
+no evill can approach or take hold on
+him. Faile a man in his integrity, he
+hath an open place for temptation to
+enter, Iſa. 57. 21. To keep the word
+of Chriſt, is to do it univerſally, as
+hath been ſhewed; This exerciſes
+Grace in all the faculties of the ſoule;
+& compaſſes it with the whole armour
+of God: The underſtanding is full of
+light, the Affections of Love and holineſſe;
+let the Wind blow from what
+quarter it will, the ſoule is fenced and
+fortified; Let the enemy aſſault when,
+or by what meanes he pleaſeth, all
+things in the ſoule of ſuch an one are
+upon the guard: How can I do this
+thing and ſinne againſt God, is at hand,
+Eſpecially, upon a twofold account,
+doth deliverance and ſecurity ariſe
+from this hand.
+
+[8.31] 1. By the Mortification of the
+heart unto the matter of Temptations.
+The prevalency of any Temptation
+ariſes from hence; that the heart
+is ready to cloſe with the matter of it.
+There are Luſts within, ſuited to the
+propoſalls of the world or Satan
+without. Hence James reſolves all
+Temptations into our owne luſts. Ch.
+1. 14. becauſe either they proceed
+from, or are made effectuall by them
+as hath been declared. Why doth
+terror, or threates turne us aſide, from
+a due conſtancy in the performance of
+our duty? is it not becauſe there is
+unmortified carnall feare abiding in us,
+that tumultuates in ſuch a ſeaſon? why
+is it that the Allurements of the world,
+and compliances with men entangle
+us? is it not becauſe our affections are
+entangled with the things and conſiderations
+propoſed unto us? Now
+keeping the word of Chriſts patience,
+in the manner declared, keeps the
+heart mortified to theſe things, and
+ſo it is not eaſily entangled by them.
+Saith the Apoſtle, Gal. 2. 20. I am
+crucified with Chriſt, he that keeps
+cloſe to Chriſt, is crucified with him;
+and is dead to all the deſires of the
+fleſh and the world: as more fully;
+Chap. 6. 14. Here the match is broken,
+and all love, entangling love
+diſſolved.
+
+[8.32] 1. The heart is crucified to the
+world, and all things in it. Now the
+matter of all temptations almoſt is
+taken out of the world; the men of it,
+or the things of it make them up.
+As to theſe things ſaies the Apoſtle
+I am crucified to them: (And it is ſo with
+every one, that keeps the word of
+Chriſt, my heart is mortified unto
+them; I have no deſire after them; nor
+affection to them, nor delight in them:
+and they are crucified unto me. The
+Crownes, Glories, Thrones, pleaſures,
+profits, of the world, I ſee nothing
+deſirable in them; the luſts, ſenſuall
+pleaſures, Love, reſpects, honours
+of men, name and reputation among
+them, they are all as a thing of nought;
+I have no value, nor eſtimation of
+them. This ſoule is ſafeguarded from
+aſſaults of manifold Temptations.
+When Achan ſaw the Goodly Babiloniſh
+garment, and two hundred ſhekells
+of ſilver, and a wedge of Gold; firſt
+he coveted them, then he took them,
+Joh. 7. 21. Temptation ſubtilly
+ſpreads the Babiloniſh garment of favour,
+praiſe, peace, the ſilver of
+pleaſure, or profit, with the golden
+Contentmens of the fleſh, before the
+eyes of men; if now there be that in
+them alive, unmortified, that will preſently
+fall a coveting, let what feare
+of puniſhment will enſue, the heart or
+hand, will be put forth unto iniquity.
+
+[8.33] Herein then lyes the ſecurity of
+ſuch a frame, as that deſcribed; it is
+alwaies accompanied with a mortified
+heart; crucified unto the things that
+are the matter of our Temptations;
+without which it is utterly impoſſible,
+that we ſhould be preſerved one moment
+when any temptation doth befall
+us. If liking, and love of the
+things propoſed, inſinuated, commended
+in the temptation, be living
+and active in us, we ſhall not be able
+to reſiſt and ſtand.
+
+[8.34] 2. In this frame the heart is filled
+with better things, and their Excellency;
+ſo farre as to be fortified againſt
+the matter of any Temptation. See
+what Reſolution this puts Paul upon:
+Phil. 3. 8. All is loſſe and dung to
+him. Who would go out of his way,
+to have his armes full of loſſe and dung?
+and whence is it, that he hath this eſtimation
+of the moſt deſirable things
+in the world? it is from that deare eſtimation
+he had of the Excellency of
+Chriſt; ſo verſ. 10. When the ſoule
+is exerciſed to Communion with Chriſt,
+and to walking with him: he drinks
+new wine, and cannot deſire the old
+things of the world, for he ſaies the new
+is better. He taſts every day how
+gracious the Lord is, and therefore
+longs not after the ſweetneſſe of forbidden
+things, which indeed have none.
+He that makes it his buſineſſe to eate
+daily of the tree of life, will have no
+appetite unto other fruit, though the
+Tree that bare them ſeeme to ſtand in
+the middeſt of Paradiſe. This the
+ſpouſe makes the meanes of her preſervation;
+even the Excellency which
+by daily Communion, ſhee found in
+Chriſt and his Graces, above all other
+deſirable things. Let a ſoule exerciſe
+it ſelfe to Communion with Chriſt,
+in the good things of the Goſpell,
+pardon of ſinne, fruits of holineſſe,
+hope of Glory, peace with God, joy
+in the Holy Ghoſt, dominion over
+ſinne, and he ſhall have a mighty preſervative
+againſt all Temptations. As
+the full ſoule loatheth the honey comb;
+a ſoule filled with carnall, earthly, ſenſuall
+contentments finds no relliſh nor
+ſavour in the ſweeteſt ſpirituall things;
+ſo he that is ſatisfied with the kindneſſe
+of God, as with marrow and fatneſſe,
+that is every day entertained at
+the banquet of wine, wine upon the
+lees, and well refined, hath an holy
+contempt of the baits and allurements
+that lye in prevailing temptations, and
+is ſafe.
+
+[8.35] 3. He that ſo keeps the word of
+Chriſts patience, is alwaies furniſhed
+with preſerving Conſiderations and
+preſerving Principles: morall and reall
+advantages of preſervation.
+
+[8.36] 1. He is furniſhed with preſerving
+Conſiderations, that powerfully influence
+his ſoule in his walking diligently
+with Chriſt: Beſides the ſenſe
+of duty which is alwaies upon him, he
+conſiders,
+
+[8.37] 1. The concernment of Chriſt,
+whom his ſoule loves in him and his
+carefull walking. He conſiders that
+the preſence of Chriſt is with him, his
+eye upon him, that he ponders his
+heart and waies, as one greatly concerned
+in his deportment of himſelfe,
+in a time of triall. So Chriſt manifeſts
+himſelfe to do, Revel. 2. 19,
+20. I conſider all; what is acceptable,
+what to be rejected:
+He knowes that Chriſt is concerned
+in his honour, that his name be not evill
+ſpoken of by reaſon of him; that
+he is concerned in love to his ſoule;
+having that deſigne upon him to preſent
+him holy and unblameable and unreproveable
+in his ſight, Col. 1. 22.
+and his ſpirit is grieved where he is
+interrupted in this work; concerned
+on the account of his Goſpell, the progreſſe
+and acceptation of it in the
+world; its beauty would be ſlurred,
+its good things reviled, its progreſſe
+ſtopped, if ſuch an one be prevailed againſt;
+concerned in his love to others,
+who are grieveouſly ſcandalized,
+and perhaps ruined by the miſcarriages
+of ſuch. When Hymeneus and Philetus
+fall, they overthrow the faith of
+ſome, and ſaies ſuch a ſoule then, who
+is exerciſed to keep the word of Chriſts
+patience, when intricate, perplexed,
+intangling temptations, publique, private,
+perſonall, do ariſe? ſhall I now
+be careleſſe, ſhall I be negligent, ſhall I
+comply with the world, & the wayes of
+it? oh what thoughts of heart hath he
+concerning me, whoſe eye is upon me?
+ſhall I contemne his honour, deſpiſe his
+love, trample his Goſpell in the mire
+under the feet of men, turne aſide others
+from his ways? ſhall ſuch a man
+as I fly, give over reſiſting? it cannot
+be. There is no man who keeps the
+word of the patience of Chriſt, but is
+full of this ſoul preſſing conſideration;
+it dwells on his heart and ſpirit, and
+the love of Chriſt conſtraines him ſo
+to keep his heart and waies, 2 Cor.
+5. 10.
+
+[8.38] 2. The great conſideration of the
+Temptations of Chriſt in his behalfe,
+and the conqueſt he made in all aſſaults
+for his ſake, and his Good, dwell
+alſo on his ſpirit. The Prince of this
+world came upon him, the Glory of this
+world was ſhewed unto him, every
+thing in earth or hell, that hath either
+allurement or affrightment in it, was
+propoſed to him, to divert him from
+the worke of mediation, which for us
+he had undertaken: this whole life he
+calls the time of his temptation: but
+he reſiſted all, conquered all, and is become
+a captaine of Salvation to them
+that obey him. And, ſaies the Soule,
+ſhall this Temptation, theſe arguings,
+this plauſible pretence, this ſloth, this
+ſelfe love, this ſenſuality, this baite of
+the world, turne me aſide, prevaile over
+me, to deſert him who went before me,
+in the waies of all temptations that his
+holy nature was obnoxious unto, for
+my Good?
+
+[8.39] 3. Diſmall thoughts of the loſſe of
+love, of the ſmiles of the countenance
+of Chriſt, do alſo frequently exerciſe
+ſuch a ſoul. He knowes what it is to
+enjoy the favour of Chriſt, to have a
+ſenſe of his Love, to be accepted in his
+approaches to him, to converſe with
+him; and perhaps hath been ſometimes
+at ſome loſſe in this thing, and ſo
+knowes alſo, what it is to be in the
+dark, diſtanced from him. See the deportment
+of the ſpouſe in ſuch a caſe,
+Cant. 3. 4. when ſhe had once found
+him again; ſhe holds him, ſhe will
+not let him go, ſhe will looſe him no
+more.
+
+[8.40] 2 He that keeps the word of Chriſts
+patience, hath preſerving principles,
+whereby he is acted. Some of them
+may be mentioned.
+
+[8.41] 1 Firſt, In all things he lives by
+faith, and is acted by it in all his waies.
+Gal. 2. 20. Now upon a twofold account
+hath faith, when improved, the
+power of preſervation from Temptation
+annexed unto it.
+
+[8.42] 1 Becauſe it empties the ſoule of
+its own wiſdome, underſtanding and
+fulneſſe, that it may act in the wiſdome
+and fulneſſe of Chriſt. The only advice
+for preſervation in trials and temptations
+lies in that of the wiſe man:
+Prov. 3. 5. Truſt in the Lord with all
+Thine heart, and leane not to thine own
+underſtanding. This is the worke of
+faith: it is faith; it is to live by faith.
+The great failing of men in trialls, is
+their leaning to, or leaning upon, their
+owne underſtanding and counſell.
+What is the iſſue of it, Job. 18. 7. The
+ſteps of his ſtrength ſhall be ſtraightned,
+and his owne Counſell ſhall caſt him
+downe. Firſt he ſhall be entangled, and
+then caſt downe; and all by his own
+counſell, untill he come to be aſhamed
+of it, as Ephraim was, Hoſ. 10. 6. When
+ever in our trials, we conſult our own
+underſtandings, hearken to ſelfe reaſonings,
+though they ſeeme to be good
+and tending to our preſervation,
+yet the principle of living by faith is
+ſtifled, and we ſhall in the iſſue be caſt
+down by our own counſels; Now nothing
+can empty the heart of this ſelfefullneſſe,
+but Faith, but living by it,
+but, not living our ſelves, but having
+Chriſt live in us, by our living by
+Faith on him.
+
+[8.43] 2. Faith making the ſoule poore,
+empty, helpleſſe, deſtitute in its ſelfe,
+ingages the heart, will, and power of
+Jeſus Chriſt, for Aſſiſtance, of which I
+have ſpoken more at large elſewhere.
+
+[8.44] 2. Love to the Saints, with care
+that they ſuffer not upon our account,
+is a great preſerving principle
+in a time of Temptations and trialls.
+How powerfull this was in David, he
+declares in that earneſt prayer, Pſal. 69.
+6. Let not them that wait on thee, O Lord
+God of Hoſts, be aſhamed for my ſake, let
+not thoſe that ſeeke thee be confounded
+for my ſake, O God of Iſrael.
+
+[8.45] O let not me ſo miſcarry, that thoſe
+for whom I would lay downe my life,
+ſhould be put to ſhame, be evill ſpoken
+of, diſhonoured, reviled, contemned,
+on my account, for my failings.
+A ſelfiſh ſoule, whoſe love is turned
+wholly inwards, will never abide in a
+time of triall.
+
+[8.46] Many other Conſiderations and Principles,
+that thoſe who keep the word
+of Chriſt's patience in the way and
+manner before deſcribed are attended
+withall, might be enumerated, but I
+ſhall content my ſelfe to have pointed
+at theſe mentioned. And will it now be
+eaſy to determine, whence it is that ſo
+many in our dayes, are prevailed on, in
+the time of trial: that the houre of temptation
+comes upon them, and beares
+them downe, more or leſſe before it?
+is it not becauſe amongſt the great
+multitude of Profeſſors, that we have,
+there are few that keep the word of the
+patience of Chriſt? if we wilfully neglect,
+or caſt away our intereſt in the
+promiſe of preſervation, is it any wonder,
+if we be not preſerved? There is
+an houre of Temptation come upon the
+world, to try them that dwell therein:
+it variouſly exerts its power and efficacy;
+there is not any way, nor Thing,
+wherein it may not be ſeene acting and
+putting forth it ſelfe, in worldlineſſe,
+in ſenſuality, in looſeneſſe of converſation,
+in neglect of ſpirituall duties, private,
+publicke, in fooliſh, looſe, diabolicall
+opinions, in haughtineſſe and ambition;
+in envy and wrath, in ſtrife
+and debate, revenge, ſelfiſhneſſe, in
+Atheiſme and contempt of God, doth
+it appeare. They are but branches of
+the ſame root, bitter ſtreames of the
+ſame fountaine, cheriſhed by peace,
+proſperity, ſecurity, apoſtaſies of Profeſſors
+& the like; & alaſſe how many
+do dayly fall under the power of this
+Temptation, in generall? how few
+keep their garments girt about them,
+and undefiled? and if any urging particular
+Temptation, befall any, what
+inſtances almoſt have we of any that
+eſcape? may we not deſcribe our condition,
+as the Apoſtle that of the Corinthians
+in reſpect of an outward viſitation;
+ſome are ſick, and ſome are
+weake, and many ſleep; ſome are wounded,
+ſome defiled, many utterly loſt▪
+What is the ſpring and fountaine of
+this ſad condition of things? is it not,
+as hath been ſaid; we doe not keep the
+word of Chriſt's patience in univerſall
+cloſe walking with him; and ſo loſe the
+benefit of the promiſe given & annexed
+thereunto. Should I goe about
+to give inſtances of this thing; of Profeſſors
+coming ſhort of keeping the
+word of Chriſt, it would be a long
+worke. Theſe 4 heads would compriſe
+the moſt of them. 1. Conformity
+to the world, which Chriſt hath redeemed
+us from, almoſt in all things,
+with joy and delight; in promiſcuous
+compliances with the men of the
+world. 2. Neglect of duties which
+Chriſt hath enjoined, from cloſe meditation
+to publick ordinances. 3.
+Strife, variance, and debate among
+our ſelves, woefull judging and deſpiſing
+one another, upon account of
+things forraigne to the bond of Communion
+that is between the Saints.
+4. Selfe-fulneſſe as to principles, and
+ſelfiſhneſs as to ends. Now where
+theſe things are, are not men carnall?
+is the word of Chriſts patience
+effectuall in them? ſhall
+they be preſerved? they ſhall not.
+Would you then be preſerved, and
+kept from the hour of temptation;
+would you watch againſt entring into
+it, as deductions from what hath been
+delivered in this Chapter: take the
+enſuing Cautions.
+
+[8.47] 1 Take heed of leaning on deceitfull
+aſſiſtances; as 1 your owne Counſells,
+underſtandings, reaſonings,
+though you argue in them never ſo
+plauſibly in your own defence, they
+will leave you, betray you; when the
+temptation comes to any height, they
+will all turne about, and take part
+with your enemy, and plead as much
+for the matter of the temptation whatever
+it be, as they pleaded againſt the
+end and iſſue of it before.
+
+[8.48] 2 The moſt vigorous actings by prayer,
+faſting, & other ſuch meanes againſt
+that particular luſt, corruptiō, temptation,
+wherewith you are exerciſed, &
+have to do. This will not avail you, if in
+the mean time there be neglects, on
+other accounts. To hear a man wreſtle,
+cry, contend as to any particular of
+Temptation, and immediatly fall into
+wordly waies, worldly compliances,
+looſeneſſe, and negligence in other
+things; it is righteous with Jeſus
+Chriſt to leave ſuch an one to the
+hour of temptation.
+
+[8.49] 3 The generall ſecurity of Saints
+perſeverance, and preſervation from
+totall Apoſtaſy. Every ſecurity that
+God gives us, is good in its kind, and
+for the purpoſe for which it is given
+to us; but when it is given for one end,
+to uſe it for another, that is not good
+or profitable. To make uſe of the generall
+aſſurance of preſervation from
+totall Apoſtaſy, to ſupport the ſpirit in
+reſpect of a particular temptation, will
+not in the iſſue advantage the ſoule;
+becauſe notwithſtanding that, this or
+that temptation may prevaile. Many
+releive themſelves with this, untill
+they find themſelves in the depth of
+perplexities.
+
+[8.50] 1 Apply your ſelves to this great
+preſervation of faithfull keeping the
+word of Chriſts patience in the middeſt
+of all trialls and temptations.
+
+[8.51] 2 In particular, wiſely cōſider wherein
+the word of Chriſts patiēce is moſt likely
+to ſuffer in the daies wherein we
+live, and the ſeaſons that paſſe over us,
+& ſo vigorouſly ſet your ſelves to keep
+it in that particular, peculiarly. You
+will ſay, how ſhall we know wherein
+the word of Chriſts patience in any
+ſeaſon is like to ſuffer? I anſwer: conſider
+what workes he peculiarly performes
+in any ſeaſon, and neglect of
+his word in reference to them, is that
+wherein his word is like to ſuffer. For
+inſtance; the workes of Chriſt, wherein
+he hath been peculiarly ingaged in
+our daies and ſeaſons, ſeeme to be
+theſe.
+
+[8.52] 1 The powring of contempt upon
+the great men and great things of the
+world, with all the enjoyments of it.
+He hath diſcovered the nakedneſſe of
+all earthly Things, in overturning, overturning,
+overturning both men,
+and things, to make way for the things
+that cannot be ſhaken. 2. The owning
+of the Lot of his own inheritance in a
+diſtinguiſhing manner, putting a difference
+between the precious and the
+vile, and cauſing his people to dwell alone,
+as not reckoned with the nations.
+3. In being nigh to faith and prayer,
+honouring them above all the ſtrength
+and counſels of the ſons of men. 4. In
+recovering his Ordinances and inſtitutions
+from the carnall adminiſtrations
+that they were in bondage under by
+the luſts of men, bringing them forth
+in the beauty and the power of the
+ſpirit. Wherein then in ſuch a ſeaſon
+muſt lie the peculiar neglect of the
+word of Chriſts patience? is it not in
+ſetting a value on the world and the
+things of it, which he hath ſtained and
+trampled under foot? is it not in the
+ſlighting of his peculiar lot, his people,
+and caſting them into the ſame conſiderations
+with the men of the world?
+is it not in leaning to our own counſels
+and underſtandings? is it not in
+the defilement of his ordinances, by
+giving the outward court of the Temple
+to be trod upon by unſanctified
+perſons. Let us then be watchfull, and
+in theſe things keep the word of the
+patience of Chriſt, if we love our own
+preſervation. 5. In this frame urge
+the Lord Jeſus Chriſt with his bleſſed
+promiſes, with all the conſiderations
+that may be apt to take and hold the
+king in his galleries, that may worke
+on the heart of our bleſſed and mercifull
+High Prieſt, to give ſutable ſuccour
+at time of need.
+
+## CHAP. IX.
+
+[9.1] HAving thus paſſed through the
+Conſideration of the duty of
+watching, that we enter not into temptation,
+I ſuppoſe I need not adde motives
+to the obſervance of it. Thoſe
+who are not moved by their own ſad
+experiences, nor the importance of
+the duty, as laid down in the entrance
+of this diſcourſe, muſt be left by me to
+the farther patience of God. I ſhall only
+ſhut up the whole with a generall
+Exhortation to them, who are in any
+meaſure prepared for it, by the Conſideration
+of what hath been ſpoken.
+Should you go into an hoſpitall, and ſee
+many perſons lying ſick and weak, ſore
+and wounded, with many filthy diſeaſes
+and diſtempers, and ſhould enquire
+of them, how they fell into this condition,
+and they ſhould all agree to
+tell you, ſuch, or ſuch a thing was the
+occaſion of it; by that I got my wound
+ſaies one, and my diſeaſe ſaies another;
+would it not make you a little carefull
+how, or what you had to do with
+that thing or place? ſurely it would.
+Should you go to a dungeon, and ſee
+many miſerable creatures bound in
+chaines for an approaching day of execution,
+and inquire the way and means
+whereby they were brought into that
+condition, and they ſhould all fix on
+one and the ſame thing, would you
+not take care to avoid it? The caſe is
+ſo with entring into temptation: ah!
+how many poor, miſerably, ſpiritually,
+wounded ſoules have we every where?
+one wounded by one ſin, another by
+another; one falling into filthineſse of
+the fleſh, another of the ſpirit: aske
+them nowhow they cameinto this ſtate
+and condition; they muſt all anſwer,
+alas! we entred into temptation, we
+fell into curſed ſnares and intanglements,
+and that hath brought us into
+the woefull condition you ſee. Nay
+if a man could look into the dungeons
+of hell, and ſee the poor damned ſoules
+that lie bound in chaines of darkneſſe,
+and hear their cries: what would
+he be taught? what do they ſay? are
+they not curſing their Tempters, and
+the Temptations that they entred in?
+and ſhall we be negligent in this thing?
+Salomon tells us, that the ſimple one
+that followes the ſtrange woman, knows
+not that the dead are there, that her
+houſe inclineth to death, and her paths
+to the dead: (which he repeats 3 times)
+and that is the reaſon, that he ventures
+on her ſnares. If you knew what hath
+been done by entring into temptation,
+perhaps you would be more watchfull
+and carefull. Men may think that they
+ſhall do well enough notwithſtanding;
+but can a man take fire in his boſome,
+and his cloathes not be burnt, can one
+goe upon hot coales, and his feet not be
+burnt, Prov. 7. 27. 28. No ſuch thing:
+men come not off their temptation
+without wounds, burnings, and ſcars. I
+know not any place in the world where
+there is more need of preſsing this exhortation
+than in this place: Go to our
+ſeverall Colledges, enquire for ſuch and
+ſuch young men; what is the anſwer in
+reſpect of many? ah! ſuch an one was
+very hopefull for a ſeaſon, but he fell
+into ill company & he is quite loſt. Such
+an one had ſome good beginning of
+Religion, we were in great expectation
+of him, but he is fallen into
+temptation: And ſo in other places;
+ſuch an one was uſefull and humble, adorned
+the Goſpell, but now he is ſo
+wofully intangled with the world, that
+he is growne all ſelfe, hath no ſap nor
+favour; ſuch an one was humble and
+zelous, but he is advanced and hath
+loſt his firſt love and wayes: oh how
+full is the world, how full is this
+place, of theſe wofull examples:
+to ſay nothing of thoſe innumerable
+poore creatures who are fallen into
+temptation by deluſions in Religion.
+And is it not time for us to awake,
+before it be too late; to watch againſt
+the firſt riſings of ſin, the firſt attempts
+of Satan, and all wayes whereby
+he hath made his approaches to us, be
+they never ſo harmeleſſe in thēſelves.
+
+[9.2] Have we not experience of our
+weakneſſe, our folly, the invincible
+power of temptation when once it is
+gotten within us. As for this duty
+that I have inſiſted on, take theſe conſiderations:
+
+[9.3] 1. If you neglect it, it being the
+only means preſcribed by our Saviour,
+you will certainly enter into temptation,
+and as certainly fall into ſinne: flatter
+not your ſelves; ſome of you are old
+Diſciples, have a great abhorrency of
+ſinne; you thinke it impoſſible you
+ſhould ever be ſeduced ſo, and ſo:
+but, let him (who ever he be) that
+ſtandeth take heed leſt he fall: it is
+not any grace received, it is not any
+experience obtained, it is not any reſolution
+improved, that will preſerve
+you from any evill, unleſſe you ſtand
+upon your watch: what I ſay to you,
+ſayes Chriſt, I ſay to all; watch. Perhaps
+you may have had ſome good
+ſucceſſe for a time, in your careleſſe
+frame: but awake, admire God's tenderneſſe
+and patience, or evill lyes at
+the doore. If you will not performe
+this duty, who ever you are, one way
+or other, in one thing or other, ſpiritual
+or carnall wickedneſſe, you will be tempted,
+you will be defiled, and what will
+be the end thereof? Remember Peter.
+
+[9.4] 2. Conſider that you are alwayes
+under the eye of Chriſt, the great Captaine
+of our ſalvation, who hath enjoyned
+us to watch thus, & pray that we
+enter not. What thinke you are the
+thoughts, & what the heart of Chriſt,
+when he ſees a Temptation haſtening
+towards us, a ſtorme riſing about us,
+and we are faſt aſleep? doth it not grieve
+him, to ſee us expoſe our ſelves ſo to danger,
+after he hath given us warning upon
+warning? Whileſt he was in the dayes of
+his fleſh, he conſidered his temptation
+whileſt it was yet coming and armed himſelfe
+againſt it: the Prince of this world
+cometh, ſayes he, but he hath no part in me.
+And ſhall we be negligent under his eye?
+do but think that thou ſeeſt him coming
+to thee, as he did to Peter when he was aſleep
+in the garden, with the ſame reproof,
+what! canſt thou not watch one houre?
+would it not be a grief to thee to be ſo reproved,
+or to heare him thundring againſt
+thy neglect from heaven, as againſt the
+Church of Sardis, Revel. 3. 2.
+
+[9.5] 3. Conſider that if thou neglect this
+duty, and ſo fall into temptation, which aſſuredly
+thou wilt do, that when thou art
+intangled, God may withall bring ſome
+heavy affliction or judgment upon thee,
+which by reaſon of thy intanglement,
+thou ſhalt not be able to look on any otherwiſe,
+than as an evidence of his anger
+& hatred: & than what wilt thou do with
+thy temptation and affliction together?
+All thy bones will be broken, and thy
+peace and ſtrength will be gone in a moment.
+This may ſeeme but as a noyſe
+of words for the preſent, but if ever it be
+thy condition, thou wilt find it to be full
+of woe and bitterneſſe. Oh then let us
+ſtrive to keep our ſpirits unintangled, avoiding
+all appearance of evill, and all
+wayes leading thereunto: eſpecially all
+waies, buſineſſes, ſocieties, and imployments
+that we have already found diſadvantageous
+to us.
+
+[9.6] FINIS.

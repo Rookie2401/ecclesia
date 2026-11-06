@@ -1,0 +1,1668 @@
+Title: Divine songs: attempted in easy language for the use of children
+Work: Divine Songs Attempted in Easy Language for the Use of Children
+Author: Isaac Watts (1674–1748)
+Language: english
+Credit: Divine songs: attempted in easy language for the use of children, in Text Creation Partnership K123515.000 (London: J. Buckland; J. F. and C. Rivington; T. Longman; W. Fenner; T. Field; E. and C. Dilly, 1777). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).
+Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/K123515.000/master/K123515.000.xml
+Retrieved: 2026-11-05 (source file 106479 bytes, SHA-256 64f4b1a96915e215e53a1bb18043b01e3d06173d287e08ec2b251e649fb02851)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":64,"note":1}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## PREFACE, To all that are concerned in the EDUCATION of CHILDREN.
+
+[front.1.1] My Friends,
+
+[front.1.2] IT is an awful and important
+Charge that is committed
+to you. The Wiſdom and
+Welfare of the ſucceeding Generation
+are intruſted with you beforehand, and
+depend much on your Conduct. The
+Seeds of Miſery or Happineſs in this
+World, and that to come are oftentimes
+ſown very early; and therefore
+whatever may conduce to give the
+Minds of Children a Reliſh for Virtue
+and Religion, ought, in the firſt
+Place, to be propoſed to you.
+
+[front.1.3] VERSE was at firſt deſigned for the
+Service of GOD, though it hath been
+wretchedly abuſed ſince. The Ancients,
+among the Jews and the Heathens,
+taught their Children and Diſciples the
+Precepts of Morality and Worſhip in
+Verſe. The Children of Iſrael were
+commanded to learn the Words of the
+Song of Moſes, Deut. xxxi. 19, 30. and
+we are directed in the New Teſtament,
+not only to ſing with Grace in the Heart,
+but to teach, and admoniſh one another
+by Hymns and Songs, Ephes. v. 19. And
+there are theſe four Advantages in it.
+
+[front.1.4] I. THERE is a great Delight in the
+very learning of Truths and Duties this
+Way. There is ſomething ſo amuſing
+and entertaining in Rhymes and Metre,
+that will incline Children to make this
+Part of their Buſineſs a Diverſion. And
+you may turn their very Duty into a
+Reward, by giving them the Privilege
+of learning one of theſe SONGS every
+Week, if they fulfil the Buſineſs of
+the Week well, and promiſing them
+the Book itſelf, when they have learnt
+ten or twenty Songs out of it.
+
+[front.1.5] II. WHAT is learnt in Verſe, is
+longer retained in Memory, and ſooner
+recollected. The like Sounds, and the
+like Number of Syllables, exceedingly
+aſſiſt the Remembrance. And it may
+often happen, that the End of a Song
+running in the Mind, may be an effectual
+means to keep off ſome Temptations,
+or to incline to ſome Duty, when
+a Word of Scripture is not upon their
+Thoughts.
+
+[front.1.6] III. THIS will be a conſtant Furniture
+for the Minds of Children, that
+they may have ſomething to think
+upon when alone, and ſing over to
+themſelves. This may ſometimes give
+their Thoughts a divine Turn, and
+raiſe a young Meditation. Thus they
+will not be forced to ſeek Relief for an
+Emptineſs of Mind, out of the looſe
+and dangerous Sonnets of the Age.
+
+[front.1.7] IV. THESE Divine Songs may be a
+pleaſant and proper Matter for their
+Daily or Weekly Worſhip, to ſing one
+in the Family, at ſuch Time as the
+Parents or Governors ſhall appoint;
+and therefore I have confined the Verſe
+to the moſt uſual Pſalm Tunes.
+
+[front.1.8] THE greateſt part of this little Book
+was compoſed ſeveral Years ago, at the
+Requeſt of a Friend, who has been
+long engaged in the Work of Catechiſing
+a very great Number of Children
+of all kinds, and with abundant
+Skill and Succeſs. So that you will
+find here nothing that ſavours of a
+Party: The Children of high and low
+Degree, of the Church of England, or
+Diſſenters, baptiſed in Infancy, or not,
+may all join together in theſe Songs.
+And as I have endeavoured to ſink the
+Language to the Level of a Child's Underſtanding,
+and yet to keep it, if poſſible,
+above Contempt; ſo I have deſigned
+to profit all, if poſſible, and offend
+none. I hope the more general
+the Senſe is, theſe Compoſures may be
+of the more univerſal Uſe and Service.
+
+[front.1.9] I HAVE added at the End, ſome
+Attempts of SONNETS on MORAL
+SUBJECTS, for Children, with an Air
+of Pleaſantry, to provoke ſome fitter
+Pen to write a little Book of them.
+
+[front.1.10] MAY the Almighty GOD make you
+faithful in this important Work of Education;
+may he ſucceed your Cares
+with his abundant Grace, that the
+riſing Generation of Great Britain may
+be a Glory among the Nations, a Pattern
+to the Chriſtian World, and a
+Bleſſing to the Earth.
+
+## SONG I.
+
+[1.1] I.
+HOW glorious is our heav'nly King,
+Who reigns above the Sky!
+How ſhall a Child preſume to ſing
+His dreadful Majeſty?
+
+[1.2] II.
+How great his Pow'r is, none can tell,
+Nor think how large his Grace;
+Not Men below, nor Saints that dwell
+On high before his Face.
+
+[1.3] III.
+Not Angels that ſtand round the LORD,
+Can ſearch his ſecret Will;
+But they perform his heav'nly Word,
+And ſing his Praiſes ſtill.
+
+[1.4] IV.
+Then let me join this holy Train,
+And my firſt Off'rings bring;
+Th' eternal GOD will not diſdain
+To hear an Infant ſing.
+
+[1.5] V.
+My Heart reſolves, my Tongue obeys,
+And Angels ſhall rejoice,
+To hear their mighty Maker's Praiſe
+Sound from a feeble Voice.
+
+## SONG II.
+
+[2.1] I.
+I Sing th' Almighty Pow'r of GOD,
+That made the Mountains riſe,
+That ſpread the flowing Seas abroad,
+And built the lofty Skies.
+
+[2.2] II.
+I ſing the Wiſdom that ordain'd
+The Sun to rule the Day;
+The Moon ſhines full at his Command,
+And all the Stars obey.
+
+[2.3] III.
+I ſing the Goodneſs of the LORD,
+That fill'd the Earth with Food;
+He form'd the Creatures with his Word,
+And then pronounc'd them Good.
+
+[2.4] IV.
+LORD, how thy Wonders are diſplay'd,
+Where'er I turn mine Eye!
+If I ſurvey the Ground I tread,
+Or gaze upon the Sky!
+
+[2.5] V.
+There's not a Plant or Flow'r below,
+But makes thy Glories known;
+And Clouds ariſe and Tempeſts blow,
+By Order from thy Throne.
+
+[2.6] VI.
+Creatures (as num'rous as they be)▪
+Are ſubject to thy Care;
+There's not a Place where we can flee,
+But GOD is preſent there.
+
+[2.7] VII.
+In Heav'n he ſhines with Beams of Love,
+With Wrath in Hell beneath!
+'Tis on his Earth I ſtand or move,
+And 'tis his Air I breathe.
+
+[2.8] VIII.
+His Hand is my perpetual Guard;
+He keeps me with his Eye:
+Why ſhould I then forget the LORD,
+Who is for ever nigh?
+
+## SONG III.
+
+[1.3.1] I.
+BLEST be the Wiſdom and the Pow'r,
+The Juſtice and the Grace,
+That join'd in Counſel to reſtore,
+And ſave our ruin'd Race.
+
+[1.3.2] II.
+Our Father ate forbidden Fruit,
+And from his Glory fell;
+And we his Children thus were brought
+To Death, and near to Hell.
+
+[1.3.3] III.
+Bleſt be the LORD that ſent his Son
+To take our Fleſh and Blood;
+He for our Lives gave up his own,
+To make our Peace with GOD.
+
+[1.3.4] IV.
+He honour'd all his Father's Laws,
+Which we have diſobey'd;
+He bore our Sins upon the Croſs,
+And our full Ranſom paid.
+
+[1.3.5] V.
+Behold him riſing from the Grave;
+Behold him rais'd on high:
+He pleads his Merit, there to ſave
+Tranſgreſſors doom'd to die.
+
+[1.3.6] VI.
+There on a glorious Throne he reigns,
+And by his Pow'r divine
+Redeems us from the ſlaviſh Chains
+Of Satan and of Sin.
+
+[1.3.7] VII.
+Thence ſhall the LORD to Judgment come,
+And with a ſov'reign Voice
+Shall call, and break up ev'ry Tomb,
+While waking Saints rejoice.
+
+[1.3.8] VIII.
+O may I then with Joy appear
+Before the Judge's Face,
+And with the bleſs'd Aſſembly there
+Sing his Redeeming Grace.
+
+## SONG IV.
+
+[1.4.1] I.
+WHene'er I take my Walks abroad,
+How many Poor I ſee?
+What ſhall I render to my GOD
+For all his Gifts to me?
+
+[1.4.2] II.
+Not more than others I deſerve,
+Yet GOD his giv'n me more;
+For I have Food while others ſtarve,
+Or beg from Door to Door.
+
+[1.4.3] III.
+How many Children in the Street
+Half naked I behold?
+While I am cloth'd from Head to Feet,
+And cover'd from the Cold.
+
+[1.4.4] IV.
+While ſome poor Wretches ſcarce can tell
+Where they may lay their Head;
+I have a Home wherein to dwell,
+And reſt upon my Bed.
+
+[1.4.5] V.
+While others early learn to Swear,
+And Curſe, and Lye, and Steal:
+LORD, I am taught thy Name to fear,
+And do thy holy Will.
+
+[1.4.6] VI.
+Are theſe thy Favours Day by Day
+To me above the Reſt?
+Then let me love Thee more than they
+And try to ſerve Thee beſt.
+
+## SONG V.
+
+[1.5.1] I.
+GREAT GOD, to thee my Voice I raiſe,
+To thee my youngeſt Hours belong;
+I would begin my Life with Praiſe,
+Till growing Years improve the Song.
+
+[1.5.2] II.
+'Tis to thy ſov'reign Grace I owe
+That I was born on Britiſh Ground;
+Where Streams of heav'nly Mercy flow,
+And Words of ſweet Salvation ſound.
+
+[1.5.3] III.
+I would not change my native Land
+For rich Peru with all her Gold:
+A nobler Prize lies in my Hand,
+Than Eaſt or Weſtern Indies hold.
+
+[1.5.4] IV.
+How do I pity thoſe that dwell
+Where Ignorance and Darkneſs reigns!
+They know no Heav'n▪ they fear no Hell,
+Thoſe endleſs Joys, thoſe endleſs Pains.
+
+[1.5.5] V.
+Thy glorious Promiſes, O LORD,
+Kindle my Hopes and my Deſire;
+While all the Preachers of thy Word
+Warn me to 'ſcape eternal Fire.
+
+[1.5.6] VI.
+Thy Praiſe ſhall ſtill employ my Breath,
+Since thou haſt mark'd my Way to Heav'n;
+Nor will I run the Road to Death,
+And waſte the Bleſſings thou haſt giv'n.
+
+## SONG VI.
+
+[1.6.1] I.
+LORD, I aſcribe it to thy Grace,
+And not to Chance as others do,
+That I was born of CHRISTIAN Race,
+And not a Heathen or a Jew.
+
+[1.6.2] II.
+What would the ancient Jewiſh Kings,
+And Jewiſh Prophets once have giv'n,
+Could they have heard thoſe glorious
+Things,
+Which CHRIST reveal'd and brought from
+Heav'n?
+
+[1.6.3] III.
+How glad the Heathens would have been,
+That worſhip'd Idols, Wood and Stone,
+If they the Book of GOD had ſeen,
+Or JESUS and his Goſpel known!
+
+[1.6.4] IV.
+Then if this Goſpel I refuſe,
+How ſhall I e'er lift up mine Eyes?
+For all the Gentiles and the Jews,
+Againſt me will in Judgment riſe.
+
+## SONG VII.
+
+[1.7.1] I.
+GREAT GOD, with Wonder and with Praiſe
+On all thy Works I look;
+But ſtill thy Wiſdom, Pow'r and Grace,
+Shine brighteſt in thy Book.
+
+[1.7.2] II.
+The Stars that in their Courſes roll,
+Have much Inſtruction giv'n;
+But thy good Word informs my Soul
+How I may climb to Heav'n.
+
+[1.7.3] III.
+The Fields provide me Food, and ſhow
+The Goodneſs of the LORD;
+But Fruits of Life and Glory grow
+In thy moſt holy Word.
+
+[1.7.4] IV.
+Here are my choiceſt Treaſures hid,
+Here my beſt Comfort lies;
+Here my Deſires are ſatisfy'd,
+And hence my Hopes ariſe.
+
+[1.7.5] V.
+LORD, make me underſtand thy Law;
+Shew what my Faults have been;
+And from thy Goſpel let me draw
+Pardon for all my Sin.
+
+[1.7.6] VI.
+Here would I learn how CHRIST has dy'd
+To ſave my Soul from Hell:
+Not all the Books on Earth beſide
+Such heav'nly Wonders tell.
+
+[1.7.7] VII.
+Then let me love my Bible more,
+And take a freſh Delight
+By Day to read theſe Wonders o'er,
+And meditate by Night.
+
+## SONG VIII.
+
+[1.8.1] I.
+THE Praiſes of my Tongue
+I offer to the LORD,
+That I was taught, and learnt ſo young
+To read his holy Word.
+
+[1.8.2] II.
+That I am brought to know
+The Danger I was in,
+By Nature and by Practice too,
+A wretched Slave to Sin.
+
+[1.8.3] III.
+That I am lead to ſee
+I can do nothing well;
+And whither ſhall a Sinner flee
+To ſave himſelf from Hell?
+
+[1.8.4] IV.
+Dear LORD. this Book of thine
+Informs me where to go,
+For Grace to pardon all my Sin,
+And make me holy too.
+
+[1.8.5] V.
+Here I can read, and learn
+How CHRIST, the Son of GOD,
+Has undertook our great Concern;
+Our Ranſom coſt his Blood.
+
+[1.8.6] VI.
+And now he reigns above,
+He ſends his Spirit down
+To ſhew the Wonders of his Love,
+And make his Goſpel known.
+
+[1.8.7] VII.
+O may that Spirit teach,
+And make my Heart receive
+Thoſe Truths which all thy Servants preach
+And all thy Saints believe.
+
+[1.8.8] VIII.
+Then ſhall I praiſe the LORD
+In a more chearful Strain,
+That I was taught to read his Word,
+And have not learnt in vain.
+
+## SONG IX.
+
+[1.9.1] I.
+ALMIGHTY GOD, thy piercing Eye
+Strikes thro' the Shades of Night,
+And our moſt ſecret Actions lie
+All open to thy Sight.
+
+[1.9.2] II.
+There's not a Sin that we commit,
+Nor wicked Word we ſay,
+But in thy dreadful Book 'tis writ,
+Againſt the Judgment-Day.
+
+[1.9.3] III.
+And muſt the Crimes that I have done
+Be read and publiſh'd there?
+Be all expos'd before the Sun,
+While Men and Angels hear?
+
+[1.9.4] IV.
+LORD, at thy Foot aſham'd I lie;
+Upward I dare not look;
+Pardon my Sins before I die,
+And blot them from thy Book.
+
+[1.9.5] V.
+Remember all the dying Pains
+That my Redeemer felt,
+And let his Blood waſh out my Stains,
+And anſwer for my Guilt.
+
+[1.9.6] VI.
+O may I now for ever fear
+T' indulge a ſinful Thought,
+Since the great GOD can ſee and hear,
+And writes down ev'ry Fault.
+
+## SONG X.
+
+[1.10.1] I.
+THere is a GOD that reigns above,
+LORD of the Heav'ns and Earth and
+Seas:
+I fear his Wrath, I aſk his Love,
+And with my Lips I ſing his Praiſe,
+
+[1.10.2] II.
+There is a Law which he has writ,
+To teach us all that we muſt do:
+My Soul, to his Commands ſubmit,
+For they are holy, juſt and true.
+
+[1.10.3] III.
+There is a Goſpel of rich Grace,
+Whence Sinners all their Comforts draw:
+LORD, I repent, and ſeek thy Face;
+For I have often broke thy Law.
+
+[1.10.4] IV.
+There is an Hour when I muſt die,
+Nor do I know how ſoon 'twill come;
+A thouſand Children young as I,
+Are call'd by Death to hear their Doom.
+
+[1.10.5] V.
+Let me improve the Hours I have,
+Before the Day of Grace is fled;
+There's no Repentance in the Grave,
+Nor Pardons offer'd to the Dead.
+
+[1.10.6] VI.
+Juſt as the Tree cut down, that fell
+To North or Southward, there it lies;
+So Man departs to Heav'n or Hell,
+Fix'd in the State wherein he dies.
+
+## SONG XI.
+
+[1.11.1] I.
+THERE is beyond the Sky
+A Heav'n of Joy and Love;
+And holy Children when they die
+Go to that World above.
+
+[1.11.2] II.
+There is a dreadful Hell,
+And everlaſting Pains;
+There Sinners muſt with Devils dwell
+In Darkneſs, Fire and Chains.
+
+[1.11.3] III.
+Can ſuch a Wretch as I
+Eſcape this curſed End?
+And may I hope whene'er I die
+I ſhall to Heav'n aſcend?
+
+[1.11.4] IV.
+Then will I read and pray,
+While I have Life and Breath;
+Leſt I ſhould be cut off to-day,
+And ſent t' eternal Death.
+
+## SONG XII.
+
+[1.12.1] I.
+HAPPY the Child whoſe tender Years
+Receive Inſtructions well:
+Who hates the Sinner's Path, and fears
+The Road that leads to Hell.
+
+[1.12.2] II.
+When we devote our Youth to GOD,
+'Tis pleaſing in his Eyes;
+A Flow'r, when offer'd in the Bud,
+Is no vain Sacrifice.
+
+[1.12.3] III.
+'Tis eaſier Work if we begin
+To fear the LORD betimes;
+While Sinners that grow old in Sin
+Are harden'd in their Crimes,
+
+[1.12.4] IV.
+'Twill ſave us from a thouſand Snares,
+To mind Religion young;
+Grace will preſerve our following Years,
+And make our Virtue ſtrong.
+
+[1.12.5] V.
+To thee, Almighty GOD, to thee,
+Our Childhood we reſign;
+'Twill pleaſe us to look back and ſee
+That our whole Lives were thine.
+
+[1.12.6] VI.
+Let the ſweet Work of Pray'r and Praiſe
+Employ my youngeſt Breath;
+Thus I'm prepar'd for longer Days,
+Or fit for early Death.
+
+## SONG XIII.
+
+[1.13.1] I.
+WHY ſhould I ſay, "'Tis yet too ſoon
+"To ſeek for Heaven, or think of Death?"
+A Flow'r may fade before 'tis Noon,
+And I this Day may loſe my Breath.
+
+[1.13.2] II.
+If this rebellious Heart of mine
+Deſpiſe the gracious Calls of Heav'n,
+I may be harden'd in my Sin,
+And never have Repentance giv'n.
+
+[1.13.3] III.
+What if the LORD grow wrath and ſwear,
+While I refuſe to read and pray,
+That he'll refuſe to lend an Ear
+To all my Grones another Day?
+
+[1.13.4] IV.
+What if his dreadful Anger burn,
+While I refuſe his offer'd Grace,
+And all his Love to Fury turn,
+And ſtrike me dead upon the Place?
+
+[1.13.5] V.
+'Tis dang'rous to provoke a GOD!
+His Pow'r and Veng'ance none can tell;
+One Stroke of his Almighty Rod
+Shall ſend young Sinners quick to Hell.
+
+[1.13.6] VI.
+Then 'twill for ever be in vain▪
+To cry for Pardon and for Grace:
+To wiſh I had my Time again,
+Or hope to ſee my Maker's Face.
+
+## SONG XIV.
+
+[1.14.1] I.
+WHAT bleſs'd Examples do I find:
+Writ in the Word of Truth,
+Of Children that began to mind.
+Religion in their Youth?
+
+[1.14.2] II.
+JESUS, who reigns above the Sky,
+And keeps the World in Awe,
+Was once a Child as young as I,
+And kept his Father's Law.
+
+[1.14.3] III.
+At Twelve Years old he talk'd with Men,
+(The Jews all wond'ring ſtand)
+Yet he obey'd his Mother then,
+And came at her Command.
+
+[1.14.4] IV.
+Children a ſweet Hoſanna ſung,
+And bleſt their Saviour's Name;
+They gave him Honour with their Tongue,
+While Scribes and Prieſts blaſpheme.
+
+[1.14.5] V.
+SAMUEL the Child was wean'd and brought
+To wait upon the LORD;
+Young TIMOTHY betimes was taught
+To know his holy Word.
+
+[1.14.6] VI.
+Then why ſhould I ſo long delay
+What others learnt ſo ſoon?
+I would not paſs another Day
+Without this Work begun.
+
+## SONG XV.
+
+[1.15.1] I.
+O 'Tis a lovely Thing for Youth
+To walk betimes in Wiſdom's Way;
+To fear a Lie, to ſpeak the Truth,
+That we may truſt to all they ſay.
+
+[1.15.2] II.
+But Liars we can never truſt,
+Tho' they ſhould ſpeak the Thing that's true;
+And he that does one Fault at firſt,
+And lies to hide it, makes it two.
+
+[1.15.3] III.
+Have we not known, nor heard, nor read,
+How GOD abhors Deceit and Wrong?
+How Ananias was ſtruck dead,
+Catch'd with a Lie upon his Tongue?
+
+[1.15.4] IV.
+So did his Wife Sapphira die,
+When ſhe came in, and grew ſo bold
+As to confirm that wicked Lie
+That juſt before her Huſband told.
+
+[1.15.5] V.
+The LORD delights in them that ſpeak
+The Words of Truth; but ev'ry Liar
+Muſt have his Portion in the Lake
+That burns with Brimſtone and with Fire.
+
+[1.15.6] VI.
+Then let me always watch my Lips,
+Leſt I be ſtruck to Death and Hell,
+Since GOD a Book of Reck'ning keeps
+For ev'ry Lie that Children tell.
+
+## SONG XVI.
+
+[1.16.1] I.
+LET Dogs delight to bark and bite;
+For GOD hath made them ſo;
+Let Bears and Lions growl and fight,
+For 'tis their Nature too.
+
+[1.16.2] II.
+But, Children, you ſhould never let
+Such angry Paſſions riſe;
+Your little Hands were never made
+To tear each others Eyes.
+
+[1.16.3] III.
+Let Love thro' all your Actions run,
+And all your Words be mild;
+Live like the bleſſed Virgin's Son,
+That ſweet and lovely Child.
+
+[1.16.4] IV.
+His Soul was gentle as a Lamb;
+And as his Stature grew,
+He grew in Favour both with Man,
+And GOD his Father too.
+
+[1.16.5] V.
+Now LORD of All he reigns Above,
+And from his heav'nly Throne
+He ſees what Children dwell in Love,
+And marks them for his own.
+
+## SONG XVII.
+
+[1.17.1] I.
+WHatever Brawls diſturb the Street,
+There ſhould be Peace at Home;
+Where Siſters dwell and Brothers meet,
+Quarrels ſhould never come.
+
+[1.17.2] II.
+Birds in their little Neſts agree;
+And 'tis a ſhameful Sight,
+When Children of one Family
+Fall out, and chide and fight.
+
+[1.17.3] III.
+Hard Names at firſt, and threat'ning Words,
+That are but noiſy Breath,
+May grow to Clubs and naked Swords;
+To Murder and to Death.
+
+[1.17.4] IV.
+The Devil tempts one Mother's Son
+To rage againſt another,
+So wicked Cain was hurry'd on
+Till he had kill'd his Brother.
+
+[1.17.5] V.
+The Wife will make their Anger cool,
+At leaſt before 'tis Night;
+But in the Boſom of a Fool
+It burns till Morning-light.
+
+[1.17.6] VI.
+Pardon, O LORD, our childiſh Rage,
+Our little Brawls remove;
+That as we grow to riper Age,
+Our Hearts may all be Love.
+
+## SONG XVIII.
+
+[1.18.1] I.
+OUR Tongues were made to bleſs the LORD,
+And not ſpeak ill of Men;
+When others give a railing Word,
+We muſt not rail again.
+
+[1.18.2] II.
+Croſs Words and angry Names require
+To be chaſtis'd at School;
+And He's in Danger of Hell-fire
+That calls his Brother Fool.
+
+[1.18.3] III.
+But Lips that dare be ſo profane,
+To mock and jeer and ſcoff
+At holy Things or holy Men,
+The LORD ſhall cut them off.
+
+[1.18.4] IV.
+When Children in heir wanton Play
+Serv'd old ELISHA ſo;
+And bid the Prophet go his Way,
+"Go up, thou Bald-Head, go."
+
+[1.18.5] V.
+GOD quickly ſtopp'd their wicked Breath,
+And ſent two raging Bears,
+That tore them Limb from Limb to Death,
+With Blood and Groans and Tears.
+
+[1.18.6] VI.
+Great GOD, how terrible are Thou
+To Sinners e'er ſo young!
+Grant me thy Grace, and teach me how
+To tame and rule my Tongue.
+
+## SONG XIX.
+
+[1.19.1] I.
+ANGELS, that high in Glory dwell,
+Adore thy Name, Almighty GOD!
+And Devils tremble down in Hell,
+Beneath the Terrors of thy Rod.
+
+[1.19.2] II.
+And yet how wicked Children dare
+Abuſe thy dreadful glorious Name!
+And when they're angry how they ſwear,
+And curſe their Fellows, and blaſpheme!
+
+[1.19.3] III.
+How will they ſtand before thy Face,
+Who treated thee with ſuch Diſdain,
+While thou ſhalt doom them to the Place
+Of everlaſting Fire and Pain?
+
+[1.19.4] IV.
+Then never ſhall one cooling Drop
+To quench their burning Tongues be
+giv'n;
+But I will praiſe thee here and hope
+Thus to employ my Tongue in Heav'n.
+
+[1.19.5] V.
+My Heart ſhall be in pain to hear
+Wretches affront the LORD above;
+'Tis that great GOD whoſe Pow'r I fear;
+That heav'nly Father whom I love.
+
+[1.19.6] VI.
+If my Companions grow profane,
+I'll leave their Friendſhip, when I hear
+Young Sinners take thy Name in vain,
+And learn to curſe and learn to ſwear.
+
+## SONG XX.
+
+[1.20.1] I.
+HOW doth the little buſy Bee
+Improve each ſhining Hour,
+And gather Honey all the Day
+From ev'ry op'ning Flow'r?
+
+[1.20.2] II.
+How ſkilfully ſhe builds her Cell!
+How neat ſhe ſpreads the Wax!
+And labours hard to ſtore it well
+With the ſweet Food ſhe makes.
+
+[1.20.3] III.
+In Works of Labour or of Skill,
+I would be buſy too;
+For Satan finds ſome Miſchief ſtill
+For idle Hands to do.
+
+[1.20.4] IV.
+In Books, or Work, or healthful Play,
+Let my firſt Years be paſt,
+That I may give for ev'ry Day
+Some good Account at laſt.
+
+## SONG XXI.
+
+[1.21.1] I.
+WHY ſhould I join with thoſe in Play,
+In whom I've no Delight;
+Who curſe and ſwear, but never pray;
+Who call ill Names and fight?
+
+[1.21.2] II.
+I hate to hear a wanton Song;
+Their Words offend mine Ears;
+I ſhould not dare defile my Tongue
+With Language ſuch as theirs.
+
+[1.21.3] III.
+Away from Fools I'll turn mine Eyes;
+Nor with the Scoffers go;
+I would be walking with the Wiſe,
+That wiſer I may grow.
+
+[1.21.4] IV.
+From one rude Boy that's us'd to mock,
+They learn the wicked Jeſt:
+One ſickly Sheep infects the Flock,
+And poiſons all the reſt.
+
+[1.21.5] V.
+My God, I hate to walk, or dwell
+With ſinful Children here;
+Then let me not be ſent to Hell,
+Where none but Sinners are.
+
+## SONG XXII.
+
+[1.22.1] I.
+WHY ſhould our Garments, made to hide
+Our Parents Shame, provoke our
+Pride?
+The Art of Dreſs did ne'er begin,
+Till EVE our Mother learnt to ſin.
+
+[1.22.2] II.
+When firſt ſhe put the Cov'ring on,
+Her Robe of Innocence was gone;
+And yet her Children vainly boaſt
+In the ſad Marks of Glory loſt.
+
+[1.22.3] III.
+How proud we are! how fond to ſhew
+Our Clothes, and call them rich and new!
+When the poor Sheep and Silk-worm wore
+That very Clothing long before.
+
+[1.22.4] IV.
+The Tulip and the Butterfly
+Appear in gayer Coats than I:
+Let me be dreſt fine as I will,
+Flies, Worms and Flow'rs exceed me ſtill.
+
+[1.22.5] V.
+Then will I ſet my Heart to find
+Inward Adornings of the Mind;
+Knowledge and Virtue, Truth and Grace,
+Theſe are the Robes of richeſt Dreſs.
+
+[1.22.6] VI.
+No more ſhall Worms with me compare;
+This is the Raiment Angels wear;
+The Son of GOD, when here below,
+Put on this bleſt Apparel too.
+
+[1.22.7] VII.
+It never fades, it ne'er grows old,
+Nor fears the Rain nor Moth nor Mold:
+It takes no Spot but ſtill refines;
+The more 'tis worn, the more it ſhines.
+
+[1.22.8] VIII.
+In this on Earth ſhould I appear,
+Then go to Heav'n and wear it there;
+GOD will approve it in his Sight;
+'Tis his own Work, and his Delight.
+
+## SONG XXIII.
+
+[1.23.1] I.
+LET Children that would fear the LORD
+Hear what their Teachers ſay;
+With Rev'rence meet their Parents Word,
+And with Delight obey.
+
+[1.23.2] II.
+Have you not heard what dreadful Plagues
+Are threaten'd by the LORD,
+To him that breaks his Father's Law,
+Or mocks his Mother's Word?
+
+[1.23.3] III.
+What heavy Guilt upon him lies!
+How curſed is his Name!
+The Ravens ſhall pick out his Eyes,
+And Eagles eat the ſame.
+
+[1.23.4] IV.
+But thoſe who worſhip GOD and give
+Their Parents Honour due,
+Here on this Earth they long ſhall live,
+And live hereafter too.
+
+## SONG XXIV.
+
+[1.24.1] I.
+WHY ſhould I love my Sports ſo well,
+So conſtant at my Play,
+And loſe the Thoughts of Heav'n and Hell;
+And then forget to pray?
+
+[1.24.2] II.
+What do I read my Bible for,
+But, LORD, to learn thy Will;
+And ſhall I daily know thee more,
+And leſs obey thee ſtill?
+
+[1.24.3] III.
+How ſenſeleſs is my Heart and wild!
+How vain are all my Thoughts?
+Pity the Weakneſs of a Child,
+And pardon all my Faults.
+
+[1.24.4] IV.
+Make me thy heav'nly Voice to hear,
+And let me love to pray;
+Since GOD will lend a gracious Ear
+To what a Child can ſay.
+
+## SONG XXV.
+
+[1.25.1] I.
+MY GOD, who makes the Sun to know
+His proper Hour to riſe,
+And to give Light to all below,
+Doth ſend him round the Skies.
+
+[1.25.2] II.
+When from the Chambers of the Eaſt
+His Morning Race begins,
+He never tires, nor ſtops to reſt;
+But round the World he ſhines.
+
+[1.25.3] III.
+So, like the Sun, would I fulfil
+The Buſineſs of the Day:
+Begin my Work betimes, and ſtill
+March on my heav'nly Way.
+
+[1.25.4] IV.
+Give me, O LORD, thy early Grace,
+Nor let my Soul Complain
+That the young Morning of my Days
+Has all been ſpent in vain.
+
+## SONG XXVI.
+
+[1.26.1] I.
+AND now another Day is gone,
+I'll ſing my Maker's Praiſe;
+My Comforts ev'ry Hour make known
+His Providence and Grace.
+
+[1.26.2] II.
+But how my Childhood runs to waſte!
+My Sins, how great their Sum!
+LORD, give me Pardon for the paſt;
+And Strength for Days to come.
+
+[1.26.3] III.
+I lay my Body down to Sleep;
+Let Angels guard my Head,
+And thro' the Hours of Darkneſs keep
+Their Watch around my Bed.
+
+[1.26.4] IV.
+With cheerful Heart I cloſe my Eyes,
+Since thou wilt not remove;
+And in the Morning let me riſe
+Rejoicing in thy Love.
+
+## SONG XXVII.
+
+[1.27.1] I.
+THis is the Day when CHRIST aroſe
+So early from the Dead;
+Why ſhould I keep my Eyelids clos'd,
+And waſte my Hours in Bed?
+
+[1.27.2] II.
+This is the Day when JESUS broke
+The Pow'r of Death and Hell;
+And ſhall I ſtill wear Satan's Yoke,
+And love my Sins ſo well?
+
+[1.27.3] III.
+To-Day with Pleaſure Chriſtians meet,
+To pray and hear the Word:
+And I would go with cheerful Feet
+To learn thy Will, O LORD.
+
+[1.27.4] IV.
+I'll leave my Sport to read and pray,
+And ſo prepare for Heav'n:
+O may I love this bleſſed Day
+The beſt of all the Sev'n!
+
+## SONG XXVIII.
+
+[1.28.1] I.
+LORD, how delightful 'tis to ſee
+A whole Aſſembly worſhip Thee!
+At once they ſing, at once they pray;
+They hear of Heav'n, and learn the Way.
+
+[1.28.2] II.
+I have been there, and ſtill would go:
+'Tis like a little Heav'n below:
+Not all my Pleaſure and my Play
+Shall tempt me to forget this Day.
+
+[1.28.3] III.
+O write upon my Mem'ry, LORD,
+The Text and Doctrines of thy Word;
+That I may break thy Laws no more,
+But love thee better than before.
+
+[1.28.4] IV.
+With Thoughts of Chriſt and Things divine
+Fill up this fooliſh Heart of mine;
+That hoping Pardon thro' his Blood,
+I may lie down and wake with GOD.
+
+## The TEN COMMANDMENTS, out of the Old Teſtament, put into ſhort Rhyme for Children.
+
+[1.29.0.1] EXODUS, CHAP. XX.
+
+[1.29.0.2] 1. THOU ſhalt have no more Gods but me.
+2. Before no Idol bow thy Knee.
+3. Take not the Name of GOD in vain.
+4. Nor dare the Sabbath-day profane.
+5. Give both thy Parents Honour due.
+6. Take heed that thou no Murder do.
+7. Abſtain from Words and Deeds unclean.
+8. Nor ſteal, tho' thou art poor and mean.
+9. Nor make a wilful Lie, nor love it.
+10. What is thy Neighbour's dare not covet.
+
+## The Sum of the COMMANDMENTS, out of the New Teſtament.
+
+[1.29.1.1] MATT. xxii. 37.
+
+[1.29.1.2] WITH all thy Soul love GOD above,
+
+[1.29.1.3] And as thyſelf thy Neighbour love
+
+## Our Saviour's Golden Rule.
+
+[1.30.1] MATT. vii. 12.
+
+[1.30.2] BE you to others kind and true,
+
+[1.30.3] As you'd have others be to you;
+
+[1.30.4] And neither do nor ſay to Men,
+
+[1.30.5] Whate'er you would not take again.
+
+## Duty to God and our Neighbour.
+
+[1.31.1] LOVE GOD with all your Soul and Strength,
+
+[1.31.2] With all your Heart and Mind:
+
+[1.31.3] And love your Neighbour as yourſelf.
+
+[1.31.4] Be faithful, juſt and kind.
+
+[1.31.5] Deal with another, as you'd have
+
+[1.31.6] Another deal with you;
+
+[1.31.7] What you're unwilling to receive,
+
+[1.31.8] Be ſure you never do.
+
+## Long Metre.
+
+[1.32.1.1.1] I.
+Hoſanna to King David's Son,
+Who reigns on a ſuperior Throne;
+We bleſs the Prince of heav'nly Birth,
+Who brings Salvation down on Earth.
+
+[1.32.1.1.2] II.
+Let ev'ry Nation, ev'ry Age,
+In this delightful Work engage;
+Old Men and Babes in Sion ſing
+The growing Glories of her King!
+
+## Common Metre.
+
+[1.32.1.2.1] I.
+HOſanna to the Prince of Grace;
+Sion, behold thy King!
+Proclaim the Son of David's Race,
+And teach the Babes to ſing.
+
+[1.32.1.2.2] II.
+Hoſanna to th' Eternal Word,
+Who from the Father came;
+Aſcribe Salvation to the LORD,
+With Bleſſings on his Name.
+
+## Short Metre.
+
+[1.32.1.3.1] I.
+HOſanna to the SON
+Of David and of GOD,
+Who brought the News of Pardon down,
+And bought it with his Blood.
+
+[1.32.1.3.2] II.
+To CHRIST, th' anointed King,
+Be endleſs Bleſſings giv'n;
+Let the whole Earth his Glory ſing,
+Who made our Peace with Heav'n.
+
+## Long Metre.
+
+[1.32.2.1.1] TO GOD the FATHER, GOD the SON,
+
+[1.32.2.1.2] And GOD the SPIRIT, Three in One;
+
+[1.32.2.1.3] Be Honour, Praiſe and Glory giv'n,
+
+[1.32.2.1.4] By all on Earth, and all in Heav'n.
+
+## Common Metre.
+
+[1.32.2.2.1] NOW let the FATHER and the SON,
+
+[1.32.2.2.2] And SPIRIT be ador'd,
+
+[1.32.2.2.3] Where there are Works to make Him known,
+
+[1.32.2.2.4] Or Saints to love the LORD.
+
+## Short Metre.
+
+[1.32.2.3.1] GIVE to the FATHER Praiſe,
+
+[1.32.2.3.2] Give Glory to the SON;
+
+[1.32.2.3.3] And to the SPIRIT of his Grace
+
+[1.32.2.3.4] Be equal Honour done,
+
+## SPECIMEN OF MORAL SONGS, Such as I wiſh ſome happy and condeſcending Genius would undertake for the Uſe of Children, and perform much better.
+
+[1.33.0.1] THE Senſe and Subjects might be borrowed
+plentifully from the Proverbs
+of Solomon, from all the common Appearances
+of Nature, from all the Occurrences
+in Civil Life, both in City and Country:
+(Which would alſo afford Matter for
+other divine Songs.) Here the Language
+and Meaſures ſhould be eaſy and flowing
+with Cheerfulneſs, with or without the Solemnities
+of Religion, or the ſacred Names
+of GOD and Holy Things; that Children
+might find Delight and Profit together.
+
+[1.33.0.2] This would be one effectual Way to deliver
+them from the Temptation of loving
+or learning thoſe idle, wanton, or profane
+Songs, which give ſo early an ill Taint to
+the Fancy and Memory; and become the
+Seeds of future Vices.
+
+## I. The SLUGGARD.
+
+[1.33.1.1] I.
+'TIS the Voice of the Sluggard; I heard
+him complain.
+"You have wak'd me too ſoon, I muſt
+ſlumber again;"
+As the Door on its Hinges, ſo he on his Bed,
+Turns his Sides and his Shoulders and his
+heavy Head.
+
+[1.33.1.2] II.
+"A little more Sleep, and a little more
+Slumber;"
+Thus he waſtes half his Days, and his
+Hours without Number;
+And when he gets up he ſits folding his
+Hands,
+Or walks about ſaunt'ring, or trifling he
+ſtands.
+
+[1.33.1.3] III.
+I paſs'd by his Garden, and ſaw the wild
+Brier,
+The Thorn and the Thiſtle grow broader
+and higher;
+The Cloaths that hang on him are turning
+to Rags:
+And his Money ſtill waſtes, till he ſtarves
+or he begs.
+
+[1.33.1.4] IV.
+I made him a Viſit ſtill hoping to find
+He had took better Care for improving his
+Mind:
+He told me his Dreams, talk'd of Eating
+and Drinking;
+But he ſcarce reads his Bible, and never
+loves Thinking.
+
+[1.33.1.5] V.
+Said I then to my Heart, "Here's a Leſſon for me:"
+That Man's but a Picture of what I might
+be:
+But Thanks to my Friends for their Care
+in my Breeding,
+Who taught me betimes to love Working
+and Reading.
+
+## II. Innocent Play.
+
+[1.33.2.1] I.
+A Broad in the Meadows to ſee the young
+Lambs
+Run ſporting about by the Side of their Dams,
+With Fleeces ſo clean and ſo white;
+Or a Neſt of young Doves in a large
+open Cage,
+When they play all in Love, without Anger
+or Rage,
+How much may we learn from the Sight?
+
+[1.33.2.2] II.
+If we had been Ducks, we might dabble
+in Mud;
+Or Dogs, we might play till it ended in
+Blood;
+So foul and ſo fierce are their Natures:
+But Thomas and William, and ſuch pretty
+Names,
+Should be cleanly and harmleſs as Doves,
+or as Lambs,
+Thoſe lovely ſweet innocent Creatures.
+
+[1.33.2.3] III.
+Not a Thing that we do, nor a Word that
+we ſay,
+Should hinder another in Jeſting or Play;
+For he's ſtill in earneſt that's hurt:
+How rude are the Boys that throw Pebbles
+and Mire!
+There's none but a Madman will fling
+about Fire,
+And tell you, "'Tis all but in Sport."
+
+## III. The ROSE.
+
+[1.33.3.1] I.
+HOW fair is the Roſe? what a beautiful
+Flow'r?
+The Glory of April and May:
+But the Leaves are beginning to fade in
+an Hour,
+And they wither and die in a Day.
+
+[1.33.3.2] II.
+Yet the Roſe has one powerful Virtue to
+boaſt,
+Above all the Flowers of the Field:
+When its Leaves are all dead, and fine
+Colours are loſt,
+Still how ſweet a Perfume it will yield?
+
+[1.33.3.3] III.
+So frail is the Youth and the Beauty of
+Men,
+Tho' they bloom and look gay like the
+Roſe:
+But all our fond Care to preſerve them is
+vain;
+Time kills them as faſt as he goes.
+
+[1.33.3.4] IV.
+Then I'll not be proud of my Youth or
+my Beauty,
+Since both of them wither and fade:
+But gain a good Name by well-doing my
+Duty;
+This will ſcent like a Roſe when I'm dead.
+
+## IV. The THIEF.
+
+[1.33.4.1] I.
+WHY ſhould I deprive my Neighbour
+Of his Goods againſt his Will?
+Hands were made for honeſt Labour,
+Not to plunder or to ſteal.
+
+[1.33.4.2] II.
+'Tis a fooliſh Self-deceiving
+By ſuch Tricks to hope for Gain:
+All that's ever got by Thieving
+Turns to Sorrow, Shame, and Pain.
+
+[1.33.4.3] III.
+Have not Eve and Adam taught us
+Their ſad Profit to compute?
+To what diſmal State they brought us
+When they ſtole forbidden Fruit?
+
+[1.33.4.4] IV.
+Oft we ſee a young Beginner
+Practiſe little pilf'ring Ways,
+Till grown up a harden'd Sinner;
+Then the Gallows ends his Days.
+
+[1.33.4.5] V.
+Theft will not be always hidden,
+Tho' we fancy none can ſpy:
+When we take a Thing forbidden,
+GOD beholds it with his Eye.
+
+[1.33.4.6] VI.
+Guard my Heart, O GOD of Heav'n,
+Leſt I covet what's not mine:
+Leſt I ſteal what is not giv'n,
+Guard my Heart and Hands from Sin.
+
+## V. The ANT or EMMET.
+
+[1.33.5.1] I.
+THESE Emmets how little they are in
+our Eyes?
+We tread them to Duſt, and a Troop of
+them dies
+Without our Regard or Concern:
+Yet, as wiſe as we are, if we went to
+their School,
+There's many a Sluggard, and many a Fool,
+Some Leſſons of Wiſdom might learn.
+
+[1.33.5.2] II.
+They don't wear their Time out in Sleeping
+or Play,
+But gather up Corn in a ſun-ſhiny Day,
+And for Winter they lay up their Stores:
+They manage their Work in ſuch regular
+Forms,
+One would think they foreſaw all the Froſts
+and the Storms,
+And ſo brought their Food within Doors.
+
+[1.33.5.3] III.
+But I have leſs Senſe than a poor creeping
+Ant,
+If I take not due Care for the Things I
+ſhall want,
+Nor provide againſt Dangers in Time.
+When Death or old Age ſhall ſtare in my
+Face,
+What a Wretch ſhall I be in the End of
+my Days,
+If I trifle away all their Prime?
+
+[1.33.5.4] IV.
+Now, now, while my Strength and my
+Youth are in Bloom,
+Let me think what will ſerve me when
+Sickneſs ſhall come,
+And pray that my Sins be forgiv'n:
+Let me read in good Books, and believe,
+and obey,
+That when Death turns me out of this
+Cottage of Clay,
+I may dwell in a Palace in Heav'n.
+
+## VI. Good Reſolutions.
+
+[1.33.6.1] I.
+THO' I am now in younger Days,
+Nor can tell what ſhall befall me,
+I'll prepare for ev'ry Place
+Where my growing Age ſhall call me.
+
+[1.33.6.2] II.
+Should I e'er be Rich or Great,
+Others ſhall partake my Goodneſs;
+I'll ſupply the Poor with Meat,
+Never ſhewing Scorn or Rudeneſs.
+
+[1.33.6.3] III.
+Where I ſee the Blind or Lame,
+Deaf or Dumb, I'll kindly treat them;
+I deſerve to feel the ſame
+If I mock, or hurt, or cheat them.
+
+[1.33.6.4] IV.
+If I meet with railing Tongues,
+Why ſhould I return them Railing,
+Since I beſt revenge my Wrongs
+By my Patience never failing?
+
+[1.33.6.5] V.
+When I hear them telling Lies,
+Talking fooliſh, Curſing, Swearing;
+Firſt I'll try to make them wiſe,
+Or I'll ſoon go out of hearing.
+
+[1.33.6.6] VI.
+What tho' I be low and mean,
+I'll engage the Rich to love me,
+While I'm modeſt, neat and clean,
+And ſubmit when they reprove me.
+
+[1.33.6.7] VII.
+If I ſhould be poor and ſick,
+I ſhall meet, I hope, with Pity,
+Since I love to help the Weak,
+Tho' they're neither fair nor witty.
+
+[1.33.6.8] VIII.
+I'll not willingly offend,
+Nor be eaſily offended;
+What's amiſs I'll ſtrive to mend,
+And endure what can't be mended.
+
+[1.33.6.9] IX.
+May I be ſo watchful ſtill
+O'er my Humours and my Paſſion,
+As to ſpeak and do no Ill,
+Tho' it ſhould be all the Faſhion.
+
+[1.33.6.10] X.
+Wicked Faſhions lead to Hell;
+Ne'er may I be found complying;
+But in Life behave ſo well,
+Not to be afraid of dying.
+
+## A SUMMER EVENING.
+
+[1.33.7.1] I.
+HOW fine has the Day been, how
+bright was the Sun,
+How lovely and joyful the Courſe that he run,
+Tho' he roſe in a Miſt when his Race he
+begun,
+And there follow'd ſome Droppings of
+Rain!
+But now the fair Traveller's come to the Weſt,
+His Rays are all Gold, and his Beauties
+are beſt;
+He paints the Sky gay as he ſinks to his
+Reſt,
+And foretels a bright Riſing again.
+
+[1.33.7.2] II.
+Juſt ſuch is the Chriſtian: His Courſe he
+begins,
+Like the Sun in a Miſt, while he mourns
+for his Sins,
+And melts into Tears: Then he breaks
+out and ſhines,
+And travels his heav'nly Way:
+But when he comes nearer to finiſh his Race,
+Like a fine ſetting Sun he looks richer in
+Grace,
+And gives a ſure Hope at the End of his Days
+Of riſing in brighter Array.
+
+## A CRADLE HYMN.
+
+[1.33.8.1] Some Copies of the following HYMN having
+got abroad already into ſeveral Hands,
+the Author has been perſuaded to permit
+it to appear in Public, at the End of
+theſe SONGS for CHILDREN.
+
+[1.33.8.2] I.
+HUSH! my dear, lie ſtill and ſlumber,
+Holy Angels guard thy Bed!
+Heav'nly Bleſſings without Number
+Gently falling on thy Head.
+
+[1.33.8.3] II.
+Sleep, my Babe; thy Food and Raiment,
+Houſe and Home thy Friends provide;
+All without thy Care or Payment,
+All thy Wants are well ſupply'd.
+
+[1.33.8.4] III.
+How much better thou'rt attended
+Than the SON of GOD could be;
+When from Heav'n he deſcended,
+And became a Child like thee?
+
+[1.33.8.5] IV.
+Soft and eaſy is thy Cradle:
+Coarſe and hard thy Saviour lay;
+When his Birth-place was a Stable,
+And his ſofteſt Bed was Hay.
+
+[1.33.8.6] V.
+Bleſſed Babe! what glorious Features,
+Spotleſs fair, divinely bright!
+Muſt he dwell with brutal Creatures!
+How could Angels bear the Sight?
+
+[1.33.8.7] VI.
+Was there nothing but a Manger
+Curſed Sinners could afford,
+To receive the heavenly Stranger!
+Did they thus affront their LORD?
+
+[1.33.8.8] VII.
+Soft my Child? I did not chide thee,
+Tho' my Song might ſound too hard;
+'Tis thy
+Mother / Nurſe that
+ſits beſide thee,
+And her Arms ſhall be thy Guard.
+
+[1.33.8.9] VIII.
+Yet to read the ſhameful Story,
+How the Jews abus'd their King,
+How they ſerv'd the LORD of Glory,
+Makes me angry while I ſing.
+
+[1.33.8.10] IX.
+See the kinder Shepherds round him,
+Telling Wonders from the Sky!
+Where they ſought him, there they found him,
+With his Virgin Mother by.
+
+[1.33.8.11] X.
+See the lovely Babe a-dreſſing;
+Lovely Infant, how he ſmil'd!
+When he wept, the Mother's Bleſſing
+Sooth'd and huſh'd the holy Child.
+
+[1.33.8.12] XI.
+Lo, he ſlumbers in his Manger,
+Where the horned Oxen fed;
+Peace, my Darling, here's no Danger,
+Here's no Ox a-near thy Bed.
+
+[1.33.8.13] XII.
+'Twas to ſave Thee, Child, from dying,
+Save my Dear from burning Flame,
+Bitter Grones and endleſs Crying,
+That thy bleſt Redeemer came.
+
+[1.33.8.14] XIII.
+May'ſt thou live to know and fear Him,
+Truſt and love him all thy Days;
+Then go dwell for ever near Him,
+See his Face, and ſing his Praiſe?
+
+[1.33.8.15] XIV.
+I could give thee thouſand Kiſſes,
+Hoping what I moſt deſire;
+Not a Mother's fondeſt Wiſhes
+Can to greater Joys aſpire.
+
+## 1.end
+
+[1.end.1] THE END.

@@ -1,0 +1,409 @@
+Title: The Epistle of Cyril to Nestorius with the XII Anathematisms
+Work: Third Letter to Nestorius (with the Twelve Anathematisms)
+Author: Cyril of Alexandria (c. 376–444)
+Language: english
+Credit: The Epistle of Cyril to Nestorius with the XII Anathematisms, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. XIV: The Seven Ecumenical Councils of the Undivided Church (ed. Philip Schaff and Henry Wace; New York, Christian Literature Co., 1900); copy on English Wikisource, trans. Henry R. Percival (editor of the volume; the translator of this document is not separately named on the pages opened) (New York: Christian Literature Co., 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Third_Ecumenical_Council/The_Epistle_of_Cyril_to_Nestorius
+Retrieved: 2026-11-05 (source file 86678 bytes, SHA-256 e4e980287518e6a3b7fc1bccb5249f24003c451ad7d2324bcc6349adcb5570a6)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":16}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## p1
+
+[p1.1] The Epistle of Cyril to Nestorius with the XII. Anathematisms.
+
+[p1.2] (Labbe and Cossart, Concilia, Tom. III., col. 395; Migne, Patr. Græc., Tom. LXXVII. [Cyril, Opera, Tom. X.], col. 105 et seqq.)
+
+[p1.3] To the most reverend and God-loving fellow-minister Nestorius, Cyril and the synod assembled in Alexandria, of the Egyptian Province, Greeting in the Lord.
+
+[p1.4] When our Saviour says clearly: “He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me,” what is to become of us, from whom your Holiness requires that we love you more than Christ the Saviour of us all? Who can help us in the day of judgment, or what kind of excuse shall we find for thus keeping silence so long, with regard to the blasphemies made by you against him? If you injured yourself alone, by teaching and holding such things, perhaps it would be less matter; but you have greatly scandalized the whole Church, and have cast among the people the leaven of a strange and new heresy. And not to those there [i.e. at Constantinople] only; but also to those everywhere [the books of your explanation were sent]. How can we any longer, under these circumstances, make a defence for our silence, or how shall we not be forced to remember that Christ said: “Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father, and the daughter against her mother.” For if faith be injured, let there be lost the honour due to parents, as stale and tottering, let even the law of tender love towards children and brothers be silenced, let death be better to the pious than living; “that they might obtain a better resurrection,” as it is written.
+
+[p1.5] Behold, therefore, how we, together with the holy synod which met in great Rome, presided over by the most holy and most reverend brother and fellow-minister, Celestine the Bishop, also testify by this third letter to you, and counsel you to abstain from these mischievous and distorted dogmas, which you hold and teach, and to receive the right faith, handed down to the churches from the beginning through the holy Apostles and Evangelists, who “were eye-witnesses, and ministers of the Word.” And if your holiness have not a mind to this according to the limits defined in the writings of our brother of blessed memory and most reverend fellow-minister Celestine, Bishop of the Church of Rome, be well assured then that you have no lot with us, nor place or standing (λόγον) among the priests and bishops of God. For it is not possible for us to overlook the churches thus troubled, and the people scandalized, and the right faith set aside, and the sheep scattered by you, who ought to save them, if indeed we are ourselves adherents of the right faith, and followers of the devotion of the holy fathers. And we are in communion with all those laymen and clergymen cast out or deposed by your holiness on account of the faith; for it is not right that those, who resolved to believe rightly, should suffer by your choice; for they do well in opposing you. This very thing you have mentioned in your epistle written to our most holy and fellow-bishop Celestine of great Rome.
+
+[p1.6] But it would not be sufficient for your reverence to confess with us only the symbol of the faith set out some time ago by the Holy Ghost at the great and holy synod convened in Nice: for you have not held and interpreted it rightly, but rather perversely; even though you confess with your voice the form of words. But in addition, in writing and by oath, you must confess that you also anathematize those polluted and unholy dogmas of yours, and that you will hold and teach that which we all, bishops, teachers, and leaders of the people both East and West, hold. The holy synod of Rome and we all agreed on the epistle written to your Holiness from the Alexandrian Church as being right and blameless. We have added to these our own letters and that which it is necessary for you to hold and teach, and what you should be careful to avoid. Now this is the Faith of the Catholic and Apostolic Church to which all Orthodox Bishops, both East and West, agree:
+
+[p1.7] “We believe in one God, the Father Almighty, Maker of all things visible and invisible, and in one Lord Jesus Christ, the Only-begotten Son of God, begotten of his Father, that is, of the substance of the Father; God of God, Light of Light, Very God of very God, begotten, not made, being of one substance with the Father, by whom all things were made, both those in heaven and those in the earth. Who for us men and for our salvation, came down, and was incarnate, and was made man. He suffered, and rose again the third day. He ascended into the heavens, from thence he shall come to judge both the quick and the dead. And in the Holy Ghost: But those that say, There was a time when he was not, and, before he was begotten he was not, and that he was made of that which previously was not, or that he was of some other substance or essence; and that the Son of God was capable of change or alteration; those the Catholic and Apostolic Church anathematizes.”
+
+[p1.8] Following in all points the confessions of the Holy Fathers which they made (the Holy Ghost speaking in them), and following the scope of their opinions, and going, as it were, in the royal way, we confess that the Only begotten Word of God, begotten of the same substance of the Father, True God from True God, Light from Light, through Whom all things were made, the things in heaven and the things in the earth, coming down for our salvation, making himself of no reputation (καθεὶς ἑαυτὸν εἰς κένωσιν), was incarnate and made man; that is, taking flesh of the holy Virgin, and having made it his own from the womb, he subjected himself to birth for us, and came forth man from a woman, without casting off that which he was; but although he assumed flesh and blood, he remained what he was, God in essence and in truth. Neither do we say that his flesh was changed into the nature of divinity, nor that the ineffable nature of the Word of God was laid aside for the nature of flesh; for he is unchanged and absolutely unchangeable, being the same always, according to the Scriptures. For although visible and a child in swaddling clothes, and even in the bosom of his Virgin Mother, he filled all creation as God, and was a fellow-ruler with him who begat him, for the Godhead is without quantity and dimension, and cannot have limits.
+
+[p1.9] Confessing the Word to be made one with the flesh according to substance, we adore one Son and Lord Jesus Christ: we do not divide the God from the man, nor separate him into parts, as though the two natures were mutually united in him only through a sharing of dignity and authority (for that is a novelty and nothing else), neither do we give separately to the Word of God the name Christ and the same name separately to a different one born of a woman; but we know only one Christ, the Word from God the Father with his own Flesh. For as man he was anointed with us, although it is he himself who gives the Spirit to those who are worthy and not in measure, according to the saying of the blessed Evangelist John.
+
+[p1.10] But we do not say that the Word of God dwelt in him as in a common man born of the holy Virgin, lest Christ be thought of as a God-bearing man; for although the Word tabernacled among us, it is also said that in Christ “dwelt all the fulness of the Godhead bodily”; but we understand that he became flesh, not just as he is said to dwell in the saints, but we define that that tabernacling in him was according to equality (κατὰ τον ἴσον ἐν αὐτῷ τρόπον). But being made one κατὰ φύσιν, and not converted into flesh, he made his indwelling in such a way, as we may say that the soul of man does in his own body.
+
+[p1.11] One therefore is Christ both Son and Lord, not as if a man had attained only such a conjunction with God as consists in a unity of dignity alone or of authority. For it is not equality of honour which unites natures; for then Peter and John, who were of equal honour with each other, being both Apostles and holy disciples [would have been one, and], yet the two are not one. Neither do we understand the manner of conjunction to be apposition, for this does not suffice for natural oneness (πρὸς ἕνωσον φυσικήν). Nor yet according to relative participation, as we are also joined to the Lord, as it is written “we are one Spirit in him.” Rather we deprecate the term of “junction” (συναφείας) as not having sufficiently signified the oneness. But we do not call the Word of God the Father, the God nor the Lord of Christ, lest we openly cut in two the one Christ, the Son and Lord, and fall under the charge of blasphemy, making him the God and Lord of himself. For the Word of God, as we have said already, was made hypostatically one in flesh, yet he is God of all and he rules all; but he is not the slave of himself, nor his own Lord. For it is foolish, or rather impious, to think or teach thus. For he said that God was his Father, although he was God by nature, and of his substance. Yet we are not ignorant that while he remained God, he also became man and subject to God, according to the law suitable to the nature of the manhood. But how could he become the God or Lord of himself? Consequently as man, and with regard to the measure of his humiliation, it is said that he is equally with us subject to God; thus he became under the Law, although as God he spake the Law and was the Law-giver.
+
+[p1.12] We are careful also how we say about Christ: “I worship the One clothed on account of the One clothing him, and on account of the Unseen, I worship the Seen.” It is horrible to say in this connexion as follows: “The assumed as well as the assuming have the name of God.” For the saying of this divides again Christ into two, and puts the man separately by himself and God also by himself. For this saying denies openly the Unity according to which one is not worshipped in the other, nor does God exist together with the other; but Jesus Christ is considered as One, the Only-begotten Son, to be honoured with one adoration together with his own flesh.
+
+[p1.13] We confess that he is the Son, begotten of God the Father, and Only-begotten God; and although according to his own nature he was not subject to suffering, yet he suffered for us in the flesh according to the Scriptures, and although impassible, yet in his Crucified Body he made his own the sufferings of his own flesh; and by the grace of God he tasted death for all: he gave his own Body thereto, although he was by nature himself the life and the resurrection, in order that, having trodden down death by his unspeakable power, first in his own flesh, he might become the first born from the dead, and the first-fruits of them that slept. And that he might make a way for the nature of man to attain incorruption, by the grace of God (as we just now said), he tasted death for every man, and after three days rose again, having despoiled hell. So although it is said that the resurrection of the dead was through man, yet we understand that man to have been the Word of God, and the power of death was loosed through him, and he shall come in the fulness of time as the One Son and Lord, in the glory of the Father, in order to judge the world in righteousness, as it is written.
+
+[p1.14] We will necessarily add this also. Proclaiming the death, according to the flesh, of the Only-begotten Son of God, that is Jesus Christ, confessing his resurrection from the dead, and his ascension into heaven, we offer the Unbloody Sacrifice in the churches, and so go on to the mystical thanksgivings, and are sanctified, having received his Holy Flesh and the Precious Blood of Christ the Saviour of us all. And not as common flesh do we receive it; God forbid: nor as of a man sanctified and associated with the Word according to the unity of worth, or as having a divine indwelling, but as truly the Life-giving and very flesh of the Word himself. For he is the Life according to his nature as God, and when he became united to his Flesh, he made it also to be Life-giving, as also he said to us: Verily, verily, I say unto you, Except ye eat the flesh of the Son of Man and drink his Blood. For we must not think that it is flesh of a man like us (for how can the flesh of man be life-giving by its own nature?) but as having become truly the very own of him who for us both became and was called Son of Man. Besides, what the Gospels say our Saviour said of himself, we do not divide between two hypostases or persons. For neither is he, the one and only Christ, to be thought of as double, although of two (ἐκ δύο) and they diverse, yet he has joined them in an indivisible union, just as everyone knows a man is not double although made up of soul and body, but is one of both. Wherefore when thinking rightly, we transfer the human and the divine to the same person (παρ’ ἑνὸς εἰρῆσθαι).
+
+[p1.15] For when as God he speaks about himself: “He who hath seen me hath seen the Father,” and “I and my Father are one,” we consider his ineffable divine nature according to which he is One with his Father through the identity of essence—“The image and impress and brightness of his glory.” But when not scorning the measure of his humanity, he said to the Jews: “But now ye seek to kill me, a man that hath told you the truth.” Again no less than before we recognize that he is the Word of God from his identity and likeness to the Father and from the circumstances of his humanity. For if it is necessary to believe that being by nature God, he became flesh, that is, a man endowed with a reasonable soul, what reason can certain ones have to be ashamed of this language about him, which is suitable to him as man? For if he should reject the words suitable to him as man, who compelled him to become man like us? And as he humbled himself to a voluntary abasement (κένωσιν) for us, for what cause can any one reject the words suitable to such abasement? Therefore all the words which are read in the Gospels are to be applied to One Person, to One hypostasis of the Word Incarnate. For the Lord Jesus Christ is One, according to the Scriptures, although he is called “the Apostle and High Priest of our profession,” as offering to God and the Father the confession of faith which we make to him, and through him to God even the Father and also to the Holy Spirit; yet we say he is, according to nature, the Only-begotten of God. And not to any man different from him do we assign the name of priesthood, and the thing, for he became “the Mediator between God and men,” and a Reconciler unto peace, having offered himself as a sweet smelling savour to God and the Father. Therefore also he said: “Sacrifice and offering thou wouldest not; but a body hast thou prepared me: In burnt offerings and sacrifices for sin thou hast had no pleasure. Then said I, Lo, I come (in the volume of the book it is written of me) to do thy will, O God.” For on account of us he offered his body as a sweet smelling savour, and not for himself; for what offering or sacrifice was needed for himself, who as God existed above all sins? For “all have sinned and come short of the glory of God,” so that we became prone to fall, and the nature of man has fallen into sin, yet not so he (and therefore we fall short of his glory). How then can there be further doubt that the true Lamb died for us and on our account? And to say that he offered himself for himself and us, could in no way escape the charge of impiety. For he never committed a fault at all, neither did he sin. What offering then did he need, not having sin for which sacrifices are rightly offered? But when he spoke about the Spirit, he said: “He shall glorify me.” If we think rightly, we do not say that the One Christ and Son as needing glory from another received glory from the Holy Spirit; for neither greater than he nor above him is his Spirit, but because he used the Holy Spirit to show forth his own divinity in his mighty works, therefore he is said to have been glorified by him just as if any one of us should say concerning his inherent strength for example, or his knowledge of anything, “They glorified me.” For although the Spirit is the same essence, yet we think of him by himself, as he is the Spirit and not the Son; but he is not different from him; for he is called the Spirit of truth and Christ is the Truth, and he is sent by him, just as, moreover, he is from God and the Father. When then the Spirit worked miracles through the hands of the holy apostles after the Ascension of Our Lord Jesus Christ into heaven, he glorified him. For it is believed that he who works through his own Spirit is God according to nature. Therefore he said: “He shall receive of mine, and shall shew it unto you.” But we do not say this as if the Spirit is wise and powerful through some sharing with another; for he is all perfect and in need of no good thing. Since, therefore, he is the Spirit of the Power and Wisdom of the Father (that is, of the Son), he is evidently Wisdom and Power.
+
+[p1.16] And since the holy Virgin brought forth corporally God made one with flesh according to nature, for this reason we also call her Mother of God, not as if the nature of the Word had the beginning of its existence from the flesh.
+
+[p1.17] For “In the beginning was the Word, and the Word was God, and the Word was with God,” and he is the Maker of the ages, coeternal with the Father, and Creator of all; but, as we have already said, since he united to himself hypostatically human nature from her womb, also he subjected himself to birth as man, not as needing necessarily in his own nature birth in time and in these last times of the world, but in order that he might bless the beginning of our existence, and that that which sent the earthly bodies of our whole race to death, might lose its power for the future by his being born of a woman in the flesh. And this: “In sorrow thou shalt bring forth children,” being removed through him, he showed the truth of that spoken by the prophet, “Strong death swallowed them up, and again God hath wiped away every tear from off all faces.” For this cause also we say that he attended, having been called, and also blessed, the marriage in Cana of Galilee, with his holy Apostles in accordance with the economy. We have been taught to hold these things by the holy Apostles and Evangelists, and all the God-inspired Scriptures, and in the true confessions of the blessed Fathers.
+
+[p1.18] To all these your reverence also should agree, and give heed, without any guile. And what it is necessary your reverence should anathematize we have subjoined to our epistle.
+
+## p2.p1
+
+[p2.p1.1] The XII. Anathematisms of St. Cyril Against Nestorius.
+
+[p2.p1.2] (Found in St. Cyril’s Opera. Migne, Pat. Græc, Tom. LXXVII., Col. 119; and the Concilia.)
+
+[p2.p1.3] I.
+
+[p2.p1.4] If anyone will not confess that the Emmanuel is very God, and that therefore the Holy Virgin is the Mother of God (Θεοτόκος), inasmuch as in the flesh she bore the Word of God made flesh [as it is written, “The Word was made flesh”] let him be anathema.
+
+[p2.p1.5] Notes.
+
+[p2.p1.6] The Anathematisms of the Heretic Nestorius Against Cyril.
+
+[p2.p1.7] (Found best in Migne’s edition of Marius Mercator.)
+
+[p2.p1.8] I.
+
+[p2.p1.9] If anyone says that the Emmanuel is true God, and not rather God with us, that is, that he has united himself to a like nature with ours, which he assumed from the Virgin Mary, and dwelt in it; and if anyone calls Mary the mother of God the Word, and not rather mother of him who is Emmanuel; and if he maintains that God the Word has changed himself into the flesh, which he only assumed in order to make his Godhead visible, and to be found in form as a man, let him be anathema.
+
+[p2.p1.10] Petavius.
+
+[p2.p1.11] (De Incarnatione, Lib. vj. cap. xvij.)
+
+[p2.p1.12] In this anathematism certain words are found in the Greek copy of Dionysius which are lacking in the ordinary copies, viz. “according as it is written, ‘And the Word was made flesh’;” unless forsooth Dionysius supplied them of his own authority. For in the Lateran Synod in the time of Martin I. this anathematism was quoted without the appended words.
+
+[p2.p1.13] This anathematism breaks to pieces the chief strength of the Nestorian impiety. For it sets forth two facts. The one that the Emmanuel, that is he who was born of a woman and dwelt with us, is God: the other, that Mary who bare such an one is Mother of God. That Christ is God is clearly proved from the Nicene Creed, and he shews that the same that was in the beginning the Son of God, afterwards took flesh and was born of Mary, without any change or confusion of natures.
+
+[p2.p1.14] St. Cyril explains that by σαρκικῶς, carnaliter, he meant nothing else than κατα σάρκα, secundum carnem, “according to the flesh.” And it was necessary to use this expression to overthrow the perfidy of Nestorius; so that we may understand that the most holy Virgin was the parent not of a simple and bare man, but of God the Word, not in that he was God, but in that he had taken flesh. For God the Father was the parent of the same Son θεϊκῶς (divinely) as his mother was σαρκικῶς (after the flesh). And the word (σαρκικῶς) in no degree lessens the dignity of his begetting and bringing forth; for it shews that his flesh was not simulated or shadowed forth; but true and like to ours. Amphilochius distinctly uses the word, saying “Except he had been born carnally (σαρκικῶς), never wouldest thou have been born spiritually (πνευματικῶς ).” Cf. St. Gregory Nazianzen (Orat. 51).
+
+[p2.p1.15] Theodoret misunderstood St. Cyril to teach in this first anathematism that the Word was changed into the flesh he assumed. But Cyril rightly treated this whole accusation as a foolish calumny.
+
+## p2.p2
+
+[p2.p2.1] II.
+
+[p2.p2.2] If anyone shall not confess that the Word of God the Father is united hypostatically to flesh, and that with that flesh of his own, he is one only Christ both God and man at the same time: let him be anathema.
+
+[p2.p2.3] Notes.
+
+[p2.p2.4] Nestorius.
+
+[p2.p2.5] II.
+
+[p2.p2.6] If any one asserts that, at the union of the Logos with the flesh, the divine Essence moved from one place to another; or says that the flesh is capable of receiving the divine nature, and that it has been partially united with the flesh; or ascribes to the flesh, by reason of its reception of God, an extension to the infinite and boundless, and says that God and man are one and the same in nature; let him be anathema.
+
+## p2.p3
+
+[p2.p3.1] III.
+
+[p2.p3.2] If anyone shall after the [hypostatic] union divide the hypostases in the one Christ, joining them by that connexion alone, which happens according to worthiness, or even authority and power, and not rather by a coming together (συνόδῳ), which is made by natural union (ἕνωσιν φυσικὴν): let him be anathema.
+
+[p2.p3.3] Notes.
+
+[p2.p3.4] Nestorius.
+
+[p2.p3.5] III.
+
+[p2.p3.6] If any one says that Christ, who is also Emmanuel, is One, not [merely] in consequence of connection, but [also] in nature, and does not acknowledge the connection (συνάφεια) of the two natures, that of the Logos and of the assumed manhood, in one Son, as still continuing without mingling; let him be anathema.
+
+[p2.p3.7] Hefele.
+
+[p2.p3.8] (Hist. of the Counc., Vol. III., p. 7.)
+
+[p2.p3.9] Theodore [of Mopsuestia, and in this he was followed by Nestorius,] (and here is his fundamental error,) not merely maintained the existence of two natures in Christ, but of two persons, as, he says himself, no subsistence can be thought of as perfect without personality. As however, he did not ignore the fact that the consciousness of the Church rejected such a double personality in Christ, he endeavoured to get rid of the difficulty, and he repeatedly says expressly: “The two natures united together make only one Person, as man and wife are only one flesh.…If we consider the natures in their distinction, we should define the nature of the Logos as perfect and complete, and so also his Person, and again the nature and the person of the man as perfect and complete. If, on the other hand, we have regard to the union (συνάφεια), we say it is one Person.” The very illustration of the union of man and wife shows that Theodore did not suppose a true union of the two natures in Christ, but that his notion was rather that of an external connection of the two. The expression συνάφεια, moreover, which he selected here instead of the term ἕνωσιν, which he elsewhere employs, being derived from συνάπτω [to join together], expresses only an external connection, a fixing together, and is therefore expressly rejected in later times by the doctors of the Church. And again, Theodore designates a merely external connection also in the phrase already quoted, to the effect that “the Logos dwells in the man assumed as in a temple.” As a temple and the statue set up within it are one whole merely in outward appearance, so the Godhead and manhood in Christ appear only from without in their actuality as one Person, while they remain essentially two Persons.
+
+## p2.p4
+
+[p2.p4.1] IV.
+
+[p2.p4.2] If anyone shall divide between two persons or subsistences those expressions (φωνάς) which are contained in the Evangelical and Apostolical writings, or which have been said concerning Christ by the Saints, or by himself, and shall apply some to him as to a man separate from the Word of God, and shall apply others to the only Word of God the Father, on the ground that they are fit to be applied to God: let him be anathema.
+
+[p2.p4.3] Notes.
+
+[p2.p4.4] Nestorius.
+
+[p2.p4.5] IV.
+
+[p2.p4.6] If any one assigns the expressions of the Gospels and Apostolic letters, which refer to the two natures of Christ, to one only of those natures, and even ascribes suffering to the divine Word, both in the flesh and in the Godhead; let him be anathema.
+
+[p2.p4.7] St. Cyril.
+
+[p2.p4.8] (Apol. contra Orientales.)
+
+[p2.p4.9] For we neither teach the division of the hypostases after the union, nor do we say that the nature of the Deity needs increase and growth; but this rather we hold, that by way of an economical appropriation (κατ᾽ οἰκείωσιν οἰκονομικὴν), he made his own the properties of the flesh, as having become flesh.
+
+[p2.p4.10] (Quod unus est Christus.)
+
+[p2.p4.11] For the wise Evangelist, introducing the Word as become flesh, shows him economically submitting himself to his own flesh and going through the laws of his own nature. But it belongs to humanity to increase in stature and in wisdom, and, I might add, in grace, intelligence keeping pace with the measure of the body, and differing according to age. For it was not impossible for the Word born of the Father to have raised the body united to himself to its full height from the very swaddling-clothes. I would say also, that in the babe a wonderful wisdom might easily have appeared. But that would have approached the thaumaturgical, and would have been incongruous to the laws of the economy. For the mystery was accomplished noiselessly. Therefore he economically allowed the measures of humanity to have power over himself.
+
+[p2.p4.12] A. B. Bruce.
+
+[p2.p4.13] (The Humiliation of Christ. Appendix to Lect. II.)
+
+[p2.p4.14] The accommodation to the laws of the economy, according to this passage, consisted in this—in stature, real growth; in wisdom, apparent growth. The wonderful wisdom was there from the first, but it was not allowed to appear (ἐκφῆναι), to avoid an aspect of monstrosity.
+
+[p2.p4.15] St. Cyril.
+
+[p2.p4.16] (Adversus Nestorium.)
+
+[p2.p4.17] Therefore there would have been shown to all an unwonted and strange thing, if, being yet an infant, he had made a demonstration of his wisdom worthy of God; but expanding it gradually and in proportion to the age of the body, and (in this gradual manner) making it manifest to all, he might be said to increase (in wisdom) very appropriately.
+
+[p2.p4.18] (Ad Reginas de recta fide, Orat. II., cap. xvi.)
+
+[p2.p4.19] “But the boy increased and waxed strong in spirit, being filled with wisdom, and the grace of God was upon him.” And again: “Jesus increased in stature and wisdom, and in favour with God and men.” In affirming our Lord Jesus Christ to be one, and assigning to him both divine and human properties, we truly assert that it was congruous to the measures of the kenosis, on the one hand, that he should receive bodily increase and grow strong, the parts of the body gradually attaining their full development; and, on the other hand, that he should seem to be filled with wisdom, in so far as the manifestation of the wisdom dwelling within him proceeded, as by addition, most congruously to the stature of the body; and this, as I said, agreed with the economy of the Incarnation, and the measures of the state of humiliation.
+
+[p2.p4.20] (Apol. contra Theod., ad Anath. iv.)
+
+[p2.p4.21] And if he is one and the same in virtue of the true unity of natures, and is not one and another (two persons) disjunctively and partitively, to him will belong both to know and to seem not to know. Therefore he knows on the divine side as the Wisdom of the Father. But since he subjected himself to the measure of humanity, he economically appropriates this also with the rest, although, as I said a little ago, being ignorant of nothing, but knowing all things with the Father.
+
+[p2.p4.22] B Dorian
+
+## p2.p5
+
+[p2.p5.1] IX.
+
+[p2.p5.2] If any man shall say that the one Lord Jesus Christ was glorified by the Holy Ghost, so that he used through him a power not his own and from him received power against unclean spirits and power to work miracles before men and shall not rather confess that it was his own Spirit through which he worked these divine signs; let him be anathema.
+
+[p2.p5.3] Notes.
+
+[p2.p5.4] Nestorius.
+
+[p2.p5.5] IX.
+
+[p2.p5.6] If anyone says that the form of a servant is of like nature with the Holy Ghost, and not rather that it owes its union with the Word which has existed since the conception, to his mediation, by which it works miraculous healings among men, and possesses the power of expelling demons; let him be anathema.
+
+[p2.p5.7] Petavius.
+
+[p2.p5.8] The scope of this anathematism is to shew that the Word of God, when he assumed flesh remaining what he was, and lacking nothing which the Father possessed except only paternity, had as his own the Holy Spirit which is from him and substantially abides in him. From this it follows that through him, as through a power and strength which was his own, and not one alien or adventitious, he wrought his wonders and cast forth devils, but he did not receive that Holy Spirit and his power as formerly the Prophets had done, or as afterwards his disciples did, as a kind of gift (beneficii loco).
+
+[p2.p5.9] The Orientals objected that St. Cyril here contradicts himself, for here he says that Christ did not work his wonders by the Holy Ghost and in another place he frankly confesses that he did so work them. But the whole point is what is intended by working through the Holy Ghost. For the Apostles worked miracles through the Holy Ghost but as by a power external to themselves, but not so Christ. When Christ worked wonders through the Holy Ghost, he was working through a power which was his own, viz.: the Third Person of the Holy Trinity; from whom he never was and never could be separated, ever abiding with him and the Eternal Father in the Divine Unity.
+
+[p2.p5.10] The Westerns have always pointed to this anathematism as shewing that St. Cyril recognized the eternal relation of the Holy Spirit as being from the Son.
+
+## p2.p6
+
+[p2.p6.1] V.
+
+[p2.p6.2] If anyone shall dare to say that the Christ is a Theophorus [that is, God-bearing] man and not rather that he is very God, as an only Son through nature, because “the Word was made flesh,” and “hath a share in flesh and blood as we do:” let him be anathema.
+
+[p2.p6.3] Notes.
+
+[p2.p6.4] Nestorius.
+
+[p2.p6.5] V.
+
+[p2.p6.6] If any one ventures to say that, even after the assumption of human nature, there is only one Son of God, namely, he who is so in nature (naturaliter filius = Logos), while he (since the assumption of the flesh) is certainly Emmanuel; let him be anathema.
+
+[p2.p6.7] Petavius.
+
+[p2.p6.8] It is manifest that this anathematism is directed against the blasphemy of Nestorius, by which he said that Christ was in this sense Emmanuel, that a man was united and associated with God, just as God had been said to have been with the Prophets and other holy men, and to have had his abode in them; so that they were properly styled Θεοφόροι, because, as it were, they carried God about with them; but there was no one made of the two. But he held that our Lord as man was bound and united with God only by a communion of dignity.
+
+[p2.p6.9] Nestorius [in his Counter Anathematism] displays the hidden meaning of his heresy, when he says, that the Son of God is not one after the assumption of the humanity; for he who denied that he was one, no doubt thought that he was two.
+
+[p2.p6.10] Theodoret in his criticism of this Anathematism remarks that many of the Ancients, including St. Basil had used this very word, Θεοφόρος, for the Lord; but the objection has no real foundation, for the orthodoxy or heterodoxy of such a word must be determined by the context in which it is used, and also by the known opinions of him that uses it. Expressions which are in a loose sense orthodox and quite excusable before a heresy arises, may become afterwards the very distinctive marks and shibboleths of error. Petavius has pointed out how far from orthodox many of the earliest Christian writers were, at least verbally, and Bp. Bull defended them by the same line of argument I have just used and which Petavius himself employs in this very connection.
+
+## p2.p7
+
+[p2.p7.1] VI.
+
+[p2.p7.2] If anyone shall dare say that the Word of God the Father is the God of Christ or the Lord of Christ, and shall not rather confess him as at the same time both God and Man, since according to the Scriptures, “The Word was made flesh”: let him be anathema.
+
+[p2.p7.3] Notes.
+
+[p2.p7.4] Nestorius.
+
+[p2.p7.5] VI.
+
+[p2.p7.6] If anyone, after the Incarnation calls another than Christ the Word, and ventures to say that the form of a servant is equally with the Word of God, without beginning and uncreated, and not rather that it is made by him as its natural Lord and Creator and God, and that he has promised to raise it again in the words: “Destroy this temple, and in three days I will build it up again”; let him be anathema.
+
+[p2.p7.7] Hefele.
+
+[p2.p7.8] This [statement of Nestorius’s that any should call “another than Christ the Word”] has no reference to Cyril; but is a hyper-Nestorianism, which Nestorius here rejects. This [that “the form of a servant is without beginning and uncreated”] was asserted by some Apollinarists; and Nestorius accused St. Cyril of Apollinarianism.
+
+[p2.p7.9] Petavius.
+
+[p2.p7.10] As Nestorius believed that in Christ there were two distinct entities (re ipsa duos) that is to say two persons joined together; it was natural that he should hold that the Word was the God and Lord of the other, that is of the man. Cyril contradicts this, and since he taught that there was, not two, but one of two natures, that is one person or suppositum, therefore he denied that the Word was the God or Lord of the man; since no one should be called the Lord of himself.
+
+[p2.p7.11] Theodoret in his answer shuffles as usual, and points out that Christ is styled a servant by the Prophet Isaiah, because of the form of a servant which he had received. But to this Cyril answers; that although Christ, inasmuch as he was man, is called the servant of the Father, as of a person distinct from himself; yet he denies that the same person can be his own lord or servant, lest a separation of the person be introduced.
+
+## p2.p8
+
+[p2.p8.1] VII.
+
+[p2.p8.2] If anyone shall say that Jesus as man is only energized by the Word of God, and that the glory of the Only-begotten is attributed to him as something not properly his: let him be anathema.
+
+[p2.p8.3] Notes.
+
+[p2.p8.4] Nestorius.
+
+[p2.p8.5] VII.
+
+[p2.p8.6] If any one says that the man who was formed of the Virgin is the Only-begotten, who was born from the bosom of the Father, before the morning star was (Ps. cix., 3), and does not rather confess that he has obtained the designation of Only-begotten on account of his connection with him who in nature is the Only-begotten of the Father; and besides, if any one calls another than the Emmanuel Christ let him be anathema.
+
+[p2.p8.7] St. Cyril.
+
+[p2.p8.8] (Declaratio Septima.)
+
+[p2.p8.9] When the blessed Gabriel announced to the holy Virgin the generation of the only-begotten Son of God according to the flesh, he said, “Thou shalt bear a son; and thou shalt call his name Jesus, for he shall save his people from their sins.” But he was named also Christ, because that according to his human nature he was anointed with us, according to the words of the Psalmist: “Thou hast loved righteousness and hated iniquity: therefore God, even thy God hath anointed thee with the oil of gladness above thy fellows.” For although he was the giver of the Holy Spirit, neither did he give it by measure to them that were worthy (for he was full of the Holy Ghost, and of his fulness have we all received, as it is written), nevertheless as he is man he was called anointed economically, the Holy Spirit resting upon him spiritually (νοητῶς) and not after the manner of men, in order that he might abide in us, although he had been driven forth from us in the beginning by Adam’s fall. He therefore the only begotten Word of God made flesh was called Christ. And since he possessed as his own the power proper to God, he wrought his wonders. Whosoever therefore shall say that the glory of the Only-begotten was added to the power of Christ, as though the Only-begotten was different from Christ, they are thinking of two sons; the one truly working and the other impelled (by the strength of another, Lat.) as a man like to us; and all such fall under the penalty of this anathematism.
+
+## p2.p9
+
+[p2.p9.1] VIII.
+
+[p2.p9.2] If anyone shall dare to say that the assumed man (ἀναληφθέντα ) ought to be worshipped together with God the Word, and glorified together with him, and recognised together with him as God, and yet as two different things, the one with the other (for this “Together with” is added [i.e., by the Nestorians] to convey this meaning); and shall not rather with one adoration worship the Emmanuel and pay to him one glorification, as [it is written] “The Word was made flesh”: let him be anathema.
+
+[p2.p9.3] Notes.
+
+[p2.p9.4] Nestorius.
+
+[p2.p9.5] VIII.
+
+[p2.p9.6] If any one says that the form of a servant should, for its own sake, that is, in reference to its own nature, be reverenced, and that it is the ruler of all things, and not rather, that [merely] on account of its connection with the holy and in itself universally-ruling nature of the Only-begotten, it is to be reverenced; let him be anathema.
+
+[p2.p9.7] Hefele.
+
+[p2.p9.8] On this point [made by Nestorius, that “the form of a servant is the ruler of all things”] Marius Mercator has already remarked with justice, that no Catholic had ever asserted anything of the kind.
+
+[p2.p9.9] Petavius notes that the version of Dionysius Exiguus is defective.
+
+[p2.p9.10] Petavius.
+
+[p2.p9.11] Nestorius captiously and maliciously interpreted this as if the “form of a servant” according to its very nature (ratio) was to be adored, that is should receive divine worship. But this is nefarious and far removed from the mind of Cyril. Since to such an extent only the human nature of Christ is one suppositum with the divine, that he declares that each is the object of one and an undivided adoration; lest if a double and dissimilar cultus be attributed to each one, the divine person should be divided into two adorable Sons and Christs, as we have heard Cyril often complaining.
+
+## p2.p10
+
+[p2.p10.1] X.
+
+[p2.p10.2] Whosoever shall say that it is not the divine Word himself, when he was made flesh and had become man as we are, but another than he, a man born of a woman, yet different from him (ἰδικῶς ἄνθρωπον), who is become our Great High Priest and Apostle; or if any man shall say that he offered himself in sacrifice for himself and not rather for us, whereas, being without sin, he had no need of offering or sacrifice: let him be anathema.
+
+[p2.p10.3] Notes.
+
+[p2.p10.4] Nestorius.
+
+[p2.p10.5] X.
+
+[p2.p10.6] If any one maintains that the Word, who is from the beginning, has become the high priest and apostle of our confession, and has offered himself for us, and does not rather say that it is the work of Emmanuel to be an apostle; and if any one in such a manner divides the sacrifice between him who united [the Word] and him who was united [the manhood] referring it to a common sonship, that is, not giving to God that which is God’s, and to man that which is man’s; let him be anathema.
+
+[p2.p10.7] St. Cyril.
+
+[p2.p10.8] (Declaratio decima.)
+
+[p2.p10.9] But I do not know how those who think otherwise contend that the very Word of God made man, was not the apostle and high-priest of our profession, but a man different from him; who was born of the holy Virgin, was called our apostle and high-priest, and came to this gradually; and that not only for us did he offer himself a sacrifice to God and the Father, but also for himself. A statement which is wholly contrary to the right and undefiled faith, for he did no sin, but was superior to fault and altogether free from sin, and needed no sacrifice for himself. Since those who think differently were again unreasonably thinking of two sons, this anathematism became necessary that their impiety might appear.
+
+## p2.p11
+
+[p2.p11.1] XI.
+
+[p2.p11.2] Whosoever shall not confess that the flesh of the Lord giveth life and that it pertains to the Word of God the Father as his very own, but shall pretend that it belongs to another person who is united to him [i.e., the Word] only according to honour, and who has served as a dwelling for the divinity; and shall not rather confess, as we say, that that flesh giveth life because it is that of the Word who giveth life to all: let him be anathema.
+
+[p2.p11.3] Notes.
+
+[p2.p11.4] Nestorius.
+
+[p2.p11.5] XI.
+
+[p2.p11.6] If any one maintains that the flesh which is united with God the Word is by the power of its own nature life-giving, whereas the Lord himself says, “It is the Spirit that quickeneth; the flesh profiteth nothing” (St. John vi. 61), let him be anathema. [He adds, “God is a Spirit” (St. John iv. 24). If, then, any one maintains that God the Logos has in a carnal manner, in his substance, become flesh, and persists in this with reference to the Lord Christ; who himself after his resurrection said to his disciples, “Handle me and see; for a spirit hath not flesh and bones, as ye behold me having” (St. Luke xxiv. 39); let him be anathema.]
+
+[p2.p11.7] Hefele.
+
+[p2.p11.8] The part enclosed in brackets is certainly a spurious addition and is wanting in many manuscripts. Cf. Marius Mercator [ed. Migne], p. 919.
+
+[p2.p11.9] St. Cyril.
+
+[p2.p11.10] (Declaratio undecima.)
+
+[p2.p11.11] We perform in the churches the holy, lifegiving, and unbloody sacrifice; the body, as also the precious blood, which is exhibited we believe not to be that of a common man and of any one like unto us, but receiving it rather as his own body and as the blood of the Word which gives all things life. For common flesh cannot give life. And this our Saviour himself testified when he said: “The flesh profiteth nothing, it is the Spirit that giveth life.” For since the flesh became the very own of the Word, therefore we understand that it is lifegiving, as the Saviour himself said: “As the living Father hath sent me, and I live by the Father; so he that eateth me shall live by me.” Since therefore Nestorius and those who think with him rashly dissolve the power of this mystery; therefore it was convenient that this anathematism should be put forth.
+
+## p2.p12
+
+[p2.p12.1] XII.
+
+[p2.p12.2] Whosoever shall not recognize that the Word of God suffered in the flesh, that he was crucified in the flesh, and that likewise in that same flesh he tasted death and that he is become the first-begotten of the dead, for, as he is God, he is the life and it is he that giveth life: let him be anathema.
+
+[p2.p12.3] Notes.
+
+[p2.p12.4] Nestorius.
+
+[p2.p12.5] XII.
+
+[p2.p12.6] If any one, in confessing the sufferings of the flesh, ascribes these also to the Word of God as to the flesh in which he appeared, and thus does not distinguish the dignity of the natures; let him be anathema.
+
+[p2.p12.7] St. Cyril.
+
+[p2.p12.8] (Adv. Orientales, ad XII. Quoting Athanasius.)
+
+[p2.p12.9] For if the body is of another, to him also must the sufferings be ascribed. But if the flesh is the Word’s (for “The Word was made flesh”) it is necessary that the sufferings of the flesh be called his also whose is the flesh. But whose are the sufferings, such especially as condemnation, flagellation, thirst, the cross, death, and other such like infirmities of the body, his also is the merit and the grace. Therefore rightly and properly to none other are these sufferings attributed than to the Lord, as also the grace is from him; and we shall not be guilty of idolatry, but be the true worshippers of God, for we invoke him who is no creature nor any common man, but the natural and true Son of God, made man, and yet the same Lord and God and Saviour.
+
+[p2.p12.10] As I think, these quotations will suffice to the learned for the proof of the propositions advanced, the Divine Law plainly saying that “In the mouth of two or three witnesses every word shall be established.” But if after this any one would still seem to be contentious, we would say to him: “Go thine own way. We however shall follow the divine Scriptures and the faith of the Holy Fathers.”
+
+[p2.p12.11] The student should read at full length all Cyril’s defence of his anathematisms, also his answers to the criticisms of Theodoret, and to those of the Orientals, all of which will be found in his works, and in Labbe and Cossart, Concilia, Tom. III., 811 et seqq.
+
+## p2.p13
+
+[p2.p13.1] Excursus on the Word Θεοτόκος .
+
+[p2.p13.2] There have been some who have tried to reduce all the great theological controversies on the Trinity and on the Incarnation to mere logomachies, and have jeered at those who could waste their time and energies over such trivialities. For example, it has been said that the real difference between Arius and Athanasius was nothing more nor less than an iota, and that even Athanasius himself, in his more placid, and therefore presumably more rational moods, was willing to hold communion with those who differed from him and who still rejected the homousion. But however catching and brilliant such remarks may be, they lack all solid foundation in truth. It is perfectly manifest that a person so entirely lacking in discrimination as not to see the enormous difference between identity and likeness is not one whose opinion on such a point can be of much value. A brilliant historian is not necessarily an accurate historian, far less need he be a safe guide in matters of theological definition.
+
+[p2.p13.3] A similar attempt to reduce to a logomachy the difference between the Catholic faith and Nestorianism has been made by some writers of undoubted learning among Protestants, notably by Fuchs and Schröckh. But as in the case of the homousios so, too, in the case of the theotocos the word expresses a great, necessary, and fundamental doctrine of the Catholic faith. It is not a matter of words, but of things, and the mind most unskilled in theology cannot fail to grasp the enormous difference there is between affirming, as does Nestorianism, that a God indwelt a man with a human personality of his own distinct from the personality of the indwelling god; and that God assumed to himself human nature, that is a human body and a human soul, but without human personality.
+
+[p2.p13.4] (Wm. Bright, St. Leo on the Incarnation, pp. 160, 161.)
+
+[p2.p13.5] It is, then, clear that the question raised by the wide circulation of the discourses of Nestorius as archbishop of Constantinople was not verbal, but vital. Much of his language was irrelevant, and indicated some confusedness of thought: much would, of itself, admit of an orthodox construction; in one of the latest of his sermons, which Garnier dates on Sunday, December 14, 430, he grants that “Theotocos” might be used as signifying that “the temple which was formed in Mary by the Holy Spirit was united to the Godhead;” but it was impossible not to ask whether by “the temple” he meant the body of Jesus, or Jesus himself regarded as a human individual existing ἰδίᾳ, ἰδικῶς, ἀνὰ μέρος—as Cyril represents his theory—and whether by “union” he meant more than a close alliance, ejusdem generis, in the last analysis, with the relation between God and every saint, or, indeed, every Christian in true moral fellowship with him—an alliance which would amount, in Cyril’s phrase, to no more than a “relative union,” and would reduce the Saviour to a “Theophoros,” the title claimed of old by one of his chief martyrs. And the real identity of Nestorius’s view with that of Theodore [of Mopsuestia] was but too plainly exhibited by such statements as occur in some of the extracts preserved in Cyril’s treatise Against Nestorius—to the effect that Christ was one with the Word by participation in dignity; that “the man” was partaker of Divine power, and in that sense not mere man; that he was adored together with the Word; and that “My Lord and my God” was a doxology to the Father; and above all, by the words spoken at Ephesus, “I can never allow that a child of three months old was God.”
+
+[p2.p13.6] It is no part of my duty to defend the truth of either the Catholic or Nestorian proposition—each has found many adherents in most ages since it was first started, and probably what is virtually Nestorianism is to-day far more widely held among persons deemed to be orthodox than is commonly supposed. Be this as it may, Nestorianism is clearly subversive of the whole Catholic Doctrine of the Incarnation, and therefore the importance of the word Θεοτόκος cannot be exaggerated.
+
+[p2.p13.7] I shall treat the word Theotocos under two heads; (1) Its history (2) its meaning, first however quoting Bp. Pearson’s words on its Conciliar authority. (Pearson, Exp. of the Creed, Art. III., n. 37). “It is plain that the Council of Ephesus which condemned Nestorius confirmed this title Θεοτόκος; I say confirmed it; for it is evident that it was before used in the Church, by the tumult which arose at the first denial of it by Anastasius [Nestorius’s presbyter]; and so confirmed it as received before, because they approved the Epistles of St. Cyril, who proved it by the usage of those Fathers which preceded him.”
+
+[p2.p13.8] (1) History of Word Θεοτόκος.
+
+[p2.p13.9] It has not been unfrequently assumed that the word Theotocos was coined to express the peculiar view of the Incarnation held by St. Cyril. Such however, is an entire mistake. It was an old term of Catholic Theology, and the very word was used by bishop Alexander in a letter from the synod held at Alexandria in a.d. 320, to condemn the Arian heresy (more than a hundred years before the meeting of the Council of Ephesus); “After this, we receive the doctrine of the resurrection from the dead, of which Jesus Christ our Lord became the first-fruits; who bore a body in truth, not in semblance, which he derived from Mary the Mother of God (ἐκ τῆς Θεοτόκου Μαρίας).” The same word had been used by many church writers among whom may be mentioned St. Athanasius, who says, “As the flesh was born of Mary, the Mother of God, so we say that he, the Word, was himself born of Mary” (Orat. c. Arian., iij., 14, 29, 33; also iv., 32). See also Eusebius (Vit. Const., iij., 43); St. Cyril of Jerusalem (Cat., x., 9); and especially Origen, who (says Bp. Pearson) “did not only use, but expound at large the meaning of that title Θεοτόκος in his first tome on the Epistle to the Romans, as Socrates and Liberatus testify.” (Cf. Origen in Deut. xxii., 23; vol. ij., p. 391. A; in Luc. apud Galland, Bib. Patr., vol. xiv., append., p. 87, D). A list is given by Dr. Routh, in his Reliquiæ Sacræ. Vol. ij., p. 215 (1st Ed.), 332 (2d Ed.).
+
+[p2.p13.10] In fact Theodore of Mopsuestia was the first to object to it, so far as we know, writing as follows: “Mary bare Jesus, not the Word, for the Word was and remained omnipresent, although from the beginning he dwelt in Jesus in a peculiar manner. Thus Mary is properly the Mother of Christ (Christotocos) but not the mother of God (Theotocos). Only figuratively, per anaphoram, can she be called Theotocos also, because God was in Christ in a remarkable manner. Properly she bare a man, in whom the union with the Word was begun, but was still so little completed, that he was not yet called the Son of God.” And in another place he says: “It is madness to say that God is born of the Virgin.…Not God, but the temple in which God dwelt, is born of Mary.” How far Theodore had departed from the teaching of the Apostolic days may be seen by the following quotations from St. Ignatius. “There is one only physician, of flesh and spirit, generate and ingenerate, God in man, true Life in death, Son of Mary and of God, first passible and then impassible, Jesus Christ our Lord.” Further on in the same epistle he says: “For our God, Jesus the Christ, was borne in the womb by Mary etc.” With the first of these passages Bp. Lightfoot very aptly compares the following from Melito. “Since he was incorporeal, he fashioned a body for himself of our likeness…he was carried by Mary and clothed by his Father, he trod the earth and he filled the heavens.”
+
+[p2.p13.11] Theodore was forced by the exigencies of his position to deny the doctrine of the communicatio idiomatum which had already at that early date come to be well understood, at least so far as practice is concerned.
+
+[p2.p13.12] (Hefele, Hist. of the Councils, Vol. iii., p. 8.)
+
+[p2.p13.13] This doctrine, as is well known is predicating the same properties of the two natures in Christ, not in abstracto (Godhead and manhood), but in concreto (God and man). Christ himself had declared in St. John iii., 16: “God…gave his only begotten Son” (namely, to death), and similarly St. Peter declared (Acts iii., 15): “ye…killed the Prince of Life,” when in fact the being given up and being killed is a property (ἰδίωμα = predicate) of man, not of God (the only begotten, the Prince of Life). In the same way Clement of Rome, for example, spoke of “the sufferings of God” (παθήματα Θεοῦ) (1 Ad Cor. 2), Ignatius of Antioch (Ad Ephes., c. 1, and Ad Rom., 6) of an αἷμα and πάθος Θεοῦ, Tatian of a Θεὸς πεπονθὼς (Ad Græcos, c. 13); Barnabas teaches (c. 7) that “the Son of God could not suffer except on our behalf…and on our behalf he has brought the vessel of his Spirit as a sacrifice.” Similarly Irenæus (iii., 16, 6) says, “The Only-begotten impassible Word (unigenitus impassibilis) has become passible” (passibilis); and Athanasius, ἐσταυρώμενον εἶναι Θεὸν (Ep. ad Epictet., n. 10, t. j., p. 726. ed. Patav.)
+
+[p2.p13.14] It is, however, to be remarked that the properties of the one nature were never transferred to the other nature in itself, but always to the Person who is at the same time both man and God. Human attributes were not ascribed to the Godhead, but to God, and vice versâ.
+
+[p2.p13.15] For a full treatment of the figure of speech called the communicatio idiomatum the reader is referred to the great works on Theology where it will be found set forth at large, with its restrictions specified and with examples of its use. A brief but interesting note on it will be found in St. John Damascene’s famous treatise De Fide Orthodoxa, Book III., iij. (Migne’s Pat. Græc., col. 994).
+
+[p2.p13.16] (2) Meaning of the Word Θεοτόκος.
+
+[p2.p13.17] We pass now to the meaning of the word, having sufficiently traced the history of its use. Bishop Pearson says: “This name was first in use in the Greek Church, who, delighting in the happy compositions of that language, called the blessed Virgin Theotocos. From whence the Latins in imitation styled her Virginem Deiparam et Deigenitricem.” In the passage to which the words just quoted are a portion of a footnote, he says: “Wherefore from these three, a true conception, nutrition, and parturition, we must acknowledge that the blessed Virgin was truly and properly the Mother of our Saviour. And so is she frequently styled the Mother of Jesus in the language of the Evangelists, and by Elizabeth particularly the ‘Mother of her Lord,’ as also by the general consent of the Church (because he which was so born of her was God,) the Deipara; which being a compound title begun in the Greek Church, was resolved into its parts by the Latins and so the Virgin was plainly named the Mother of God.”
+
+[p2.p13.18] Pearson is mistaken in supposing that the resolution of the compound Theotocos into μήτηρ τοῦ Θεοῦ was unknown to the early Greek writers. Dionysius expressly calls Mary ἡ μήτηρ τοῦ Θεοῦ μου (Contr. Paul. Samos., Quæst. viij.); and among the Latins Mater Dei and Dei Genetrix were (as Pearson himself confesses in note 37) used before the time of St. Leo I. It is not an open question whether Mater Dei, Dei Genetrix, Deipara, μήτηρ τοῦ Θεοῦ are proper equivalents for Θεοτόκος. This point has been settled by the unvarying use of the whole Church of God throughout all the ages from that day to this, but there is, or at least some persons have thought that there was, some question as to how Theotocos should be translated into English.
+
+[p2.p13.19] Throughout this volume I have translated it “Mother of God,” and I propose giving my reasons for considering this the only accurate translation of the word, both from a lexico-graphical and from a theological point of view.
+
+[p2.p13.20] (a) It is evident that the word is a composite formed of Θεός = God, and τίκτειν = to be the mother of a child. Now I have translated the verbal part “to be the mother of a child” because “to bear” in English does not necessarily carry the full meaning of the Greek word, which (as Bp. Pearson has well remarked in the passage cited above) includes “conception, nutrition, and parturition.” It has been suggested that “God-bearer” is an exact translation. To this I object, that in the first place it is not English; and in the second that it would be an equally and, to my mind, more accurate translation of Θεοφόρος than of Θεοτόκος.
+
+[p2.p13.21] Another suggestion is that it be rendered “the bringer forth of God.” Again I object that, from a rhetorical standpoint, the expression is very open to criticism; and from a lexicographical point of view it is entirely inadequate, for while indeed the parturition does necessarily involve in the course of nature the previous conception and nutrition, it certainly does not express it.
+
+[p2.p13.22] Now the word Mother does necessarily express all three of these when used in relation to her child. The reader will remember that the question I am discussing is not whether Mary can properly be called the Mother of God; this Nestorius denied and many in ancient and modern times have been found to agree with him. The question I am considering is what the Greek word Theotocos means in English. I do not think anyone would hesitate to translate Nestorius’s Christotocos by “Mother of Christ” and surely the expressions are identical from a lexicographical point of view.
+
+[p2.p13.23] Liddell and Scott in their Lexicon insert the word θεοτόκος as an adjective and translate “bearing God” and add: “especially ἡ Θεοτόκος, Mother of God, of the Virgin, Eccl.”
+
+[p2.p13.24] (b) It only remains to consider whether there is from a theological point of view any objection to the translation, “Mother of God.” It is true that some persons have thought that such a rendering implied that the Godhead has its origin in Mary, but this was the very objection which Nestorius and his followers urged against the word Theotocos, and this being the case, it constitutes a strong argument in favour of the accuracy of the rendering. Of course the answer to the objection in each case is the same, it is not of the Godhead that Mary is the Mother, but of the Incarnate Son, who is God. “Mother” expresses exactly the relation to the incarnate Son which St. Cyril, the Council of Ephesus, and all succeeding, not to say also preceding, ages of Catholics, rightly or wrongly, ascribe to Mary. All that every child derives from its Mother that God the Son derived from Mary, and this without the co-operation of any man, but by the direct operation of the Holy Ghost, so that in a fuller, truer, and more perfect sense, Mary is the Mother of God the Son in his incarnation, than any other earthly mother is of her son.
+
+[p2.p13.25] I therefore consider it certain that no scholar who can and will divest himself of theological bias, can doubt that “Mother of God” is the most accurate translation of the term Theotocos.
+
+## p2.p14
+
+[p2.p14.1] Excursus on How Our Lord Worked Miracles.
+
+[p2.p14.2] In view of the fact that many are now presenting as if something newly discovered, and as the latest results of biblical study, the interpretations of the early heretics with regard to our Lord’s powers and to his relation to the Holy Ghost, I have here set down in full Theodoret’s Counter-statement to the faith accepted by the Ecumenical Councils of the Church.
+
+[p2.p14.3] Theodoret.
+
+[p2.p14.4] (Counter Statement to Anath. IX. of Cyril.)
+
+[p2.p14.5] Here he has plainly had the hardihood to anathematize not only those who at the present time hold pious opinions, but also those who were in former days heralds of truth; aye even the writers of the divine Gospels, the band of the holy Apostles, and, in addition to these, Gabriel the archangel. For he indeed it was who first, even before the conception, announced the birth of the Christ according to the flesh; saying in reply to Mary when she asked, How shall this be, seeing I know not a man? “The Holy Ghost shall come upon thee and the power of the Highest shall overshadow thee; therefore also that holy thing that shall be born of thee shall be called the Son of God.” And to Joseph he said, “Fear not to take unto thee Mary thy wife, for that which is conceived in her is of the Holy Ghost.” And the Evangelist says, “When as his mother Mary was espoused to Joseph…she was found with child of the Holy Ghost.” And the Lord himself when he had come into the synagogue of the Jews and had taken the prophet Isaiah, after reading the passage in which he says, “The Spirit of the Lord is upon me because he hath anointed me” and so on, added, “This day is this scripture fulfilled in your ears.” And the blessed Peter in his sermon to the Jews said, “God anointed Jesus of Nazareth with the Holy Ghost.” And Isaiah many ages before had predicted “There shall come forth a rod out of the stem of Jesse, and a branch shall grow out of his roots; and the Spirit of the Lord shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord”; and again, “Behold my servant whom I uphold, my beloved in whom my soul delighteth. I will put my Spirit upon him: he shall bring forth judgment to the Gentiles.” This testimony the Evangelist too has inserted in his own writings. And the Lord himself in the Gospels says to the Jews, “If I with the Spirit of God cast out devils, no doubt the kingdom of God is come upon you.” And John says, “He that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending and remaining on him, the same is he which baptizeth with the Holy Ghost.” So this exact examiner of the divine decrees has not only anathematized prophets, apostles, and even the archangel Gabriel, but has suffered his blasphemy to reach even the Saviour of the world himself. For we have shewn that the Lord himself after reading the passage “The Spirit of the Lord is upon me because he had anointed me,” said to the Jews, “This day is this scripture fulfilled in your ears.” And to those who said that he was casting out devils by Beelzebub he replied that he was casting them out by the Spirit of God. But we maintain that it was not God the Word, of one substance and co-eternal with the Father, that was formed by the Holy Ghost and anointed, but the human nature which was assumed by him at the end of days. We shall confess that the Spirit of the Son was his own if he spoke of it as of the same nature and proceeding from the Father, and shall accept the expression as consistent with true piety. But if he speaks of the Spirit as being of the Son, or as having its origin through the Son we shall reject this statement as blasphemous and impious. For we believe the Lord when he says, “The spirit which proceedeth from the Father”; and likewise the very divine Paul saying, “We have received not the spirit of the world, but the spirit which is of God.”
+
+[p2.p14.6] In the foregoing will be found the very same arguments used and the same texts cited against the Catholic faith as are urged and cited by the Rev. A. J. Mason, The Conditions of Our Lord’s Life on Earth, and by several other recent writers.

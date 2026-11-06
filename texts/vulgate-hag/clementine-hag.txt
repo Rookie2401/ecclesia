@@ -1,0 +1,93 @@
+Title: Haggai — Biblia Sacra Vulgatae editionis (Clementine)
+Work: Haggai
+Author: The Vulgate (c. 382–405 (largely Jerome); Clementine edition 1592–1598)
+Language: latin
+Credit: Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml
+Retrieved: 2026-11-05 (source file 4652377 bytes, SHA-256 5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## Haggai 1
+
+[HAG.1.1] In anno secundo Darii regis, in mense sexto, in die una mensis, factum est verbum Domini in manu Aggæi prophetæ, ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, dicens :
+
+[HAG.1.2] Hæc ait Dominus exercituum, dicens : Populus iste dicit : Nondum venit tempus domus Domini ædificandæ.
+
+[HAG.1.3] Et factum est verbum Domini in manu Aggæi prophetæ, dicens :
+
+[HAG.1.4] Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta ?
+
+[HAG.1.5] Et nunc hæc dicit Dominus exercituum : Ponite corda vestra super vias vestras.
+
+[HAG.1.6] Seminastis multum, et intulistis parum ; comedistis, et non estis satiati ; bibistis, et non estis inebriati ; operuistis vos, et non estis calefacti ; et qui mercedes congregavit, misit eas in sacculum pertusum.
+
+[HAG.1.7] Hæc dicit Dominus exercituum : Ponite corda vestra super vias vestras ;
+
+[HAG.1.8] ascendite in montem, portate ligna, et ædificate domum : et acceptabilis mihi erit, et glorificabor, dicit Dominus.
+
+[HAG.1.9] Respexistis ad amplius, et ecce factum est minus ; et intulistis in domum, et exsufflavi illud : quam ob causam ? dicit Dominus exercituum : quia domus mea deserta est, et vos festinatis unusquisque in domum suam.
+
+[HAG.1.10] Propter hoc super vos prohibiti sunt cæli ne darent rorem, et terra prohibita est ne daret germen suum :
+
+[HAG.1.11] et vocavi siccitatem super terram, et super montes, et super triticum, et super vinum, et super oleum, et quæcumque profert humus, et super homines, et super jumenta, et super omnem laborem manuum.
+
+[HAG.1.12] Et audivit Zorobabel, filius Salathiel, et Jesus, filius Josedec, sacerdos magnus, et omnes reliquiæ populi, vocem Domini Dei sui, et verba Aggæi prophetæ, sicut misit eum Dominus Deus eorum ad eos, et timuit populus a facie Domini.
+
+[HAG.1.13] Et dixit Aggæus, nuntius Domini de nuntiis Domini, populo dicens : Ego vobiscum sum, dicit Dominus.
+
+[HAG.1.14] Et suscitavit Dominus spiritum Zorobabel, filii Salathiel, ducis Juda, et spiritum Jesu, filii Josedec, sacerdotis magni, et spiritum reliquorum de omni populo : et ingressi sunt, et faciebant opus in domo Domini exercituum, Dei sui.
+
+## Haggai 2
+
+[HAG.2.1] In die vigesima et quarta mensis, in sexto mense, in anno secundo Darii regis.
+
+[HAG.2.2] In septimo mense, vigesima et prima mensis, factum est verbum Domini in manu Aggæi prophetæ, dicens :
+
+[HAG.2.3] Loquere ad Zorobabel, filium Salathiel, ducem Juda, et ad Jesum, filium Josedec, sacerdotem magnum, et ad reliquos populi, dicens :
+
+[HAG.2.4] Quis in vobis est derelictus, qui vidit domum istam in gloria sua prima ? et quid vos videtis hanc nunc ? numquid non ita est, quasi non sit in oculis vestris ?
+
+[HAG.2.5] Et nunc confortare, Zorobabel, dicit Dominus ; et confortare, Jesu, fili Josedec, sacerdos magne ; et confortare, omnis populus terræ, dicit Dominus exercituum : et facite (quoniam ego vobiscum sum, dicit Dominus exercituum)
+
+[HAG.2.6] verbum quod pepigi vobiscum cum egrederemini de terra Ægypti : et spiritus meus erit in medio vestrum : nolite timere.
+
+[HAG.2.7] Quia hæc dicit Dominus exercituum : Adhuc unum modicum est, et ego commovebo cælum, et terram, et mare, et aridam.
+
+[HAG.2.8] Et movebo omnes gentes, et veniet desideratus cunctis gentibus : et implebo domum istam gloria, dicit Dominus exercituum.
+
+[HAG.2.9] Meum est argentum, et meum est aurum, dicit Dominus exercituum.
+
+[HAG.2.10] Magna erit gloria domus istius novissimæ plus quam primæ, dicit Dominus exercituum : et in loco isto dabo pacem, dicit Dominus exercituum.
+
+[HAG.2.11] In vigesima et quarta noni mensis, in anno secundo Darii regis, factum est verbum Domini ad Aggæum prophetam, dicens :
+
+[HAG.2.12] Hæc dicit Dominus exercituum : Interroga sacerdotes legem, dicens :
+
+[HAG.2.13] Si tulerit homo carnem sanctificatam in ora vestimenti sui, et tetigerit de summitate ejus panem, aut pulmentum, aut vinum, aut oleum, aut omnem cibum, numquid sanctificabitur ? Respondentes autem sacerdotes, dixerunt : Non.
+
+[HAG.2.14] Et dixit Aggæus : Si tetigerit pollutus in anima ex omnibus his, numquid contaminabitur ? Et responderunt sacerdotes, et dixerunt : Contaminabitur.
+
+[HAG.2.15] Et respondit Aggæus, et dixit : Sic populus iste, et sic gens ista ante faciem meam, dicit Dominus, et sic omne opus manuum eorum : et omnia quæ obtulerunt ibi, contaminata erunt.
+
+[HAG.2.16] Et nunc ponite corda vestra a die hac et supra, antequam poneretur lapis super lapidem in templo Domini.
+
+[HAG.2.17] Cum accederetis ad acervum viginti modiorum, et fierent decem ; et intraretis ad torcular, ut exprimeretis quinquaginta lagenas, et fiebant viginti.
+
+[HAG.2.18] Percussi vos vento urente, et aurugine, et grandine omnia opera manuum vestrarum : et non fuit in vobis qui reverteretur ad me, dicit Dominus.
+
+[HAG.2.19] Ponite corda vestra ex die ista, et in futurum, a die vigesima et quarta noni mensis : a die qua fundamenta jacta sunt templi Domini, ponite super cor vestrum.
+
+[HAG.2.20] Numquid jam semen in germine est, et adhuc vinea, et ficus, et malogranatum, et lignum olivæ non floruit ? ex die ista benedicam.
+
+[HAG.2.21] Et factum est verbum Domini secundo ad Aggæum in vigesima et quarta mensis, dicens :
+
+[HAG.2.22] Loquere ad Zorobabel ducem Juda, dicens : Ego movebo cælum pariter et terram,
+
+[HAG.2.23] et subvertam solium regnorum, et conteram fortitudinem regni gentium : et subvertam quadrigam et ascensorem ejus, et descendent equi, et ascensores eorum, vir in gladio fratris sui.
+
+[HAG.2.24] In die illa, dicit Dominus exercituum, assumam te, Zorobabel, fili Salathiel, serve meus, dicit Dominus : et ponam te quasi signaculum, quia te elegi, dicit Dominus exercituum.

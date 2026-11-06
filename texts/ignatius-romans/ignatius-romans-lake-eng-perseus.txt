@@ -1,0 +1,93 @@
+Title: Ignatius, To the Romans (epistle 4)
+Work: Ignatius of Antioch, To the Romans
+Author: Ignatius of Antioch (d. c. 107–110)
+Language: english
+Credit: Ignatius, To the Romans (epistle 4), in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml
+Retrieved: 2026-11-05 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":17,"pb":7}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## pref
+
+[pref.1] Ignatius, who is also called Theophorus, to her who has obtained mercy in the greatness of the Most High Father, and of Jesus Christ his only Son; to the Church beloved and enlightened by the will of him who has willed all things which are, according to the love of Jesus Christ, our God, which also has the presidency in the country of the land of the Romans, worthy of God, worthy of honour, worthy of blessing, worthy of praise, worthy of success, worthy in its holiness, and preeminent in love, named after Christ, named after the Father, which also I greet in the name of Jesus Christ, the Son of the Father; to those who are united in flesh and spirit in every one of his commandments, filled with the grace of God without wavering, and filtered clear from every foreign stain, abundant greeting in Jesus Christ, our God, in blamelessness.
+
+## 1
+
+[1.1] Forasmuch as I have gained my prayer to God to see your godly faces, so that I have obtained more than I asked,—for in bondage in Christ Jesus I hope to greet you if it be his will that I be found worthy to the end.
+
+[1.2] For the beginning has been well ordered, if I may obtain grace to come unhindered to my lot. For I am afraid of your love, lest even that do me wrong. For it is easy for you to do what you will, but it is difficult for me to attain to God, if you do not spare me.
+
+## 2
+
+[2.1] For I would not have you men-pleasers but God-pleasers, even as you do indeed please him. For neither shall I ever have such an opportunity of attaining to God, nor can you, if you be but silent, have any better deed ascribed to you. For if you are silent concerning me, I am a word of God; but if you love my flesh, I shall again be only a cry.
+
+[2.2] Grant me nothing more than that I be poured out to God, while an altar is still ready, that forming yourselves into a chorus of love, you may sing to the Father in Christ Jesus, that God has vouchsafed that the bishop of Syria shall be found at the setting of the sun, having fetched him from the sun’s rising. It is good to set to the world towards God, that I may rise to him.
+
+## 3
+
+[3.1] You never have envied anyone, you taught others. But I desire that those things may stand fast which you enjoin in your instructions.
+
+[3.2] Only pray for me for strength, both inward and outward, that I may not merely speak, but also have the will, that I may not only be called a Christian, but may also be found to be one. For if I be found to be one, I can also be called one, and then be deemed faithful when I no longer am visible in the world.
+
+[3.3] Nothing visible is good, for our God, Jesus Christ, being now in the Father, is the more plainly visible. Christianity is not the work of persuasiveness, but of greatness, when it is hated by the world.
+
+## 4
+
+[4.1] I am writing to all the Churches, and I give injunctions to all men, that I am dying willingly for God’s sake, if you do not hinder it. I beseech you, be not an unseasonable kindness to me. Suffer me to be eaten by tlie beasts, through whom I can attain to God. I am God’s wheat, and I am ground by the teeth of wild beasts that I may be found pure bread of Christ.
+
+[4.2] Rather entice the wild beasts that they may become my tomb, and leave no trace of my body, that when I fall asleep I be not burdensome to any. Then shall I be truly a disciple of Jesus Christ, when the world shall not even see my body. Beseech Christ on my behalf, that I may be found a sacrifice through these instruments.
+
+[4.3] I do not order you as did Peter and Paul; they were Apostles, 1 am a convict; they were free, I am even until now a slave. But if I suffer I shall be Jesus Christ’s freedman, and in him I shall rise free. Now I am learning in my bonds to give up all desires.
+
+## 5
+
+[5.1] From Syria to Rome I am fighting with wild beasts, by land and sea, by night and day, bound to ten leopards (that is, a company of soldiers), and they become worse for kind treatment. Now I become the more a disciple for their ill deeds, but not by this am I justified.
+
+[5.2] I long for the beasts that are prepared for me; and I pray that they may be found prompt for me; I will even entice them to devour me promptly; not as has happened to some whom they have not touched from fear; even if they be unwilling of themselves, 1 will force them to it.
+
+[5.3] Grant me this favour. I know what is expedient for me; now I am beginning to be a disciple. May nothing of things seen or unseen envy me my attaining to Jesus Christ. Let there come on me fire, and cross, and struggles with wild beasts, cutting, and tearing asunder, rackings of bones, mangling of limbs, crushing of my whole body, cruel tortures of the devil, may I but attain to Jesus Christ!
+
+## 6
+
+[6.1] The ends of the earth and the kingdoms of this world shall profit me nothing. It is better for me to die in Christ Jesus than to be king over the ends of the earth. I seek Him who died for our sake. I desire Him who rose for us. The pains of birth are upon me.
+
+[6.2] Suffer me, my brethren; hinder me not from living, do not wish me to die. Do not give to the world one who desires to belong to God, nor deceive him with material things. Suffer me to receive the pure light; when I have come thither I shall become a man.
+
+[6.3] Suffer me to follow the example of the Passion of my God. If any man have him within himself, let him understand what I wish, and let him sympathise with me, knowing the things which constrain me.
+
+## 7
+
+[7.1] The Prince of this world wishes to tear me in pieces, and to corrupt my mind towards God. Let none of you who are present help him. Be rather on my side, that is on God’s. Do not speak of Jesus Christ, and yet desire the world.
+
+[7.2] Let no envy dwell among you. Even though when I come I beseech you myself, do not be persuaded by me, but rather obey this, which I write to you: for in the midst of life I write to you desiring death. My lust has been crucified, and there is in me no fire of love for material things; but only water living and speaking in me, and saying to me from within, Come to the Father.
+
+[7.3] I have no pleasure in the food of corruption or in the delights of this life, I desire the bread of God, which is the flesh of Jesus Christ, who was of the seed of David, and for drink I desire his blood, which is incorruptible love.
+
+## 8
+
+[8.1] I no longer desire to live after the manner of men, and this shall be, if you desire it. Desire it, in order that you also may be desired.
+
+[8.2] I beg you by this short letter; believe me. And Jesus Christ shall make this plain to you, that I am speaking the truth. He is the mouth which cannot lie, by which the Father has spoken truly.
+
+[8.3] Pray for me that I may attain. I write to you not according to the flesh, but according to the mind of God. If I suffer, it was your favour: if I be rejected, it was your hatred.
+
+## 9
+
+[9.1] Remember in your prayers the Church in Syria which has God for its Shepherd in my room. Its bishop shall be Jesus Christ alone,—and your love.
+
+[9.2] But for myself I am ashamed to be called one of them, for I am not worthy; for I am the least of them, and born out of time; but I have obtained mercy to be someone, if I may attain to God.
+
+[9.3] My spirit greets you, and the love of the Churches which have received me in the Name of Jesus Christ, not as a mere passer by, for even those which did not lie on my road according to the flesh went before me from city to city.
+
+## 10
+
+[10.1] Now I am writing these things to you from Smyrna by the blessed Ephesians, and Crocus, a name very dear to me, is also with me, and many others.
+
+[10.2] Concerning those who have preceded me from Syria to Rome to the glory of God, I believe that you have received information; tell them that I am close at hand; for they are all worthy of God and of you, and it is right for you to refresh them in every way.
+
+[10.3] I write this to you on the 24th of August. Farewell unto the end, in the endurance of Jesus Christ.

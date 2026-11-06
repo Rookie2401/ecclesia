@@ -1,0 +1,101 @@
+Title: Ignatius, To the Trallians (epistle 3)
+Work: Ignatius of Antioch, To the Trallians
+Author: Ignatius of Antioch (d. c. 107–110)
+Language: english
+Credit: Ignatius, To the Trallians (epistle 3), in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml
+Retrieved: 2026-11-05 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":17,"pb":6}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## pref
+
+[pref.1] Ignatius, who is also called Theophorus, to the Holy Church which is at Tralles in Asia, beloved of God the Father of Jesus Christ, elect and worthy of God, having peace in the flesh and in the Spirit through the passion of Jesus Christ, who is our hope through our resurrection unto him. Which Church I also greet in the Divine fulness after the apostolic fashion, and I bid her abundant greeting.
+
+## 1
+
+[1.1] I have learned that you possess a mind free from blame and unhesitating in endurance, not from habit, but by nature, as Polybius your bishop showed me, when he visited me in Smyrna by the will of God and of Jesus Christ, and so greatly rejoiced with me, prisoner for Jesus Christ as I was, that I saw your whole congregation in his person.
+
+[1.2] I received therefore your godly benevolence through him, and gave God glory that I found you, as I had learnt, imitators of God.
+
+## 2
+
+[2.1] For when you are in subjection to the bishop as to Jesus Christ it is clear to me that you are living not after men, but after Jesus Christ, who died for our sake, that by believing on his death you may escape death.
+
+[2.2] Therefore it is necessary (as is your practice) that you should do nothing without the bishop, but be also in subjection to the presbytery, as to the Apostles of Jesus Christ our hope, for if we live in him we shall be found in him.
+
+[2.3] And they also who are deacons of the mysteries of Jesus Christ must be in every way pleasing to all men. For they are not the ministers of food and drink, but servants of the Church of God; they must therefore guard against blame as against fire.
+
+## 3
+
+[3.1] Likewise let all respect the deacons as Jesus Christ, even as the bishop is also a type of the Father, and the presbyters as the council of God and the college of Apostles. Without these the name of Church is not given.
+
+[3.2] I am confident that you accept this. For I have received the example of your love, and I have it with me in the person of your bishop, whose very demeanour is a great lesson, and whose meekness is a miracle, and I believe that even the godless pay respect to him.
+
+[3.3] I am sparing you in my love, though I might write more sharply on his behalf: I did not think myself competent, as a convict, to give you orders like an Apostle.
+
+## 4
+
+[4.1] I have many thoughts in God, but I take the measure of myself that I perish not through boasting, for at present it is far better for me to be timid, and not to give heed to them who puff me up. For they who speak thus are a scourge to me.
+
+[4.2] For I desire to suffer, but I know not if I am worthy, for the jealousy of the devil is to many not obvious, but against me it fights the more. I have need therefore of meekness, by which the prince of this world is brought to nothing.
+
+## 5
+
+[5.1] Am I not able to write to you heavenly things? Yes, but I am afraid that I should do you harm seeing you are babes. Pardon me, for I refrain lest you be choked by what you cannot receive.
+
+[5.2] For I myself, though I am in bonds and can understand heavenly things, and the places of the angels and the gatherings of principalities, and things seen and unseen, not for this am I a disciple even now, for much is lacking to us, that we may not lack God.
+
+## 6
+
+[6.1] I beseech you therefore (yet not I but the love of Jesus Christ) live only on Christian fare, and refrain from strange food, which is heresy.
+
+[6.2] For these men mingle Jesus Christ with themselves in specious honesty, mixing as it were a deadly poison with honeyed wine, which the ignorant takes gladly in his baneful pleasure, and it is his death.
+
+## 7
+
+[7.1] Beware therefore of such men; and this will be possible for you, if you are not puffed up, and are inseparable from God, from Jesus Christ and from the bishop and the ordinances of the Apostles.
+
+[7.2] He who is within the sanctuary is pure, but he who is without the sanctuary is not pure; that is to say whoever does anything apart from the bishop and the presbytery and the deacons is not pure in his conscience.
+
+## 8
+
+[8.1] It is not that I know that there is any thing of this kind among you, but I warn you because you are dear to me, and I foresee the snares of the devil. Therefore adopt meekness and be renewed in faith, which is the flesh of the Lord, and in love, which is the blood of Jesus Christ.
+
+[8.2] Let none of you have a grudge against his neighbour. Give no occasion to the heathen, in order that the congregation of God may not be blasphemed for a few foolish persons. For Woe unto him through whom my name is vainly blasphemed among any.
+
+## 9
+
+[9.1] Be deaf therefore when anyone speaks to you apart from Jesus Christ, who was of the family of David, and of Mary, who was truly born, both ate and drank, was truly persecuted under Pontius Pilate, was truly crucified and died in the sight of those in heaven and on earth and under the earth;
+
+[9.2] who also was truly raised from the dead, when his Father raised him up, as in the same manner his Father shall raise up in Christ Jesus us who believe in him, without whom we have no true life.
+
+## 10
+
+[10.1] But if, as some affirm who are without God,—that is, are unbelievers—his suffering was only a semblance (but it is they who are merely a semblance), why am I a prisoner, and why do I even long to fight with the beasts? In that case I am dying in vain. Then indeed am I lying concerning the Lord.
+
+## 11
+
+[11.1] Fly from these wicked offshoots, which bear deadly fruit, which if a man eat he presently dies. For these are not the planting of the Father.
+
+[11.2] For if they were they would appear as branches of the Cross (and their fruit would be incorruptible) by which through his Passion he calls you who are his members. The head therefore cannot be borne without limbs, since God promises union, that is himself.
+
+## 12
+
+[12.1] I greet you from Smyrna together with the Churches of God that are present with me, men who in all things have given me rest in the flesh and in the spirit.
+
+[12.2] My bonds exhort you, which I carry about for the sake of Jesus Christ, praying that I may attain to God; continue in your present harmony and in prayer with one another. For it is right that each of you, and especially the presbyters, should refresh the bishop, to the honour of the Father, of Jesus Christ, and of the Apostles.
+
+[12.3] I entreat you to listen to me in love, that I become not by my writing a witness against you. And pray for me also, for· I have need of your love in the mercy of God, that I may be granted the lot which I am set to obtain, that I be not found reprobate.
+
+## 13
+
+[13.1] The love of the Smyrnaeans and Ephesians greet you: remember in your prayers the Church in Syria, in which I am not worthy to be reckoned, being the least of its members.
+
+[13.2] Farewell in Jesus Christ. Submit yourselves to the bishop as to the commandment, and likewise to the presbytery. Let each of you individually love one another with an undivided heart.
+
+[13.3] My spirit is consecrated to you not only now, but also when I attain to God. For I am still in peril, but the Father is faithful in Jesus Christ to fulfil both your and my prayer, in which may you be found blameless.

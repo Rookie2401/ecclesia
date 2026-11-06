@@ -1,0 +1,75 @@
+Title: Ignatius, To Polycarp (epistle 7)
+Work: Ignatius of Antioch, To Polycarp
+Author: Ignatius of Antioch (d. c. 107–110)
+Language: english
+Credit: Ignatius, To Polycarp (epistle 7), in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml
+Retrieved: 2026-11-05 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":18,"pb":5}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## pref
+
+[pref.1] Ignatius, who is also called Theophorus, to Polycarp, who is bishop of the Church of the Smyrnaeans, or rather has for his bishop God the Father and the Lord Jesus Christ, abundant greeting.
+
+## 1
+
+[1.1] Welcoming your godly mind which is fixed as if on immovable rock, I glory exceedingly that it was granted me to see your blameless face wherein I would fain have pleasure in God.
+
+[1.2] I exhort you to press forward on your course, in the grace wherewith you are endued, and to exhort all men to gain salvation. Vindicate your office with all diligence, both of the flesh and spirit. Care for unity, for there is nothing better. Help all men, as the Lord also helps you; suffer all men in love, as you indeed do.
+
+[1.3] Be diligent with unceasing prayer. Entreat for wisdom greater than you have, be watchful and keep the spirit from slumbering. Speak to each individually after the manner of God. Bear the sicknesses of all as a perfect athlete. Where the toil is greatest, is the gain great.
+
+## 2
+
+[2.1] If you love good disciples, it is no credit to you; rather bring to subjection by your gentleness the more troublesome. Not all wounds are healed by the same plaster. Relieve convulsions by fomentations.
+
+[2.2] Be prudent as the serpent in all things and pure as the dove for ever. For this reason you consist of flesh and spirit, that you may deal tenderly with the things which appear visibly; but pray that the invisible things may be revealed to you, that you may lack nothing and abound in every gift.
+
+[2.3] The time calls on you to attain unto God, just as pilots require wind, and the storm-tossed sailor seeks a harbour. Be sober as God’s athlete. The prize is immortality and eternal life, of which you have been persuaded. In all things I am devoted to you,—I and my bonds, which you loved.
+
+## 3
+
+[3.1] Let not those that appear to be plausible, but teach strange doctrine, overthrow you. Stand firm as an anvil which is smitten. The task of great athletes is to suffer punishment and yet conquer. But especially must we endure all things for the sake of God, that he also may endure us.
+
+[3.2] Be more diligent than you are. Mark the seasons. Wait for him who is above seasons, timeless, invisible, who for our sakes became visible, who cannot be touched, who cannot suffer, who for our sakes accepted suffering, who in every way endured for our sakes.
+
+## 4
+
+[4.1] Let not the widows be neglected. Be yourself their protector after the Lord. Let nothing be done without your approval, and do nothing yourself without God, as indeed you do nothing; stand fast.
+
+[4.2] Let the meetings be more numerous. Seek all by their name.
+
+[4.3] Do not be haughty to slaves, either men or women; yet do not let them be puffed up, but let them rather endure slavery to the glory of God, that they may obtain a better freedom from God. Let them not desire to be set free at the Church’s expense, that they be not found the slaves of lust.
+
+## 5
+
+[5.1] Flee from evil arts, but rather preach against them. Speak to my sisters that they love the Lord,! and be content with their husbands in flesh and in spirit. In the same way enjoin on my brothers in the name of Jesus Christ to love their wives as the Lord loved the Church.
+
+[5.2] If any man can remain in continence to the honour of the flesh of the Lord let him do so without boasting. If he boast he is lost, and if it be made known except to the bishop, he is polluted. But it is right for men and women who marry to be united with the consent of the bishop, that the marriage be according to the Lord and not according to lust. Let all things be done to the honour of God.
+
+## 6
+
+[6.1] Give heed to the bishop, that God may also give heed to you. I am devoted to those who are subject to the bishop, presbyters, and deacons; and may it be mine to have my lot with them in God. Labour with one another, struggle together, run together, suffer together, rest together, rise up together as God’s stewards and assessors and servants.
+
+[6.2] Be pleasing to him in whose ranks you serve, from whom you receive your pay,—let none of you be found a deserter. Let your baptism remain as your arms, your faith as a helmet, your love as a spear, your endurance as your panoply, let your works be your deposits that you may receive the back-pay due to you. Be therefore long-suffering with one another in gentleness, as God is with you. May I have joy in you always.
+
+## 7
+
+[7.1] Since the Church which is in Antioch has peace through your prayers, as it has been reported to me, I was myself the more encouraged in the freedom from care given by God, if I may but attain to God through my sufferings, that I may be found your disciple at the resurrection.
+
+[7.2] You ought, O Polycarp, most blessed of God, to summon a godly council, and elect someone who is very dear to you and is zealous, who can be called God’s courier; appoint him to go to Syria to glorify your zealous love to the glory of God.
+
+[7.3] A Christian has no power over himself, but gives his time to God. This is the work of God and of yourselves when you complete it. For I believe in the grace of God that you are ready to do the good deeds which are proper for God. I exhort you by no more than these few lines, for I recognise your fervour for the truth.
+
+## 8
+
+[8.1] Since I could not write to all the Churches because of my sudden sailing from Troas to Neapolis as the will of God enjoins, you shall write as one possessing the mind of God to the Churches on the road in front of me, that they also shall treat me in the same way (let those who can send messengers, and the others send letters through those whom you send, that you may be glorified by a memorable deed), as is worthy of you.
+
+[8.2] I greet all by name, and the wife of the Procurator with the whole house of herself and her children. I greet my beloved Attalus. I greet him who shall be appointed to go to Syria. Grace will be with him through all, and with Polycarp, who sends him.
+
+[8.3] I bid you farewell always in our God, Jesus Christ; may you remain in him in the unity and care of God. I greet Alce, a name very dear to me. Farewell in the Lord.

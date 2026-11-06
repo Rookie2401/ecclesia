@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ecclesia Texts</title>
+<meta name="description" content="Download any text of the Ecclesia theological library, or the whole library as one database.">
+<style>
+:root { --bg: #f7f3ea; --panel: #fffdf8; --ink: #2a2118; --muted: #6f6253; --line: #ddd2bf; --accent: #7a4a12; }
+@media (prefers-color-scheme: dark) { :root { --bg: #17120d; --panel: #211a13; --ink: #efe6d6; --muted: #ab9d89; --line: #3b3025; --accent: #dca95f; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 Georgia, "Times New Roman", serif; }
+main { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 2rem; margin: 0 0 8px; font-weight: 500; }
+p { margin: 0 0 12px; }
+a { color: var(--accent); }
+.note { color: var(--muted); font-size: .92rem; }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 16px; margin: 20px 0; }
+.panel h2 { font-size: 1.1rem; margin: 0 0 6px; font-weight: 600; }
+.download { display: inline-block; padding: 8px 14px; border: 1px solid var(--accent); border-radius: 6px; text-decoration: none; font-family: system-ui, sans-serif; font-size: .9rem; margin-right: 8px; }
+.filters { display: grid; grid-template-columns: 1fr auto auto; gap: 8px; margin: 20px 0 8px; }
+input, select { font: inherit; font-size: .95rem; padding: 8px 10px; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; min-width: 0; }
+.work { border-top: 1px solid var(--line); padding: 14px 0; }
+.work h3 { margin: 0; font-size: 1.05rem; font-weight: 600; }
+.by { color: var(--muted); font-size: .9rem; }
+.edition { display: flex; gap: 12px; justify-content: space-between; align-items: baseline; margin-top: 8px; }
+.edition > div { min-width: 0; }
+.edition .name { overflow-wrap: anywhere; }
+.facts { color: var(--muted); font-size: .85rem; overflow-wrap: anywhere; }
+.edition a { white-space: nowrap; font-family: system-ui, sans-serif; font-size: .88rem; }
+.warn { color: var(--accent); }
+@media (max-width: 560px) { .filters { grid-template-columns: 1fr 1fr; } .filters input { grid-column: 1 / -1; } .edition { flex-direction: column; gap: 2px; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Ecclesia Texts</h1>
+  <p>Every text stored in the <a href="https://rookie2401.github.io/">Ecclesia</a> theological library, free to download, one edition at a time or all together.</p>
+  <p class="note" id="summary">Loading the list…</p>
+
+  <section class="panel">
+    <h2>The whole library as one database</h2>
+    <p class="note">A SQLite file with every edition, chapter and numbered passage, and each edition's credit and licence. Unpack it with gzip or 7-Zip, then open it with any SQLite tool. The <a href="README.md">README</a> shows how to query it.</p>
+    <a class="download" id="database" href="ecclesia-texts.sqlite.gz" download>Download the database</a>
+    <a class="download" href="catalogue.json" download>Catalogue (JSON)</a>
+  </section>
+
+  <section class="note">
+    <p>Each text keeps its own licence, shown beside it and at the top of its file. Public-domain status is judged for the United States; a text may still be protected elsewhere, and "life + 70" below says how far that was checked. CC BY-SA texts must be credited and shared alike.</p>
+  </section>
+
+  <div class="filters">
+    <input id="query" type="search" placeholder="Search by title, author or edition" aria-label="Search by title, author or edition">
+    <select id="language" aria-label="Language"><option value="">All languages</option></select>
+    <select id="licence" aria-label="Licence"><option value="">All licences</option></select>
+  </div>
+  <p class="note" id="count" role="status"></p>
+  <div id="results"></div>
+</main>
+<script>
+const fold = (text) => String(text).normalize("NFD").replace(/\p{M}/gu, "").toLowerCase()
+const size = (bytes) => bytes >= 1000000 ? `${(bytes / 1000000).toFixed(1)} MB` : `${Math.max(1, Math.round(bytes / 1000))} KB`
+const licenceName = (licence) => licence === "public-domain" ? "Public domain" : licence
+const element = (tag, className, text) => { const node = document.createElement(tag); if (className) node.className = className; if (text !== undefined) node.textContent = text; return node }
+const capital = (text) => text.charAt(0).toUpperCase() + text.slice(1)
+
+function renderWork(work, editions) {
+  const card = element("article", "work")
+  card.append(element("h3", "", work.title))
+  card.append(element("div", "by", [work.author, work.dates && `(${work.dates})`].filter(Boolean).join(" ")))
+  if (work.incomplete) card.append(element("div", "facts warn", `Incomplete: ${work.incomplete}`))
+  for (const edition of editions) {
+    const row = element("div", "edition")
+    const about = element("div")
+    about.append(element("div", "name", `${capital(edition.language)}: ${edition.title}${edition.year ? `, ${edition.year}` : ""}`))
+    about.append(element("div", "facts", `${licenceName(edition.licence)} · life + 70: ${edition.life70} · ${edition.divisions} divisions`))
+    about.append(element("div", "facts", edition.credit))
+    if (edition.leftOut) about.append(element("div", "facts warn", `${edition.leftOut} words left out, each place marked […]`))
+    const link = element("a", "", `Download .txt (${size(edition.bytes)})`)
+    link.href = edition.path
+    link.download = ""
+    link.setAttribute("aria-label", `Download ${edition.title}, ${edition.language}, plain text, ${size(edition.bytes)}`)
+    row.append(about, link)
+    card.append(row)
+  }
+  return card
+}
+
+fetch("catalogue.json").then((response) => { if (!response.ok) throw new Error(response.status); return response.json() }).then((data) => {
+  const { counts, database, works } = data
+  document.getElementById("summary").textContent = `${counts.editions} editions of ${counts.works} works. ${counts.withoutText} further catalogue entries have no text here: they are collections, or their rights are not yet verified.`
+  document.getElementById("database").textContent = `Download the database (${size(database.bytes)}, ${size(database.unpackedBytes)} unpacked)`
+  const all = works.flatMap((work) => work.editions)
+  const fill = (id, values) => { const box = document.getElementById(id); for (const item of [...new Set(values)].sort()) box.append(new Option(capital(licenceName(item)), item)) }
+  fill("language", all.map((edition) => edition.language))
+  fill("licence", all.map((edition) => edition.licence))
+  const searchable = new Map(works.map((work) => [work, fold(`${work.title} ${work.author} ${work.editions.map((edition) => `${edition.title} ${edition.credit}`).join(" ")}`)]))
+  const query = document.getElementById("query"), language = document.getElementById("language"), licence = document.getElementById("licence")
+  const results = document.getElementById("results"), count = document.getElementById("count")
+  const draw = () => {
+    const words = fold(query.value).split(/\s+/).filter(Boolean)
+    const fragment = document.createDocumentFragment()
+    let shownWorks = 0, shownEditions = 0
+    for (const work of works) {
+      if (!words.every((word) => searchable.get(work).includes(word))) continue
+      const editions = work.editions.filter((edition) => (!language.value || edition.language === language.value) && (!licence.value || edition.licence === licence.value))
+      if (!editions.length) continue
+      fragment.append(renderWork(work, editions))
+      shownWorks += 1; shownEditions += editions.length
+    }
+    results.replaceChildren(fragment)
+    count.textContent = shownEditions ? `Showing ${shownEditions} editions of ${shownWorks} works.` : "Nothing matches. Try fewer words or clear the filters."
+  }
+  let timer
+  query.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(draw, 120) })
+  language.addEventListener("change", draw)
+  licence.addEventListener("change", draw)
+  draw()
+}).catch((error) => { document.getElementById("summary").textContent = `The list could not be loaded (${error.message}). Reload the page, or use the database link below.` })
+</script>
+</body>
+</html>

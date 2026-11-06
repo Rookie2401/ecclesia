@@ -1,0 +1,1454 @@
+Title: Armilla aurea, id est, Miranda series causarum et salutis & damnationis iuxta verbum Dei
+Work: A Golden Chain (Armilla aurea)
+Author: William Perkins (1558–1602)
+Language: latin
+Credit: Armilla aurea, id est, Miranda series causarum et salutis & damnationis iuxta verbum Dei, in EEBO-TCP text A09349 (STC STC 19655; STC) (Cantabrigiæ: Ex officina Iohannis Legatt, 1590). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/A09349/master/A09349.xml
+Retrieved: 2026-11-05 (source file 225005 bytes, SHA-256 7b74dfa74b07d75b1dfc6e2ae51dacba5ae6278fc9ee4e9d42edeafaf1d28378)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":137,"note":510,"unread":44}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## ILLVSTRISSIMAE Apud Cantabrigienses Academiae, bonarum omnium literarum & Christianae pietatis nutrici, & altero Anglicanae Ecclesiae seminario gratiam & pacem in Christo sempiternam precatur
+
+[front.1.1] ILlustrissima Mater Academia, exhibeo tibi Armillā aureā. Si rem spectabis ipsam, Sacrosanctum Dei verbum est: si meam lucubrationē aestimabis, perexilis ea quidem est & scripta crassiusculè. Atque in ea concinnanda, id curaui tantùm, vt Theologorum lineamentis pigmenta quaedam accederent mea.
+
+[front.1.2] Audax sim fortè, quòd te, te inquam, & illustrem dignitate & doctissimorum hominum flore praecellentem, ipse nullo numero abiectissimus homunculus appellem. Verùm, pro materna tuanecessitudine huic meae temeritati vt indulgeas, oro. Melius enim esse iudico, me vt verberent homines audaciae calumnia, quam vt tu desideres à me officium & obseruantiae testimonium: quum praesertim omnia à te in me profecta sint, quae vel ad vitam degendam, vel etiam ad salutem pertinent. Nam istud ipsum, quod sum, iuxta Deum
+parētibus acceptum fero: hoc autem, quòd vivēs benè sum, tibi. Abijs, id quod erat necesse, parvulus sum procreatus: à te quibusdam literis imbutus, &, quod est caput, Christianus sum natus. Hinc libenter agnosco, obseruantiam meam non posse vllam tantam esse, quae tuae benignitati exaequo respondeat. Quocirca excludi me non patiar, quo minus aliqua testificatione & tibi & pijs omnibus ostendam, quam dilligam vel potius amemte, & quanta veneratione prosequar.
+
+[front.1.3] Munus, concedo, Mater, tenuiculum est: idque in votis vnum habeo, vt in eo voluntatē emetiri meam velis. Sin amplius fueris dignata meis incoeptis gratiam affundere, ad priorem tuā beneficentiam, ingentē hoc facto cumulū adijcies.
+
+[front.1.4] Vale Mater lectissima: Deus pater Domini nostri Iesu Christite in aeternū conseruet: & Alumnos tuos tum literis, tum pietate florescentes alat atque tueatur: vt ipsa non solum Anglicanā Ecclesiam riuis tuis mollitam & oblimatam laetifices: sed etiam invictos pugiles in prōptu semper habeas, qui percellant & delumbent Antichristum. Iterum valeto. Anno vltimae patientiae sanctorum. 1590. Ian. 20.
+
+[front.1.5] Tibi in Christo addictissimus, Gulielmus Perkinsus.
+
+## CAP. I. De Deo, & de Deitate.
+
+[1.1] DEVS est
+Spiritus
+simplicissimus, Sanctissimus, per se vivens, omni modo infinitus.
+
+[1.2] In DEO spectanda sunt
+Deitas,
+Attributum,
+Persona.
+
+[1.3] DEITAS est ipsius Dei essentia vel natura. Haec vna tantum est.
+
+## CAP. II. De Attributis DEI.
+
+[2.1] ATTRIBVTA Dei sunt ejus Proprietates in verbo ei tributae. Haec actu sunt eadem cum ipsa Dei essentia: vt exempli gratia, idem est Dei justitia & Deus justus. Sunt autem praecipuè decem.
+
+[2.2] PRIMVM, est Sapientia vel scientia Dei, qua Deus & seipsum, & alia, sive fuerint, sive non fuerint, etiam infinita vno actu, intelligendi distinctè & perfectè cognoscit.
+
+[2.3] Eius partes sunt praescientia Dei, qua Deus omnia futura certissimè praevidet: & consilium Dei, quo optimam rationem rerum omnium quae fiunt rectissimè perspicit.
+
+[2.4] SECVNDVM, est Voluntas Dei, qua Deus omnia vno actu & liberrimè, & rectissimè vult. Est ergo eius voluntas omnium actionum iustarum regula. Hîc excipiendum est peccatum, quod Deus tantum sponte permittit, & non vult quatenus est peccatum.
+
+[2.5] TERTIVM, est Omnipotentia Dei, qua ad omne opus faciendum potentissimus est.
+
+[2.6] Excipienda tamen quaedam sunt.
+
+[2.7] 1. Quae impotentiam arguunt, vt mentiri & negare verbum suum.
+
+[2.8] 2. Quae cum natura Dei pugnant, vt se destruere, & non gignere ab aeterno filium. 3. Quae contradictionem implicant. non enim potest Deus efficere, vt verum sit falsum, & vt, quod est, quando est, non sit.
+
+[2.9] Et hinc apparet Deum Actualis peccati actionem efficere,
+〈 in non-Latin alphabet 〉 non efficere: vt in radio transeunte per vitrum, lux à Sole est color non è Sole sed è vitro.
+
+[2.10] QVARTVM, Bonitas Dei est, qua in se absolutè bonus, erga creaturas suas beneficus est.
+
+[2.11] QVINTVM, Amor Dei est, quo Deus & seipsum, & creaturas suas omnes prout bona sunt, gratuitò amat.
+
+[2.12] SEXTVM, Misericordia Dei est, qua omnium creaturarum miserijs opem praestat.
+
+[2.13] SEPTIMVM, Gratia Dei est, qua creaturis favorem gratis ostendit.
+
+[2.14] OCTAVVM, Iustitia Dei est, qua, quod aequum est, cuique tribuit. Iustè facit Deus, vel omnia ritè disponendo, vt Dominus: vel remunerando
+vt Iudex, benè acta praemio, malè acta poenis.
+
+[2.15] NONVM, Ira Dei est, propositum quo peccatorem ob peccatum statuit punire.
+
+[2.16] DECIMVM, Odium Dei est, peccatoris detestatio ob peccatum.
+
+## CAP. III. DE PERSONIS TRINITATIS.
+
+[1.3.1] PERSONAE sunt, quae in vna deitate subsistentes incommunicabili proprietate distinguuntur. His omnibus convenit, 1. Coaequalitas. 2. Coaeternitas. 3. 〈 in non-Latin alphabet 〉, qua propter vnitatem
+Deitatis singulae sunt in singulis, & apud singulas manent: ideóquè singulae & possident & amant, & glorificant singulas, idemue singulae operantur.
+
+[1.3.2] Personae sunt tres. Prima est PATER:
+qui est Persona ab aeterno gignens FILIVM. Eius proprietas incommunicabilis est 〈 in non-Latin alphabet 〉. Incipit quamque actionem Pater à se, per Filium & Spiritum Sanctum agendo.
+
+[1.3.3] Reliquae duae Personae deitatem sive Divinam naturam à Patre communicatam habent, quae sunt Filius, & Spiritus Sanctus.
+
+[1.3.4] FILIVS
+est secunda persona Trinitatis, à Patre genita. Eius proprietas est 〈 in non-Latin alphabet 〉. Modus agendi proprius est, quòd actionem administrat à Patre per Spiritum Sanctum.
+
+[1.3.5] SPIRITVS Sanctus est tertia persona procedens à Patre &
+Filio. Eius incommunicabilis proprietas 〈 in non-Latin alphabet 〉. Actionem absolvit agendo à Patre & Filio.
+
+## CAP. IIII. DE DECRETO DEI, ET PRAEDESTINATIONE.
+
+[1.4.1] DECRETVM dei est, quo Deus in se ab aeterno omnia necessariò, & tamen libere definivit. Ideoquè & res, & actiones omnes, & earum omnes circumstantias, locum, tempus, media, finem certò constituit.
+
+[1.4.2] Hoc Decretum est principium rerum omnium
+〈 in non-Latin alphabet 〉. Nam cum eo semper coniuncta est Dei Voluntas, qua potest velle quod decernit:
+quia esset signum impotentiae aliquid decernere quod non posset velle: & cum voluntate coniuncta est potentia efficax, per quam operari potest Deus quaecunque liberrimè decrevit: vnde tenendum, quae praescita & decreta sunt, omnia, in tempore actu ita fieri, sicut praescita & decreta sunt.
+
+[1.4.3] Decretum Dei de homine appellatur Praedestinatio,
+qua Deus ordinavit omnes homines ad certam conditionem aeternam, ad gloriam suam.
+
+## CAP. V. DE CREATIONE, ET DE STATV INNOCENTIAE.
+
+[1.5.1] PRAE DESTInationis exequendae medium est Creatio, & Lapsus.
+
+[1.5.2] CREATIO est qua Deus omnia valdè bona &
+hominem ad imaginem suam ex humo formavit.
+
+[1.5.3] Homo creatus à Deo est positus in statu innocentiae: in quo haec praecipuè spectanda.
+
+[1.5.4] I. Locus, Hortus Hedenis amoenissimus.
+
+[1.5.5] II. Puritas totius naturae hominis; cuius partes duae: Prima, est sapientia Dei, id est, notitia vera & pura de Deo, de voluntate Dei, quatenus ab homine praestanda, de consilio Dei in eius creaturis omnibus. Pars altera est Iustitia, id est, conformitas voluntatis, affectionum & virium corporis ad eandem dei voluntatem.
+
+[1.5.6] III. Dignitas hominis; cuius partes quatuor. Prima, communio cum Deo, qua Deus laetabatur in imagine sua, homo vicissim Dei amore flagrabat: quod apparet ex familiari Dei colloquio cum Adamo. Secunda, Dominium supra omnes creaturas terrae. Tertia, Honor & decor corporis etiam nudi, in quo nihil apparuit pudendum. Quarta, Labor corporis
+sine vlla molestia vel dolore.
+
+[1.5.7] IIII. Subiecto erga Deum, qua astrictus homo fuit ad obedientiam Dei mandato praestandam. Mandati Dei partes sunt duae: Prima, est concessio arboris vitae in signum vitae aeternae in Horto Hedenis, si in obedientia perstiterit: Altera, est prohibitio arboris scientiae boni & mali cum comminatione mortis si violetur.
+
+[1.5.8] V. Vocatio, cultus Dei in hoc mandato servando, & custodia horti Hedenis.
+
+[1.5.9] VI. Victus, herbae terrae & fructus omnium arborum, excepto fructu arboris scientiae boni & mali.
+
+[1.5.10] VII. Libertas agendi, qua poterat velle & praestare hòc mandatum, & etiam nolle ac violare. Vnde primi parentes integri fuerunt facti, sed tamen mutabiles. Sic enim Deus voluit ad suum decretum exequendum viam sternere.
+
+## CAP. VI. ¶ DE LAPSV ET STATV 〈 in non-Latin alphabet 〉.
+
+[1.6.1] LAPSVS Adami fuit eius spontanea defectio ad inobedientiam ex esu pomi prohibiti. Iste lapsus ita fuit. 1. Diabolus paulò ante lapsus, & disjectus è caelo, primis parentibus & incertam esse poenam violatae legis de fructu prohibito; & Deum erga eos non fidelē denunciat. 2. Hac impostura mentes eorum excaecat. 3. Mente excaecati de amore Dei infideles dubitant. 4. Dubitantes moventur vt aspiciant fructum prohibitum. 5. Pulchrum videntes desiderant. 6. Vt desiderio satisfaciant, fructum manibus decerptum comedunt: vnde penitùs erga Deum inobedientes fiunt. Et ita à nemine coacti sua sponte labuntur: Deo iustis de causis illos deserente,
+eorumue lapsum liberè permittente. Nam lapsus iste neque fortuitò, neque insciente Deo, neque connivente, neque nuda permissione, neque repugnante Deo contigit: sed mirabili quadam ratione, non sine voluntate dei, neque tamen approbāte deo evenit.
+
+[1.6.2] Ex hoc lapsu primorum Parentum ortus est status 〈 in non-Latin alphabet 〉, quo Deus conclusit totum genus humanum sub contumacia, vt in certis salvandis, miseric ordiam; in alijs damnandis, iustitiam ostenderet.
+
+[1.6.3] In hoc statu considerandum est peccatum, & poena peccati. Peccatum est triplex.
+
+[1.6.4] 1. Primum est participatio transgressionis & reatus Adami, qua, illo peccante omnes posteri illius peccarunt; quia tum fuerunt in ipsius lumbis: & ab eo deinceps vi naturae propagandi. Adamus enim personam gerebat totius generis humani: & quic quid vel boni à Deo, vel aliundè mali recepit, id sibi & alijs recepit.
+
+[1.6.5] 2. Ex hoc primo ortum est Secundum; Originale peccatum, quod
+est insita & innata pravitas omnes & animi & corporis facultates ad malum disponens. Hinc appellatur peccatum peccans, & lex membrorum.
+
+[1.6.6] Vt naturae humanae corruptio nota sit, tria sunt proponenda; Retentum de Imagine Dei, Receptum peccatum & idem auctum.
+
+[1.6.7] Retentum mentis; notitiae quaedam de bono & malo, quales sunt istae: Esse Deum, Deum esse vindicem scelerum: esse vitam aeternam: Maiores esse colendos: Proximum non laedendum, &c. Verùm hae notitiae generales & corruptae sunt, & tantùm ad excusationem tollendam inserviunt.
+
+[1.6.8] Receptum mentis. 1. Ignorantia, quae est defectus cognitionis in rebus Dei. 2. Impotentia, qua mens non potest per se percipere res spirituales cum docentur. 3. Vanitas, qua iudicet verum esse falsum & contrà. 4. Aptitudo ad concipiendum & cogitandum malum tantùm. Hinc apparet haeresium omnium fundamentum in homine innatum
+esse.
+
+[1.6.9] Auctum mentis; Reprobus sensus, Deo detrahente lucem naturae: Spiritus soporis: Spiritualis ebrietas: efficacia illusionis.
+
+[1.6.10] Receptum conscientiae. Impuritas, qua 1. excusat malum; vt externis observatis internā impietatem; & etiam intentiones praeter verbum Dei. 2. accusat ob bonum, vt apparet in superstitioso, qui dolet ex eo quod intermisit audire missas. 3. accusat & terret ob peccatum verè, sed non sanctè. Hoc non fuit in Adamo adhuc integro.
+
+[1.6.11] Auctum conscientiae. 1. Torpor & stupor talis, vix vnquam vt accuset ob peccatū; oritur è consuetudine peccati: 2. Insignis horror & terror consciētiae: Cuiꝰ symptomata, blasphemiae, tremor corporis, horrenda insomnia.
+
+[1.6.12] Retentum voluntatis. Libertas eligendi in externis rebus quae ad humanam vitam pertinent, in quibus ei ratio praelucet.
+
+[1.6.13] Receptum voluntatis. Impotentia qua non potest velle bonum, sed
+malum tantùm.
+
+[1.6.14] Receptum affectionū.
+〈 in non-Latin alphabet 〉 qua non rectè moventur, quia bonum declinant, malum tantùm amplectuntur
+
+[1.6.15] Receptum corporis. 1. Aptitudo incipiendi peccatum transferendo occasiones ad animum. 2. Aptitudo perficiendi peccatum vbi ab animo est coeptum.
+
+[1.6.16] 3. Ex hoc Secundario peccato oritur actuale peccatum. Est vel internum vel externum. Internum mentis, voluntatis, affectionum.
+
+[1.6.17] Mentis actuale peccatum est prava cogitatio, cuius exempla quaedam Deus 〈 in non-Latin alphabet 〉 in verbo suo posuit; quae sunt.
+
+[1.6.18] 1. Non esse Deum, Psal. 10.4. & 14.1.
+2. Non esse Dei providentiā vel praesentiā, Psal. 10.11, 13
+3. Se esse tutū ab omnibꝰ periculis, Psal. 10.6. Apo. 18.7.
+4. Se prae aliis excellentissimū esse, Apo. 18.17. lu. 18.9, 11
+5. Evangelium regni dei esse stultitiam, 1. Cor. 2.14.
+6. Malè sentire de ijs qui deū verè colunt, Mat. 12.24. psal. 74.8.
+7. Nondum adstare mortem. Isa. 28.15.
+8. Vitari posse poenas inferni, ibidem.
+9. Deum differre adventum suum ad iudicium, Luc. 12.45.
+
+[1.6.19] Regula. Cogitatio hominis est pro natura peccati in eo praecipuè regnantis.
+
+[1.6.20] Voluntatis & affectionum actuale peccatum est quaelibet prava motio, inclinatio & appetitio.
+
+[1.6.21] Peccatum actuale externum est, ad quod perpetrandū praeter animi facultates, corporis etiam membra concurrunt. Estque vel omissum vel commissum, vtrumque vel in verbis, vel in factis.
+
+[1.6.22] In peccato commisso duo spectanda; Gradus commissionis, & commissi differentiae.
+
+[1.6.23] Gradus quatuor sunt. Primus est tentatio, qua sollicitatur homo ad
+peccandum. Hoc fit, vel malum suggerente Satana: vel ex occasione externi obiecti sensibus percepti. Tentationis duae partes: Abstractio & Inescatio.
+
+[1.6.24] Abstractio est prima cogitatio de malo committendo, qua mens abducitur à Deo cuitota servire debuit.
+
+[1.6.25] Inescatio est, qua cogitatio semel admissa & aliquandiu retenta titillando voluntatem & affectiones ad peccandum excitat.
+
+[1.6.26] Secundus gradus est Conceptio, quae est consensus quidam & resolutio de peccato admittendo.
+
+[1.6.27] Tertius gradus est Partus, qui est perpetratio peccati, adhibitis facultatibus animi & corporis viribus.
+
+[1.6.28] Quartus gradus est perfectio, qua peccatum ex frequenti illius iteratione iam consummatum & maturum, peccatoris mortem gignit.
+
+[1.6.29] Peccati admissi differentiae quinque.
+
+[1.6.30] Prima, non agere sed cum peccante consentire: quod fit tripliciter. 1. Ratione aliquatenus peccatum approbante. Hoc modo peccavit
+Moses. 2. Voluntatis affectu & consensu. Huc pertinent reticentia & conniventia Ministri & Magistratus. 3. Opere, quod fit dando consilium, praesentia, irritatione.
+
+[1.6.31] Secunda, peccare sed ex ignorantia; quod est quando quis, quod facit non novit esse peccatum; vel si novit non agnovit.
+
+[1.6.32] Tertia, sciens peccare sed ex infirmitate. In hoc genere est Petri lapsus, qui fuit è praecipitatione mentis & ex timore.
+
+[1.6.33] Quarta, sciens peccare cum quadam pertinacia. Huius loci est peccatum omne quod fit elata manu. 1. Cum aliquo dei contemptu; & praesumptio de misericordia Dei in malo perpetrando.
+
+[1.6.34] Quinta, sciens peccare, sed ex destinata malitia in Deum. Huc pertinet peccatum in Spiritum Sanctum.
+
+[1.6.35] Hucusque de peccato quo totum genus humanum polluitur. Sequitur poena peccati; quae est triplex.
+
+[1.6.36] I. In hac vita; quae etiam multiplex est. 1. in corpore, laboris in
+victu quaerendo molestia, proclivitas ad morbos, pudor ob nuditatem. Pariendi difficultas in foemina. 2. In anima, pavores conscientiae, durities cordis, amentia, sollicitudo. 3. In toto homine horrenda servitus sub dominio Satanae: alienatio à communione Dei, & ad illius praesentiam horror. 4. In bonis calamitates & detrimenta varia. 5. Amissio dominij quod habuit in creaturas: & illarum vanitas, qua virium excellentia in ijs & remissa est & corrupta. 6. Nominis ignominia.
+
+[1.6.37] II. In termino huius vitae, mors.
+
+[1.6.38] III. Post hanc vitam exitium aeternum à praesentia Dei, & potente ipsius gloria.
+
+## CAP. VII. DE DECRETO ELECTIONIS, ET eius fundamento IESV CHRISTO.
+
+[1.7.1] PRAEDESTInatio est vel Decrerum Electionis, vel decretum Reprobationis.
+
+[1.7.2] Electionis decretum est, quo Deus ex benevolo affectu voluntatis suae, certos homines ad salutem destinavit ad laudem gloriosae gratiae.
+
+[1.7.3] Exequutio istius decreti est, qua Deus modo apud se constituto, efficaciter operatur ea quae decrevit ad Electorum salutem. Nam Electi ad finem, id est, ad vitam aeternam, sunt etiam electi ad ea subordinata media, quibus ad finem gradatim perduci, & sine quibus finem consequi non possunt.
+
+[1.7.4] Ergo ad eius exequutionē tria pertinent:
+Fundamentum, Externa media, Gradus.
+
+[1.7.5] Fundamentum est CHRISTVS IESVS, qui ab aeterno vocatus est à Patre ad officium Mediationis praestandum, vt in eo eligerentur omnes qui essent salvandi.
+
+[1.7.6] In Christo duo praecipuè consideranda: Incarnatio, & munus. Ad Christi incarnationem perficiendam tria serviunt: Naturae duae, Vnio Naturarum, earumque Distinctio.
+
+[1.7.7] Natura prima est Deitas quatenus est Filij, qua Christus est Deus. Oportet enim Mediatorem esse Deum; Primò, vt posset ferre magnitudinem illius mali quo premebatur humanum genus. In hoc malo concurrunt haec quatuor: Gravitas peccati quo est offensa Dei Maiestas: Ira Dei infinita in idem peccatum: Potentia mortis: Tyrannis Diaboli. Secundò, vt humanae naturae actionibus vim merendi, & efficaciam operandi tribueret. Tertiò, vt vitam & sanctitatem omnibus salvandis infunderet.
+
+[1.7.8] Addo praeterea Deitatem quatenus
+Filij, non quatenus Patris, vel Spiritus Sancti esse divinam naturam. Quia Filii est exequi & administrare quamlibet actionem externam à Patre per Spiritum: & ipse cùm sit naturâ filius Dei Patris privilegium hoc credentibus concedit, vt adoptentur in filios Dei.
+
+[1.7.9] Altera natura est Humanitas Christi, qua Mediator est verus homo. Hominem esse oportuit: primò, vt in ea natura placaretur Deus in qua fuit offensus. Secundò, vt posset subire poenam peccato debitam. Deitas enim est impatibilis.
+
+[1.7.10] Praeterea Christus homo est similis nobis per omnia excepto peccato. Habet enim essentiam veri animi & veri corporis, essentiae facultates & infirmitates, Cuiusmodi sunt: Tentari, timere, irasci, non meminisse impositum munus ob Agoniam concutientem sensus.
+
+[1.7.11] II. Sequitur Vnio naturarum, quae etiam ad Mediationē maximè, cōducit: per hanc enim stat, quòd humana Christi natura mortem crucis patiendo,
+ab eadem non est victa & in aeternum exhausta. In Vnione tria sunt: 1. Conceptio Christi in vtero Virginis per Spiritum Sanctum, occulta & miranda. 2. Sanctificatio seminis per eundem Spiritum, vt Christi humanitas verè iusta esset: ipseque posset pro alijs mori. 3. Assumptio, qua verbum, id est, secunda persona Trinitatis sibi conjungit carnem & semen Abrahae, id est, humanā naturam vt in ea persona subsistentiam habeat in aeternum.
+
+[1.7.12] Phrasis est in Scripturis huic vnioni analoga, nimirum 〈 in non-Latin alphabet 〉: in qua proprium vnius naturae praedicatur de altero in concreto; vt est in his exemplis:
+Deus fudit sanguinem,
+Dominus gloriae crucifixus, Filius hominis in coelo,
+quando percontabatur Nicodemum.
+Mediator homo Iesus Christus.
+
+[1.7.13] Ex ista vnione est, quòd Christus quatenus homo exaltatur super omne nomen, adoratur, & dona quoque licet non infinita, tamē ampliora am habet quā omnes sancti & omnes angeli.
+
+[1.7.14] III. Distinctio naturarum est, qua & illae, & ipsarum proprietates & operationes sine vlla concretione, mistione, conversione distinctae manent.
+
+[1.7.15] Hactenus de Incarnatione: Sequitur Christi munus, Sacerdotale, Propheticum, regium.
+
+[1.7.16] Sacerdotium est, quo Christus apud Deum ea peregit, quibus perfectè obtineatur Salus. Ea verò sunt, Satisfactio illius, & Intercessio. Satisfactio est vel Passio vel Impletio legis.
+
+[1.7.17] Passio est qua satisfecit irae Dei ob peccata credentium. Haec ita fuit.
+
+[1.7.18] Paulò ante mortem Christi, ex impendentis irae Divinae sensu, partim metus, partim gravissimus dolor eum vndique occupans, spiritum eius sic turbavit, vt intrinsecus & mirum stuporem, & oblivionem impositi muneris ad tempus incuteret: & extrinsecùs precationem ad patrem de transferendo horrore (si voluerit) cum valido clamore & lachrymis, & sudore quasi grumis sanguinis in terram diffluentibus, exprimeret: verum statim
+sui recordatus sponte se exhibuit Patri suo ad peccati omnem poenam in cruce luendam. Vbi haec fiunt prodente Iuda capitur Christus, adducitur ad Annam, deinde ád Caipham & Petro eum abnegante à Caipha ad Pilatum vinctus ducitur. Pilatus ad Herodem mittit: quo illum remittente Pilatus & innocentem testatur, & noxium damnat. Tum flagellatur Christus, spinis coronatur, illuditur, conspuitur, cruci adiudicatur, crucifigitur. Vbi haec fiunt, execravit eum Deus Pater, id est, horribilem iram eius, peccatis omnium parem in eum inculpatum effudit. Maledictioni iam subiectus, prae sensu horroris immensi ad Patrem questus est se derelinqui, & tamen cum Satana & eius angelis colluctatus, eos subegit. His peractis effuso sanguine ob cortransfixum lancea mortuus est: & animus traditus ab eo in manus Patris translatus est in Paradisum: corpus autem ossibus illaesis, sepultum fuit, & sub dominio mortis ignominioso tres diesnoctesque retentum.
+
+[1.7.19] In hac descriptione quinque inprimis notanda.
+
+[1.7.20] I.
+Agonia Christi quae fuit vehemens angor ex conflictu duplicis desiderii. Primum eorum erat de obedientia Patri praestanda: alterum de horrore mortis fugiendo.
+
+[1.7.21] II. Sacrificium, quod est actio Christi se offerentis Deo Patri, ad persolvendum poenas peccatis hominum debitas. In hoc sacrificio, victima fuit Christus homo, Altare Christus Deus, Sacerdos Christus & Deus & homo.
+
+[1.7.22] III. Acceptatio Patris, acquiescentis in eo sacrificio. nisienim approbaret Pater inane foret.
+
+[1.7.23] IIII. Imputatio peccati qua Christus aestimatus est à Patre velut transgressor, peccatis omniū in cum translatis.
+
+[1.7.24] V. Execratio, qua iuxta legem maledictus est. Estue vel interna vel externa. Interna, Sensus horrendae irae Dei in cruce. Externa tres habet partes. 1. Est Mors in eadem cruce cum effusione sanguinis etiam è corde.
+Apparet enim transfixum fuisse pericardium, quia fluebat aqua cum sanguine. 2. Sepultura mortui. 3. Descensus ad inferos, id est, dominium mortis tres dies in eum iam sepultum.
+
+[1.7.25] Atque ita est miranda Passio: Sciendum deinceps, eam esse pretium sufficiens pro peccatis omnium. quod enim Deus & vnicus Dei Filius ad breve tempus maledictionem legis pertulit, plus est quàm siomnes homines in aeternum essent passi.
+
+[1.7.26] Et maximè notandum, tum demum ritè sciri passionem Christi, vbi cortuum desinit peccare, dolorue amarus te compungit ob peccata tua, quibus innocentem Dei Filium transfixisti.
+
+[1.7.27] Impletio Legis est, qua satisfecit iustitiae Dei totum ius Legis praestandó. Hoc fecit, partim sanctitate humanae naturae, partim obedientia in operibus iuxta Legem.
+
+[1.7.28] Sacerdotii pars altera est Intercessio, quae est continua apparitio Christi in coelo cum meritis suis coram
+Patre; vt ostendat se cupere acceptari ab eo satisfactionem suam pro quotidianis lapsibus fidelium, & pro imperfecta illorum obedientia.
+
+[1.7.29] Non est ergo existimandum devolui Christum ante Patrem flexis genibus; neque est-necesse, cùm haec apparitio vim habeat vivae orationis.
+
+[1.7.30] Hucusque de Sacerdotio: Sequitur Propheticum munus, quo Christus revelat verbum Dei, & in verbo etiam ea, quibꝰ obtinetur salus. Hinc appellatur Doctor Ecclesiae: & gerit clavem Davidis, qua aperitur ingenium vt intelligat Scripturas.
+
+[1.7.31] Regium munus est, quo applicat & tribuit fidelibus ea quibus obtineatursalus. Hujus muneris actiones quatuor sunt.
+
+[1.7.32] 1. Resurrectio, qua Christus divina potentia subegit mortem, & seipsum ad vitamaeternam suscitavit.
+
+[1.7.33] Signum est, Satisfactionem Christi perfectam fuisse: nam vnum peccatum Mediatorem in morte detinuisset, etiam caeteris expiatis omnibus. Vsus ergo huius actionis est, absolvere
+passionem, & applicare: Initium quòque
+est gloriae: in qua Christi corpus, solidum, circumscriptum, visibile, & palpabile manet.
+
+[1.7.34] 2. Ascensio in coelum est, qua Christus eadem potentia evexit se in coelum, vt pararet locum fidelibus, Spiritum Sanctum daret, & ibiaeterna gloria frueretur.
+
+[1.7.35] 3. Sessio ad dextram Patris, in coeli altissimis, per Metaphoram est Imperium donatum ei à Patre in res omnes quae sunt in coelo & terra. Hîc Christi Regis duplex est actio: prima, Gubernatio regni coelorum, cuius pars in coelo est, pars in terra, nimirum Ecclesia fidelium. In qua exercet duo Regalia; condit Leges, & constituit sibi administros Ecclesiae suae. Secunda est abolitio regni tenebrarum, in quo caput est Satanas, reliqua membra sunt angeli eius, & infideles; vt Athei qui corde Deum negant: Magi, qui vel apertum vel occultum foedus cum Diabolo ineunt: Idololatrae, qui vel falsos deos, vel verum Deum in idolo colunt: Haeretici
+qui in fundamento religionis errant cum pertinacia: Apostatae, qui à fide deficiunt: Postremo, Antichristus, qui est Papa Romanus.
+
+[1.7.36] 4. Vltimum Iudicium ad finem mundi à Christo administrandum; quo finito, Christus desinet sedere ad dextram Patris vt Mediator: interim vt Deus cum Patre & Spiritu Sancto regnabit in aeternum.
+
+## CAP. VIII. DE EXTERNIS MEdiis exequendi decretum Electionis: & de Decalogo.
+
+[1.8.0.1] MEDIA Externa, quibus Spiritus Sanctus vtitur in electione exequēda, sunt Praedicatio verbi, & administratio Sacramentorum. Praedicatio verbi est publica & solennis verbi promulgatio per
+eius ministros. Verbum est vel lex vel Evangelium.
+
+[1.8.0.2] Lex est pars verbi perfectam in hominibus & naturae & actionum iustitiam praecipiens, contrariumque prohibens. Legis cuiusque partes sunt, Edictum quod praecipit obedientiam, & conditio, quae ad obedientiam obligat: estue vita aeterna silex impletur, sin minus, maledictio est.
+
+[1.8.0.3] Legistotius Epitome est Decalogus: cuius vera interpretatio his regulis continetur. 1. In negativo affirmativum intelligendum, & contra. 2. Sub vitio nominatim prohibito, omnia vitia eiusdem generis, omnes illorum causae, occasiones, incitamenta prohibentur. 3. Peccata quaevis nomen gerunt eius peccati, quod nominatim prohibetur in eo mandato ad quod ea pertinent.
+
+[1.8.0.4] Decalogus est descriptus duabus tabulis: prima est, quae pietatem in Deum praecipit. Haec autem & cogitatione, & memoria, & affectionibus, & totis viribus praestanda est. In prima tabula quatuor sunt mandata.
+
+## Series causarum PRJMVM Mandatum de habendo & eligendo Deo.
+
+[1.8.1.0.1] Ego Jehova Deus tuus, qui eduxi te è terra Aegipti, è domo Servorum: ne esto tibi vllus alienorum deorum ante faciem meam.
+
+## Explicatio.
+
+[1.8.1.1.1] [Ego] Si quis existima haec verba esse praefacionem Decalogi non impedio: interim verisimile est, hîc praepositis rationibus sanciri mandatum primum & stabiliri: praesertim cum id fecerit Deus in tribus proximis iisue minoribus mandatis.
+
+[1.8.1.1.2] [Iehova] 1. A se ab aeterno subsistens, & rebus omnibus dans esse
+quando non erant, eas creando & gubernando. Hîc primi mandati ratio, ab attributo nominis. Qui est Iehova, is tantum pro Deo habendus.
+
+[1.8.1.1.3] Ego sum Iehova.
+Ergo tantum Ego pro Deo sum habendus.
+
+[1.8.1.1.4] Propositio deest: assumptio est in his verbis, conclusio est ipsum mandatum.
+
+[1.8.1.1.5] [Deus tuus.] Haec suntverba gratuiti faederis, Ierem. 31.33. quo Deus stipulatur cum populo suo, de remissione peccatorum, & vita aeterna. In his altera est ratio mandati à relatis paribus.
+
+[1.8.1.1.6] Si ego sum Deus tuus, tu vicissim meus populus esse debes, me assumendo in Deum tuum.
+
+[1.8.1.1.7] Verum primum: ergo & secundum.
+
+[1.8.1.1.8] [Eduxi.] Illustratur assumptio secundae rationis ab effecto Dei, liberantis populum ex AEgypto, tanquam è servitute domini. Haec liberatio typus est liberationis multò melioris è potestate tenebrarum, 1. Cor.
+10.1, 2, 3. cum Coloss. 1.13.
+
+[1.8.1.1.9] [Alienorum.] Qui naturâ non sunt Dij: sed ita aestimanturà pravis hominibus, vt venter. Philip. 3.19. Diabolus, 1. Cor. 4.4. Sancti, angeli, &c.
+
+[1.8.1.1.10] [Ante faciem.] Metaphoricè, in cōspectu & praesentia mea, cui occulta cordis sunt conspicua. Hîc tertia est ratio. Si me coram rejicis, nefandum erit facinus: ergo nefacito. Similis ratio, Gen. 17.1. Levit. 10.4.
+
+## Pars affirmativa.
+
+[1.8.1.2.1] [Iehovam, deum habeto.] Officia quae hîc iubentur, haec sunt.
+
+[1.8.1.2.2] 1. Cognoscere deum qualem se in verbo & creaturis revelavit, Ioh. 17.2.
+2. Corde Deo adhaerescere, Iosu. 23.8. Act. 11.23. Hoc fit tribus modis.
+
+[1.8.1.2.3] 1. Timendo Deum super omnia, Deut. 6.13. Timoris signa duo. Primum, Subjicerese deo in aduersis. Secundum, Pro summo, malo ducere offensionem Dei.
+Psal. 4.4.
+2. Amando Deum super omnia, Deutr.6.5. Signa amoris sunt, desiderare dei praesentiam, psal. 84.1. Laetari in Deo, & cogitare de eo saepissimè.
+3. Ponendo fiduciam in Deo solo, Psal. 37.5.
+
+## Pars negativa.
+
+[1.8.1.3.1] [Quod non est naturâ Deus, ne deum habeto.] Hîc vitia prohibentur.
+
+[1.8.1.3.2] 1. Ignorantia Dei, Ierem. 4.22. & 9.3.
+2. Atheismus, quo corde negatur Deus, Ephes. 2.12. Psal. 14.1.
+3. Error de natura, attributis, personis Dei.
+4. Removere cor à Deo ad aliud, Isa. 29.12. Ierem. 12.2. Hoc fit,
+1. Amando aliquid plus quàm Deum: vt seipsum, peccatum, gloriam, divitias.
+2. Timendo aliquid plus quàm Deum.
+3. Fiduciam collocando in creatura,
+vt in Angelis, Sanctis, viribus propriis, Ierem. 17.5. divitiis, Ierem. 3.5.
+
+[1.8.1.3.3] Hinc apparet, qua ratione avaro divitiae sunt Deus, Ephes. 5.5. & venter, Philip. 3.14. & mundo Diabolus; praecipuè verò Magis & maleficis, ob foedus ictum cum eo, vel apertè, vel saltem occultè, quando fidem praestant eius operibus in divinando, fascinando, incantando, Psal. 58.5, 6. 2. Sam. 28.6.
+
+[1.8.1.3.4] Hactenus fuit primum mandatum de habendo & eligendo Deo: reliqua tria sunt de sancta professione, quae fit erga eundem Deum. Nam primum oportet Deum eligere, tum electum profiteri, partim colendo, eum partim glorificando.
+
+## SECVNDVM MANdatum de modo colendi Deum.
+
+[1.8.2.0.1] II. Ne facito tibi sculptile, aut vllam
+imaginem eorum quae sunt in coelis suprà, aut quae in terris, aut in aquis infra terram. Ne incurvato ijs, neque colito ea. Nam ego Jehova deus tuus, Deus fortis, zelotypus sum, visitans iniquitatem patrum in filios, in nepotes & abnepotes in eos qui odio prosequūtur me: exercens verò benignitatem in millesimos à patribus, qui diligunt
+me, & observant mandata mea.
+
+## Explicatio.
+
+[1.8.2.1.1] [Ne facito.] Prima pars mandati, quae prohibet facere idolum, hoc est, imaginem non solum ficti dei, (quod Papistae confitentur) sed etiam Iehovae. Ratio prima. Moses ita hoc mandatum interpretatur, Deu. 4. ver. 15.16 Quamobrem cavetote vobis ipsis valde (nam non animadvertistis vllam similitudinem quo die alloquutus est Iehova vos in Horebo è medio illius ignis) vt non corrumpatis quicquam, & faciatis vobis sculptile, similitudinem vllius simulachri, formam maris aut foeminae. Ratio secunda. Quae fuit Israelitarum idololatria, eadem hoc mandato prohibetur: at Israelitarum idolotria fuit cultus veri Dei in idolo. In idolo Bahal colebant verum Deum, Hos. 2.16. Ac non voces me amplius Bahhal. Idem quoque fecerunt in aureo vitulo. nam eo formato, proclamavit Aharon dicendo,
+festum Iehouae cras esto, Exod. 32.5. Hoc etiam conspicuum apud Isaiam, Cap. 40. ver. 28.25.
+
+[1.8.2.1.2] [Sculptile.] Synecdoche, pro omnibus fictis mediis cultus Dei. Illustratur haec mandati pars duplici distributione. Prima est è causis; non facies idolum vel sculptum è ligno & lapide, vel pictum. Altera est è subiectis; non facies idolum, vel rerum in coelo, vt astrorum, avium; vel rerum in terra, vt viri, foeminae, bestiae: vel rerum sub terra, vt piscium. Sic enim Moses exponit, Deut. 4.14. ad 20.
+
+[1.8.2.1.3] [Ne incurvato.] Secunda pars mandati, qua prohibemur incurvare coram idolo iam facto. Et in verbo (incurvare) est Synechdoc. Ponitur enim pro quovis fictitio veri dei cultu.
+
+[1.8.2.1.4] [Nam ego.] Hîc incipit Sanctio mandati, in qua suadetur eius observatio rationibus quatuor.
+
+[1.8.2.1.5] [Iehova] Repetitio rationum primi mandati.
+
+[1.8.2.1.6] [Fortis] Prima ratio huius mandati, Deus fortis est in vindicanda idololatria, Hebr. 10.31.
+
+[1.8.2.1.7] [Zelotypus] Metaphora à coniugio, Deus enim vocatur maritus Ecclesiae suae, Isa. 54.5. Ephes. 5.26, 27. & Spiritualis cultus est animorum Deo deditorum quoddam velut coniugium, Ierem. 2.2. Et idola sunt Dei corrivales. Hîc quoque secunda est ratio, Deum solum colendum à populo suo, quòd eum sibi vt sponsam adiunxit, quae vni viro tantùm adhaeret: & si addixerit se idolis, Deum statim daturum libellos divortii populo suo.
+
+[1.8.2.1.8] [Vsitans.] Id est, relictus filios in peccatis parentum inquirens vt puniat, Iere. 31.18. Tertia ratio est ab effectis irae Dei.
+
+[1.8.2.1.9] [Odio] Occupatio occulta; at idolis nos vtimur vt excitetur & recordatio & amor tui. Subiectio est in his verbis per negationem, à contrariis.
+
+[1.8.2.1.10] [Exercens.] Quarta ratio ab effectis misericordiae, in eos qui observant hoc mandatum. Notandum, primò Deum propensiorem ad misericordiam, quàm ad iram, Psal. 103.8, 9, 17. Secundò, hanc illustrem promissionē non esse intelligendam de singulis filiis
+pij parentis: nam pius Abraham habuit Esau reprobum filium, & Saul impius pium Ionathanem.
+
+## Pars negativa.
+
+[1.8.2.2.1] Ne colito vel falsos deos, vel Deum verum ficto cultu. Sub hac parte prohibentur,
+
+[1.8.2.2.2] 1. Representare Deum verum per imaginem, quae est merum mendacium, Habac. 2.18. quia non est similis Deo, Zach. 10.2. Ierem. 10.8.
+
+[1.8.2.2.3] 2. Crucifixum Christi in Ecclesia Romana; sicut aenea serpens apud Israelitas, 2. Reg. 18.4. cum Num. 21.8. Exod. 30.8. in quo etiam seperatio fit naturae humanae Christi à Divina, iuxta haeresin Nestorii.
+
+[1.8.2.2.4] 3. Missae sacrificio, & cuivis idololatriae praesens adesse, 1. Cor. 8.9, 10. & 6.20.
+
+[1.8.2.2.5] 4. Monimenta idololatriae retinere, Deutr. 12, 3, 30. Isa. 30.22. Exod. 23.13.
+
+[1.8.2.2.6] 5. Adoratio religiosa alicuius creaturae,
+cùm plus eí quam par est, honoris tribuitur, Reue, 22.8, 9. Act. 10.26.
+
+[1.8.2.2.7] 6. Societates cum infidelibus; vt, coniugia cum iis, 2. Reg. 8.18. Bellum susceptum pro iis, 2. Chron. 19.1. & 1. Reg. 22. pro Antichristo, Apoc. 18.19. Adoratio bestiae & imaginis illius, id est, Ecclesiae Romanae & haereticae & Apostaticae, Apoc. 14.9, 10. Litium exploratio sub infidelibus, 1. Cor. 6.6. Hîc prohibentur Thurarij, bestiarij, Celarij, Candelarij, qui thus, bestias, ceram vendunt, & ad cultum idolorum conferunt.
+
+[1.8.2.2.8] 7. Intentiones sine verbo Dei, 1. Sam. 13.13. voluntarius cultus, Coloss. 2.23.
+
+[1.8.2.2.9] 8. Hypocrisis, qua Deus fictè, id est, ad speciem non corde colitur, Isa. 29.13. & 58.5.
+
+[1.8.2.2.10] 9. Contemptus, neglectus, intermissio cultus Dei, Revel. 3.16. Ierem. 48.10.
+
+[1.8.2.2.11] 10. Mutare vel media, vel modum colendi Deum, addendo aliquid iis, vel detrahendo, sine verbo Dei, Deutr. 12.32. vt gestare panem in Sacramento,
+& dare sub vna specie, &c. Hinc apparet traditiones Papistarum •epudiundas esse, Matt. 15.9.
+
+[1.8.2.2.12] 11. Cultores Diaboli: 1. Magi, primò divinantes; vt Augures ex •olatu avium, Deutr. 18.11. Aruspices • visceribus animalium, Ezech. 21.21. Possidentes pythonem, 2. Sam. 28.6. Necromantae, Deutr. 18.11. Secundò, Diabolicè operantes: vt Incantatores, Eccles. 10.11. Prestigiatores, Exod. 7.11. 2. Consulentes magos, Leuit. 20.6. Isa. 8.17. 1. Chron. 10.13.
+
+## Pars affirmativa.
+
+[1.8.2.3.1] [Deum coles in spiritu & veritate,] Ioh. 4.24.
+
+[1.8.2.3.2] Huc pertinent ea quae respiciunt solennem Dei cultum, vel publicum, vel privatum, vt;
+
+[1.8.2.3.3] 1. Administrare cultum Dei in conventu Ecclesiae, iuxta normam verbi, 1. Cor. 11.23. Mat. 28.20.
+
+[1.8.2.3.4] 2. Precari Deū.
+3. Gratias agere.
+4. Audire verbum.
+5. Sacramenta recipere.
+1. Externè, cum decoro, & sine offensione. 1. Cor. 14.40.
+2. Internè, animo humili & de peccatis resipiscē
+te, Psal. 26.6.
+
+[1.8.2.3.5] 6. Societates & connubia cum ijs tantum inire, qui Iehovam verè iuxta verbum eius colunt, 2. Chron. 19.2. Mal. 2.11.
+
+## MANDATVM TERtium de glorificando Deo.
+
+[1.8.3.0.1] III. Ne assumito nomen Jehovae Dei tui in vanum: nam non relinquet Jehova innocentem eum, qui assumpserit Nomen suum in
+vanum.
+
+## Expositio.
+
+[1.8.3.1.1] [Nomen.] Propriè significat Dei titulum: hîc per Synecdochen ponitur pro re qualibet, qua Deus cognosci potest, perinde ac suis homines hominibus: vt pro verbo, operibus, iudiciis, Roman. 1.19. Matth. 23.20, 21, 22.
+
+[1.8.3.1.2] [Assumito.] Metaphora à rebus pretiosis, quas contrectare non licet, nisi concessa venia. Et homines indigni sunt qui vel corde vel ore nomen Dei sanctum vsurpent & quasi contrectent: hoc tamen Deus concedit.
+
+[1.8.3.1.3] [In vanum.] Nulla causa, nulla re, ratione vana & mendace.
+
+[1.8.3.1.4] [Nam.] Sanctio legis vnica ratione; Qui nomine Dei abutitur, reus erit peccati coram Deo, ideóque miserrimus, Psal. 32.1.
+
+[1.8.3.1.5] [Innocentem.] Metonymia pro impune.
+
+## Pars negativa.
+
+[1.8.3.2.1] Honorem & gloriam deo debitam
+ne minuito. Huc pertinent omnes rerum abusus extra solennem Dei cultum, vt
+
+[1.8.3.2.2] 1. Periurium, Matth. 5.23. quod est quando quis non praestat quod ex animi sententia iuravit.
+
+[1.8.3.2.3] 2. Falsum iurare, hoc est, Deum diabolo similem facere, Ioh. 8.44. Zach. 5.4.
+
+[1.8.3.2.4] 3. Iuramentum vsurpare in familiari colloquio, Matth. 5.37.
+
+[1.8.3.2.5] 4. Iuraré per id quod non est Deus, Matth. 5.34, 35. Huc pertinent vsitatae formulae iurandi, per Missam, Ierem. 5.7. per fidem, Matth. 23.22. per Christi mortem, vulnera, sanguinem: quod est Christum denuò cum Iudaeis crucifigere, 1. Cor. 2.8. & eius membra pro Deo ponere.
+
+[1.8.3.2.6] 5. Blasphemiae in Deum, Leuit. 24.16. Quidlibet Dei contemptum redolens.
+
+[1.8.3.2.7] 6. Imprecationes in inimicos nostros: vt abi in malam rem, Diabolus tecum, &c. In nosmetipsos, moriar, Damnetur anima si ita est. Huc, maledictio diei natalis, Iob. 3.3. Hier. 15.10.
+
+[1.8.3.2.8] 7. Leviter vsurpare Dei titulos in colloquio familiari: vt, Deus bone! quàm tardus est: O Iesu! Iesu! vbifuisti? &c. Phil. 2.10. Isa. 45.23.
+
+[1.8.3.2.9] 8. Abusus creaturae: vt, quū irridetur opus Dei, vel modus operis, quum extenuatur excellentia operis, quum vituperantur dona Dei in aliis, & cibi ad mensam appositi; denique quum Deo ex ijs gloria non datur, 1. Cor. 10.31. Rom. 1.19. Psal. 9.17.
+
+[1.8.3.2.10] 9. Sortitiones vanae & inutiles. Sortis enim genuinus vsus est in decisione litium maximarum. Prov. 16.33. Act. 1.23. Prov. 18.18.
+
+[1.8.3.2.11] 10. Incantationes per verba sacra, per herbas, per pharmaca, Deutr. 18.11.
+
+[1.8.3.2.12] 11. Astrologia & genethliaca, & prognostica. In hac arte larvata est abusus coeli, quod non est factum in eum finem vt sit divinationum instrumentum, Gen. 1.14. Psal. 19.1. Isa. 47.13, 14. Act. 19.19.
+
+[1.8.3.2.13] 12. Consecratio aquae & salis apud Papistas, vt sit sanitas animae &
+fuga daemonum, Missal. refor. pag. 96.
+
+[1.8.3.2.14] 13. Facetiae & sales è phrasibus Scripturae, Isa. 66.2.
+
+[1.8.3.2.15] 14. Iudicia Dei parvi pendere, Math. 26.24. Habac. 3.16.
+
+[1.8.3.2.16] 15. Vita dissoluta, Matth. 5.16. Ephes. 5.3, 4, 11. 1. Pet. 3.15, 16.
+
+## Pars affirmativa.
+
+[1.8.3.3.1] Gloriam Deo debitam in omnibus et tribuito, 1. Cor. 10.31. Huc referuntur,
+
+[1.8.3.3.2] 1. Zelus erga gloriam Dei prae omnibus, Exod. 32.32. Num. 25.8.
+
+[1.8.3.3.3] 2. Vsurpare Dei titulos in re gravi cum reverentia, Deut. 28.58. Philip. 2.10.
+
+[1.8.3.3.4] 3. Sanctificare creaturas, & ordinationes Dei omnes: vt cibos appositos, opera vocationis, thorum coniugalem, &c. Huius actionis duo sunt media, verbum & oratio, 1. Tim. 4.5. Verbum ostendit, primùm an vsus rei sit à Deo permissus; deinde quo sancto modo, quo loco, quo tempore, quo animo, quo fine re permissa sit
+vtendum. Oratio à Deo obtinet, vt gratia illius juvemur ad sanctè vtendum. Hinc apparet omnem sermonem & factum omne incipiendum esse in Dei nomine, 1. Sam. 17.45. Mic. 4.5. In nomine Iesu Christo, Coloss. 3.17. Deinde peragendum esse cum laudibus & gratiarum actionibus Deo, & Patri per Christum. Ibid. 1. Thess. 5.10. Philip. 4.6.
+
+[1.8.3.3.5] 4. Sanctum iuramentum, in quo haec cosideranda. Primò, per Deum solum iurandum, quia solus est Iudex & Vindex mendacii. Iaco. 5.12. Dan. 6.13. Secundò, fiat in veritate, ne quid fassum iuretur: in iustitia, ne quid iniustum: in iudicio, ne quid temerè in re levi dicatur. Jerem. 4.2. Isa. 48.1. Tertiò, tum solummodo iurandum, quando aliquid dubium, quod necessario probandum est, non alio argumento quàm iuramenti testimonio commodè probari potest. Hoc autem evenit, quando agitur vel de gloria Dei, vel de pace publica, vel de salute proximi, vel de fide cuiusquā propria. Heb. 6.16.1. Reg. 8.31. Rom. 1.9.2.
+Cor. 1.23. 1. Thess. 2.5. Philip. 1.8.
+
+[1.8.3.3.6] 5. Votum sanctum, in quo tria servanda. 1. Debet esse de re in nostra potestate sita, Deut. 23.21, 22, 23. 2. De re accepta Deo, Deutr. 23.18. Eccles. 5.1, 4, 5. 3. Praestandum, Psal. 66.13.14.
+
+## QVARTVM MANDATVM DE Sabbatho, id est, de sacro tempore colendi & glorificandi Deum.
+
+[1.8.4.0.1] IV. Recordare diem Sabbathi vt sanctifices illum: Sex diebus operaberis, & facies omne opus tuum. Dies verò septimus est Sabbathū
+Iehovae Deo tuo. Ne facito vllum opus tu aut filius tuus, aut filia tua, aut servus tuus, aut ancilla tua, aut iumentum tuum, aut peregrinus qui est intra portas tuas. Nam sex diebus perfecit Iehova coelum & terram, mare, & quicquid est in ijs: quievit vero die septimo: idcirco benedixit diei Sabbathi, & sanctificavit illum.
+
+## Explicatio.
+
+[1.8.4.1.1] [Recordare.] Haec clausula requirit prae parationem ad sanctificandum Sabbathum, praecipuè à dominis familiarum.
+
+[1.8.4.1.2] [Sanctifices.] Sanctificare est rem à communi vsu separare, & divino cultui applicare.
+
+[1.8.4.1.3] [Sex.] Occulta Prolepsis; At difficile est vnum integrum diem operibus nostris vacare. Subiectio est à dissimilibus. Permittam tibi sex diebus operari: Septimo non permittam. Protesis dissimilium est in his verbis. Haec permissio ordinaria tantum est: nam extra ordinē, Ecclesiae permissum est, vnū pluresvè dies è sex diebus, vel ad iciunium, vel ad solennem hilaritatem habendā, constituere. Ioel. 2.15.
+
+[1.8.4.1.4] [Dies.] Apodosis dissimilium in his verbis confirmatur à fine, quia Sabbathum dicatum est Deo & eius cultui: & illustratur à distributione causarum: Cessabis tu, filius, filia, servus, ancilla, iumentum, peregrinus.
+
+[1.8.4.1.5] [Vllum opus.] Ordinarium & liberum,
+Exod. 34.21. Extraordinarium tamen permissum est, si fuerit necessarium, Matth. 12.11.
+
+[1.8.4.1.6] Sabbathum ceremoniale est, quatenus fuit typus significans, 1. Internam sanctificationem quae est velut quies à peccato, Exod. 31.13. Ezech. 20.12. 2. Requiem coeli, Isa. 66.23. Hebr. 4.8. Praeterea quatenus die stato, nimirū septimo à creatione mundi statisue ceremoniis fuit observatum, Levit. 23.3. Num. 28.9 vnde iam desiit ceremonia Sabbathi, Coloss. 2 17. & mutatum est in diem octavum, Act. 20.7. 1. Cor. 16.2. qui dies ob resurrectionem Christi Dies Dominicus dictus est, Apoc. 1.10.
+
+[1.8.4.1.7] Morale est, quatenus conservat ministerium verbi & solennem Dei cultum, praecipuè in conventu Ecclesiae. Hoc autem respectu nobis ab opere cessandum est, perinde ac Iudaeis, Isa. 58.13.
+
+## Pars affirmativa.
+
+[1.8.4.2.1] Sanctificato Sabbathum. Hoc fit, abstinēdo ab operibus peccati, & ordinariae
+vocationis; & faciendo opera Spiritus: quae sunt; primò, Opera secundi & tertii mandati: Audire verbum, & Sacramenta recipere, 2. Reg. 17.3. Publicè invocare nomen Dei, 1. Tim. 2.1, 2. Act. 4.24. & Act. 7.11. Meditari de operibus Dei, Psal. 92. totus. Secundò, Opera misericordiae praestare, visitando aegrotos, iuvando pauperes, monendo, reconciliando, &c. 1. Cor. 16.1, 2.
+
+## Pars negativa.
+
+[1.8.4.3.1] Ne polluito Dei Sabbathum. Hîc prohibentur.
+
+[1.8.4.3.2] 1. Opera vocationis; Nehem. 13.15, 16. Ergò in Sabbatho habere nundinas non licet.
+
+[1.8.4.3.3] 2. Otium & inertia. Hebr. 10.25.
+
+[1.8.4.3.4] 3. Indulgere jocis, delicijs, ludis, & rebus vllis quibus vel impeditur animus vel alienatur à cultu Dei.
+
+[1.8.4.3.5] 4. Externa observatio Sabbathi sine pietatis interna vi. Isa. 1.14. 2. Tim. 3.5.
+
+[1.8.4.3.6] Hactenus de prima tabula: Secunda deinceps est de amando proximum. Rom. 13.9.
+
+[1.8.4.3.7] Proximus est quivis eiusdem carnis nobiscum. Isa. 55.7.
+
+[1.8.4.3.8] Modus amandi est, sic amare proximum sicutnos metipsos, id est verè & ardenter.
+
+[1.8.4.3.9] Tabula secunda continet sex mandata.
+
+## MANDATVM QVINtum de Dignitate & excellentia proximi.
+
+[1.8.5.0.1] V. Honora patrem tuum, & matrem tuam, vt prolongentur tibi dies tui super terram illam, quam Jehova Deus tuus dat tibi.
+
+## Explicatio.
+
+[1.8.5.1.1] [Honora.] Honor per Synecdochen significat, omne id officium quo dignitas ca quae est in persona proximi & praecipuè superioris, conservatur.
+
+[1.8.5.1.2] [Patrem, & Matrem.] Per Synecd. omnes superiores, vt parentes, Magistratus, Ministros, aetate seniores, Donis praecellentes.
+
+[1.8.5.1.3] [Matrem.] Hoc adiectum est, ne ob infirmitatem vilescant matres & praesertim novercae, quibus etiam debitus honor sic praebendus est, ac si essent propriae matres. Ruth. 3.5. Exod. 18.19. Mich. 7.6.
+
+[1.8.5.1.4] [Prolongentur.] Ratio mandati à fine; quae etiam est promissio specialis. Eph. 6.1. Promittit verò Deus longam vitam quatenus ea est benedictio, Deutr. 5.16. Est autem quandoque melius mori quàm viuere. Praeteterea siquando filijs obedientibus dat vitam brevem Deus, rependit vicissim aeternam in caelis: & sic promissum non fallit, sed in melius commutat.
+
+## Pars affirmativa.
+
+[1.8.5.2.0.1] Conseruato dignitatem proximi. Ista dignitas ex eo est quòd singuli homines in se gerunt aliquid imaginis Dei in externis. in magistratu imago est potentiae & gloriae Dei. Psal. 82.1. Dan. 2.38. in sene aeternitatis. Levit. 19.32. in patre paternitatis Dei. Matth. 23.9. in viro providentiae & authoritatis. 1. Cor. 11.7. In Docto, scientiae, &c. jam autem ea persona, in qua elucet vel scintilla imaginis Dei, honorifica statim & reverenda est.
+
+## Sub hac parte jubentur officia.
+
+[1.8.5.2.1.1] 1. Erga superiores omnes, Reverentia, cuius actiones sunt, assurgere venienti. Levit. 19.32. 1. Reg. 2.19. genu flectere, Mar. 10.17. Nudare caput. 1. Cor. 11.7. Adstare sedentibus. Exod. 18.13. Gen. 18.8. Dare sedem priorem. 1. Reg. 2.19. Sermonem priorem. Iob. 32.6. titulos reverentiam prae seferentes. 1. Pet. 3.6.
+
+[1.8.5.2.1.2] 2. Erga superiores authoritate, primo obedientia in mandatis propter
+dominum, Rom. 13.1. etiam duris & malis. 1. Pet. 2.18. non tamen in malo, Act. 4.19. Secundò, subiectio in poenis, Gen. 16.6, 19. etiam injustis. ferenda sunt enim donec remedium legitimum habeas. 1. Pet. 2.19, 20. Tertiò, Gratitudo. 1. Tim. 5.17. in precibus. 1. Tim. 2.1, 2. in externis subsidiis. Gen. 45.9.
+
+[1.8.5.2.1.3] 3. Erga superiores donis, eadem agnoscere & praedicare cum honore. 2. Cor. 8.23.
+
+[1.8.5.2.1.4] 4. Erga aequales omnes. Sentire de ijs honorificè, Phil. 2.3. In dando honore praeire alios alijs, Eph. 5.14. Rom. 12.10. Salutare alios sanctis signis, in quibus eluceat amor ob Christum. 1. Pet. 5.14. Ruth. 2.4. Exo. 18.7.
+
+[1.8.5.2.1.5] 5. Erga inferiores omnes. 1o. gerere se vt fratres. Deutr. 17.20. 2. Reg. 5.14. Iob. 31.13. 2o. praelucere ijs exemplo inculpatae vitae. Tit. 2. 2, 3. 3o. gravitatem ostendere cum dignitate in vultu, factis, verbis. Ibid.
+
+[1.8.5.2.1.6] 6. Erga inferiores obedientia. 1.
+Regere eos in domino ne offendant. Eph. 6.1. 1. Pet. 2.13. 2. punire lapsos, increpando, castigando. Sanctus est modus reos puniendi, ad quem ista requiruntur. 1. exploratione prudenti adhibita certum esse de peccato. 2. offensam è verbo demonstrare, vtrei conscientia tangatur. 3. differre paenam, si emendationis elucet spes. Eccles. 7.23. 4. poenam infligere, Dei nomine sanctè interposito. Iosu. 19.25. 5. Id vnum spectare vt purgetur malum & reus omnino resipiscat. Prov. 20.30.
+
+[1.8.5.2.1.7] 7. Modestia, qua quisque propriae personae dignitatem moderatè curat. Phil. 4.8. ideoque etiam & opus suum & laudem operi debitam ingenuè tuetur & agnoscit. 2. Thess. 1.4. 2. Corinth. 12.5.
+
+## Pars negativa.
+
+[1.8.5.3.1] Excellentiam & dignitatem quae est in persona proximi ne minuito. Huc peccata referuntur.
+
+[1.8.5.3.2] 1. Contra superiores. 1. Irreuerentia.
+Cham, Gen. 9.22. Eius actiones sunt, irridere. Prov. 30.17. maledicere, Exod. 21.17. 2. Inobedientia in licitis, Deut. 21.18. Esau, Gen. 28.9. Rom. 1.30. 3. Ingratitudo. 2. Tim. 3.3. 4. Obedientia in illicitis, Act. 4.19. 5. Se efferre supra maiores suos: haec est peccatum Antichristi. 2. Thess. 2.4. 6. Dona Dei in proximo non agnoscere sed extenuare. 7. 〈 in non-Latin alphabet 〉, Coloss. 3.22. Eph. 66.
+
+[1.8.5.3.3] 2. Contra aequales, praeponere seipsum ijsvel sermone, vel sede. Rom. 12.10.
+
+[1.8.5.3.4] 3. Erga inferiores, 1. negligentia in mandatis vrgendis. 2. diligentia sed non in domino. 3. indulgentia in poenis. 1. Sam. 2.22.23. 4. nimius rigor. Eph. 6.4. 5. minae, Eph. 6.9. 6. impedire ne impositum munus exerceant. Act. 4.5. ad 22.
+
+[1.8.5.3.5] 4. Contra seipsum. 1. dotes à Deo concessas, sordidè se gerendo, obscurare & penè extinguere. Matth. 25. 2. inflari superbîa, & supra quàm par est, sapere. Rom. 12.4.
+
+## MANDATVM SEXtum de vita proximi.
+
+[1.8.6.0.1] VI. Non occîdes.
+
+## Expositio.
+
+[1.8.6.1.1] [Occides.] Per Synechdochen significat vllo modo violare personam proximi. Aequitas mandati in eo est quod homo fuit creatus ad imaginem Dei. Gen. 9.6. hominesque singuli eadem sunt caro. Isa. 58.7. Ergo nemini permissum est occidere, nimirum privato & non vocato: publicis tamen viris & à Deo vocatis licebit, vt Mosi, Exod. 2.12. cum Act. 7.25 Phineae, Num. 25.8.11. Eliae, 1. Reg. 18.40. Militi dum est in bello. 2. Chron. 20.15. Ephoris regni. 2. Reg. 19.15.
+
+## Pars negativa.
+
+[1.8.6.2.1] Ne obesto vel deesto vitae proximi. Peccata quae huc referuntur sunt.
+
+[1.8.6.2.2] In corde, 1. odium proximi. 1. Ioh. 3.15.
+
+[1.8.6.2.3] 2. Ira temeraria. Rom. 1.29.
+
+[1.8.6.2.4] 3. Desiderium vindictae.
+
+[1.8.6.2.5] 4. Indolentia.
+
+[1.8.6.2.6] In verbis, 1. amaritudo. Prov. 13.18.
+
+[1.8.6.2.7] 2. Maledictum quod est exprobratio peccati admissi vel defectus inherentis. Matth. 5.22. 2. Sam. 6.16, 20, 23.
+
+[1.8.6.2.8] 3. Contentio, qua inter duos pluresuè quisque contradicendo superior esse contendit. Gal. 5.20.
+
+[1.8.6.2.9] 4. Iurgium in colloquiis, Ibid.
+
+[1.8.6.2.10] 5. Clamor, id est, indecora vocis elevatio. Ibid.
+
+[1.8.6.2.11] 6. Querelae apud quoscunque de iniuriis ab alio factis, Iam. 5.9.
+
+[1.8.6.2.12] 1. In vultu excandescentia, Gen. 4.6.
+
+[1.8.6.2.13] 2. Risus, Gen. 21.9. cum Gal. 4.29.
+
+[1.8.6.2.14] In factis, 1. caedere proximum & corpus mutilare, Lev. 24.20.
+
+[1.8.6.2.15] 2. Mortem inferre quovis modo. gladio, fame, veneno, &c.
+
+[1.8.6.2.16] 3. Crudelitas in paenis infligendis, Deut. 25.2, 3. cum 2. Cor. 11.24.
+
+[1.8.6.2.17] 4. Laetari ob aliorum miserias & infirmitates, Lev. 19.14.
+
+[1.8.6.2.18] 5. Pauperem opprimere, Exod. 22.23. non tribuendo mercedem operanti, Deut. 24.15. non restituendo vestem datam in pignus, ante noctem. Exod. 22.26.
+
+[1.8.6.2.19] 6. Paenam homicidio voluntario debitam remittere, Num. 35.33, 34.
+
+[1.8.6.2.20] 7. Duellum, id est duorum pugna, litium finiendarum gratia.
+
+[1.8.6.2.21] Huc etiam ea pertinent quae ad animum referuntur. 1. Offensionē praebere vitae impietate. Matth. 18.7.
+
+[1.8.6.2.22] 2. Dare occasiones odij & discordiae. 1. Non remittendo aliquid de iure nostro. 2. Perversè & obstinate respondendo. 3. Dicta quaevis & facta accipiendo in deteriorem partem. Rom. 1.29. 1. Sam. 25.17. & 2. Sam. 10.3.
+
+[1.8.6.2.23] 3. Ministri peccatum, Non docere populum.
+
+[1.8.6.2.24] 4. Negligentia in docendo. Ier. 48.10. Hîc arguenda est ordinaria Ministri absentia à grege sibi commisso.
+Isa. 62.6. cum Act. 20.26, 27. 1. Thess. 2.17. Matt. 6.22. Ezech. 35.6. Nehem. 13.6. Concil. Antioch. c. 17. Concil. Sard. can. 14.15. Concil. Constantinop. 8, c. 24. Socrates. 2. lib. 37. c. Accedit his etiam Damasi decretum. & Concil. Trid. sess. 6. c. 8. permittenda tamen absentia. 1. Si morbus intervenit. Concil. Mogunt. c. 25. August. Epist. 138. 2. Si consensum praebet Ecclesia, ad certum tempus, ob necessarium eius & publicum bonum. Colos. 1.7. cum 4.12.
+
+## Pars affirmativa.
+
+[1.8.6.3.1] Conservato vitam proximi. Huc referuntur officia.
+
+[1.8.6.3.2] I. Quae pertinent ad personam proximi & respiciunt, 1. Bona eius; vt collaetari cum eo. Rom. 12.15. 2. Miserias; ob eas condolere. Rom. 12.15. Ferre opem. Iob. 31.16. quantam possis. 2. Cor. 8.12. statim sine mora. Prov. 3.28. Levit. 19.17. 3. Iniurias. 1. ob levem iniuriam nonirasci. Num. 12.3. Prov. 19.11.
+2. Tardum esse ad iram: quod est irasci tantum ob iustissimam causam. Mar. 3.5. Prov. 14.29. 3. Irasci absque mora. Eph. 4.26. 4. Gratuitò condonare iniuriam absque vindicta. Eph. 4.32.
+
+[1.8.6.3.3] 4. Defectus & infirmitates. 1. vitare causas & occasiones quibus excitentur. Gen. 13.7. Prov. 12.18. 2. Cedere de jure, Matth. 17.26, 27. 3. Excitatas lenire, vincendo bonitate malitiam proximi. Rom. 12.21. Sectando pacem. 1. Pet. 3.9. Iram sedando molli responsione. Pov. 15.1. Praetereundo infirmitates & defectus in dictis & factis. Pro. 19.11. Tegendo per silentium. 1. Pet. 4.8. Prov. 17.9. Denique accipiendo quidlibet, si fieri possit, in meliorem partem. 1. Cor. 13.
+
+[1.8.6.3.4] 5. Recreatio, quae est exercitatio in re media ad corporis robur & animi sanctitatem confirmandam. Hinc Scripturae permittunt vsum arcus. 2. Sam. 1.18. Musicam. Nehem. 7.68. Parabolas. Iudic. 14.12. Venationem. Cant. 2.7. In vestigationem operum Dei. 1. Reg. 4.33.
+
+[1.8.6.3.5] II. Corpus proximi. 1. Alere & vestire. Matt. 24.41. 2. In periculis opem ferre. 1. Iohn. 3.16. 3. Mortuum honestè sepelire. Act. 8.1. & 5, 6, 10. Appendix. Ante vindemiam & messem permittere cuiquam vt spicas & vuas in agro colligat, ad famem sedandam. Deutr. 23. 24, 25.
+
+[1.8.6.3.6] In vindemia & messe spicilegio & racematio abstinere in pauperum gratiam. Ruth. 2.9. Lev. 23.22.
+
+[1.8.6.3.7] III. Animam proximi. 1. Captare omnes occasiones vt lucrifacias proximum ad Christianam religionem. 1. Cor. 10.33. 2. Vitam agere sine scandalo. 1. Cor. 10.32. Et sanctam. 1. Pet. 3.12. Act. 24.15, 16. 3. Admonere lapsum. 1. Thess. 5.14. Lev. 19.17. 4. Exhortari currentem. Heb. 3.12.
+
+## MANDATUM SEPtimum de castitate proximi.
+
+[1.8.7.0.1] VII. Ne scortator.
+
+## Expositio.
+
+[1.8.7.1.1] [Scortator.] Scortari significat ••uidlibet agere quo castitas proximi ••olluitur. Matt. 5.27, 28. 2. Pet. 2.4.
+
+## Pars negativa.
+
+[1.8.7.2.1] Ne obesto vel deesto castitatiproximi. Hîc prohibentur.
+
+[1.8.7.2.2] I. Cordis libido, Matth. 3.27. & ••stio quae est internus aestus libidinis ••etatem cordis velimpediens velob
+••ens. 1. Cor. 7.8.
+
+[1.8.7.2.3] II. Voluptas & delectatio corpo
+••s illicita. 1. Cum bestiis. Levit. 8.23. 2. Cum Diabolo. Sic enim
+est confessio maleficarum: & Spiritus aequè potest miscere se cum lamia atque panem edere. Gen. 19.3. 3. Viri cum masculo & foeminarum invicem. 1. Cor. 6.9. Peccatum est hominis acti in sensum reprobum. Rom. 1.26.29. Et fuit peccatum Sodomae; Gen. 19. Inde appellatur Sodomia• 4. Consanguineorum, incestum, Levit. 18.6, 7, 8. 5. Solutorum, fornicatio, Deut. 22.22.29. 1. Cor. 10.8. & 6.6. 6. Cum coniugato, vel saltem cum desponsato, Adulterium. Poena est idololatriae. Rom. 1.24, 26. Maiu• peccatum furto. Prov. 6.32. Is enim qui hoc peccatum admittir, à proxim• eripit castitatem, à se bonum nomen à filio nondum nato dignitatem inte• homines; praeterea Dei foeous violat• Pro. 2.17. Domum suam lupinar facit; vxoris leno est eam quantum in s• est meretricem faciendo. 2. Sam. 16.22. Iob. 31.9.10. Poena eius in posteros redundat. Iob. 31.12. Clam admissum à Deo revelatur. Num. 5.11• 22. Comitem habet vel stuporem cordis vel insignem honorem. 7. Mariti
+cum vxore dum fluunt menses. Lev. 18.19. 8. Cum proprio corpore, etiam quando non miscetur cum alio. Gen. 38.8. Et quovis modo 〈 in non-Latin alphabet 〉 1. Cor. 7.36.
+
+[1.8.7.2.4] III. Insomnia libidinosa si oriuntur ex impetu concupiscentiae.
+
+[1.8.7.2.5] IIII. Mollicies. Gal. 5.19. qua libidinis occasiones captantur. quae sunt. 1. Oculi pleni adulterij. 1. Pet. 2.14. Mar. 7.21. 2. Otium. 3. Vestitus lascivus. 1. Tim. 2.9. Isa. 3.15. 4. Saturitas panis, & cibi libidinem cientes. Ezec. 16.49. Luc. 16.19. 5. Sermo corruptus, insanus, spurcus. 1. Cor. 15.33. quales habent multa cantica & de amore libri molliusculi. 6. Lascivae representationes in ludis & comoediis. Eph. 5.3. 7. Pictura indecora. 1. Thes. 5.10, 11. 8. Cho
+•ea, id est saltatio foeminae cum vi
+•o. Mar. 6.22. Prov. 7.22. Estue contra viri gravitatem & foeminae modestiam. 9. Societas cum effoeminatis, & mulierosis. Pro. 6.21.
+
+[1.8.7.2.6] V. Poenam adulteris leviculam imponere, qualem instituit Ecclesia
+Romana. Nam hoc est alijs ansam peccandi dare.
+
+## Pars affirmativa.
+
+[1.8.7.3.1] Conseruato castitatem proximi. Castitas est puritas animi & corporis; animi quum liber est à concupiscentia: corporis, quum concupiscentias non exequitur. 1. Thess. 4.5.
+
+[1.8.7.3.2] Virtutes eam conservantes sunt. 1a. Modestia, quae est moderatio in gestu & vestitu. In gestu duo servanda, 1. non debet exprimere concupiscentiam animi. Iob. 31.1. Matt. 5.27, 28. Pro. 7.13.15. Gen. 34.2. 2. Gestus secretus debet esse in loco privato: vnde, in verbo cautum est, vt excrementa emittantur in loco seperato, & emissa tegantur. Deut. 23.12, 13, 14. In vestitu debet esse Decor sanctus. Tit. 2.3. Sanctus decor est qui sanctitatem viri vel foeminae, id est, pietatem, temperantiam, gravitatem, &c. exprimit. Indecorum est à viro geri instrumentum foeminae, vel contra. Deut. 22.5.
+
+[1.8.7.3.3] 2. Sobrietas, quae est moderatio circa diaetam. Haec docet, 1. tempestivè edendum. Eccles. 10.14. 2. Ad robur corporis & animi pietatem excitandam, non obruendam. 1. Thes. 5.6. Luc. 21.34.
+
+[1.8.7.3.4] Castitas est duplex; caelibatus & coniugij. In prima conservanda, dilligentius curanda sanctitas. Psal. 119.9. Frequentius iejunandum. 1. Cor. 9.27. Et vstiones cavendae. vers. 9.
+
+[1.8.7.3.5] Castitas coniugij est eius purus vsus: ad quem haec conducunt. 1. contrahendum cum fidelibus tantū. Gen. 6.2, 3. 2. In domino contrahendum. 1 Cor. 7.39. 3. Non vtendum eo in seperatione muliebri. Ezec. 18.6. Vel in stato ieiunio. 1. Cor. 7.5. 4. Adhibendum ad concupiscentiam domandam non explendam. Rom. 13.14. 5. Cum precibus & gratiarum actione. 1. Tim. 4.3.4.
+
+## MANDATVM OCtavum de Bonis proximi.
+
+[1.8.8.0.1] VIII. Ne furator.
+
+## Expositio.
+
+[1.8.8.1.1] [Furator.] Per Synecdochen appetere rem alienam, fraude obtinere, &c.
+
+## Pars negativa.
+
+[1.8.8.2.0.1] Ne deesto vel obesto bonis proximi. Hic prohibentur.
+
+[1.8.8.2.0.2] I. Vita inordinata. 2. Thess. 3.11. Quae est vel expers vocationis. 2. Cor. 7.21. Vel otiosa, in qua intermisso munere bona & proventus malè impenduntur.
+
+[1.8.8.2.0.3] II. Iniustitia, 1. Cordis, auaritia, Mat. 5.28. haec est idolorū cultus. Eph. 5.5. Coloss. 3.5 & radix malorum omnium. 1. Tim. 6.10. 2. operis, quae est vel in contractu vel extra contractum.
+Iniustitia in contractu est multiplex. 1. Thess. 4.6.
+
+[1.8.8.2.0.4] 1. Emere dona Spiritus. Act. 8.21
+
+[1.8.8.2.0.5] 2. Vendere vel alienare bona Ecclesiae. Mal. 3.8
+
+[1.8.8.2.0.6] 3. Augere iustum rei pretium ob dilatum solutionis diem. Hoc enim est tempus ipsum vendere, & plus debito accipere.
+
+[1.8.8.2.0.7] 4. Corrupta pro puris, speciosa proveris tradere. Isa. 1.22.
+
+[1.8.8.2.0.8] 5. Iniustae mensurae & pondera. Deutr. 25.13, 14. Levit. 19.35. Amo. 8.5.
+
+[1.8.8.2.0.9] 6. Celare rei vitium. Mat. 7.12. Et quovis modo dissimulare. Pro. 20.14.
+
+[1.8.8.2.0.10] 7. Pretium exuperans rei valorem. Hab. 2.11.
+
+[1.8.8.2.0.11] 8. Vsura nummi. Luc. 6.35 Exo. 22.25. Ezech. 18.8. Obiect. Scriptura tantum prohibet Neschech, id est, vsuram mordentem. Resp. Nomen hoc non definit certam vsurae speciem, sed eius communem naturam exprimit. Id apparet, quia Scriptura nusquam vsurae alicuius non mordētis meminit.
+
+[1.8.8.2.0.12] 9. Pignus, commodatum, depositum, inventum, non restituere. Ezech. 18.7. Lev. 6.3. Aut restitutionem differre. Pro. 3.18. Psal. 37.21.
+
+[1.8.8.2.0.13] 10. Detinere mercedem operariorum. Iam. 5.4.
+
+## Extra contractum Iniustitia est.
+
+[1.8.8.2.1.1] 1. Muneribus elicere falsas sententias in iudicio. Psal. 82. Isa. 1.23.
+
+[1.8.8.2.1.2] 2. Mendicis validis victum & vestitum praebere. 2. Thess. 3.10.
+
+[1.8.8.2.1.3] 3. Lusus pro nummis institutus. Non enim licet augere commodum tuum proximi incommodo.
+
+[1.8.8.2.1.4] 4. Proventus ex illicitis artibus, Magia, Astrologia, ludis. Eph. 4.28. Deutr. 18.11 Ephes. 5.3. 1. Thess. 5.22.
+
+[1.8.8.2.1.5] 5. Eripere proximo rem vel minimam, in boni vel maximi gratiam. Mar. 10.19. Rom. 3.8. Siue rapina. 1. Cor. 5.11. Siue dolo. Ezech. 15.17. Et ne in bello quidem. Luc. 3.18.
+
+[1.8.8.2.1.6] 6. Mouere agrorum terminos.
+Pro. 22.28. Hos. 5.10.
+
+[1.8.8.2.1.7] 7. Consentire cum sure vel dando consilium vel celando factum. Prov. 29.24.
+
+## Pars affirmativa.
+
+[1.8.8.3.1] Conservato & augeto bona proximi. In conservandis proximi bonis requiruntur.
+
+[1.8.8.3.2] 1. Vocatio: qua quisque pro doni sui ratione honestae operae incumbit ad suum & proximi commodum. 1. Cor. 7.24. Eph. 4.28. 1. Pet 4.10.
+
+[1.8.8.3.3] 2. Rectus bonorum vsus; ad quem pertinēt duae virtutes. 1. 〈 in non-Latin alphabet 〉 qua statu quisque suo contentus est. 1. Tim. 6.6, 8. Phil. 4.11. Et quarta petitio orationis Dominicae. 2. Frugalitas qua bona & studiosè conservantur & impenduntur tantùm inres necessarias & frugem ferentes. Ioh. 6.12. Pro. 21.5, 17.
+
+[1.8.8.3.4] 3. Veritas in dictis, Prov. 20.14. Et innocua simplicitas.
+
+[1.8.8.3.5] 4. Iustitia in factis. 1. Thess. 4.6. quae multiplex est.
+
+[1.8.8.3.6] 1. In emptione & venditione, in locatione & conductione praediorum fundorum & rerum omnium constituere iustum pretium. Quod est quando res & pretium (quam proximè fieri potest) adaequantur. Hoc vt fiat, hae duae regulae semper in promptu sint. 1a. Vt laboris & sumptuum tuorum;ita commodorum proximi rationem venditor habeto. Lev. 25.14, 15, 16. 2a. Quaecunque volueritis, vt faciant vobis homines, ita & vos facite ijs. Mat. 7.12.
+
+[1.8.8.3.7] 2. Rem proponere vendendam quae & substantia sit & vsu integra.
+
+[1.8.8.3.8] 3. Vti iustis ponderibus & mensuris. Lev. 19.35.
+
+[1.8.8.3.9] 4. In re locata, mercedem debitam & praererea culpam suam conductor praestare debet. Exod. 22.15.
+
+[1.8.8.3.10] 5. Pignus redimere 1. Sam. 17.18. Si ad vitam tuendam valde necessarium, statim restituere. Exod. 22.26. Deutr. 24.6. Non eligere sed oblatum accipere. Deut. 24.10, 11.
+
+[1.8.8.3.11] 6. Fidejubere, 1. tantum pro honestis & notis, &, cum deliberatione.
+Prov. 11.15. & 17, 18, & 22, 26, 27. Quod si fide iubendo fueris illaqueatus humiliatione & ambitu amicorum apud creditorem quaerenda est libertas. Prov. 61, 2, 3.
+
+[1.8.8.3.12] 7. Stipulationes iustas etiam cum damno servare. Psal. 15.4. Iud. 14.12.13.
+
+[1.8.8.3.13] 8. Rem commodare gratis. Luc. 6.35. Exod. 22.25. Etin ea reddenda diligentiam maximam adhibere: ideóque culpa si non aliâs, certè bonorum venditione praestanda est. Exod. 22.14, 15.2. Reg. 4.7.
+
+[1.8.8.3.14] 9. Depositum restituere sine mora. Pro. 3.28. Mat. 21.41. Si perijt, non exigere damnum. Exod. 7.8, 13.
+
+[1.8.8.3.15] 10. Iuventum custodire si est ignotus dominus: & notostatim restituere. Deut. 22.1, 2.3.
+
+## MANDATVM NOnum de Fama proximi.
+
+[1.8.9.0.1] IX. Neproferto cōtra
+proximum tuum testimonium falsum.
+
+## Expositio.
+
+[1.8.9.1.1] [Proferto.] Id est, respondeto quā
+do es à Iudice interrogatus. Deut. 19.18, 19.
+
+[1.8.9.1.2] [Testimonium.] Per Synecdochen omne dictum quo aestimatio proximi violatur & minuitur.
+
+## Pars negativa.
+
+[1.8.9.2.1] Ne deesto vel obesto nomini & existimationi proximi. Hîc prohibentur.
+
+[1.8.9.2.2] 1. Invidia, aemulatio, amor & desiderium gloriae. 1. Tim. 4.6.
+
+[1.8.9.2.3] 2. Suspiciones. 1. Tim. 6.4. 1. Cor. 13.5. Huc, judicia dura & sinistra. Mat. 7.1. Iam. 3.17. Et judicium secundum apparentiam. Ioh 7.24. Prava expositio dictorum alicuius & factorum. 1. Sam. 1.14. Act. 1.14. & 28.4. Relatio verborum tantum, non sensus
+& sententiae proximi. Mat. 26.60, 61. cum Ioh. 2.19.
+
+[1.8.9.2.4] 3. Iniustam in iudicio sententiam efferre: & in vno teste acquiescere. Ioh. 8.17.
+
+[1.8.9.2.5] 4. Fictos & noxios sermones de proximo, vel palam excitare vel clam suggerere. Rom. 1.29, 30. Lev. 19.16. Spargere vel ijs aliquid affingere. Pro. 26.20, 22. 1. Tim. 5.13. Allatos recipere. Exod. 33.1. Sam. 24.10.
+
+[1.8.9.2.6] 5. Accusare proximum ob id quod certum est & verum, exodio. 1. Sam. 22.9. cum Psal. 32.1, 2, 3.
+
+[1.8.9.2.7] 6. Secretum alicuius, praecipue si infirmitatem olet, cuiquam exponere. Matt. 18.18. Prov. 11.12, 13.
+
+[1.8.9.2.8] 7. Sermo dicax & aculeatus. Eph. 5.4.
+
+[1.8.9.2.9] 8. Adulatio, qua plus quam par est proximo tribuitur. Prov. 20.19. & 27.5. Horrendum est peccatum in Ministris verbi. Ezech. 13.10.
+
+## Pars affirmativa.
+
+[1.8.9.3.1] Conservato bonum nomen proximi. Hîc jubentur.
+
+[1.8.9.3.2] 1. Gaudium de bona eius existimatione. Gal. 5.22.
+
+[1.8.9.3.3] 2. Bonum, in quocunque fuerit, agnoscere libenter & in sermone praedicare. Tit. 3.2.
+
+[1.8.9.3.4] 3. Quod verum est & bonum in proximo lubenti & prompto animo excipere. Psal. 15.3. Act. 16.3. Et susurrones improbare. Pro. 25.23.
+
+[1.8.9.3.5] 4. Malum secretum, si non est necessariò narrandum, celare. Prov. 10.12. Matt. 1.19. Obiect. Hoc est hominum peccatis communicare. Resp. Celare debes malum occultum ne proximus irritetur: interim admonendus est vt corrigatur. Matth. 18.17. Gal. 6.1. Iam. 5.20. Excipe, 1o. si hominis mali gloria Dei gloriam obscurat & impedit. Mat. 23.27. 2. si occultatum malum non tollitur, tum ex amore narrandum ijs à quibus tollatur. Gen. 45.8.
+
+## MANDATVM DEcimum de Concupiscentia.
+
+[1.8.10.0.1] X. Ne concupiscito domum proximi tui, ne concupiscito vxorem proximi tui, aut servum eius, aut ancillā eius, aut bovem eius, aut asinum eius, denique quicquid est proximi tui.
+
+## Expositio.
+
+[1.8.10.1.1] [Concupiscito.] Concupiscere est intus cogitare & appetere aliquid mali contra proximum: etsi nullus ad agendum voluntatis consensus accesserit.
+Ratio prima. Ipsi philosophi avaritiam cordis, & legum civilium latores, mali propositum cum aperta deliberatione conjunctum arguunt: cupiditates verò quae hîc prohibentur abditae magis & occultae sunt, quia nonsuerunt Paulo, legis doctori notae. 2. Nisi concupiscentia praecedens consensum hîc prohibetur, in mandatis erit magna confusio. Matth. 5.28.
+
+[1.8.10.1.2] [Domum.] Illustratio mandati è distributione subiectorum. Ex qua apparet concupiscentiam malam hîc tantum damnari. Coloss. 3.5. Quaedam enim est permissa & per se bona vt desiderium cibi & potus, & concupiscentia spiritus. Gal. 5.17.
+
+## Pars negativa.
+
+[1.8.10.2.1] Ne concupiscito aliquod malum in proximum. Hîc prohibentur.
+
+[1.8.10.2.2] 1. Ipsa concupiscentia. Iam. 1.14.
+
+[1.8.10.2.3] 2. Prava quaevis & subita cogitatio quae oritur ex concupiscentiae. Ibid.
+Gal. 5.27. Luc. 10.27. Et suggestio Satanae si ad missa inhaereat, Matt. 4.1.
+
+[1.8.10.2.4] 3. Cogitatio & motio quaevis, delectans quidem & titulans cor, sed non eliciens consensum. Ibid. Huc pertinent, stulta cordis vota, Vtinam haec domus esset mea: vtinam, &c.
+
+## Pars negativa.
+
+[1.8.10.3.1] Concupiscito bonum proximi. Hîc iubentur.
+
+[1.8.10.3.2] 1. Purum cor erga proximum. 1. Tim. 1.5.
+
+[1.8.10.3.3] 2. Sanctae cogitationes & motiones Spiritus. Luc. 10.27. Gal. 5.17. Isa. 30.21.
+
+[1.8.10.3.4] 3. Reprimere pravos appetitus. Rom. 7.24. 2. Cor. 12.8.
+
+## CAP IX. De vsutegis.
+
+[1.9.1] VSVS legis in hominibus non renatis triplex est.
+
+[1.9.2] 1. Ostendere peccatum.
+
+[1.9.3] 2. Operari & augere peccatum, per accidens, ob carnem, qua nitimur in vetitum semper cupimùsque negata.
+
+[1.9.4] 3. Denunciare aeternam damnationem ob inobedientiam vel minimam, nulla salutis oblata spe: Haec sententia legis est, per quam minando & terrendo regnat in hominibus. Huius regni finis est, vt peccatores ad Christum vrgeantur. & eius duratio estaeterna, nisi in hac vita peccator est aeterna, nisi in hac vita peccator resipiscentiā agat: ad cuius primum actum ita definit, vt is sub lege non sit amplius sed sub gratia. Itaque, si vitam aeternam cupis, primùm te viasue tuas debes excutere per singula mandata legis: tum, vbi noveris peccata,
+ob oculos ponenda est maledictio peccatis debita, vt tuam miscriam deflens & vires (quod ad salutem attinet) omnino desperans, teipsum abrenuncies & ad Christum Iesum quaerendum & expetendum incitêre.
+
+[1.9.5] Vsus legis in Renatis, longè est alius: nimirum, eos dirigere ad novam obedientiam in omnivita, acceptam quidem eam Deo per Christum.
+
+## CAP. X. De Evangelio & eius vsit.
+
+[1.10.1] HActenus de lege: sequitur Evangelium: Evangelium est secunda pars verbi Dei optimum, foelilicissimúmque nū
+cium continens: nempe genus humanum per mortem Iesu Christi vnigeniti filij Dei redemptum esse: ita, vt cunctis hominibus (modo resipiscant & credant in Christum Iesum) parata
+sit omnium peccatorum remissio, salus & vita aeterna. Eius ergo vsus est: primo, ostendere iustitiam eam in Christo qua obtineatur salus: secundo, Spiritus sancti instrumentum esse in quo efficaciam suam exerat in fide gignenda per quam credentes Christi iustitiam apprehendant.
+
+[1.10.2] Evangelium in Ecclesia florente, praedicatum; eâdem verò ob communē apostasiā collapsa & iacente, narratum & recittaum, eiusque percepto vel sono, extra ordinem efficax est.
+
+## CAP. XI. De Sacramentis.
+
+[1.11.1] HActenus de Praedicatione verbi: sequuntur eius appendices: nimirum Sacramenta.
+
+[1.11.2] Sacramentū est quo per certos externos ritus Christus eiusque gratiae salutiferae Christiano significantur, praebentur, obsignantur.
+
+[1.11.3] In omni Sacramento considerandae sunt partes & partium Relatio.
+
+[1.11.4] Parres Sacramenti sunt
+Symbolum, quod est
+Praescripta sensibilis materia.
+Actio externa circa eandem.
+Res ipsa
+Christus & illius gratia.
+Actio interna circa Christū.
+Fidei.
+Consideratio Christi.
+Expetitio Christi.
+Apprehensio Christi.
+Receptio Christi.
+Dei
+Oblatio Christi.
+Applicatio Christi.
+Obsignatio Christi.
+
+[1.11.5] Relatio est externorum cum internis, id est, rerum cum rebus, actionum cum actionibus, ex divina institutione vnio 〈 in non-Latin alphabet 〉 & habitudo: per quam fit, quòd signa in externos sensus incurrentia Christianum animum analogia quadam ad considerandas res significatas & applicandas traducunt.
+
+[1.11.6] Ex hac Relatione Sacramentali oriuntur metonymicae loquutiones, quando aliud de alio praedicatur:nam.
+
+[1.11.7] 1o. Signi nomen praedicatur de re significata, vt Pesah est agnus. Panis est caro Christi, Pascha nostrum est Christus. Vnus panis multi sumus.
+
+[1.11.8] 2o. Rei internae nomen de signo praedicatur. Vt panis est corpus Christi, poculū domini est sanguis Christi.
+
+[1.11.9] 3o. Signo attribuitur effectum rei significatae: vt circumcisio est foedus, poculum est novum foedus in sanguine, Baptismus lavacrum.
+
+[1.11.10] 4o. Proprium signi rei significatae tribuitur. Circumcidite praeputium cordis. Nisi comederitis carnem filij hominis & biberitis eius sanguinem, non habebitis vitam in vobis.
+
+## CAP. XII. De Baptismo.
+
+[1.12.1] SAcramenta duo sunt. Primum quo fit admissio in Ecclesiam dei; vt Baptismus: alterum, quo fit perpetua conservatio
+& nutritio in eadem, vt Coena Domini.
+
+[1.12.2] Baptismus est Sacramentum quo foederati abluuntur aqua in nomen Patris Filij & Spiritus sancti, vt Christo insiti cum eo communionem habeant. Foederati sunt qui pertinent ad foedus gratuitum: ijue suntvel adulti, qui accedentes ad Ecclesiam Dei & resipiscunt & doctrinam eius fundamentalem probant; vel Infantes, ex altero saltem parente fideli.
+
+[1.12.3] Ablutio in nomen Patris Filij & Spiritus sancti est insignis testificatio, 1. Dei erga baptizatum, quod Pater velit in gratiam recipere, Filius redimere, Spiritus sanctus abluere & regenerare. 2. Baptizati erga Deum, quod velit neminem agnoscere, invocare, colere, nisi hunc verum Iehovam qui est Pater Filius & Spiritus sanctus.
+
+[1.12.4] Typica delineatio Baptismi.
+Res sensibiles.
+Aqua.
+Relatio Sacramentalis, qua fit vt externa sint.
+1o. Signa repraesentandi.
+2o. Instrumenta exhibendi.
+3o. Sigilla obsignandi nobis interna, id est, Christum, & eius beneficum.
+Sanguis Christi, & per Synecdoch. totus Christus.
+Res spirituales.
+Actiones sensibiles, & externae.
+Ministri, ablutio sordium corporis: in nomen & Patris, & Filij, & Spiritus sancti.
+Aspersio, vel immersio in aquā.
+1. Remissio pecca torum, & imputatio iustitiae Christi.
+2. Mortificatio peccati, vi mortis Christi.
+Dei, absolutio spiritualis, id est, Regeneratio.
+Actiones spirituales, & internae.
+Mora in aqua.
+Progressus. & auctio mortificationis.
+Emersio ex aqua.
+Vivificatio, & Sanctificatio vi resurrectionis Christi.
+Recipientis.
+Dare se abluendum.
+Consecrare se Deo: & diabolo, carni, mundo abrenunciare.
+Recipiētis.
+
+[1.12.5] Rectus vsus Baptismi sic est. 1. Vbi sentis irritatis concupiscentiis, inclinare te ad peccatum aliquod, sancta meditatio habenda est de solenni voto quod Deo in Baptismo nuncupasti. 2. Si ex infirmitate lapsus es vel etiam relapsus, recurre vicissim ad Baptismum, vt illinc te colligas animumue recipias. Nam in eo semel administrato peccatorum remissio non praeteritorum tantum sed etiam praesentium & per omnem vitam futurorum, est data. Vnde Baptismus vere est Sacramentum poenitentiae; & metuenti naufragium fidei scalmus est. 3. Vide nunquam animo acquiescas donec vim Baptismi senseris, id est efficaciam mortis Christi peccatuni mortificantis & virtutem resurrectionis in viuificatione Spiritus.
+
+## CAP. XIII. De Coena Domini.
+
+[1.13.1] COEna Domini est Sacramentum, quo adhibito pane & vino Christi 〈 in non-Latin alphabet 〉 in eodem continuo nutriuntur ad vitam aeternam.
+
+[1.13.2] Typica delineatio Coenae Dominicae.
+Res sensibiles.
+1. Panis.
+2. Vinum.
+Relatio Sacramentalis.
+1. Corpus Christi.
+2. Sanguis Christi.
+Res spirituales.
+Actiones sensibiles, & externae.
+Ministri
+Accipere panem & vinum in manum.
+Obsignare Christum ad munus mediationis. Ioh. 6.27.
+Dei.
+Actiones spirituales, & internae.
+Cōsecrare panē & vinum recitati one promissionis, & precibus in eū finem cōceptis.
+Mittere Christum ad praestandam mediationē, ad quam ab aeterno obsignatus est.
+Frangere panem & effunderevinum.
+Execrabilis passio Christi, & effusio sanguinis.
+Dare panem & vinum in manum recipientis.
+Offerre Christum omnibus etiam hypocritis, sed Christianis vere exhib ere.
+Recipientis Christiani.
+Recipere panem & vinum in manum.
+Apprehendere Christum per fidem.
+Recipientis Christiani.
+Edere panem, & vinum bibere, vt nutritio corporis fiat.
+Applicare sibi Christum, vt vera vnio & communio cú Christo augeatur.
+
+[1.13.3] Sancta praeparatio ad Coenam Domini requirit.
+
+[1.13.4] 1o. Cognitionem praecipue lapsus nostri, & restitutionis in foedere per Christum promissae.
+
+[1.13.5] 2o. Sinceram fidem in Christum. Nam in Sacramento quisque tantum accipit quantum credit se accepturum.
+
+[1.13.6] 3o. Veram resipiscentiam de peccatis; & eandem etiam renovatam ob recentes lapsus ex infirmitate admissos.
+
+[1.13.7] 4o. Reconciliationem cum proximo de iniuriis & offensis.
+
+[1.13.8] Haec si attuleris, à Sacramēto ob creberrimas infirmitates ne abstineas. Obiect. At sentis tibi cor esse pravum & rebelle. Resp.
+Sensus pravae dispositionis optima dispositio est. Coena remedium est aegris & lassatis animis: Ergo, non tam afferendum cor mundum est, quàm in ea quaerendum. Obiect. Magnum sentis defectum fidei. Resp. Obnixè orato Deum vt fidem augeat: id si minus ipse praestes, vtere subsidio fidelium, quite quasi paralyticum
+humeris deportent, Christoque sistant.
+
+[1.13.9] Si haec non attuleris, reus eris corporis & sanguinis Christi; simili plane ratione, ac is qui violat coronam vel nūmum regis, reus est laesae Maiestatis.
+
+## CAP. XV. De gradibus exequutionis decreti Electionis.
+
+[1.14.1] DIctum est de externis mediis exequē
+di decreti Electionis: sequuntur deinceps exequutionis gradus.
+
+[1.14.2] Gradus duo sunt: Amor Dei & amoris declaratio.
+
+[1.14.3] Amor Deiest quo Deus homines in se corruptos in Christo tamen electos gratis amat.
+
+[1.14.4] Amoris declaratio duplex est. Prima in electis infantibus; altera in adultis.
+
+[1.14.5] Declaratio divini amoris in infantibus ista est. Electi infantes, vel in vtero vel statim atque nati sunt ratione abdita & ineffabili per spiritum Dei Christo insiti, morientes salvantur.
+
+[1.14.6] Declaratio amoris divini in adultis quatuor praecipuè gradus continet.
+
+## CAP. XVI. De primo gradu declarationis amoris Dei.
+
+[1.15.1] PRimus gradus est vocatio efficax qua peccator seperatus à mundo receptus est in dei familiàm.
+
+[1.15.2] Partes habet tres. Prima est Electio, quae est seperatio peccatoris à mundo. Secunda est Donatio patris qua salvandum Christo dat. Tertia est vnio, quae est insitio in Christum, & cum eodem coalitio: vt Christus speciali ratione caput
+sit, peccator membrum: Haec vnio realis & maximè arcta est non tamen per contactum vllum, vel comixtionem, vel ferruminationem animae ad animam, vel etiam per nudam consentionem animorum: sed per communionem & efficaciam eiusdem Spiritus; qui infinitus est & potest perinde res maximè disjunctas vnire: sicut eadem anima caput & pedes coniungit.
+
+[1.15.3] Vocationis exequutio suis constat mediis.
+
+[1.15.4] Primum est. Salutaris auditio verbi quando homini in peccatis mortuo & de salute ne cogitanti quidem extrinsecus enunciatur verbum Dei: lex primò ostendens peccatum & peccati poenam damnationem: tum Evangelium ostendens salutem in Christo cum conditione fidei: & intus oculi illuminantur, cor & aures aperiuntur vt audiat & verè intelligat verbum Dei predicatum.
+
+[1.15.5] Secundum est: Emollitio cordis quod penitus conterendum est, vt sit idoneum ad recipiendam salutarem
+gratiam. Ad cor emolliendum quatuor inserviunt.
+
+[1.15.6] 1. Cognitio legis Dei.
+
+[1.15.7] 2. Cognitio tum peccati & Originalis & actualium: tum poenarum peccati.
+
+[1.15.8] 3. Compunctio cordis, quae est sensus irae divinae ob eadem peccata.
+
+[1.15.9] 4. Sancta desperatio de propriis viribus quod ad salutem attinet.
+
+[1.15.10] Tertium est Fides: quae est miranda efficacia cordis Christum apprehendentis & ad se recipientis.
+
+[1.15.11] Christi receptio est, quando quisque sibi speciatim applicat Christum eiusque merita, per internam persuasionem cordis, quae non aliunde existit quàm ex efficaci (vt ita loquar) certioratione Spiritus sancti de misericordia Dei in Christo Iesu.
+
+[1.15.12] In ortu fidei quinque sunt gradus siue motus cordis, invicem connexi & à Christianis praecipuè notandi.
+
+[1.15.13] Primus: Notitia Evangelij per illuminationem Spiritus sancti. Huic annexa est in humiliatis, attenta consideratio
+promissionum Evangelij, ex intimo sensu inopiae suae: & in illuminatis omnibus, Fides generalis, qua praebent assensum Evangelio. Haec si plenior est & perfectior appellatur
+〈 in non-Latin alphabet 〉.
+
+[1.15.14] Secundus: Spes veniae, qua peccator etsi nondum sentit remissum esse peccatum, remissibile tamen esse credit.
+
+[1.15.15] Tertius: Esuries & vehemens expetitio gratiae quae est oblata in Christo Iesu.
+
+[1.15.16] Quartus: Accessus ad thronum gratiae, vt apprehenso ibidem Christo inveniamus misericordiam apud Deum. Eius partes sunt duae: prima est humilima confessio peccatorum; quae particularium esse debet, si nota sint peccata: generalis tantùm, si, ignota: & eam iam actam immediatè sequetur peccatorum remissio coram Deo. Secunda est deprecatio pro remissione peccatorum cum gemitibus inexplicabilibus, & cum perseuerantia.
+
+[1.15.17] Quintus: Specialis persuasio cordi
+à Spiritu sancto impressa, qua promissiones Evangelicas quisque sibi speciatim applicat; etiam ante experientiam.
+
+[1.15.18] Haec de ortu fidei: cuius praeterea sunt gradus insignes duo, infimus & supremus.
+
+[1.15.19] Infimus est 〈 in non-Latin alphabet 〉, quae est parva vel infirma fides, velut granum sinapis & linum fumigans: quod praedebilitate nec calorem, nec flammam sed tantum fumos emittit.
+
+[1.15.20] Infirma fides est quando ex illis quinque gradibus, vel notitia, vel applicatio promissionum valde infirma est; caeteris quidem firmis.
+
+[1.15.21] De hac tenendae sunt duae regulae. 1a. Serium credendi studium & desiderium obtinendae gratiae, nascentis fidei semen est. 2a. Deus non aspernatur exiguam fidem, modo paulatim crescat, & media quibus incrementa dantur non repudiet.
+
+[1.15.22] Summus gradus fidei est
+〈 in non-Latin alphabet 〉, quae est non solum vera & certa sed etiam plena persuasio cordis qua statuit Christianus Deum amare
+se & velle sibi speciatim Christum eiusque gratias omnes, ad salutem pertinentes dare. Iste gradus sequitur post sensum, observationem, experientiam habitam de amore Dei.
+
+## CAP. XVII. De secundo gradu declarationis amoris Dei.
+
+[1.16.1] SEcundus gradus est Iustificatio, qua credentes iusti coram Deo per obedientiam Christi acceptantur. Eius partes duae sunt, Remissio peccatorum & Imputatio iustitiae. Remissio peccatorum est, qua reatus & poena peccati à credēte per Christi passionem removetur.
+
+[1.16.2] Imputatio iustitiae, qua per iustitiam Christi credentes obtecta peccati culpa, iusti censentur. Forma Iustificationis est quaedam translatio peccatorum credentis in Christum & vicissim iustitiae Christi in credentem, per imputationem facta; vt apparet in isto Diagrammate.
+
+[1.16.3] Christus Salvator justus.
+Iustificatus
+Passio.
+Obedientia.
+Sanctitas.
+
+[1.16.4] Salvandus peccator.
+Peccator
+Reatus.
+Inobedientia.
+Corruptio.
+
+[1.16.5] Iustificationi annexa est Adoptio, per quam, omnes ad eam praedestinati potestatem accipiunt vt actu censeantur filij Dei per Iesum Christum.
+
+[1.16.6] Hinc etiam multis privilegiis donantur. Primò sunt haeredes Dei: Deinde sunt cohaeredes Christi & Reges. Tertiò, afflictiones omnes & iam defectus atque lapsus tantum sunt castigationes paternae ad bonum illorum. Quartò, Dominium habent in omnes creaturas terrae. Postremò,
+Angelos habeat ministros ad commodum suum.
+
+## CAP. XVIII. De tertio gradu declarationis amoris Dei.
+
+[1.17.1] TErtius gradus est Sanctificatio, qua credentes liberati à tyrannide peccati, paulatim intrinsecus renovantur in sanctitate & iustitia.
+
+[1.17.2] Sanctificationis partes sunt, Mortificatio & viuificatio.
+
+[1.17.3] Mortificatio peccati, qua peccati vis paulatim debilitatur & interimitur. Eius
+
+[1.17.4] Remedium, est mors & sepultura Christi, à quibus vis procedit, quae vim grassandi peccato adimit, & quasi in sepulchro facit mori & computrescere.
+
+[1.17.5] Vivificatio, est qua sanctitas inhaerens & inchoata, perpetuo & paulatim
+augetur. Primo enim accipimus primitias spiritus, tum earum continuam auctionem. Eius
+
+[1.17.6] Efficiens est Spiritus sanctus efficaciterse in credentes insinuans, & in iis sanctitatem creans.
+
+[1.17.7] Remedium est virtus à resurrectione Christi emanans in eos & faciens vt in vitam novam resurgant.
+
+[1.17.8] Sanctitas rursus pro facultatum hominis varietate multiplex est.
+
+[1.17.9] 1. Sanctitas mentis est eius illuminatio in agnitionem voluntatis Dei. Estque spiritualis vel intelligentia vel sapientia. Intelligentia spiritualis est, qua notam verbi Dei veritatem agnoscimus. Sapientia est, qua veritas eadem ad res & actiones particulares rectè administ•andas, pro circumstantiis personarum, locorum, temporum, applicatur.
+
+[1.17.10] Vtriusque effecta sunt, discretio boni & mali, dijudicatio spirituum, Meditationes de verbo & operibus Dei, agnitio internae caecitatis.
+
+[1.17.11] 2. Sanctitas memoriae, est vis custodiendi rem bonam menti oblatam,
+& eiusdem reminiscentia.
+
+[1.17.12] 3. Sanctitas conscientiae, est vis excusandi hominem de peccatis omnibus in Christo remissis, & de vita cum integritate acta. Hinc oritur interna pax Dei, & externa in vultu alacritas.
+
+[1.17.13] 4. Sanctitas voluntatis, qua incipit velle bonum, & malum nolle. Est ergo partim à peccato liberata, partim serva.
+
+[1.17.14] 5. Sanctitas affectionum, est earum recta commotio. Hac laude inprimis sunt illustres, 1. Spes, qua cum suspirijs expectamus complementum redemptionis. Spei confirmatae & viuae sua quoque est 〈 in non-Latin alphabet 〉. 2. Timor offensionis dei f ob misericordiam. 3. g Vilis aestimatio omnium prae Christo Iesu. 4. Amor erga Deum in Christo, qui sit instar mortis & sicut ignis qui non potest extingui. 5. Zelus feruidus erga gloriam Dei. 6. Angor excrucians animum ob peccata mundi. 7. Exuperantia gaudij Spiritus Sancti.
+
+[1.17.15] 6. Sanctitas corporis per quam
+aptum est, vt sit instrumentum animi in bono perficiendo.
+
+## CAP. XIX. DE RESIPISCENtia, & eius fructibus.
+
+[1.18.1] ESANCTIFICATIONE exoritur resipiscentia: nemo enim prius resipuerit quàm peccatum coeperit odisse.
+
+[1.18.2] Resipiscentia est, quando quis conuertit se ad Deum. Hoc autem fit, quando quispiam actus à Spiritu Sancto, statuit, vult, desiderat, conatur, peccata sua relinquere, & vitam novam agere.
+
+[1.18.3] Resipiscentiae fructus est Christiana conversatio, in qua eduntur opera digna ijs qui resipiscunt.
+
+[1.18.4] Christiana conversatio est, qua Christum imitantes Deo novam
+obedientiam per eum praestamus.
+
+[1.18.5] Nouae obedientiae duo sunt adminicula, Ieiunium & votum.
+
+[1.18.6] Ieiunium est quo sentientes vel defectum alicuius boni vel calamitatem impendentem in se vel alios ab omnibus vitae adiumentis ad tempús abstinent vt diligentius explorent peccata sua & humillimas deprecationes, ad iram dei auertendam, faciant.
+
+[1.18.7] Votum quoque inseruit ad nos in officijs sanctitatis continendos: eius autem rectè nuncupandi rationem in explicatione 3. mand. posuimus.
+
+[1.18.8] Nonae obedientiae partes sunt, Abnegatio nostri & professio Christi.
+
+[1.18.9] Abnegatio nostri est vel Christiana militia vel tollerantia crucis.
+
+## CAP. XX. DE CHRISTIANA MILITIA.
+
+[1.19.1] CHristiana militia est de bello Spirituali ritè gerendo.
+
+[1.19.2] Eius partes sunt, Apparatus & conflictus.
+
+[1.19.3] Ad apparatum adhibenda est Panoplia dei. cuius partes sunt praecipue sex: 1. veritas. 2. iustitia 3. obedientia euangelica 4. fides. 5. verbum dei. 6. preces assiduae & feruentes cum vigilantia.
+
+[1.19.4] Conflictus est actio mutua spiritualiter certantium.
+
+[1.19.5] Certantes snnt, Tentator & miles Christianus. Tentator est vel princeps vel subsidiarius. Princeps est Satanas cum suis angelis qui spirituales sunt nequitiae in caelestibus. Subsidiarius est Caro & Mundus.
+
+[1.19.6] Horum actio Tentatio est; qua instigatur homo ad malum animae saluti noxium.
+
+[1.19.7] In milite duo consideranda sunt: Antistasis & Lapsus.
+
+[1.19.8] Antistasis est, qua tentationi resistit per gratiam intus agentem. Ad hanc firmandam ista inseruiunt prophylactica.
+
+[1.19.9] 1. Tentatus ad peccatum, non solum abstineto, sed etiam contrarium diligenter facito.
+
+[1.19.10] 2. Aslerenti Satanae nunquam assentiendum; siue dicat verum, siue accuset falsò, siue blandiatur.
+
+[1.19.11] 3. Tentatio vna expectanda est ex altera, etiam tum maximè quando hostis quasi actis inducijs quiescit. Nam diabolus otium malitiae suae nunquam facit.
+
+[1.19.12] Lapsus est quo miles ex infirmitate deficit hostium impetu victus.
+
+[1.19.13] Huc pertinet Remedium Spirituale, quod ad
+〈 in non-Latin alphabet 〉 faciendam est aptum. & hîc duo semper cogitanda sunt.
+
+[1.19.14] 1. Si adsit promtus animus, quisque acceptus est pro ea gratia quam habet, non pro ea quam non habet.
+
+[1.19.15] 2. In ijs omnibus qui volunt piè viuere
+in Christo potentia dei perficienda est per infirmitates.
+
+[1.19.16] Conflictus est triplex. Primus est circa vocationem.
+
+[1.19.17] Hîc tentatio est Diaboli conatus in mente excaecanda, & corde indurando ne verbum Dei sit ad salutem efficax.
+
+[1.19.18] Antistasis in vocandis fit per Spiritum Dei, qui dat aures vt audiant, & verbum cordi inserit, vt regenerationis fiat immortale semen.
+
+[1.19.19] Antistasis in vocatis est quando in corde honesto sermonem auditum cum fide miscent.
+
+[1.19.20] Hîc prophylactica sunt. 1. Praemeditatio de vi & vsu verbi. 2. Mē
+tis attentio. 3. Cordis esuries. 4. Innocentia vitae. 5. Abiectio prauorum affectuum. 6. Cordis internus concentus cum audito verbo. 7. Occultatio verbi in corde ne peccemus. 8. Tremor ob Dei praesentiam in conuentu Ecclesiae.
+
+[1.19.21] Lapsus est Tepor in verbo recipiendo & eiusdem neglectus, vel etiam ad errorem defectio. Horum remedium
+est subiectio, fratrum & Ministrorum censuris facienda.
+
+[1.19.22] Secundus conflictus est circa fidem.
+
+[1.19.23] Tentatio est illusio iniecta cordi à Diabolo, vt, non es electus, non es iustificatus; Fidem non habes, damnandus es ob peccata. Illusionum quoque istarum procatarctica sunt. 1. Res aduersae, vt pericula, damna, persequutiones, scandala tristissima. 2. Recordatio peccati praeteriti. 3. Sensus mortis iam adstantis.
+
+[1.19.24] Antistasis fit per veram fidem, Christum eiusque merita singula speciatim applicantem, hoc modo; credo me non damnandum, sed electum in Christo & iustificatum esse.
+
+[1.19.25] Prophylacticon est, in tentatione non aspicere fidem sed obiectum fidei, Christum.
+
+[1.19.26] Lapsus est dubitatio vel Dessperatio de Electione & de misericordia
+Dei.
+
+[1.19.27] Remedium est duplex: primum operatio Spiritus Sancti exuscitantis fidem & augentis.
+
+[1.19.28] Alterum est sancta meditatio, quae multiplex est. 1. Mandatum esse Dei vt credamus in Christum. 2. Promissiones Evangelicas indefinitas esse & neminem excludere, nisi quis forte seipsum excluserit. 3. Dubitationes & Desperationes grauissima esse peccata. 4. Contra spem sub spe credendum cum Abrahamo. 5. Et misericordiam Dei & efficaciam obedientiae Christi esse infinitam. 6. Obedientiam Deo debitam, affectu magis quam effectu aestimandam esse. 7. Remisso peccato vel vno, esse omnia remissa: quia remissio semel data absque vlla praescriptione temporis in aeternum est data. 8. Lapsu non tolli gratiam & fidem sed illustrari.
+
+[1.19.29] Tertius conflictus est circa sanctificationem.
+
+[1.19.30] Tentatio est sollicitatio ad peccatum, prout natura cuiusque & occasio tulerit.
+
+[1.19.31] In hac tentatione Diabolus peccatum admittendum mirè extenuat partim opponendo misericordiam Dei, partim peccati poenas occultando.
+
+[1.19.32] Deinde praebent ei subsidium. 1o. Caro quae concupiscit aduersus Spiritum quâ gignendo prauos motus & affectus, quâ bonos obruendo. 2o. Mundus, qui voluptate, vtilitate, gloria, prauis exemplis ad inobedientiam abducit.
+
+[1.19.33] Antistasis fit per concupiscentiam Spiritus qui bonos motus & affectus gignit, prauos autem dispellit.
+
+[1.19.34] Prophylactica sunt. 1. Nullum peccatum leue existimare. 2. Occasiones peccatorum fugere: de his illud, longe, tarde, citò. 3. Paruis peccatis subigendis assuescere, vt tandem vincantur vel maxima. 4. Vocationi incumbere, & in ea semper aliquid
+operosè agere. 5. Carni lasciuienti opponere legem, iudicia dei, vltimum iudicium, praesentiam Dei gloriosam, &c.
+
+[1.19.35] Lapsus est quum quis praeoccupatus ad offensam aliquam deficit. Hîc Satanas peccatum admissum mirè exaggerat, & peccatorem adhibitis Dei iudiciis accusat atque terret.
+
+[1.19.36] Remedium est Resipiscentia renovata: cuius initium est dolor secundum deum ob idem peccatum; fructus verò septem praecipuè sunt. 1. Studium bene agendi. 2. A,〈 in non-Latin alphabet 〉.i. confessio peccati coram Deo cum deprecatione culpae. 3. Indignatio contra se ob offensam. 4. Timor non tam poenae quam offensionis Dei. 5. Desiderium plenae renovationis à peccato. 6. Zelus in Deo diligendo & praeceptis eius amplectendis. 7. Vindicta, qua caro domatur ne in posterum talis offensa fiat.
+
+## CAP. XXI. DE TOLERANtia crucis.
+
+[1.20.1] TOlerantia crucis est de cruce ritè perferenda.
+
+[1.20.2] Crux est afflictionum certa mē
+sura, cuique fidelium à Deo destinata.
+
+[1.20.3] Haec animo prompto suscipienda tum est, quum fuerit à Deo imposita.
+
+[1.20.4] Sustinenda quoque est cum patientia & perseuerantia.
+
+[1.20.5] Patientiae prophylactica sunt. 1. Corroboratio Spiritus sancti. 2. Sancta meditatio quae multiplex est. 1. Fideles non affligi casu sed consilio & prouidentia Dei res omnes optima ratione disponentis. 2. Afflictiones, vtcunque acerbae sint, vtiles
+tamen esse & bonas. Quia faciunt, vt coram Deo de peccatis humiliati, pacem & sanctimoniam consequamur. 3. Promisisse Deum auxilium, mitigationem poenarum, praesentiam suam & liberationem. 4. Christum nobiscum afflictionum omnium socium esse. 5. Angelos defensores adesse timentibus Deum.
+
+## CAP. XXII. DE INVOCATIONE DEI.
+
+[1.21.1] HActenus de Abnegatione nostri, sequitur professio Christi: Quae respicit vel ipsum Christū vel Christi membra, id est, fideles.
+
+[1.21.2] Professio, quae in ipsum Christum directè fertur est vel perpetua vel in periculis
+tantùm.
+
+[1.21.3] Perpetua, est Invocatio Dei quae semper facienda est per Mediatorem Christum.
+
+[1.21.4] Invocatio Dei est, vel Precatio vel gratiarum actio.
+
+[1.21.5] Precationis partes sunt duae, Petitio & assensus. Petitio est qua iuxta verbum Dei imploramus opem eius de necessariis quae desunt. In singulis petitionibus exprimenda sunt duo: sensus indigentiae nostrae & desiderium gratiae Dei, indigentiam supplentis.
+
+[1.21.6] Assensus est quo Deum & petitiones iam factas opportunè concessurū & credimus, & apud Deum testamur.
+
+[1.21.7] Fideles vtcunque in precibus suas infirmitates ostendunt: eximium tamen sensum percipiunt gratiae diuinae; presertim quando feruidè & continenter Deum invocant.
+
+[1.21.8] Gratiarum Actio est qua cum laetitia & exultatione cordis Dei laudes celebramus pro beneficijs vel acceptis vel promissis.
+
+## CAP. XXIII. DE APOLOGIA & Martyrio.
+
+[1.22.1] PRofessio Christi in periculis est vel oris vel facti.
+
+[1.22.2] Oris vt Apologia Christiana. quae est quando corā infidelibus in quibus resipiscentiae spes est, periclitata Dei gloria, quoties opus est, veritatem Christianae religionis, cum timore & mansuetudine praeparati confitemur.
+
+[1.22.3] Professio facti est Martyrium, Martyrium est quando Christianus pro doctrina fidei, pro iustitia, pro fratrum salute, etiam mortem ab aduersarijs Christi illatam suscipit.
+
+[1.22.4] Interim fuga Christianis permittenda est, si spiritu confirmati non sunt.
+
+## CAP. XXIIII. DE AEDIFICATIone & Eleemosyna inter fideles.
+
+[1.23.1] PRofessio Christi quae respicit eius membra, id est, sā
+ctos & fideles, est vel aedificatio vel eleemosyna.
+
+[1.23.2] AEdificatio estomne id officium erga fratres, quo vel augentur in Christo vel in eo magis coalescunt. Huc pertinent, sanctum exemplum, exhortatio, consolatio, Admonitio: cuius praestandae sanctus modus est, si Spiritu comitatis & quasi conscius eiusdem infirmitatis fratrem omnem de culpa certò cognita è verbo Dei statim monueris.
+
+[1.23.3] Eleemosyna sanctorum propria est, qua Divites pauperum inopiam, ex
+abundantia sua, iuxta vires suas & etiam supra vires, subleuant.
+
+## CAP. XXV. DE QVARTO GRADV declarationis amoris Dei: & de statu Electorum quando sunt mortui.
+
+[1.24.1] QVartus gradus declarationis amoris Dei est glorificatio: quae est perfecta Sanctorum transformatio in imaginem filij Dei.
+
+[1.24.2] Initium glorificationis est in morte: absolutio & complementum fit in vltimo Iudicio.
+
+[1.24.3] Mors Electorum est somnus in Christo, in quo fit seperatio corporis & animae: corporis, vt putrescendo fiat capax gloriae: animae, vt plenè sanctificata,
+immediatè post seperationē in coelum transferatur. Mors ergo fidelibus minus timenda est; vtpote cui stimulus à Christo ablatus est.
+
+[1.24.4] Animae in coelum receptae, ibidem manent vsque ad vltimum Iudicium, partim laudantes Deum, partim cō
+summationem regni gloriae plenamue foelicitatem & expectantes & petentes.
+
+## CAP. XXVI. DE STATV ELECTOrum in vltimo Iudicio.
+
+[1.25.1] VLtimum Iudicium sic erit.
+
+[1.25.2] I. Immediate ante aduentū Christi, coelorum potestates concutiētur, sol & luna lucem non edent, stellae videbuntur è coelo cadere.
+His visis, electiviui laetabuntur, & reprobi contremiscent.
+
+[1.25.3] II. Tum coelum conflagrans rotularum stridore praeteribit, & elementa, cum terra, & operibus quae sunt in ea, exusta peribunt. Eodem tempore quo haec fiunt, vltima tuba audietur per Archangelum insonanda, Christusue adueniet subitò in nubibus cum potentia & gloria, & comitatu Angelorum.
+
+[1.25.4] III. Iam ad auditam tubam Electi mortui suis corporibus resurgent: & corpora redacta in cinerem & lacerata, virtute Dei restituentur, atque animae è coelorum sede in corpora traducentur. Qui viui tum corporis fuerint, in momento mutabuntur, & haec mutatio erit instar mortis. Tū erit redemptio corporis & omnium electorum corpora fient similia glorioso corpori Christi ideoue erunt spiritualia, immortalia, gloriosa, omni impotentia & infirmitate vacua.
+
+[1.25.5] IIII. Tum omnibus coactis antè thronum Christi, electos seperatos à reprobis & in aërem evectos. 1. Thes.
+4.5. ad dextram statuet, ijsque in libro vitae conscriptis sententiam dicet. Venite benedicti patris mei, & possidete regnum paratum vobis à fundamentis mundi.
+
+## CAP. XXVII. De statu Electorum post vltimum iudicium.
+
+[1.26.0.1] POST vltimum Iudicium immediatè sequetur aeterna beatitudo in coelis.
+
+[1.26.0.2] Beatitudo est, qua Deus ipse est omnia in omnibus Electis.
+Estque merces bonorum operum, gratuita quidem propter imputatam electis Christi iustitiam.
+
+[1.26.0.3] Beatitudinis partes, duae vita aeterna
+& gloria completa.
+
+[1.26.0.4] Vita aeterna est cōmunio cum deo, qua deus ipse per Christū Agnū, Electis vita est. Nā in coelo non egebunt cibo, potu, sōno, aëre, calore, frigore, respiratione, medicina, vestimentis, luce solis & stellarum: sed horum omnium vicem supplebit spiritus Dei, à quo immediatè viuificati in aeternum manebunt.
+
+[1.26.0.5] Gloria completa est mirabilis Electorum excellentia qua optimè se habebunt. Haec gloria in tribus est. 1. Quod faciem Dei, id est, gloriam & maiestatem intuebuntur. 2. Quod erunt Christo, simillimi, id est, iusti, sancti, incorruptibiles, gloriosi, honorabiles, clari, pulchri, fortes, potentes, agiles. 3. Quod possidebunt haereditatem regni coelorum & etiam coelum atque terram perignem renouata.
+
+[1.26.0.6] Vtriusque fructus duplex erit, Laetitia sempeterna & perfectus Dei cultus.
+
+[1.26.0.7] Cultus Dei partes sunt laus Dei & Gratiarum actio.
+
+[1.26.0.8] Modus praestandi hunc cultum est, Deum colere per Deum. In coelo non erit templum, ceremonia, Sacramentum, sed locum istorum supplebit ipse Deus & Agnus, id est, Christus.
+
+[1.26.0.9] Tempus. sine vlla intermissione quotidianum est.
+
+## Corollarium.
+
+[1.26.1.1] SIC Deus saluando Electos, & iustitiam & misericordiam ostendit: iustitiam, quod peccata Electorum in persona filij vindicauit; misericordiam, quod ijs peccata propter filij merita remisit.
+
+[1.26.1.2] Haec autem omnia sic decreuit Deus, & tandem perficiet ad nominis sui gloriam.
+
+## CAP. XXIII. DE REPROBATIonis decreto.
+
+[1.27.1] HActenus de decreto Electionis: sequitur decretum reprobationis, quo Deus iusto iudicio certos constituit rejicere ad aeternam damnationem, ad laudem iustitiae.
+
+[1.27.2] In exequutione huius decreti considerantur fundamentum & gradus.
+
+[1.27.3] Fundamentum exequendae reprobationis, est lapsus Adami, per quem Reprobus & peccato & damnationi obnoxius est. Hîc notandum est, sic Deum aliquos decreuisse damnare, vt omnis damationis & culpa & meritū in ipsis hominibus resideret.
+
+[1.27.4] Porro, quos Deus rejecit ad damnationem, eos odio habet. Hoc odium Dei est, quo Deus reprobos in peccatum lapsos, ob id peccatū detestatur.
+Et hoc odium effectum est lapsus Adami, decreti verò reprobationis, non antecedens est, neque causa, sed tantum consequens.
+
+## CAP. XXVIII. De gradibus exequutionis detreti Reprobationis.
+
+[1.28.1] REprobi sunt vel infantes vel Adulti.
+
+[1.28.2] In reprobis infantibus Exequutio decreti sic est. Vbi primùm nati sunt ob primarij & natiui peccati reatum sibi relicti, morientes reprobantur in aeternum.
+
+[1.28.3] Reprobi adulti sunt duorum generum, vocati (vocatione nimirum inefficaci) et non vocati.
+
+[1.28.4] In reprobis qui vocantur, exequutio decreti reprobationis tres habet gradus,
+Agnitionem vocationis diuinae, Relapsum, Damnationem.
+
+[1.28.5] Agnitio vocationis Dei, est qua Reprobi ad tempus subjiciunt se vocationi per verbi praedicationem factae. Eiusque alij quinque sunt gradus.
+
+[1.28.6] Primus est Illuminatio, qua instruuntur à Spiritu sancto ad intelligē
+tiam & agnitionem verbi.
+
+[1.28.7] Secundus est
+〈 in non-Latin alphabet 〉, id est, poenitentia qua Reprobus. 1. Agnoscit peccatum. 2. Sensu irae diuinae ob peccatum compungitur. 3. Dolet ob poenam peccati. 4. Confitetur peccatum. 5. Deum in puniendo peccato iustum fatetur. 6. Salutem desiderat. Sub cruce resipiscentiam pollicetur, his verbis; non peccabo amplius.
+
+[1.28.8] Tertius gradus est Fides temporaria, qua Reprobus promissionibus in Christo factis confusè credit. Confusè dico: quia reprobus certos saluandos credit, se speciatim saluandum non credit, quia generali fide contentus, nunquam sibi promissiones Dei applicat; ne dum concipit, propositum,
+desiderium, conatum applicationis, vel etiam luctam vllam cum securitate & diffidentia.
+
+[1.28.9] Quartus est gustus, & donorum coelestium, vt iustificationis, sanctificationis: & virtutum futuri sae culi. Hic gustus est quidam sensus in cordibus reproborum quo percipiunt excellentiam beneficiorum Dei, ijs tamen perinde non fruuntur. Aliud est gustare dapes in convivio, aliud ijsdem vesci & nutriri.
+
+[1.28.10] Quintus, est vitae externa sanctitas: sub qua continetur Zelus in professione religionis reverentia & timor erga Ministros Dei: vitae in Plurimis emendatio.
+
+[1.28.11] Secundus gradus exequutionis decreti reprobationis in adultis vocatis, est Relapsus, qui sic efficitur. Primo Reprobus peccato aliquo decipitur. 2. Cor illius eodem peccato obduratur. 3. Obduratum cor malum & peruersum euadit. 4. Tum sequitur eius incredulitas, qua audito & cognito Dei verbo non amplius assentitur. 5. Hanc immediatè sequitur Apostasia 〈1 page duplicate〉
+〈1 page duplicate〉
+à side in Christum.
+
+[1.28.12] Haec Apostasia quandoque est peccatum in Spiritum Sanctum. Quod est, quando quisciens ex obstinatione blasphemias mittit in veritatem diuinam. Haec cordis obstinatio oritur ex inveteratis affectibus, odio, inuidia, malitia, directè in Deum ipsum & Christum. Nomen habet, non quod in personam Spiritus, sed quia contra donum Spiritus, id est, illuminationem fiat. Irremissibile est, ex eo tantum quod fidem & poenitentiam excludit.
+
+[1.28.13] Post Apostasiam sequitur pollutio, quae est ipsa plenitudo iniquitatis, sanctificationi penitus contraria.
+
+[1.28.14] Tertius gradus est Damnatio qua reprobi aeterno supplicio addicuntur. Damnationis exequutio incipit in morte, perficitur in vltimo Iudicio.
+
+[1.28.15] Exequutio Decreti Reprobationis in Infidelibus non vocatis sic est. Primum à natura habent Ignorantiam & vanitatem mentis. 2. Post eam sequitur obduratio cordis qua fiunt omnis doloris ob peccata, expertes. 3. Deinde existit reprobus sensus, qui est quā
+do
+naturale rationis & iudicij lumen de rebus bonis & malis extinguitur. 4. Vbi cor dedoluit, tum oritur perpetratio impuritatis 〈 in non-Latin alphabet 〉. 5. His accedit pollutio quae est plenitudo peccati. 6. Postremo his omnibus tribuitur iusta merces, nimirum horrenda damnatio.
+
+## CAP. XXIX. De statu Reproborum quando sunt mortui.
+
+[1.29.1] MOrs reprobi est seperatio corporis & animae: corporis quidem, vt ad tempus in humo intereat: animae, vt horrorem sentiat in abysso vsque ad tempus vltimi Iudicij: quo tempore horrendissimum in ignem Abyssi projicietur.
+
+[1.29.2] 2. Reprobi quando moriuntur vel insensati & stupidi fiunt instarlapidū: vel terribili horrore conscientiae & desperatione de salute velut gurgite absorbentur.
+
+## CAP. XXX. De damnatione Reproborum in vltimo Iudicio.
+
+[1.30.1] IN vltimo iudicio ad auditam tubā viui horrore percussi, in momento mutabuntur: mortui resurgent ad damnationem. Vtrique erunt corporibus immortalibus quidem, sed tamen ingloriis: & ad sinistram Christi Iudicis super terram stātes, sententiam damnationis audient: Abite à me maledicti in ignem aeternum, qui paratus est Diabolo & Angelis eius.
+
+## CAP. XXXI. De statu Reproborum in inferno.
+
+[1.31.0.1] POST sententiam damnationis enunciatam, sequitur mors aeterna, cuius hic status erit.
+
+[1.31.0.2] 1. Seperantur Reprobià praesentia & gloria Dei.
+
+[1.31.0.3] 2. Summa confusione atque acerbissima ignominia afficiuntur: quia reuelantur omnia corum occulta scelera & peccata.
+
+[1.31.0.4] 3. Societatem habent cum Diabolo & Angelis eius.
+
+[1.31.0.5] 4. Incredibili horrore & summa anxietate toti cruciantur ex sensu irae diuinae in eos effusae in aeternum. Hinc, poena damnatorum appellatur Ignis inferni, vermis, fletus & stridor dentium, tenebrae exteriores, &c.
+
+## COROLLARIVM.
+
+[1.31.1.1] ATque ita est plena exequutio decreti reprobationis; vnde elucet summa Dei iustitia in puniendo peccato, ex qua etiam Dei gloria, quam sibi vt vltimum finem in his omnibus proposuit.
+Eundem ergo tibi finem Christianus proponito.
+
+[1.31.1.2] FINIS.

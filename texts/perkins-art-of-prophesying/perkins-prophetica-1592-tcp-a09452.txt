@@ -1,0 +1,1044 @@
+Title: Prophetica, sive, De sacra et unica ratione concionandi tractatus
+Work: The Art of Prophesying (Prophetica, sive De sacra et unica ratione concionandi tractatus)
+Author: William Perkins (1558–1602)
+Language: latin
+Credit: Prophetica, sive, De sacra et unica ratione concionandi tractatus, in EEBO-TCP text A09452 (STC STC 19735; STC) (Cambridge England: Ex officina Johannis Legatt, celeberrimæ Academiæ Cantabrigiensis typographi, 1592). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/A09452/master/A09452.xml
+Retrieved: 2026-11-05 (source file 260950 bytes, SHA-256 553a44160362fc295539b2aeeb713bbd8fdff93582ff3a74d54fb2bcf12291de)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":114,"note":4,"unread":300}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## PROPHETICA, SIVE DE SACRA ET vnica ratione Concionandì TRACTATVS.
+
+[front.1.1] Nehem. 8. v. 5.
+
+[front.1.2] Stabat autem Hezralegis peritus in suggestu ligneo, quem fecerat ad hanc rem, &c. v. 6. Quum aperuit Hezralibrum ante oculos totius populi (nam superior toto populo erat) & dum apertum habuit eum, consistebant totus populus. v. 7. Deinde benedixit Hezra Iehouae Deo maximo, cui respondens totus populus, Amen, &c. v. 8. Similiterque Iesua & Bani, &c. v. 9. Legebant enim librum illum legem dei explanatè: & exponendo sensum dabat intelligentiam per scripturam ipsam.
+
+[front.1.3] Ex officina Johannis Legatt, celeberrimae Academiae Cantabrigiensis Typographi. 1592.
+
+## CAP. I.
+
+[1.1] PROPHETICA est doctrina sacra rectè Prophetiam exercendi.
+
+[1.2] Prophetia est publicus, & solennis Prophetae sermo, ad cultum Dei & proximi salutem pertinens. 1. Cor. 14. 3. Qui autem prophetat, hominibus loquitur aedificationem & exhortationem & consolationem. Vers. 23. Si omnes prophetent, ingrediatur autem infidelis quispiam aut idiota, arguitur ab omnibus dijudicatur [〈 in non-Latin alphabet 〉] ab omnibus. Rom. 1. 9. Testis mihi Deus, cui servio [〈 in non-Latin alphabet 〉] spiritu meo in Evangelio filij ipsius.
+
+## CAP. II. DE PRADICATIone verbi.
+
+[2.1] PRophetiae duae sunt partes; Praedicatio verbi, & Conceptio precum.
+
+[2.2] Nam Prophetae, id est, Ministri verbi, duo tantùm in dicendo sunt munera, praedicare verbum, & Deum populi nomine orare. Rom. 12. 6. Habentes prophetiam prophetemus pro proportione fidei. Gen. 20. 7. Restitue vxorem illius viri: Propheta enim est, quumque craverit pro te, vives. Hac de causa Prophetiae nomen etiam precibus tribuitur. 1. Chron. cap. 25. vers. 1. Filij Asaphi, & Hemanis, & Ieduthunis, qui erant cantores, prophetabant citharis, & nablijs, & Cymbalis. 1. Regum. cap. 18. vers. 26. Prophetae Baalis invocabant eum à mane vsque ad meridiem. Vers. 29. Fuit, quum praeterijsset meridies, ut prophetarent usque dum offertur munus. Et Propheta omnis partim vox Dei est, nimirum praedicando; partim vox populi,
+praedicando. Ierem. cap. 15. vers. 19. Et si eduxeris pretiosum à vili, tanquam os meum eris. Nehem. cap. 8. vers. 7. Et benedixit Hezra Domino Deo magno, & responderunt omnis populus, Amen.
+
+[2.3] Praedicatio verbi, est Prophetia Christi nomine, & vice habita, qua vocantur homines ad statum gratiae, & in eodem conservantur. 2. Corinth. cap. 5. vers. 19. Posuique in vobis sermonem reconciliationis. Vers. 20. Itaque nomine Christi legatione fungimur, & velut Deo vos precante per nos, oramus Christi nomine reconciliemini Deo. 2. Thessal. 2. 14. Elegit vos ab initio ad salutem per sanctificationem Spiritus, & fidem habitam veritati: quò vocavit nos per Evangelium nostrum. Rom. cap. 1. vers. 16. Evangelium est potentia Dei ad salutem cuivis credenti. Proverb. 29. 18. Quùm non est visi• nudatur populus. Rom. 10. 14.
+
+## CAP. III. De verbo Dei.
+
+[1.3.1] PRaedicationis objectum adaequatum est verbum Dei. Luc. 16. 29. Habent Mosem & Prophet as: audiant eos. Matth. 23. 2. In Cathedra Mosis sedent Scribae & Pharisaei, id est, Mosis doctrinam quam profitentur, docent. Omnia ergò quae dixerint vobis ut servetis, servate & facite.
+
+[1.3.2] Verbum Dei est sapientia Dei de veritate, quae est secundum pietatem descendens supernè. Iam. 3. 17. Quae autem •upernè est sapientia primùm quidem pura est, &c. Titus 1. 1. Paulus servus Dei &c. Secundum agnitionem veritatis, quae est secundum pietatem.
+
+[1.3.3] Verbi miranda est excellentia, quae partim ejus natura, partim operatione cernitur.
+
+[1.3.4] Excellentia naturae, est vel Perfectio vel Aeternitas.
+
+[1.3.5] Perfectio est vel Sufficientia vel Puritas. Sufficientia est, qua verbum Dei ita completum est, ut nihil vel addi vel demi possit, quod
+ad finem ejus proprium pertineat. Psal. 19. 7. Lex Domini perfecta convertens animam. Revel. 22. 18, 19. Puritas est, quo integrum in se, fraudis & erroris expers manet. Psal. 12. 6. Eloquia Iehovae eloquia pura sunt; argentum purgatum in catino lectissimo terrae, defaecatum septies.
+
+[1.3.6] Excellentia operationis, qua vim habet discernendi spiritum hominis, & astringendi conscientiam. Hebr. 4. 12. Vivus sermo Dei & efficax, & penetrancior quovis gladio ancipiti: ac pertingit vsque ad divisionem animae simul ac spiritus compagumque & medullarum: & dijudicat cogitationes & conceptiones cordis.
+
+[1.3.7] Verbum est in sacra Scriptura.
+
+[1.3.8] Scriptura est verbum Dei scriptum lingua Ecclesiae conveniente, per homines immediatè vocatos, ut essent Amanuenses Spiritus sancti. 2. Pet. 1. 21. Non enim libidine hominis allata est olim Prophetia, sed [〈 in non-Latin alphabet 〉] acti à Spiritu sancto loquuti sunt, sancti Dei homines.
+
+[1.3.9] Canonica dicitur, quia est tanquam Canon, id est, amussis vel perpendiculum architecti, cujus ope & invenienda primùm, tum deinde exploranda veritas. Gal. 6. 16. Et quicunque
+[〈 in non-Latin alphabet 〉] secundum hanc regulam incedent. Itaque supremum & absolutum de ecclesiae
+controversiis judicium huic deferendum est.
+
+[1.3.10] Scriptura est, aut Novum testamentum aut Vetus.
+
+[1.3.11] Vetus Testamentum, est prima pars Scripturae, per Prophetas exaratum sermone Hebraeo vel saltem Chaldaeo, vetus illud operum faedus in primis explicans. Luc. 16. 29. & 24. 27. Et exorsus à Mose & omnibus Prophetis, interpretabatur illis in omnibus Scripturis quae de ipso scripta erant.
+
+[1.3.12] Distinguitur libris, qui sunt vel historici, vel Dogmatici, vel Prophetici.
+
+[1.3.13] Historici sunt narrationes de rebus gestis ad doctrinam in libris aliis positam & illustrandam & confirmandam. 1. Corinth. cap. 10. vers. 10. Haec autem omnia [〈 in non-Latin alphabet 〉] typicè eveniebant ijs: scripta sunt verò ad nostri admonitionem. Rom. cap. 15. vers. 4. Nam quae ante scripta sunt, ad nostram doctrinam scripta sunt.
+
+[1.3.14] Hi numero sunt quindecim.
+
+[1.3.15] I. Genesis historia est de creatione, lapsu, promissione, statuue Ecclesiae privatis familiis conservatae.
+II. Exodus, historia de Israëlitarum Aegyptiaca liberatione, exitu, legis promulgatione, Tabernaculo.
+III. Leviticus, historia de Ceremoniali cultu.
+IV. Liber Num. historia de militari profectione in terram Canaan.
+V. Deuteronomium, commentarius est leges è praedictis libris & repetens & explicans.
+VI. Liber Iosuae, historia de introitu & possessione terrae Canaan sub Iosua.
+VII. Liber Iudicum, historia de corrupto & calamitoso statu Ecclesiae & Reipub. Israēliticae à Iosua ad Eli.
+VIII. Liber Ruth, historia de nuptiis & posteritate Ruth.
+X. Liber primus & secundus Samuelis, historia sub Eli & Samuele sacerdotibus, Saule & Davide regibus.
+XII. Liber primus & secundus Regum, historia derebus gestis sub regibus Israëlis & Iudae.
+XIV. Liber primus & secundus Chronicorum, historia methodica de initio, incremento & nuina gentis Israēliticae ad lineam Christi explicandam.
+XV. Liber Ezrae, historia de redditu è captivitate Babilonica, & restitutione civitatis incipienda.
+XVI. Liber Nehemiae, historia de perficien da restitutione civitatis.
+XVII. Liber Hesterae, historia de conservatione Ecclesiae Iudaicae in Persia per Hesteram.
+XVIII. Liber Iobi, historia de tentationū causis, deinde de conflictu ejus, postremò de felici exitu.
+
+[1.3.16] Libri dogmatici sunt, qui Theologiae doctrinam praecipiunt.
+
+[1.3.17] Hi numero quatuor.
+
+[1.3.18] I. Liber Psalmorum, qui continet sacras odas omni & Ecclesiae & populorum condicioni aptandas, similiterue cum gratia in corde psallendas. Coloss. 3. 16.
+II. Liber Proverbiorum, est Christiana Ethice de pietate in Deum, & justitia in proximum.
+III. Ecclesiastes, de vanitate rerum humanarum omnium, quatenus earum usus expers est timoris Dei.
+IV, Canticum Canticorum, de mutua communione Christi cum Ecclesia sub allegoria sponsi & sponsae.
+
+[1.3.19] Libri Prophetici sunt praedictiones, vel de judiciis Dei ob peccata populorum, vel de liberatione Ecclesiae, Christi adventu per•iciendae.
+
+[1.3.20] His autem praedictionibus resipiscentiae doctrinam immiscent, & resipiscentibus consolationes in Christo ferè semper adjiciunt.
+
+[1.3.21] His quoque mos est prolixas quas habebant conciones, 〈 in non-Latin alphabet 〉 proponere ad audientium memoriam & intelligentiam juvandam. Esa. 8. 1. Edixit autem Iehova mihi, sume tibi volumen magnum, & scribe in eo stylo humano. Habac. 2. 2. Scribe visionem, & quidem perspicuè in istis tabulis, ut percurrat lecturus eam.
+
+[1.3.22] Prophetiae sunt vel Majores vel Minores.
+
+[1.3.23] Majores sunt, quae praedicta omnia uberius praestant. ut prophetia Isaiae, Ieremiae, Ezechielis, Danielis.
+
+[1.3.24] Huc pertinent Lamentationes Ieremiae, de miseria populi Iudaici circa tempora mortis Iosiae.
+
+[1.3.25] Prophetiae minores sunt, quae praedicta omnia vel saltem eorum quaedam strictius praestant; ut prophetia Oseae, Ioēlis, Amosi, Obediae, Ionae, Micheae, Nahumi, Habakuki, Zephaniae, Haggaei, Zachariae, Malachiae.
+
+[1.3.26] Haec de veteri Testamento.
+
+[1.3.27] Novum Testamentum est secunda pars Scripturae graeco sermone scriptum per Apostolos,
+vel saltem ab iis approbatum, novi foederis doctrinam explicatè proponens. Ephes. 2. 20. Superstructi super fundamentum Prophetarum & Apostolorum.
+
+[1.3.28] Marci Evangelium approbavit Petrus; quo dictante scripsit Niceph. 2. cap. 45. Et Lucae Evangelium Iohannes Evangelista. Leve est quod ab Eusebio refertur, eius authorem fuisse Paulum è locis duobus. 2. Timoth. cap. 2. vers. 8. Rom. cap. 2. vers. 16. Hîc enim non de certo libro, sed de toto ministerio loquitur; nam addit, Pro quo laboro vsque ad vincula.
+
+[1.3.29] Continet partim Historias, partim Epistolas. Historiae sunt
+
+[1.3.30] I. Quatuor Evangelia; Matthaei, Marci. Lucae, Iohannis; quae sunt, historia de Christi in mundum exhibiti vita, gestis, doctrina, à conceptione usque ad ascensionem in caelum.
+Quatuor autem sunt scriptores, auriti duo; alii etiam oculati duo; ut pleniorem de historiae veritate fidem facerent.
+Evangelistarum discrimen sic est. Matthaeus doctrinas Christi explicat. Marcus historiae brevitatem sectatur; neque tamen epitomen confecit Evangelii à Matthaeo scripti, sicut Hieronymus putavit, quia ab initio tractandi ratione est dissimilis: in progressu
+alium ordinem sequitur, partim res uberius tractando; partim novas interserendo. Lucas historiam plenam & certo ordine descriptam intendit. Iohannes in explicanda Christi Deitate & fructu, qui inde ad nos provenit, ferè totus est.
+Hieronymus Evangelistas ab exordiis distinguit. Matthaeum similem dicit esse homini, quòd ab humanitate Christi orditur; Marcum leoni, quòd à praedicatione Iohannis, quae fuit quasi rugitus leonis; Lucam bovi, quòd à Zacharia sacerdote sacrificante; Iohannem aquilae; quòd quasi altè volans à Deitate Christi incipit.
+II. Acta Apostolorum, de gestis praecipuè Petri & Pauli historia descripta; ut extaret exemplar administrandi Ecclesiam. 2. Timoth. 3. 10, 11.
+III. Apocalypsis historia prophetica à temporibus Iohannis Apostoli, de statu Ecclesiae ad finem usque mundi.
+
+[1.3.31] Epistolae sequuntur: primò Pauli tredecem.
+
+[1.3.32] I. Ad Romanos, de justificatione, sanctificatione, & officiis vitae Christianae.
+II. Prima ad Corinth. de reformandis abusibus ecclesiae Corinthiacae.
+III. Secunda ad Corinth. inprimis de
+tuendo se, & Apostolatu suo contra adversarios.
+IIII. Ad Galatas de justificatione fidei sine operibus legis.
+V. Ad Coloss. Confirmant ecclesias in doctrina & officiis vitae Christianae.
+VI. Ad Philip. Confirmant ecclesias in doctrina & officiis vitae Christianae.
+VII. Ad Ephes. Confirmant ecclesias in doctrina & officiis vitae Christianae.
+VIII. 1• ad Thes. Confirmant ecclesias in doctrina & officiis vitae Christianae.
+IX. 2• ad Thess. Confirmant ecclesias in doctrina & officiis vitae Christianae.
+X. 1• ad Timoth. Ecclesiam ritè ordinandi formam praescribunt.
+XI. 2• ad Timoth. Ecclesiam ritè ordinandi formam praescribunt.
+XII. Ad Titum de ordinanda Ecclesia Cretensium.
+XIII. Ad Philemonem, de recipiendo Onesimo.
+
+[1.3.33] Ad Hebraeos, de persona & officiis Christi, deue fide bonis operibus fructificante.
+
+[1.3.34] Epistola Iacobi de operibus cum fide jungendis.
+
+[1.3.35] Epistola Petri prima & secunda de sanctificatione & operibus novae obedientiae.
+
+[1.3.36] Epistola prima Iohannis, de signis communionis cum Deo.
+
+[1.3.37] Epistola secunda Iohannis, ad electam de perseverantia in veritate.
+
+[1.3.38] Epistola tertia Iohannis, ad Gaium de hospitalitate & perseverantia in bono.
+
+[1.3.39] Iudae, de constantia fidei contra pseudoprophetas.
+
+[1.3.40] Atque ita est Canonica Scriptura suis libris distincta.
+
+[1.3.41] Eam verò tantùm, aliam non item, verbum Dei esse, probationes sunt firmissimae.
+
+[1.3.42] Probatio alia est 〈 in non-Latin alphabet 〉, alia verò 〈 in non-Latin alphabet 〉.
+
+[1.3.43] 〈 in non-Latin alphabet 〉 vnica tantùm est, nimirum internum testimonium spiritus sanctiin Scripturis loquentis, intusue non dictantis modo, sed etiam efficacitèr persuadentis hos Scripturae libros esse verbum Dei. Isai. 59. 21. Spiritus meus qui est inte & verba mea quae posui in ore tuo, non recedent ex ore tuo &c. ex hoc tempore usque in seculum.
+
+[1.3.44] Modus suadendi sic est. Electi habentes spiritum Dei, primò decernunt vocem Christi in scripturis loquentis: Deinde quam decernunt, probant; quam probant, ei quoue fidunt. Postremò, credentes quasi sigillo spiritus obsignantur. Ephes. 1. 13. In quo etiam postquam credidistis, obsignatiestis spiritu illo promissionis sancti.
+
+[1.3.45] Ecclesia verò de Canone testari potest, suadere non potest. Nam ita vox Ecclesiae essetfirmior Dei voce; & tota salutis ratio ab hominibus penderet quo quid miseriùs dici
+posset.
+
+[1.3.46] Probatio 〈 in non-Latin alphabet 〉 est, quae non demonstrat vel suadet, sed tantùm testatur, & certis indiciis approbat verum Canonem. Haec multiplex est.
+
+[1.3.47] I. Perpetuus Ecclesiae consensus; Veteris Iudaicae. Rom. 3. 2. Primarium illud est quòd illis credita sunt eloquia Dei. Novae; I. A Christo & Apostolis, qui ex iis libris citarunt testimonia. II. A Patribus. Origine, ut testatur Eusebius lib. 6. 18. & 23. Melitone, ut idem testatur lib. 4. Athanasio, Cyrillo, sermone quarto, Cypriano sive potiùs Ruffino in expositione Symboli, Hilario in praefatione in primum Psalmum, Hieronymo in Prologo Galeato, & in praefatione in libros Salomonis, Epiphanio in libro de ponderibus & mensuris, Damasceno libro de fide 4. Cap. 18. Gregorio Morall. in Iob. lib. 9. cap. 27. 111. Conciliis; Niceno, & Laodiceno. Can. 59.
+His quoque adstipulantur Hugo de So victore de Sacram. lib. 1. cap. 7. N. Lyra, prologo in libros Apocryphos, Hugo Cardinalis in prologo in Iosuam.
+II. Gentium ex parte consensus, & inimicorum eadem asserentium, quae in sacris libris traduntur. De creatione, Homerus &
+Plato in Timaeo. De Christo, Ioseph. libro 20. Antiquit. cap. 6. & 8. Et lib. 5. de bello Iudaico cap. 8. Et lib. 6. cap. 25. 27. 28. 47. De redemptore mundi exhibendo novissimis temporibus Sybillae, ut testatur Lactantius lib. 4. cap. 6. Et Cic. lib. 2. De divinat. & Virgil. Ecloga. 4. De miraculis Christi, Suetonius in Nerone: & Tacitus lib. 5. & 20. De stella mago•um, Plin. lib. 2. cap. 25. De infanticidio, Macrob. in Saturnal. De morte Herodis Agrippae, Ioseph. lib. 19. Antiquit. cap. 7. De diluvio, Berosus in fragmentis quae extant. Ioseph. Antiq. libro 1. cap. 3. & Poetae. De turre Babilonica Eupolemus, ut testatur Eusebius. q. de Preparatione Evangelica. De Columba quam emisit Noë, Plutarchus libr. quod bruta sunt rationalia. De Iaphet filio Noë Poëtae multa fabulantur. De sacrificio Abrahami, Alexander Polihist. De miraculis Mosis, Plinius, licet impiè magum appellat.
+III. Antiquitas; quippe narrationem continet rerum gestatum ab initio mundi. Historiae verò humanae omnis, vel antiquissimae, scriptor non est ullus ante Ezram & Nehemiam, qui fuerunt circa annum mundi, 3500.
+IV. Divinationum eventus certissimi, vt sunt hi; De vocatione Gentium; de Antichristo; de Iudaeorum defectione &c. V. Materies; vnus verus Deus; verus Dei cultus; Deus Salvator. VI. Consensus omnium partium Scripturae. VII. Miraculosa conservatio Scripturarum in Ecclesiae periculis & communi apostasia. VIII. Operatio; nam convertit homines, & penitùs opposita rationi & affectibus hominum, eos tamen sibi conciliat. IX. Maiestatis plena in simplicitate verborum. X. Scriptores sacri produnt vitia sua; & Moses seipsum laudat, mitissimum omnium dicendo; quòd arguit actos fuisse à spiritu sancto. Et Christus Evangelio descriptus se filium Dei apertissimè dicit, & vnum cum Deo Patre, & omnem Dei gloriam sibi vendicat. Quòd nisi verum rectumue fuisset, iram Dei cum Adamo & cum Herode sensisset, qui Dei similes esse voluerunt. At contra Deus ipsius necem vltus est, & in Herodem, & Iudaeos, & Pilatum, & Imperatores, qui Ecclesiam persequuti sunt.
+
+## FIDELIBVS MJNJSTRIS euangelij & omnibus THEOLOGIAE STUDIOSIS, S. D.
+
+[1.4.1] GRavis est & arduus, si quis alius ex omni Theologia locus is, qui est de formandis Concionibus. Quippe materies ei ad explicandum destinata, Prophetia est: eximium verè donum, si vel dignitate metiamur eam, vel vsu. Dignitas ex eo constabit, quòd velut Domina, quadrigis vecta fertur sublimiùs; vbi caetera & linguarū & artium dona, huic ex lōgo interuallo ancillentur. Dignitati quoque duplex respondet vsus: vnus, quòd Ecclesiam colligat & numerum electorum compleat: alter, quòd lupos arceat
+à caulis Domini. Haec en••• verè est illa Flexamina, qua mentes hominum repugnantes, ex impia & immani vita ad Christiànam fidem & resipiscentiam mitigantur. Hac etiam illa est machina quae v• veteres concussit •aereses, ita etiam pa•cis iam elapsis annis Antichrist• illi us nervo• exercuit. Vnde si quaera•ur, quod donum excellat vnum ex omnibus, Prophetiae certè palma danda est. Quanto vero quaeque res illustrior est, tanto diligentius excolenda praeceptorum varietate & copia. Idcirco, quùm animaduerterem hunc locum à multis tractari sic, vt si reliquae artes suarepeterent, nudus ille & inops maneret; replicui Theologorum libros, & regulis inde collectis eam substraui, quam vtiliorem iudicaui met hodum: vt ad vsum mel•ores possent esse & ad memoriam aptiares. Emitto etiam in lucem eas, visi quid recti attulerint, probentur: si vitiosi quid, vapulent, & de erratis poenas vel vngue vel asterisco luant. Et quisquis has dignaris legere, vbi certus es de ista, qua• tracto, concionandi via, perge mecum: vbi haeres in bivio, quaere mecum: vbi de•texus tuos vid••is, redito ad me: vbi meos, reuocato me. Quod enim mihi iam placet, ne placebit quidem, si pijs & moderatis hominibus non placea•. Sed si conatum nostrum quisquam, vtcunque per exilem arros•rit, id vnum agi tantùm sciat, vt prosim Ecclesiae dei:
+factique mei conscientiam esse e•erriculum calumniarum omnium. Deo iam vos commendo: Propheticam hanc, & vobis & Deo. Anno salutis M. D. XCII. Maij 1o.
+
+[1.4.2] Gulielmus Perkinsus.
+
+## CAP. IIII. DE INTERPRETAtione Scripturarum.
+
+[1.5.0.1] HActenus de objecto praedicationis. Ejus partes sunt duae, apparatus concionis & promulgatio. Matth. 13. 52. Ipse verò dixit eis, propterea omnis Scriba edoctus in regno caelorum similis est cuipiam patrifamiliàs, qui profert è thesauro suo vetera & nova.
+
+[1.5.0.2] In apparatu privatum studium diligentèr adhibendum est. 1. Tim. 4. 13. Interim dun• venio, attende lectioni, exhortationi, doctrinae. 1. Pet. 1. 10. De qua salute inquisierunt, & quam scrutati sunt Prophetae, qui de ventura in vos gratia prophetarunt. Dan. 9. 2. Anno primo regni eius, ego Daniel intellexi in libris numerum annorum &c.
+
+[1.5.0.3] De Theologico studio consilium tale esto. I. Corpus Theologiae definitionibus, divisionibus, & proprietatum explicationibus descriptum, & mente & memoria diligentèr imprimito. II. Posteà accede ad legen das
+Scripturas hoc ordine; adhibita Grammatica, & Rhetorica, & Logica Analysi, & reliquarum artium subsidio, primùm lege epistolam Pauli ad Romanos, deinde Evangelium Iohannis: (vtpote quae claves sunt novi Testamenti) & tum demùm reliqui novi Testamenti libri inter legendum faciliores •
+•unt. His peractis, veteris Testamenti disce primùm libros dogmaticos; inde propheticos, inprimis Isaiam; postremò historicos, inprimis Genesim. III. Praetercà è scriptis orthodoxis, non solùm novae, sed etiam antiquioris Ecclesiae auxilium accersendum est. Ratio. Satanas vt Ecclesiae instaurationem nostro seculo caeptam impedi•et, veteres haereticos ab inferis excitavit. Antitrinitarij enim Arrii & Sabellii dogma interpolarunt. Anabaptistae, Essaeorum, Catharorum, Euthusiastarum, & Donatistarum sectas renovant. Swenckfeldiani Eutychianorum. Euthusiastarum &c. Menon Ebionis: Papistae Pharisaeorum, Encratitarum, Tatianorum, Pelagianorum: Libertini Gnosticorum, Carpocratianorum: Servetus, Samosateni, Arrii, Eutychis, Marcionis, Apollinaris. Postremò, Scismatici qui rescindunt se ab Evangelicis ecclesiis, Pupiani apud Cyprianū, Au••anorum, Donatistarum opiniones, facta,
+& mores recipiunt. Ergò similiter damnationes haeresiū istarū non tam novae quaerendae, quam veteres illae è Conciliis & Patribus in vsum nostrum repetēdae, proque ratis habendae. V Inter studendum, necessaria quae occurrūt, & observatione digniora sunt, adversariis recondēda, vt in promptu semper habeas & vetera & nova. VI. Ante haec omnia ardenter orandus est Deus, vt his mediis benedicat, & nobis caecutientibus sensum scripturarū aperiat. Psal. 119. 18. Retege oculos meos vt intuear mirabilia ex lege tua? Apoc. 3. 18. Suadeo vt emas tibi aurum &c. & collyrio inungas oculos •uos vt videas.
+
+[1.5.0.4] Apparatus duae sunt partes. Interpretatio, & 〈 in non-Latin alphabet 〉.
+
+[1.5.0.5] Interpretatio est 〈 in non-Latin alphabet 〉 vocū sententiarū
+que scripturae, vt vnus integer & genuinus sensus appareat.
+
+[1.5.0.6] Ecclesia Romana quatuor sensus scripturarū ponit, litteralem, allegoricum, tropologicum, anagogicum; vt in hoc ejus exemplo. Melchisedech panē & vinum obtulit. Litteralis sensus est, quòd rex Salem milites Abrahae de via fessos cibis allatis refecerit. Allegoricus, Sacrificū in missa offerre Christum. Tropologicus, idcircò erogandum aliquid pauperibus. Anagogicus, similiter Christum in caelo, fidelibus panem vitae futurum. Verùm qui hoc dixerint, penitùs falluntur.
+
+[1.5.0.7] Vnicus omninò sensus idemue litteralis est. Allegoria tantùm est modus quidam eundem sensum enunciandi; Anagoge & Tropologia sunt modi sensum applicandi.
+
+[1.5.0.8] Summus interpres Scripturae est Spiritus sanctus. 2. Pet. 1. 20. Si illvd primùm noveritis, nullam prophetiam Scripturae [〈 in non-Latin alphabet 〉] esse propriae explicationis. &, qui condit legem, legis optimus & supremus interpres est.
+
+[1.5.0.9] Summum & absolutum medium interpretationis est ipsa Scriptura Nehem. 8. 9. Legebant enim librum illum legem Dei explanatè: & exponendo sensum, dabant intelligentiam per Scripturam ipsam [vai•abhinu bammikra.]
+
+[1.5.0.10] Scripturae subordinata media sunt tria; Analogia fidei, Circumstantiae dati loci, & Collatio locorum.
+
+[1.5.0.11] Analogia fidei est quaedam epitome scripturarum ex apertissimis locis collecta. Ejus partes duae; Prima de fide, quam tractat symbolum Apostolicum. Altera de charitate, quam explicat Decalogus. 2. Tim. 1. Exemplar [〈 in non-Latin alphabet 〉] teneto sacrorum sermonum, quos à me audisti, cum fide & charitate quae est in Christo Iesu.
+
+[1.5.0.12] Circumstantiae dati loci hae sunt; Quis? Cui? Qua occasione? Quo tempore? Quo
+loco? Quo fine? Quid antecedit? Quid sequitur?
+
+[1.5.0.13] Collatio locorum est, qua loci tanquam paralleli juxta se ponuntur, ut sensus eorum clariùs elucescat. Act. 9. 22. Saulus autem magis invalescebat, & confundebat Iudaeos qui habitabant Damasci, [〈 in non-Latin alphabet 〉] collatis testimonijs (id est, collatis Scripturae locis, sicut artifices aliquid compacturi sotent singulas partes apt are inter se, ut aliae alijs adamussim quadrent) demonstrans eum esse Christum.
+
+[1.5.0.14] Collatio duplex. Prima est dati loci cum seipso alibi in sacris libris citato & repetito. ut, Isa. 6. 10. Fac vt pinguescat cor pop••l• huius, & aures •ius fac ingravescant, oculique eius fac conniveant: ne videat oculis suis, & auribus suis audiat, & corde suo intelligat, & sanit as obvenia• e•. Hunc locum sexies repetitum habes in novo Testamento. Matth. 13. 14. Mar. 4. 12. Luc. 8. 10. Ioh. 12. 40. Rom. 11. 8. Act. 28. 27.
+
+[1.5.0.15] Loci repetiti frequentes mutationes habent varijs de causis; Suntque.
+
+## 1.5.1
+
+[1.5.1.1] Exegoticae, expositionis gratia.
+Psal. 78.
+2 Aperiam per parabolam os meum, eructabo occulta inde ab antiquitate.
+Matth. 13.
+35 Aperiam per parabola• os meum, eructabo occulta à jactis mundi fundamentis.
+Psal. 78.
+24 Frumentum caeli dedit illis.
+Ioh. 6.
+31 Panem de caelo dedit eis vt vescerentur.
+Isa. 28.
+16 Ecce pono in Sione lapidem probationis, angularem; pretiosum, fundatione fū
+datissima. Qui credit non festinabit.
+Rom. 9.
+33 Ecce pono in Sion lapidem offendiculi, & petram offensionis: & quisquis credit in eum non pudefiet.
+Psal. 110.
+1 Sede ad dextrā meam donec posuero inimicos tuos in scabellum pedum tuorum.
+1. Cor. 15.
+25 Oportet enim Christum regnare, usque dum posuerit omnes inimicos eius sub pedibus eius.
+Psal. 116.
+10 Credidi, quia loquutus sum.
+2. Cor. 4.
+13 Credidi, ide•
+loquutus sum.
+Gen. 13.
+15 Totam hanc regionem quam vides, tibi dabo, & semini tuo vsque in seculum.
+Gal. 3.
+16 Abrahae verò dictae sunt promissiones & semini eius: non dicit & femmibus, vt de multis, sed vt de vno, & semini tuo qui est Christus.
+
+## II. Diacriticae, vt loci, & tempora, & personae invicem distinguantur.
+
+[1.5.2.1] Mich. 5.
+1 Tuautem Bethleem Ephratae minima existens in ducibus Iudae; ex te mihi exibit qui sit dominator in Israële.
+Natth. 6.
+6 Tu autem Bethleem Iudae, nequaquam minima es in ducibus Iudae: ex te enim exibit ductor, qui pascet populum illum meum Israëlem.
+
+## III. Circumscriptivae, quae sensum & sententiam loci verè restringunt, prout fuit mens Spiritus sancti.
+
+[1.5.3.1] Deut. 6.
+13 Iehovam Deum tuum revereberis, & ipsi servies.
+Matth. 4.
+10 Dominum deum tuum adorabis, & ei soli servies.
+Isa. 29.
+13 Appropinquat populus iste ore suo, & labijs suis honorat me: cor autem suum procul amovet à me: estque reverentia eorum erga me praecepto hominum.
+Matth. 15.
+8 Quùm appropinquat mihi populus iste, ore & labijs me honorat, cor autem eorum procul à me amovet.
+9 Frustrà me colunt docentes doctrinas mā
+data hominum.
+Gen. 2.
+24 Proptereà relinquet vir patrem suum & matrem suam, & adhaerebit vxori suae, eruntque in vnam carnem.
+Matth. 19.
+5 Et dixisse, proptereà relinquet homo patrem & matrem, & agglutinabitur vxori suae, & qui duo fuerant in vnam carnem futur• sunt.
+Isa. 39.
+20 Veniet Sioni vindex, & revertentibus à defectione è Iacobo.
+Rom. 11.
+26 Veniet ex Sione liberator ille, & avertet impietates à Iacobo.
+
+## IIII. Applicatoriae, quibus accommodatur typus ad veritatem; generale ad certam speciem, vel contrà.
+
+[1.5.4.1] Ionae. 1.
+7 Paraverat autem Iehova piscem magnum, qu• absorberet Ionam, fuitque Ionas in visceribus illius piscis tribus diebus & tribus noctibus.
+Matth. 12.
+39 Natio mala & adulterina signum requirit, sed signum non dabitur ei, nisi signum ipsum Ionae prophetae.
+40 Sicut enim fuit Ionas in ventre coet• tres dies & tres noctes: ita erit filius hominis.
+Isai. 61.
+1 Spiritus domini Iehovae est super me: proptereà vnxit me Iehova ad evangelizandum pauperibus, misit me ad obligandum eos qui fracti sunt animo, ad proclamandam captivis libertatem & vinctis aperturam ergastuli.
+2 Ad proclamandum annum acceptum Iehovae.
+Luc. 4.
+18 Spiritus Domini super me est: proptereà vnxit me ad evangelizandum pauperibus, misit me ad sanandum eos qui sunt contriti corde, praedicandum captivis dimissionem &c.
+21 Hodiè impleta est haec Scriptura vobis audientibus.
+Psal. 69.
+22 Dederunt pro alimento mei amarorem, & in siti mea bi
+•endum dederunt mihi •c•tum.
+Ioh. 19.
+28 Ut perficeretur scriptura, dixit, sitio.
+29 Vas igitur illie erat posito ac•to plenum. Illi verò impleverunt spongiam aceto, & •yssopo circumpositam admoverunt ori cius.
+Exod. 12.
+46 Os ne confringatis ex eo.
+Ioh. 19.
+36 Facta sunt enim haec, vt Scripturae impleretur, non confringetur osipsiu•.
+Psal. 69.
+26 Sint commorationes eorum desolatae, in tentorijs eorum non sit qui habitet.
+Act. 1.
+20 Scriptum est enim in libro Psalmorum, fiet commoratio eius deserta, & non sit qui habitet in ea.
+
+## V. Brevitatis gratia quaedam omittuntur: vel quia rei praesenti non conveniunt.
+
+[1.5.5.1] Zach. 9.
+9 Exsulta valdè filia Sionis, clange filia Hierusalem; ecce rex tuus venit tibi, justus & salute praeditus, pauper & insidens asino & pullo filio asinarum.
+Matth. 21.
+8 Dicite filiae Sion, ecce rex tuus venit tibi mansuetus & insidens asino ac pullo filio subiugis asin•.
+
+[1.5.5.2] Secunda collatio est datiloci cum aliis: ijque rursus vel Similares, vel Dissimilares.
+
+[1.5.5.3] Similares sunt, qui certis modis inter se congrui sunt. Congruunt autem loci vel phrasi vel sententia.
+
+[1.5.5.4] Loci quoad phrasim congrui tales sunt.
+
+[1.5.5.5] Gen. 28.
+12 Eoque somniante ecce scalam constitutam in terra, cuius summitas pertingebat ad caelum, & ecce angelos Dei ascendentes & descendentes per eam.
+Ioh. 1.
+51 Praetereà dixit ei, Amen, amen dico vobis, deinceps videbitis caelum apertum, & angelos Dei ascendentes & descendentes super filium hominis.
+Gen. 3.
+15 Inimiciam pono inter te & mulierem hanc, similiterque inter semen tuum & semen huius: hoc conteret tibi caput; tu autem conteres huic calcaneum.
+Rom. 16.
+15 Porrò Deus pacis Princeps conteret Satanam sub pedes vestros.
+Gen. 8.
+20 Posteà exstruxit Noah altare Iehovae; & accipiens ex omnibus mundis &c. obtulit holocausta Iehovae.
+21 Quùmque
+odoratus esset Iehova odorem quietis, dixit.
+Ephes. 5.
+1 Sicut & Christus dilexit nos, & tradidit seipsum pro nobis oblationem & victimam Deo, in odorem fragrantiae.
+
+[1.5.5.6] His exquirendis optimè inserviunt concordantiae Graecae & Hebraicae.
+
+[1.5.5.7] Loci sensu congruisunt, quorum eadem est sententia. Hîc excellit collatio loci generalis cum exemplo speciali in eodem genere. vt,
+
+[1.5.5.8] Proverb. 28.
+13 Qui tegit defectiones suas non prosperabitur; qui verò fatetur & derelinquit, afficietur misericordia.
+Psal. 32.
+3. Quùm silerem inverterasc•bant ossa mea, &c.
+4 Peccatum meum notum tibi faciebam, & iniquitatem meam non tegebam: dixi, &c. & tu sustulisti iniquitatem peccatimei.
+2. Sam. 15.
+25 Edixit Rex Zadoko, reduc arcam Domini in civitatem: si invenero gratiam in oculis Iehovae vtique reducet me, & faciet vt revisam se & habitaculum suum.
+26 Quòd si ita dixerit, cum delector te; ecce me, faciat mihi prout bonum videtur in oculis suis.
+1. Pet. 5.
+6 Submittite igitur vos ipsos potenti manui Dei, vt vos in tempore ext•llat.
+
+[1.5.5.9] Locos in hoc genere plurimos in communibus locis Marlorati diligenter conquisitos in promptu habebis.
+
+[1.5.5.10] Hactenus de locis Similaribus. Dissimulares sunt qui vel phrasi vel sententia in speciem non congruunt; vt.
+
+[1.5.5.11] Rom. 3.
+28 Colligimus igitur, fide iustificari hominem absque operibus legis.
+Iam. 2.
+24 Uidetis igitur ex operibus iustificari hominem & non ex fide tantùm.
+1. Reg. 9.
+28 Qui profects Ophirum acceperunt inde quadringenta viginti talenta, quae attulerunt ad regem Salomonem.
+2. Chron. 8.
+30 Qui abeuntes cum servis suis Ophyrum acceperunt inde quadraginta quinquaginta talenta auri, & attulerunt ea ad regem Salomonem.
+Act. 7.
+14 Missis autem nuntijs Ioseph accersivit patrem suum Iacob, omnemque cognationem suam capitum septuaginta quinque.
+Gen. 46.
+27 Omnes animae familiae Iacobi quae venit in Aegyptum sunt septuaginta.
+Act. 7.
+16 Et translati sunt in Sichem, & positi in monumento quod emerat Abraham pretio argenti à filijs Eminor patris Sichem.
+Gen. 48.
+22 Ego [nimirum Iacob] do tibi partem vnam supra fratres tuo•, quam cep••e manu Emmoraei gladio meo & arcu meo.
+Zachar. 4.
+13 Itaque accipiens triginta illos argenteos concjeci eam pecuniam à domo Iehovae ad figulum.
+Matth. 27.
+9 Tum impletum est quod dictum erat per Ieremiam Prophetam, dicentem, & acceperunt triginta siclos argenteos &c.
+
+## CAP. II. DE MODIS INterpretandi.
+
+[1.6.0.1] MODI interpretationis sunt prout fuerint loci Scripturae quj sunt tractandi.
+
+[1.6.0.2] Loci sunt Analogi vel Cryptici.
+
+[1.6.0.3] Analogi sunt, qui apertum prima specie sensum habent analogiae fidei congruum. De his Canon talis esto.
+
+[1.6.0.4] Si nativa significatio verborum dati loci, congruit
+cum circumstantijs ejusdem loci, genuinus loci sensus est.
+
+[1.6.0.5] Act. 10. 43. Huic etiam omnes Prophetae testimonium dant, remissionem peccatorum accepturum per nomen eius, quemvis qui crediderit in eum. Apertissima est significatio verborum, Iesum Christum dare justitiam & aeternam vitam credentibus in eum. Hanc autem, quia Analogiae fidei & Scripturis sacris vbique consentaneam esse videmus, nulla cunctatione adhibita statim agnoscimus. Sciendum autem est, omne dogma fidei & morum ad salutem necessarium in Scripturis clarissimè tradi.
+
+[1.6.0.6] Loci Cryptici hic Canon esto.
+
+[1.6.0.7] Si nativa significatio verborum, vel cum analogia fidei, vel cū apertissimis scripturae locis in speciem pugnet: tum dati loci datus alter sensus
+cum locis oppositis, cum similaribus, cum circumstantijs & verbis loci, cum natura rei qua de agitur congruus, genuinus est.
+
+## Exemplum.
+
+[1.6.1.1] 1. Cor. 11. 24. Hoc meum est corpus, quod pro vobis frangitur.
+
+## Datus sensus.
+
+[1.6.2.1] Hic panis est revera & propriè corpus Christi; nimirum per conversionem: vel, corpus Christi est in, sub▪ cum pane.
+
+## Incongruentia dati sensus.
+
+[1.6.3.1] 〈 in non-Latin alphabet 〉 hoc loco servatum pugnat cum articulo fidei, Ascendit in caelum, & cum natura Sacramenti quod 〈 in non-Latin alphabet 〉 esse debet, corporis Christi absentis. Ergò novus sensus quaerendus est.
+
+## Novus sensus.
+
+[1.6.4.1] Hîc panis est Symbolum corporis mei: per Metonymiam subjecti pro adiuncto.
+
+## Novi sensus corgruentia.
+
+[1.6.5.1] I. Cum Analogia fidei.
+1 Verè ascendit in caelum, hoc est, sublatus à terra in caelum localitèr & visibilitèr. Corpus; ergò non ore in caena percipiendum, sed fide in caelo.
+2 Natus è virgine Maria &c. Ergò verum & naturale corpus habuit, longum, latum, altū, alicubi situm & loco circumscriptū; vnde constat panem in caena non propriè ipsū corpus, sed eius tantùm symbolum esse posse.
+II. Cum circumstantijs dati loci.
+1 Accepit, fregit. Hîc non est verisimile Christum inter discipulos sedentem, suis manibus proprium corpus accepisse & fregisse. Ergò panis tantùm signum & sigillum est.
+2 Traditum pro vobis. Panis nullo modo dici potest traditus esse pro nobis, sed Christi corpus; ergo panis secundum 〈 in non-Latin alphabet 〉 non est corpus, sed symbolicè.
+3 Poculum est novum Testamentum, non propriè, sed per Metonymiam: ergò nihil impedit, quin similitèr Metonymia sit in his verbis, Hoc est corpus meum.
+4 Christus ipse panem comedit, non tamen corpus suum.
+5 Hoc facite in mei recordationem: ergo Christus non corporalitèr ori praesens, sed spiritualiter fidei cordis adest.
+6 Donec veniat. Ergo Christus absens corpore.
+7 Christus non dixit, sub specie panis, vel in pane; sed hoc, id est, panis est corpus meum.
+III. Cum natura Sacramenti: quia ponit analogiam inter signum & rem significatam; quae nulla esse debet, si panis est propriè corpus.
+IIII. Cum locis similibus.
+Gen. 17. 10. Hoc est foedus meum inter me & vos, &c. Circumcidetis igitur carnem preputij vestri, vt sit signum foederis inter me & vos.
+1. Cor. 10. 4. Bibebant ex sequenti spirituali petra: Petra verò erat Christus.
+Rom. 9. 11. Et signum accepit circumcifionis, quod obsignaret iustitiam fidei.
+Exod. 12. 11. Agnus est pesach 1. transitus. vers. 13. Agnus est signum transitus.
+Act. 22. Baptismus ablutio peccatorum.
+Ioh. 6. 35. Dixit autem ijs Iesus, Ego sum panis ille vitae, qui venit ad me nequaquam esuriet: & qui credit in me non sitiet •nquam.
+1. Cor. 10. 16. Poculum benedictionis cui benedicimus, nonnè Communio sanguinis Christi est? Panis quem frangimus, nonne communio corporis Christi est? 1. Signum Communionis.
+V. Congruit cum praeceptis Logicae. Nam disperatum de disperato non dicitur, nisi per tropologiam.
+VI. Convenit cum recepta consuetudine loquendi. Sic ponimus fasces pro imperio; sceptrum pro regno; togam pro pace; lauream pro triumpho; vt apud Tullium.
+
+## Cedent armatogae, concedat laurea linguae.
+
+[1.6.6.1] Ergo hic alter sensus genuinus est.
+
+[1.6.6.2] Existo foecundo Canone multa nascuntur consectaria intelligendis Scripturis necessaria.
+
+## I. Ellipsis cujusque supplementum analogiae fidei, circumstantiis loci eiusue verbis congruum, dato loco congruum est.
+
+[1.6.7.1] Exemplum esto. Ephes. 3. vers. 1. Huius rei gratia: Ego Paulus captivus ille Iesu Christi pro vobis Gentibus. Oratio est elliptica▪
+Ergò explenda est constructio; & detur supplementum. [Legatione fu•gar] pro vobis gentibus. Non convenit, quia Paulus non pro gentibus, sed pro Christo legatione fungebatur. Detur aliud. [Gloriatus sum] pro vobis Gentibus. Verùm hoc paulò audaciùs videatur, neque simile quid alibi in Scripturis occurrit. Ergò commodè suppleatur oratio hoc modo. Huius rei gratia ego Paulus [sum] captivus ille Iesu Christi pro vobis gentibus.
+
+[1.6.7.2] Idem de caeteris dicendum.
+Oratio elliptica.
+Supplementum.
+Isa. 1.13
+Non possum iniquitatem.
+Non possum [ferre] iniquitatem.
+Luc. 13.9
+Etsi quidem tulerit fructum: sin minùs in futurum excindes eam.
+Etsi quidem tulerit fructum, [dimittes:] sin minùs in futurum excindes eam.
+Exod. 4.25
+Sed accipiens Zippora acutum, amputavit praeputium filij sui.
+Sed accipiens Zippora [cultrum] acutum, amputavit &c.
+2. Sam. 21.16
+Isbi Bened, qui è natis cuiusdam gigantis, cuius mucronis pondus trecentorum cyclorum pondus, ex chalybe, & accinctus novo.
+Isbi Benod, qui [erat] è natis cuiusdam gigantis, cuius mucronis pondus [erat] trecē
+torum cyclorū pondus, ex chalybe [eratque] accinctus novo [gladio.]
+1. Cor. 9.15
+Porrò quisquis certat in omnibus est continens. Illi quidem igitur vt perituram coronam accipiant; nos autem vt incorruptam
+Illi quidem igitur, vt perituram coronam accipiant [sunt continentes], nos vt incorruptam.
+Exod. 19.4
+Uos vidistis quomodo portaverim vos super alas aquilarū
+Portaverim vos [quasi] super alas aquilarum.
+
+## II. Si dati loci datus alter sensus, habet mutationem nominis pro nomine, loci verba tropum continent.
+
+[1.6.8.1] Hinc de tropis sacris cautiones multae or•ūtur.
+
+[1.6.8.2] 1 Anthropopathia est sacra metaphora, quae de homine dicta propriè Deoper similitudinem
+tribuuntur. Hinc anima Dei pro vita vel essentia. Ierem. 5. 29. An de gente huiusmodi vltionem non sumeret anima mea? Caput de principe. 1. Cor. 11. 3. Deus caput Christi. Facies pro favore vel ira. Psal. 30. 8. Te abscondente faciem tuam fui conturbatus. & 34. 17. Irata facies Iohovae ad facientes malum. Oculi pro favore & providentia. Psal. 34. 16. Oculi Iehovae ad iustos. Pupilla pro re charissima. Zach. 2. 8. Qui tangit vos, tangit pupillam oculi mei. Aures, pro acceptatione precum. Nares pro indignatione: manus pro potentia & protectione: brachium prorobore & fortitudine: dextra pro imperio & potestate: digitus pro virtute: pes pro imperio & robore. Psal. 110. 3. Odoratus pro rei acceptatione. Gen. 8. 21. Odoratus est odorem quietis. Paenitentia, prorerum & actionum mutatione à Deo facta.
+
+[1.6.8.3] 2 Metonymia Sacramentalis est, qua nomē adiuncti simul & causae adjuvantis ponitur pro re sacramenti; vel symbolum pro re significata, & contra. Gen. 2. 17. Arbor vitae, arbor scientiae boni & mali. 1. arbor quae signum est horum. Gen. 17. 10, 11. Circumcisio & foedu• dicitur & signum foederis. Gen. 22. 14. Vocavit Abraham nomen loci illius deus providebit. 1. Signum quod Iehova providebit.
+Gen. 28. 22. Strues lapidum dicitur Domus Dei. Exod. 12. Agnus pascalis est pesacl•, transitus. Exod. 17. 15. Altare est Iehova vexillum meum. Ezech. 48. Hierosolyma est Iehova illic. Levit. 16. Sacerdos expiator. Ioh. 1. Christus agnus. Ecce agnus ille qui tollet peccata mundi. Agnus pascalis est Christus. 2. Cor. 5. Pasca nostrum immolatus est Iesus Christus. Et ibidem Christiani sunt azimi. Rom. 3. 25. Christus est 〈 in non-Latin alphabet 〉 1. propitiatorium, sive arcae fae deris operculum. 1. Cor. 10. Christiani sunt vnus panis. Et petra est Christus. Tit. 3. Baptismus est lavacrum regenerationis. 1. Cor. 11. Calix est novum Testamentum. & panis est corpus Christi.
+
+[1.6.8.4] 3. 〈 in non-Latin alphabet 〉 est Synechdoche, qua propter personalem vnionem id de integra persona Christi praedicatur, quod alteri naturae propriè convenit. Act. 20. 28. Adpascendam ecclesiam Dei, quam proprio illo sanguine acquisivit. Ioh. 3. 13. Nullus enim ascendit in caelum, nisi qui descendit è caelo fil•us, qui est in caelo. 1. Cor. 2. 8. Nam si co•nouis•en•, nequaquam Dominum glori• crucifixissent. Ioh 8. 58. Amen, amen dico vobis, pri••squam Abraham s•eret, ego sum. Luc. 2. 52. Iesus autem profi•
+•eb•t sapientia & statura & gratia apud Deum & homines.
+
+[1.6.8.5] Haec communicatio idiomatum locum habet tantùm in concreto non abstracto. Concretum est nomen integrae personae; vt Deus, homo, Christus, &c. Abstractum est nomen alterius naturae seperatim consideratae; vt Deitas, Humanitas, &c.
+
+[1.6.8.6] 4 Dicta de Deo quae speciem mali prae se ferunt, per operantem permissionem intelligenda. Nehem. 9. 37. Nam proventum suum effert regibus quos praeposuisti nobis propter peccata nostra: etiam in corpora nostra dominā
+tur, & in iumenta nostra pro voluntate sua, adeò vt in angustia magna simus. Isa. 19. 14. Iehova miscente in medio eius spiritū perversitatum; facient vt erret Egyptus in omni opere suo. Exo. 4. & 7. & 9. & 11. & 14. Deus indurat cor Pharaonis. Deut. 2. 30. Obduravit deus tuus spiritum eius, & obsirmavit animum eius, vt traderet illum in manum tuam, sicut est hoc tempore. Ios. 11. 20. A Iehova fuit quód obfirmabant animum suum ad occurrendum bello Israeli, vt internecioni de voveret illas, nec fieret illis gratia sed perderet illas. 1. Sam. 2. 25. Non auscultarunt voci patris sui, quia Iehova volebat illos perdere. 2. Chr. 22. 7. Se•
+à Deo fuit proculcatio Achaziae. Psal. 105. 25. Mutavit animum istorum vt odio haberent populū suum, vt machinarentur contra servos suos. Rom. 1. 28.
+Tradidit eos Deus in mentem reprobā. 2. Thess. 2. 11. Mittet illis deus efficaciam illusionis, vt credant mendacio. Ezec. 14. 9. Ipse autem Propheta cùm pellectus fuerit vt eloquatur verbū: Ego Iehova pellexero prophetam ipsum, & extendens manum meam contra ipsum, perdam ipsum è medio populi mei.
+
+[1.6.8.7] 5 Dicta completivè, si nondum completa sunt inchoativè intelligenda. Gen. 4. 32. Quū autem Noah natus esset 500 annos, genuit Shemum, Chamum, & Iaphethum, id est, caepit gignere. Gen. 11. 26. Therah vixerat septuaginta annis: quùm genuit Abramum, Nachorem, & Aranem. & 1. Reg. 6. 2, 37. Psal. 119. 8. Statuta tua observabo ne derelinquas me, de conatu intelligendum, vt Phil. 3. 12. Nedum vt iam metam apprehenderim, aut iam perfectus sim: sed persequar, experiēs an quoque apprehendam: cuius etiam rei causa apprehensus sum à Iesu Christo. ver. 15. Quot quot itaque perfecti sumus, hoc sentiamus. Luc. 1. 6. Erant autem iusti ambo in conspectu Dei inc••entes in omnibus mandatis & constitutionibus inculpatè.
+
+[1.6.8.8] 6 Leges morales, sub peccato nominatim definito, omnia peccata ejusdē generis, causas eorum, occasiones, irritamenta, & oppositas virtutes significant. Sic enim Christus leges morales interpretatur. Matth. 5. 2. ad
+finem vsque. 1. Ioh. 3. 15. Qui odit fratrem homicida est.
+
+[1.6.8.9] 7 Minae & promissiones cum suis conditionibus intelligendae; illae fidei & resipiscentiae; hae, praeserum si corporales fuerint, cum exceptione castigationis & crucis.
+
+[1.6.8.10] Ezech. 33. 14. Et quùm dixero improbo omninò morieris; si reversus à peccato suo exercuerit iudicium & iustitiam &c. omninò vivet non morietur. Apoc. 21. 8. Timidis & incredulis, & execrabil•bus, & homicidis, & scortatoribus, & veneficis, & idololatris, & omnibus mendacibus, pars assignata est in stagno ardenti igni & sulphure, quod est mors secunda. at vers. 6. promissionem addit. Ego sitienti dabo ex fonte aquae vivae gratis. Ionae 3. 5. Et proclamavit dicens▪ adhuc quadraginta dies, deinde Ninive subvertetur. Ex sequentibus apparet condicionem intelligendam. Ierem. 18. 9.
+
+[1.6.8.11] His similia exempla sunt. Isa. 38. 1. de Ezechia. Da praecepta familiae tuae: nam tubrevi moriturus es, ac non vives. Subintelligenda conditio voluntatis divinae. Gen. 20. 3. Dominus Abimelecho, quia Abrahami •••rem ad se rapuerat, ait: Ecce tu morieris, propter mulierem quam accepisti; excipe nisi restituas.
+
+[1.6.8.12] Hinc nata est in scholis distinctio voluntatis signi & beneplaciti. Voluntas beneplaciti
+est, qua quaedam absolutè & simplicitèr absque vlla conditione vult, vt mundum creati & regi, mitti filium. Voluntas signi est, qua vult quaedam sed propter aliud & cum condicione: & sic dicitur, quòd condicio apposita signum sit, Deum sic velle.
+
+[1.6.8.13] 8 Oratio superlativa aut exclusiva de vna persona vsurpata, non excludit alias divinitatis personas, sed creaturas & fictitia numina; quibus verus Deus sive in vna sive pluribus personis opponitur. Ioh. 17. 3. Haec est estem vita aeterna, vt te solum cognoscant esse verum Deum, & quem misisti Iesum Christum. Patrem solum verum Deum appellat, vt falsis omnibus dijs opponat. Rom. 16. 27. Soli sapienti Deo gloria per Iesum Christum. 1. Tim. 1. 17. Ioh 10. 29. Pater maior est omnibus; non caeteris personis sed creaturis. Mar. 13. 37. Solus pater novit diem Iudicij. Omnia opera Trinitatis ad extra & attributa inclusivè intelligenda sunt.
+
+[1.6.8.14] 9 Quando Deus absolutè sive per se consideratur, tres personae comprehenduntur. quando confertur cum persona Trinitatis, patrem significat. 2. Cor. 13. 13. Gratia Domini nostri Iesu Christi & charitas Dei, & communicatio Spiritus sancti sit cum omnibus vobis.
+
+[1.6.8.15] 10 Vox generalis specialiter significat & contra, vt omnis (inquit August. lib. 6. cont. Iulian. c. 12.) pro multis & multi pro omnibus vsurpari in scripturis saepè solent. Gen. 33. 11. Donauit mihi Deus, & sunt omne. Ier. 8. 6. Omnes conversi sunt in cursum suum, id est, plerique. Mat. 21. 26. Omnes habent Iohannem quasi Prophetam. i. plerique. Phil. 2. 21. Omnes quae sua sunt quaerunt, non quae sunt Christi. Deut. 28. 64. Et disperget te Iehova in omnes populos, i. multos. 1. Reg. 12. 18. Et omnes Israelitae lapidarunt eum, i. omnes qui praesentes aderant. Exod. 9. 6. Omnia animalia Aegypti mortua sunt. Ierem. 26. 9. Tum congregatus est omnis populus contra Ieremiam in domo Iehovae, i. omnis impius. Matth. 4. 23. Sanans omnem languorem, id est, omnem oblatum. Ioh. 14. 13. Quicquid petieritis, patrem in nomine meo, id est, quicquid iuxta verbum. 1. Cor. 6. 12. Omnia mihi licent, id est, omnia adiaphora. Nihil pro parum aut exiguum. Ioh. 18. 20. Nihil in occulto loquutus sum, id est, parum. Act. 27. 33. Nullus pro paucis. Ierem. 8. 6. Nullus est qui agit paenit entiam mali sui, id est, pauci. Ioh. 3. 32. Quod vidit & audivit testatur, & nemo testimonium eius accipit, id est pauci. 1. Cor. 2. 8. Quam sapientiam nemo Principum huius seculi cognovit, id est, perpauci. Semper pro saepè aut diù. Proverb. 13. 10.
+Inter superbos semper sunt iurgia, id est, saepè. Luc. 18. 1. Dixit eis parabolam quòd oportet ipsos semper orare. Luc. 24. 53. Erantque semper in templo laudantes & benedicentes Deum. Ioh. 18. 20. Ego semper domi in Synagoga & in Templo. Aeternum de longo tempore quod rei praesenti conveniat. Gen. 17. 8. Universa terra Canaan data Abrahamo in possessionem aeternam. Levit. 25. 46. Si servi & alienigenae fuerint, opera eorum aeternum vtimini. Deutro. 15. 17. Si servus fuerit frater tuus Iudaeus & noluerit à te discedere: tum accipies subulam & perforabis aurem eius in porta, & serviet tibi in aeternum. 1. Chron. 15. 2. Levitas elegit deus, vt ministrent sibi vsque in aeternum. Esa. 34. 6. Et bestiae possidebunt Idumaeam & Bosram vsque in aeternum. Dan. cap. 2. vers. 4. Rex in aeternum vive. Ierem. cap. 25. 9. Redigam Iudaeam & terras vicinas in stuporem in sibilum & solitudinem perpetuam. Vbique pro passim. Mar. 16. 2. Illi verò egressi praedicarunt vbique Domino cooperante. Luc. 17. 3. Deus nunc annunciavit omnibus vbique hominibus vt resipiscerent. [Non] ad speciem restringitur. Psal. 7. 4. Non est iniquitas in manibus meis, id est, in causa mea contra Saulitas. Ioh. 17. 13. Neque parentes eius peccaverunt. i. vt hic ob peccata caecus nasceretur. Misericordiam volo non sacrificium.
+Non pro rarò, vix difficultèr. 1. Regum. 15. 5. David non declinavit ab vllo eorum quae praeceperat ipsi Dominus, praeterquam in re Uriae. 1. rarò. Luc. 2. 37. Ipsa vidua erat, & non decedebat è templo.
+
+## III. Vocum Grammaticae & Rhetori • ae proprietates ipsis vocabulis variè consignificant. vt,
+
+[1.6.9.1] Ellepsis significat vel brevitatem vel celeritatem affectuum. Gene. 11. 4. Extruamus nobis vrbem & turrim cuius fastigium [assurgat] in caelum, vt nobis faciamus nomen. Act. 5. 34. Sin ex Deo, non poteritis dissolvere, [ac nescio] an etiam pugnare cum Deo comperiamini. Psal. 6. Et tu Domine vsquequo? Exod. 22. 20. Qui sacrificat dijs alienis vt anathema perditor: praeterquam [qui sacrificat] Iehovae. Gen. 3. 21. Nunc igitur [videndum] ne extendens manum suam accipiat de arbore vitae. 1. Chron. 4. 10. Si benedicendo benedixeris mihi [faciam hoc vel illud] Exod. 22. 23. Si afflixeris pupillum [affligam te.]
+
+[1.6.9.2] Enallage praeteriti, qua praeteritum ponitur profuturo, in oraculis Prophetarum certitudinem rei futurae fignificat. Gene. 10. 3. Mortuus es propter mulierem. 1. morieris. Isa. 9. 6. Puer natus est vobis, & filius datus est vobis.
+Isa. 21. 9. Cecidit, cecidit Babylon.
+
+[1.6.9.3] Pleonasmus, qui multiplex
+
+[1.6.9.4] Substantivi in eodem casu iterati, significat I. Vim & Emphasim. Psal. 133. 2. Sicut vnguentum quod descendit in barbam, barbam Aaronis. Luc. cap. 6. vers. 46. Quid vocatis me Domine, Domine. II. Multitudinem. Gen. 32. 16. Dedit in manus servorum suorum greges, greges, id est, multos greges. Ioel. 3. 19. Turbae, turbae in valle concisionis, id est, multae turbae. III. Distributionem. Ad portam & portam. 1. Chron. 16. 13. id est, in singulis portis. Levit. 17. 3. Vir, vir, 1. singuli. 2. Chron. 19. 5. Constitues iudices in vrbe & vrbe, id est, singulis. IIII. Diversitatem & varietatem. Psal. 12. 13. In corde & corde loquuntur, i. diversis cordibus. Prov. 20. 10. Pondus & pondus abominabilia sunt Iehovae.
+
+[1.6.9.5] Substantivi in regimine. I. In singulari emphasim & certitudinem. Exod. 31. 15. Die septimo Sabbathum Sabbathi est. Mich. 2. 4. Et lamentabitur lamentum lamentationis. II. In plurali excellentiam. Psal. 136. 2. Deus deorum, i. Summus Deus. Dan. 2. 37. Rex regum. Eccles. 1. 2. Vanitas vanitatum. Canticum canticorum. Servus servorum.
+
+[1.6.9.6] Adiectivi repetiti, exaggerationem significant. Iere. 24. 3. Vide ficus bonas, bonas▪ Esa.
+6. 3. Sanctus, sanctus, sanctus Dominus deus exercit•um. Exod. 34. 6. Transiens Iehova ante faciem eius, inclamavit, Iehova, Iehova Deus fortis. Ierem. 7. 4. Ne habetote fiduciam vestram in rebus falsis, dicendo, templi Iehovae, templi Iehovae, templi Iehovae ista sunt. Ierem. 22. 29. O terra, terra, terra, audi verbum Iehovae. Ezech. 21. 27. Dices igitur gladius, gladius districtus est ad mactationem extersus. Proverb. 6. 10.
+
+[1.6.9.7] Verbi, significat emphasim aut vehementiam, aut certitudinem, aut celeritatem. Gen. 2. 17. Moriendo morieris. Isa, 50. 2. An abbreviando abbreviata est manus •ea. & 56. 3. Discernendo discrevit Iehova me à pop•lo suo. Psal. 50. 21. Cogitas me essendo esse similem tui. Psal. 109. 10. Et vagando vagantur filij eius, & mendicant. Ierem. 12. 16. Erit autem si discendo dediscerint vias populi mei &c. 2. Regum. 8. 10. Prov. 27. 23. Exod. 13. 17. Isa. 6. 9. & 55. 2. 2. Reg. 5. 11. Gen. 46. 4. 2. Sam. 15. 30. Ierem. 23. 39.
+
+[1.6.9.8] Conjunctionis, interdum significat vehementiam. Ezech. 13. 9. Proptereà, proptereà quòd errare fecerunt populum. Vnde duplicata conjunctio (secùs quàm Latinè fit) negationem intendit. Exo. 14. 11. An proptereà quòd non non sepulchra in Aegypto, id est, m•lla prorsus.
+Matth. 13. 14. Et videndo vide bitis, & [〈 in non-Latin alphabet 〉] non cernetis.
+
+[1.6.9.9] Sententiae, I distributionem significat. Ezech. 46. 21. Atrium in angulo atrij erat: atrium in angulo atrij erat: atrium in angulo atrij erat, id est, atrium vnum in quovis angulo ipsius atrij. II Emphasim. Exod. 12. 50. Fecerunt Israel sicut praeceperat Moses & Aaron sic fecerunt. Psal. 145. 18. Propinquus est Iehov• omnibus invocantibus eum: omnibus invocantibus eum in veritate. Psal. 124. 1. Nisi Iehova fuisset nobiscum, dicat nunc Israel: nisi Iehova fuisset nobiscum. III. Repetitio sententiae quae fit aliis verbis, expositionis est gratia. 2. Regum. cap. 20. vers. 3. Obsecro Iehova, recordare, me iam continenter ambulasse coram te fideliter & corde integro, & quod bonum videtur in oculis tuis fecisse. Psal. 6. vers. 9, 10. Audivit Iehova vocem fletus mei, audivit Iehova precationem meam: Iehova crationem meam suscepit. Esa. cap. 3. vers. 9. Peccatum suum indicarunt, & non absconderunt. Ioh. 1. 3. Omnia per ipsum facta sunt, & sine ipso factum est nihil.
+
+[1.6.9.10] Tropi omnes 〈 in non-Latin alphabet 〉 consignificant, praeter delectationem & ornatum, praebentes
+etiam fomenta fidei; vt cum Christus ponitur pro christiano, vel pro ecclesia dei. Mat. 25. 34. 1. Cor. 12. Sicut corpus unum est, & habet multa membra: & omnia membra corporis vnius multa cum sint, vnum tamen sunt corpus: ita & Christus, idest, Ecclesia. Act. cap. 9. vers. 4. Hic tropus fidelem animum consolatur & fidem alit.
+
+[1.6.9.11] Ironia significat peccati iustam reprehensionem. Iudg. 10. 14. Dixit autem I•hova ad filios Israel: ite & clamate ad deos vestros, quo• elegistis, ipsi salvent vos tempore angustiae. Mar. 7. 9. Et dixit Iesus Pharisaeis hypocritis: Sanè benè abr•gastis mandatum Dei & traditiones vestras servatis. 1. Reg. 22. 15. Quùm ergò ingressus esset ad regem, dixit et Rex, Michaiah v•rum iturisumus in bellum &c. qui dixit, ascende & prosperare, scilicet tradet Iehova in manum regis. & 18. cap. Cum autem esset meridies, illudebat eis Elias, dicens, clamate altiùs; deus enim est: sed aliquid fortasse contemplatur, aut occupatus est, aut it•r facit, nisifortè dormit, vt sit expergefaciendus. 1. Cor. 4. 8. I am saturati est is, •am ditatiestis, absque nobis regnum adepti estis.
+
+[1.6.9.12] Figurae dictionis in vocis vel soni repetitione, plerumue emphasim habent. Psal. 66. 7. Benedicat nobis Deus, deus noster. Esai. 48.
+II. Propter me, propter me, faciam ne blasphemer. Ioh. 1. 51. Amen, amen, dico vobis. Psal. 67. 6. Celebrabunt te populi, Deus: celebrabunt te populi omnes. Psal. 135. Singulis versibus hac de causa repetitio.
+
+[1.6.9.13] Interrogatio significat I vehementem affirmationem sive asseverationem. Genes. 4. 7. Nonnè si bene egeris, remissio? Ios. 10. 30. Nonnè hoc scriptum est in libro iustorum? Ioh. 4. 35. Nonnè vos dicitis adhuc esse quatuor menses ad messem? Iosu. 1. 9. Gene. 37. 13. 1. Regum. cap. 20. vers. 27. Mar. 12. 24. Ioh. 6. 7. II. Negationem. Gene. 18. 4. Nunquid difficile erit Domino verbum.? Rom. 3. 3. Num eorum incredulitas fidem Dei faciet irritam? Matth. 12. 26. Si Satanas satanam vicit, quomodo stabit regnum eius? III. Prohibitionem. Psal. 79. 10. Adiuva nos De•s, quare dicent Gentes, vbi est Deus eorum? 2. Sam. 2. 22. Et dixit Abner ad Assahelem: recede à me, quare te percutiam humi? IIII. Varios affectus, vt admirationem, commiserationem, querelam, reprehensionem. Psal. 8. 10. Domine, quam admirabile est nomen tuum in universa terra! Isa. 1. 21. Quomodo est facta •eretrix Civitas fidelis! Psal. 22. Deus mi, deus mi quare me dereliquisti?
+
+[1.6.9.14] Con•essio significat negationem & reprehensionem.
+2. Cor. cap. 12. vers. 16. Sed est•, non gravavi vos, sed cùm ess•m callidus, dolo vos decepi: num per quenquam eorum quos mis• ad •os, vos decepi?
+
+## IIII. Si dissimilarium • ocorum oppositio, doceatur esse, vel non eiusdem rei, sed nominis tantùm, vel non secundum idem, vel non ad idem, vel non eodem modo, vel non eodem tempore, conciliatio facta 
+
+[1.6.10.0.1] Exempla.
+Psal. 9.9
+Iudica me Iehov• secundum iustitiam m•a•.
+Isa. 64.4
+Sumus vt immundus omnes nos, & sicut panniculus me•
+struatu• omnes iustitiae nostr•.
+
+## Conciliatio.
+
+[1.6.10.1.1] E scopo & circumstantiis vtriusue loci constat contradictionem hanc non esse ad idem. Ergò distinguo; iustitia alia est causae vel operis, alia personae: de priore, primus est locus;
+de posteriore, locus est posterior.
+
+[1.6.10.1.2] Matth. 10.10
+Neque peram ad iter, neque binas tunicas, neque soleas▪ neque baculum.
+Mar. 6.8
+Et pr•cepit ijs, vt nihil sumerent ad iter nisi virgam tantùm, non peram, non panem, non aes in zona, sed vt cal•iarentur sandalijs.
+
+## Conciliatio.
+
+[1.6.10.2.1] Distingue respectus▪ Matthaeus baculum intelligit, qui oneri sit ferentibus. Marcus talem, qui viatores sustineat ac levet; quali vsus est Iacob. Gen. 32. 10. Deinde soleae apud Matthaeum novae sunt, quae ad iter studiosè comparantur. Sandalia apud Marcum non nova sunt, sed ea quae pedibus quotidiè teruntur.
+
+[1.6.10.2.2] Ex hoc quarto consectario nascuntur multae cautiones in conciliandi• locis observandae.
+
+[1.6.10.2.3] 1 Scriptores sacri de rebus & personis praeteritis scribentes anticipant, id
+est, de iis loquuntur juxta morem loci illius & temporis in quo scripserunt. Gene. 12. 5. Posteà refigens, inde ad montana profectus est versus orientem tractum Bethelis. Locus sic dictus est Mosis temporibus; Abrahami verò non Bethel sed Luz. Gene. cap. 28. vers. 19. Gene. cap. 13. vers. 1. Ascendit Abram ex Aegypto, &c. in meridiem: non respectu Aegypti, sed loci in quo fuit Moses. 1. Pet. 3. 19. Christus spiritu praedicabat incarceratis. Dicuntur incarcerati ratione temporis, quo scripsit Petrus hanc Epistolam, non quo vixit Noë. Psal. 105. 15. Nolit• tangere vnctos meos. Abraham, Isaac, Iacob dicuntur vncti pro ratione & more temporis quo vixit David. Nam ipsi externa vnctione caruerunt.
+
+[1.6.10.2.4] 2 Allegoriae juxta scopum loci exponendae. Sic Chrysost. super Matth. cap▪ 8. Parabolae non sunt ad verbum exponendae, ne multa sequantur absurda. August. in psal. 8. In omni allegoria haec retinenda regula est, vt pro sententia praesentis loci consideretur quod per similitudinem dicitur.
+
+[1.6.10.2.5] 3 Loci & personae in Scripturis persaep è sunt binomines. Gedeon Ierubaal. Iudg. 6. 32. & Ierubesheth. 2. Sam. 11. 21. Ahimelech. 1. Sam. 21. 3. & Abia•har. Mar. 2. 26. Salomon. 1. Sam. cap. 12. vers. 24. & Iedidia. vers. 25.
+Zimri, 1. Chron. 2. 6. & Zubdi, Iosu. 7. 1. Hazaria, 2. Chron. 22. 6. & Achazi•, 1. Chron. 3. 11. & Iehoachaz, 2. Chron. 21. 17. Iohanan, 1. Chron. 3. 15. & Iehoachaz, 2. Reg. 23. 30. & Schallum, Ier. 22. 11. Ieho•achin, 2. Reg. 24. 6. & Iechonias, 1. Chron. 3. 16. & Conja, Ier. 22. 24. Mephiboscheth, 2. Sam. 4. 4. & Meribbahal, 1. Chron. 8. 34. Abinadab, 1. Chron. 10. 2. & I•scui, 1. Sam. 14. 49. Eliachim & Iachim, 2. Reg. 23. 24. Ozias & Azarias, 2. Reg. 15. 1. 2. Chron. 26. 1. Hestera, Edissa, Hest. 2. 7. Simon, Petru•, Ioh. 1. 42. & Cep•as, & Barjon•. Ioses & Barnabas, Act. 4. 36. Saulus & Paulus, Act. 13. 6, 8. Matthaeus & Levi. Hierusalem & Iebus, & Salem.
+
+[1.6.10.2.6] Et nomen quod reuera vnum est, saepè mutationes & differentias habet: Vt Salmon, Ruth. 4. 21. idem Salma, 2. Chron. 2. 11. Abigal, 2. Sam. 17. 25. idem Abigail, 1. Chron. 2. 16. Tiglath-pileser, 2. Reg. 15. 19. idem Tilgath-pilneeser, 1. Chron. 5. 6. Aram, Matt. 1. 3. idem Ram, 1. Chron. 2. 9.
+
+[1.6.10.2.7] Et è contra distinctae personae & loci diu•rsi vnomines sunt, Math. 1. 11. Iosia• genuit Ieconiam & •ratres •ius, in transportatione Babylonica, 12. Post transportationem Babylonicam Ieconias genuit Salathiel. Hîc quia Iechonias & secundam tesseradecadem finiat &
+tertiam inchoet, vnus alteri deerit, nisi dicamus duos Iechonias patrem simul & filium fuisse. Succoth nomen trium locorum; primus in Aegypto, Exod. 12. 37. secundus in tribu Gad, Ios. 13. 27. tertius in tribu Manassis, 1. Reg. 7. 46.
+
+[1.6.10.2.8] 4. In supputationibus sacris, propter impietatem principis, vel nomen eius vel numerus annorum, quibus malè administrauit, omittuntur.
+
+[1.6.10.2.9] 1. Sam. 13. 1. Saul duobus regnauit super Israelem. Subaudi, legitimè, vel, vt inquit Lyra, de Iure: aliâs verò plures annos regnauit, Mat. 1. 8. Ioram genuit Hosiam. Hîc propter impietatem tres omittuntur Achaziah, Ioas, Amaziah.
+
+[1.6.10.2.10] 5. Datum tempus sumitur vel completè, vel incompletè: eiusque partes intelliguntur vel inclusiuè vel exclusiuè. Vt:
+
+[1.6.10.2.11] 1. Reg. 15. 9.
+Anno vigesimo Ieroboam regnauit Asa super Iehudam.
+25 Nadab filius Ieroboā regnare [coepit anno secundo] As• regis Iudae: & regnauit [biennium.]
+28 Baasa morte afficiens eum [anno tertio Asae] regis Iudae regnauit proeo.
+
+## Conciliatio.
+
+[1.6.10.3.1] Nadab qui coepit regnare anno secundo Asae, potuit regnare biennium; quamuis Baasa anno tertio Asae succedat, quia anni regum Israëlis & Iudae vltimi non sunt completi, sed eorum quidam (vt in hoc loco) vix menses complectuntur; caeteris positis completè.
+
+[1.6.10.3.2] Matth. 17.1
+[Sexto verò post die] assumit Iesus Petrum & Iacobum, & Iohannem fratrem eius, & subducit eos in monte sublimem.
+Luc. 9.28
+Factum est autem post haec verba [quasi dies octo] intercesserunt, quum assumptis Petro & Iacob & Iohanne ascendit in montem.
+
+## Conciliatio.
+
+[1.6.10.4.1] Matthaeus exclusiuè ponit tantùm intermedios dies, qui integri fluxerunt: Lucas extremos etiam dies inclusiuè connumerat.
+
+[1.6.10.4.2] Tēporis partes ponuntur aliquādo inclusiuè, aliquādo exclusiuè, I. Vt perfectior sit numerus. Sic August. q. 47. in Ex. In numero perfectiori saepè, quod deest vel quod superest, nō
+computatur. Iud. 11. 26. Habitauit Israël in Hesbon & Areer trecentos annos. Hi anni numerandi sunt ab egressu Israëlitarum ex AEgypto, hoc modo: Mo•ae in diserto ann. 40. Iosua an. 17. Othonielis an. 40. Iud. 3. 11. Ehud & Samgar an. 80. Iud. 3. 30. Barac an. 40. Iud. 5. 51. Gedeonis an. 40. Iud. 8. 28. Abimelech an. 3. Iud. 9. 22. Tolah an. 23. Iud. 10. 2. Iair an. 22. Iud. 10. 3. Totum est praecisè 305. anni. Hic ergo anni quinque non repetuntur fortè quia par hic numerus 300. & computationi & sermoni est aptior. II. Breuitatis gratia, Iud. 20. 46. Caesiè BinJamitis 25000. Hic 100. non computantur vt apparet v. 35. Israëlitae prosternebant eo die è BinJamine vicies quinquies mille centum viros.
+
+[1.6.10.4.3] 5. Rex vel externo bello, vel senio, vel morbo impeditus proregem filium viuus constituit: ideoue computationibus annorum patris & filii simul regnātium, anni regiminis aliquando coniunctim, aliquando separatim numerantur.
+
+[1.6.10.4.4] 2. Reg. 1.
+17. Mortuus est Achaziah, & regnauit Iehoram pro eo anno secundo Iehorami filii Iehosaphat regis Iudae.
+
+[1.6.10.4.5] 2. Reg. 3.
+1 Iehoram filius Achab regnauit anno decimo octauo Iehosaphat.
+Cap. 8. 16. Anno quinto Iorami filii Achab; regnare coepit Iehoram filius Iehosaphat, & octo annis regnauit.
+
+## Conciliatio.
+
+[1.6.10.5.1] Iehosaphat anno regni 17. constituens regi Achab contra Syros auxilium ferre, Ioram filium proregem designat: anno 18. regni sui & filii secundo regnauit Ioram filius Achab. Postea quinto anno huius Ioram filii Achab, Iehosaphat senio confectus, filio suo Ioram regnum confirmat; qui dicitur 8. an. regnasse, quatuor viuente adhuc patre & quatuor solus iam mortuo patre.
+
+[1.6.10.5.2] 2. Reg. 15.30
+Hosea filius Elae percussit Remaliam ita vt morte afficeret •um & regnauit pro eo, anno vigesimo Iotham filij Vzziae.
+2. Reg. 15.33
+Iotham filius Uzziae natus 25. annos erat quùm regnare inciperet, & sexdecim annos regnauit Hierosolimis.
+
+## Conciliatio.
+
+[1.6.10.6.1] Sexdecim annos regnauit solus mortuo patre; regnauit etiam viginti cum patre: quia vice patris leprosi, regni administrationem inijt.
+
+[1.6.10.6.2] 6. Orientales variè distingunt diem artificialem, & in horas aequales duodecim (vulgò planetarias) & quadrantes, ab hora proximè praecedente nominatos. Bero•ld. Chronol.
+
+[1.6.10.6.3] 1.
+2.
+3.
+4.
+Orient.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+Nostrae.
+7.
+8.
+9.
+10.
+11.
+12.
+1.
+2.
+3.
+4.
+5.
+6.
+
+[1.6.10.6.4] Mar. 15. 16. 25
+Erat autem [hora tertia] quando crucifixerunt eum.
+Ioh. 19.14
+Erat autem parasceue pasc•, [hora verò quasi sexta] tum dicit Iudaeis, ecce rex vester.
+
+## Conciliatio.
+
+[1.6.10.7.1] Oppositio non est ad idem: ergo distingue modos computandi horas diei, tum constabit Christum potuisse crucifigi hora tertia
+& circa sextam.
+
+[1.6.10.7.2] 7. Numero majori & pleniori minor adnumeratur, Iud. 3. 11. Quiescebat terra omnis annis [quadraginta,] quùm mortuus est Othoniel. Sub hoc numero comprehenduntur omnes anni à morte Iosuae ad mortem Othonielis etiam octo anni seruitutis sub Syris. Iud. 3. 30. Terraquievit 80. an. Hic ab Othonielis morte anni Ehud & Samgar simul cō
+numerantur. Ehud enim 80. annis iudex esse non potuit; quia tum hi anni plenam hominis aetatem fecerunt. Simile occurrit, Iud. 5. 31. & 8. 28. & 9. 22. & 10. 2, 3. & 11. 26. vbi annis 300. includuntur 40. anni morae in deserto.
+
+[1.6.10.7.3] 8. Filiatio est, vel naturalis vel legalis. Naturalis, fit generatione: Legalis, adoptione; quae testanda est educatione & enutritione, & successione in regno, Leui ratione, jure redemptionis.
+2. Sam. 21.8
+Et accepit Rex quinque filios Micalae filiae Saulis quos pepererat Hadrieli filio Barzillai Mecolanaeo.
+1. Sam. 18.18
+Fuit autem quo tempore daturus erat Merabam filiam Saulis Dauidi, vt ipsa Daretur Hadrieli Mecolonaeo in vxorem.
+
+## Conciliatio.
+
+[1.6.10.8.1] Naturales sunt filii Merabae, legales Micalae, ideoue parere tantùm significat educare, alere, nutrire. Sic enim Gen. 50. 23. filii Machiris dicuntur nati super genibus Iosephi, id est, educati.
+Matth. 1.12
+Ieconias genunuit Salathiel.
+Luc. 3.27
+Salathiel filius Neri.
+
+## Conciliatio.
+
+[1.6.10.9.1] Salathiel filius Neri naturâ: filius Ieconiae legaliter respectu successionis in eodem regno. Hoc modo Tzedechias Ieconiae siue Iehoiachinis frater, 2. Chron. 36. 10. & cognatus, 2. Reg. 24. 27. & filius, 1. Chron. 3. 16. frater generatione, filius iure successionis. Hoc modo conciliantur Matthaeus & Lucas in genealogia Christi: alter enim naturalem ordinem sequitur vt Lucas, alter legalem.
+
+## V.
+
+[1.6.11.1] Dato praedictis mediis loci genuino sensu, vocis 〈 in non-Latin alphabet 〉 significatio loco congrua dabitur.
+Hoc modo vau praefixae seu copulativae significationes (vt annotavit Brunerus in Gram. Hebr.) pro locorum varietate distinguntur, significat. 1o. At. Isa. 9. 10. Gen. 42. 10. 2o. quoniam. Isa. 53. 11. 3o. quin. Isa. 9. 11. psal. 73. 4. 4o. id est. Isa. 9. 14. 1. Sam. 17. 40. 5o. Idcirco. Prov. 1. 18. 6o. Ita vt. Psal. 18. 39. Isa. 24. 20. 7o. sic etiam. Isa. 10. 10. & 51. 11. 8o. Et tamen. 1. Chron. 5. 2. Nehem 9. 19. 9o
+Atqui. Psa. 73. 2. & 19. 6. 10o. Posteà tunc. Isa. 16. 12. Gen. 3. 5. 11o. autem. Isa. 1. 21. Nehe. 2. 9. 12o. Etiam. 2. Reg. 3. 8. 13o. Num. Isa. 37. 11. 14o. sicut, sic. Psal. 125. 2. Dan. 7. 2. 15o. Qui, quae, quod. Isa. 43. 8. 16o. quum. Psal. 50. 17. 17o. vt. Isa. 49. 6. 18o. quamvis. Ier. 31. 35. 19o. inquam. Isa. 55. 1. 20o. idque. Psal. 105. 12. 21o. Atque ita. Prov. 3. 4. 22o. Et vt. Isa. 58. 5▪ 6. 23o. quoniam, ideò. Psal. 109. 17. 24o. imo. psal. 109. 18. 25o. nec non. psal. 72. 16. 26o. verùm. psal. 73. 23. 27o. etiamsi. Iob. 19. 26. 28o. aut. psal. 139. 7. 29o. quòd, idque. psal. 139. 14. 30o
+& verò. psal. 139. 17. 31o. tum. Neh. 12. 27. 32o. simulatque. Iere. 50. 43. 33o. si sin. 2. Reg. 5. 17. 34o. nec. isa. 41. 8. 35o. hoc igitur. prov. 17. 33. 36o. vnà cum. prov. 8. 18. 37o. quòd. Gen. 47. 6.
+
+[1.6.11.2] Hoc modo constat [Berech] significare contraria, benedicere & maledicere. Iob. 1. 5. 1. Reg. 21. 10. & 11. 2, 9.
+
+[1.6.11.3] Hinc denique liquet [Huchal] non significare prophanare, sed incipere. Gene. 4. 26. I. Immediatè procedit verbum infinitum, non nomen. II. Intermultas diluvii causas Moses prophanationem cultus Dei non enumerat: quae tamen praecipuè fuit notanda, si modò in populo Dei obtinuisset.
+
+## CAP. VI. DE ORTHOTOMIA.
+
+[1.7.1] HActenus de Interpretatione: sequitur Orthotomia.
+
+[1.7.2] 〈 in non-Latin alphabet 〉 est▪ qua verbum fit aptum ad aedificandum populum Dei. 2. Tim. 2. 15. Stude teipsum probatum sistere Deo, operartum quinon erubescat, [〈 in non-Latin alphabet 〉] & quirectè secet sermonem veritatis. Metaphora fortè ducta est à Levitis, quibus non licebat temerè partiri membra victimarum. Isa. 50. 4. Dominus Iehova dedit mihi linguam eruditorum, vt sciam tempestivè eloqui defesso verbum.
+
+[1.7.3] Eius partes sunt 〈 in non-Latin alphabet 〉, & Applicatio.
+
+[1.7.4] Dialysis est, qua locus datus in varias doctrinas,
+velut tela quaedam textori• resolvitur. Act. 18. 28. Magna contentione▪ Iud•os magis ac magis redarguebat publicè, •stendens per Scripturas Iesum esse Christum illum.
+
+[1.7.5] Dialysis est vel Notatio, vel Collectio.
+
+[1.7.6] Notatio est, quando doctrina in dato loco exprimitur. vt, Rom. 3. 9. Criminati sumus Iudaeos & Graecos omnes esse sub peccato. 10. Sicut scriptum est, non est iustus ne vnus quidem: 11. Non est qui intelligit, non est qui exquirat Deum. vers. 12. Omnes deflexerunt, simul inv••les facti sunt: non est qui faciat bonum, non est vsque ad vnum. Act. 2. 24. Quem Deus excitavit solutis doloribus mortis, eò quód impossibile erat eum ab ea retineri. vers. 25. David enim dicit de eo, prospiciebam Dominum coram me semper, quoniam est mihi ad dextram ne concutia•. 26▪
+Proptereà oblectatum est cor meum, & ex•ltavit lingua mea; atque ade• car• mea requ•escet in s•e. vers. 27. Quontam non derelinques animammeam apud inferos: neque sines sanctum tuum v•á•re corruptionem.
+
+[1.7.7] Collectio est, quùm doctrina non expressa, è textu solidè colligitur. Hoc fit ope novem argumentorum, hoc est▪ causarum, effectorum, subiectorum, adiunctorum, dissentaneorum, comparatorum, nominum, distributionis, definitionis.
+
+[1.7.8] Locus.
+Collectio.
+Ioh. 10.
+34
+Respondit ijs Iesus, nonnè soriptum est in lege vestra, Ego dixi, dij estis?
+Acomp. minoris.
+35 Si illos dixit deos, ad quos sermo Dei factus est: & non potest solvi Scriptura.
+36 Me, quem Pater sanctificavit & misit in mundum, vos dicitis blasphem•
+re, quia dixi, Dei filius sum.
+1. Cor. 9.
+9. Nam in Mosis lege scriptum est, non obligabis os bovi triturienti, Num boves curae sunt Deo?
+A minore.
+Vers. 4. Annò• habemus potestatem vescendi & bibendi?
+Gal. 3.
+10 Nam quotquot ex operibus legis sunt, sub execratione sunt. Scriptum est enim: Execrabilis quisquis non manserit in omnibus quae sunt in libro legis, vt faciat ea.
+Vers. 11. Siquidem iustus ex fide vivet.
+A contrariis.
+Vers. 9. Itaque qui ex fide sunt, benedicuntur cum fideli ill• Abraham.
+Vers. 11. Nullum apud Deum instificari per legem manifestum est.
+Hebr. 8.
+8 Nam incusans eos, inquit, ecce dies venient, dicit Dominus, quùm pa•gam cum domo Israel & cum domo Iuda foedus novum.
+Ab adjuncto.
+Dum novum dicit, antiquavit prius: porrò quod antiquatur ac senescit, prop• est vt evanescat.
+
+[1.7.9] In colligendis doctrinis praecipuè tenendum exemplumin suo genere habere vim generalis regulae. Exempla patrum typ• sun• nobis. 1. Cor. cap. 10. vers. 11. Et quicquid scriptum est, ad nostram doctrinam est scriptum; Est ue theorem, logicum, Genus actu esse in▪ singulis speciebus; & Opticum, generales rerum species c•rni priùs quàm singulares.
+
+[1.7.10] Rom. 9.
+7
+Neque quia sunt semen Abrahae, ideò omnes sunt filij: sed in Isaac vocabitur •ibi semen.
+10
+Neque hic solum, sed Rebecca quàm ex vno concepisset, nempe ex Issac patre nostro, haec experta est.
+A specie.
+Vers. 8. Hoc est, non qui carnis filij, ij filij Dei sunt, sed qui sunt filij promissionis, censentur insemine.
+Rom. 4.
+18
+Qui Abraham contra spem sub spe credidit, &c.
+21
+Ac plenè persuasum habens, eum, quod promiserat, posse etiam facere.
+22
+Quapropter etiam hoc imputatum est ei pro iustitia.
+23
+Non scriptum est autem propter eum solum, quod hoc imputatum fuerit ei:
+24
+Sed etiam propter nos, quibus futurum est vt imputetur, ut nimirum qui credunt in eum.
+
+[1.7.11] Illud addo, collectiones debere esse rectas & solidas, id est, • g•••• scripturae sensu ductas. Quod si secùs fuerit, quidlibet eliciemus è quolibet. Prov. 8. 22. Graeca versio septuaginta interpretum est 〈 in non-Latin alphabet 〉. i. Dominus
+creavit me. Oratio est sapientiae, i. Christi de se loquentis. Hinc Arriani colligunt, filium esse creatum, ad modum sceleratè. At in Hebraeo est [Iehovah kanneni] id est, possedit me. Possidet autem Pater filium; quia generavit eum ab aeterno, & quia Pater in filio est, & Filius in patre. Et sic. Gen. 4. 1. Vbi Adamo natus est filius dixit, possedi virum à Iehova. Deceptio fortè ex eo nata est, quòd vel in•citia vel malitia 〈 in non-Latin alphabet 〉 pro 〈 in non-Latin alphabet 〉 est positum. August. •uper Psal. 39. vers. eius de cimum, hoc modo legit, obmu•ui q•ia 〈◊〉 feci•ti me. Inde argut• colligit, mirum esse eum obtumesce•e, cui os ad loquendum factum est: quum [me]non sit vel in Hebraeo vel Graeco. Et super psal. 72. 14. Multa de vsuris disputat, & peccata vsu•as esse probat, vbi nihil omninò tale occurrit. Verba enim sunt. A dolo & violētia liberabit animā eorum, ade• pretiosus est sanguis eorū in oculis eiù•
+
+[1.7.12] Allegorias quoque colligere licebit: sunt enim argumenta à simi•ibus ducta, & Paulus his frequentèr inter docendū est vsus. 1. Cor. 9. 9. Verùm iis vtendum, his positis cautionibus. I. Fiant parcè & sob••è. II. Ne sint longè petitae, sed rei praesenti congruant. III. Breviter tractandae. IIII. Adhibendae ad institucionē vitae, non ad dogma fidei probandū.
+
+[1.7.13] Locus doctrinae iusta consequentia collectus
+〈 in non-Latin alphabet 〉 est & 〈 in non-Latin alphabet 〉. Act. 18. 24. Iud•us autem quidam Apollos nomine, Alexandrinus natione, vir eloquens, pervenit Ephesum [〈 in non-Latin alphabet 〉] potens in Scripturis. 28 Magn• enim contentione Iudaeos magisque agisque arguebat publicè, [〈 in non-Latin alphabet 〉] demonstrans per Scritturas Iesum esse Christum illum. Hinc sequitur.
+
+[1.7.14] Primò, humana testimonia vel philosophorum vel patrum non esse adhibenda▪ August. super psal. 66. Si ego dico nemo audiat: si Christus dicit, vae qui non audit. Idem de vnitat. ecclesiae. Non audiamus, haec dico, haec dicit: sed a•diamus, hoc dicit Dominus. Excipe nisi convincant conscientiam. Paulus hoc modo citavit testimonium Arati. Act. 17. 28. Per ips•m enim vivimus, mavemur, & sumus: sicut & quidam vestratium poetarū dixerunt, [〈 in non-Latin alphabet 〉] nam huius progenies etiam sumus. 29 Progenies ergò dei c•m simus &c. Menandri. 1. Cor. 15. 33. Ne errate: mores bonos commerci• corrumpunt prav•. Epimenidis. Tit. 1. 12. Dixit quidā ex ipsis proprius ipsorū propheta, Cretenses semper mend•ces, malaeae ferae, ventres pigri. Atue tum etiam parcè & omisso prophani scriptoris nomine.
+
+[1.7.15] Secundò, pauca Scripturae testimonia ad doctrinam probandam esse adhibenda; & quandoque nullis opus esse.
+
+[1.7.16] Postremò, Prophetas hoc modo doctrinam tradentes non esse ab aliis Prophetis arguendos, 1. Cor. 14. 32. Et Spiritus Prophetarum Prophetis subijciuntur. Postea tamē addit, v. 37. Si quis videtur Propheta esse aut spiritualis, agnoscat quae scribo vobis esse domini mandata.
+
+## CAP. 7. DE APPLICATIOnis modis.
+
+[1.8.0.1] APplicatio est, qua doctrina rectè collecta pro ratione loci, tē
+poris, personae variè accommodatur. E
+•cch. 34. 16. Egopascam gregem meum: & ego faciam vt recubent, dicit Iehou•. 16. Pereuntem requiram, & depulsam reducam, fractamque obligabo, & aegrotam confirmabo. Iud. 22. Alios quidem habit• delectu commiseramini. 23. Alios verò terr•re seruate ex flamma rapientes.
+
+[1.8.0.2] Fundamentum applicationis est, scire an locus datus sit vel Legalis sententia, vel Euangelica.
+Nam in praedicando alia est opera
+•io legis, alia Euangelij: lex enim hactenus est efficax, quòd nobis peccati morbum indicat & per accidens exasperat; remedium verò nullum praebet. Euangelium autem sicut docet quid faciendum: ita etiam adiunctam habet efficaciam Spiritus sancti, quo regenerati, vires habemus & credendi Euangelij, & quae iubet, praestandi. Lex ergo, docendi ordine, prior est; Euangelium posterius.
+
+[1.8.0.3] Legalis sententia est, quae de iustitia inhaerente perfecta, de vita aeterna legis operibus data, de peccatis contrariis, deue maledictione ijs debita: vt, Gal. 3. 10. Quot quot ex operibus legis sunt, sub execratione sunt: scriptum est enim, execrabilis quisquis non manserit in omnibus quae scripta sunt in libro legis vt faciat ea. Matth. 5. 3, 7. Progenies viperarum quis vobis praemonstrauit vt fugeretis à futura ira? 10. Iam verò securis ad radicem arborum posita est: omnis igitur arbor non ferens fructum bonum, exciditur & in ignem abijcitur.
+
+[1.8.0.4] Euangelica est, quae de Christo eiusue beneficiis deue fide bonis operibus fructificante praecipit: vt, Ioh. 3. 16. Ita Deus dilexit mundum, vt filium suum vnigenitum dederit, vt quisq•is credit in eum, non pereat, sed habeat
+vitam aeternam.
+
+[1.8.0.5] Hinc sententiae multae quae videantur esse legales, propter Christum non 〈 in non-Latin alphabet 〉 sed Euangelicè intellig•ndae. Luc. 11. 28. Beati qui sermonem dei audiunt & custodiunt illud. Deutr. 11. 30. Mandatum hoc quod praecipio tibi hodie, non est occultum neque procul positum: sed iuxta te est in ore tuo & in corde tuo. Haec sententia quae Mosi legalis fuit, Paulo euangelica est. Rom. 10. 8. Psal. 119. 1. Beati integri via, qui ambulant in lege Iehouae. 2. Beati custodientes testimonia eius ex toto corde quaerentes eum. Ioh. 14. 21. Qui tenet praecepta mea & •eruat ea, is ille est qui diligit me•qui diligit me, dilegetur à patre meo, &c▪
+23▪
+Si quis diligit me, sermonem meum seruabit: & pater meus diliget eum & apud eum veniemus & apud eum manebimus. Gen. 6. 9. Noah vir iustus & integer erat in aetatibus suis: secundum deum indesinenter ambulabat Noah. Gen. 17. 1. Ego sum Deus fortis, omnipotens, indesinenter ambula coram me & esto integer.
+
+[1.8.0.6] Applicationis modi, sunt praecipuè septem, pro vario statu hominum & populorum qui septuplex est.
+
+## I. Infideles qui & ignari & indociles.
+
+[1.8.1.1] Hi primo sunt praeparandi ad reciplendam doctrinam verbi. 2. Chron. 17. Iehosaphat misit Levitas per ciuitates Iudae vt populum doceret & ab idolis abduceret.
+
+[1.8.1.2] Haec praeparatio facienda est partim disputando, vt mores & ingenium pertentes, partim arguendo in ijs eximium aliquod peccatum, vt corde cumpuncti & territi, dociles fi
+•nt, Act. 17. 17. Disserebat in Synagoga cum Iudaeis & religiosis & in foro quotidie cum quibusvis obviis. Act. 9. 3, 4. Quum autem iter fa
+•eret, factum est vt appropinquaret Damasco: & repente circumfulsit eum l•x. 4. Et quum ceci disset in terram, audiuit vocem dicentem sibi Saul, Saul, quid me persequeris. 5. Dixit aute• quis es domine? Dominus autem dixit, Ego sum Iesus quem p•r sequeris: durum est tibi contra stimulo• calcitrare. Act. 16. 27. Expergefactus autem Commentariensis, quùm videret fores caerceris apertas educto gladio erat seipsum interempturus existimans vinctos effugisse. 28. Clam•uit •utem Paulus voce magna, dicens, ne
+quid feceris •ibiipsi mal•: omnes enim hic sumu•. 29. Is vero petito lumine irrupit & tremefactus accidit Paulo & sitae ad pedes. 30. Et productis ipsis foras, ait, domini quid me oportet facere vt seruer? 31. A• illi dixerunt, Crede in dominum Iesum Christum, & seruaberis tu ac domu• tua. Act. 7. 22. Stans autem Paulus in medio Ariopago, viri Athenienses, conspicio vos quasi religiosiores. 23. Praeteritus enim & contemplans sacra vestra, inveni etiam aram cui inscriptum erat; Ignoto deo: Quem ergo ignorantes colitis hunc ego vobis annuncio. 24. Deus quum fecit mundum & omniae quae in eo sunt, quum sit coeli & terrae, dominus in manufactis templis non habitat.
+
+[1.8.1.3] Vbiiam spes est dociles eos & paratos esse, doctrina verbi dei generatim communibus quibusdam terminis enuncianda est. Act. 17. 30. Temporibus igitur istius ignorantiae dissimulatis, Deus nunc denunciat omnibus vbique hominibus vt resipiscant. 31. Eo quòd statuit diem, quo iustè indicaturus est orbem terr•
+rum, per eum virum quem definiit, fide palam omnibus facta, illo à mortuis excitato.
+
+[1.8.1.4] Hane si probauerint tum ea distinctè & singillatim est aperienda; sin verò indociles manserint sine spe, relinquendi. Matt. 7. 6. Ne date quod sanctum est canibus: ne proijcite margaritas
+vestras coram porcis, ne quando conculcent eas pedibus suis & conversi lacerent vos. Proverb. cap. 9. vers. 8. Ne corripit• derisorem vt non odio prosequatur te. Act. cap. 19. vers. 8. Quùm autem indurarentur quidam, & parere nollent, male loquentes de via domini apud multitudinem, abscedens ab illis seperauit discipulos.
+
+## II. Dociles sed ignari.
+
+[1.8.2.1] His tradenda Catechesis, Act. cap. 18. v. 25. Apollos erat [〈 in non-Latin alphabet 〉] initiatus in via domini. Et fervens spiritu loquebatur & docebat diligenter •a quae sunt domini, sciens tantùm baptisma Iohannis. vers. 26. Coepitque liberè loqui in Synagoga: quem quum audissent Aquila & Priscilla assumpserunt •um, & exquisitiùs e• exposuerunt viam Dei. Luc. cap. 1. vers. 4. Ut agnoscas earum rorum veritatem quarum cognitione imbutus es [〈 in non-Latin alphabet 〉.]
+
+[1.8.2.2] Catechesis est, doctrina fundamenti religionis Christianae breuiter viuae vocis quaestionibus & responsionibus proposita intelligentiae memoriae ue iuvandae gratiâ.
+
+[1.8.2.3] Ergo materia Catechismi, est fundamentum religionis.
+
+[1.8.2.4] Fundamentum est principiorum Christianismi summa quaedam, Hebr. 5. 12. Vos enim, quos oportuit pro temporis ratione doctores esse, rursum opus est doceri elementa initij eloquiorum Dei.
+
+[1.8.2.5] Principium est quod directè & immediatè inseruit & saluti hominum & gloriae Dei; quo etiam negato & cuerso nulla salus speranda.
+
+[1.8.2.6] Principia sunt inprimis sex. Resipiscentia, fides, Baptisinata, id est, Sacramenta, Impositio manuum, id est ministerium verbi, per Synechdochen, Resurrectio, Vltimum iudicium. Hebr. 6. 1, 2, 3.
+
+[1.8.2.7] Forma Catechismi est, elementa perspicuè tractare quaerendo & respondendo, 1. Pet. 3. 21. Cui nunc correspondens exemplar Baptismi nos quoque seruat (non quo carnis sordes abijciuntur, sed [〈 in non-Latin alphabet 〉] stipulatio bonae conscientiae. Act. 8. 37. Quid prohibet me bap
+〈…〉? dixit verò Philippus, Si credis ex toto 〈◊〉, licet. Respondens ille dixit, credo filium dei 〈…〉esum Christum. Tertul. lib. de Resurrect. carnis. Anima non lavatione, sed responsione purgatur.
+
+## III. Scientes non humiliati.
+
+[1.8.3.1] In his excitandum est principium Resipiscentiae, id est, dolor quidam qui est secundum deum. 2. Cor. 7. 8. Nam etiamsi tristitia vos affeci per epistolam non me poenitet etiamsi poenituerit: video enim epistolam illam tametsi ad tempus, tristitia vos affec•sse. 9. Nunc gaudeo, non quòd tristitia affecti fueritis, sed tristitia affecti fueritis ad resipiscentiam: nam tristitia affecti fuistis secundum deum [〈 in non-Latin alphabet 〉] vt nulla in re detrimento suis affecti per nos. 10. Nam qui secundum deum est dolor, is resipiscentiam efficit ad salutem, cuius nunquam poeniteat, at mundi dolor mortem efficit.
+
+[1.8.3.2] Ad hoc, vtendum ea parte legis, quae vnum aliquod insigne peccatum in iis arguat. Nam resipiscentia quae est de vno peccato gignit resipiscentiam omnium. Act. 8. 22. Resipisce igitur ab ista malitia tua & roga deum si forte remittatur tibi cogitatio cordis tui. Act. 2. 25. Hunc definito consilio & prouidentia dei deditum quum accepissetis, manibus sceleratis cruci affixum interemistis. Psa. 32. 5.
+
+[1.8.3.3] Quod si quis cruce & externis calamitatibus
+pressus, tantùm habeat dolorem mundi, id est, lugeat, non de peccato quatenus peccat•um sed de poena peccati, non is statim consolandus, sed primo conuertendus est hic dolor in alterum illum qui est secundum deum, quemadmodum in re simili medicorum consilium est. Nam cui, fluente per nares sanguine, vitae periculum est. Etiam sanguinis missionem in brachio vel alibi pro re nata fieri iubent, vt sanguini è naribus erumpenti remoram injiciant, vt iam expirantem salvum reddant.
+
+[1.8.3.4] Obduratis vrgenda lex & maledictio legis interminanda, vna cum difficultate liberationis, vsue dum pungantur corde, Matth. cap. 3. vers. 7. Quumque vidisset multos ex Pharisaeis & Sadducaeis ven•entes ad baptismum suum, dixit iis, Progenies viperarum, quis vobis praemonstrauit vt fugeretis ab ira futura. & 19. 16. Magister bone, quid bon• faciam vt habeam vitam aeternam, &c. 17. Ipse ve•o dixit ei, &c. Si vis autem ad vitam ingredi serva mandata. Matth. cap. 23. vers. 13. Uae vobis Scribae & Pharisaet hypocritae, quoniam clauditis regnū coelorum coram hominibus: vos enim nō introitis, neque introeūtes sinitis introire, &c. 33. Serpentes, progenies •••erarum, quomodo effugere possitis iudicium gehennae.
+
+[1.8.3.5] Vbi apparet initium compunctionis, euangelio statim solandi.
+
+## IIII. Humiliati •
+
+[1.8.4.1] Hîc magnopere consideran dum, an humiliatio sit plena & solida, vel inchoata & leuior; ne citius quàm par est, singularis persona aut populus consolationem recipiens, postea magis obdurescat, more ferri, quod coniectū in fornacem durissimum euadit, vbi deferbuerit.
+
+[1.8.4.2] Cu• iis qui exparte humilianter, processus talis esto. Lex proponatur, sed ita prudentor temperata cum euangelio, vt peccatis suis & iudicij diuini meditatione territi, simul etiam eodem tempore consolationem ex euangelio •e•ipiant, Act. 8. 20. Petrus autem dixit ei, Argentum tuum tecum pereat, qui donum dei existimas pecuniis acquiri. 21. Non est tibi pars neque sors in hoc negotio: cor e•im tuum non est rectum in dei conspectu. 22. Resipisce igitur ab ista tua malitia & roga deum, si forte remittatur tibi cogitatio cordis tui. 23. Video enim te in fes•e amarissimo & nexu iniustitiae positum. Gen. 3. 9. Inclamavit autem Iehoua deus Adamum,
+& dixit ei vbi es? 11. Dixit vero deus quis indicauit tibi nudum esse te? an de fructu illius arboris, de quo interdixeram tibi ne comedas ex eo, comederis? 13. Tum dixit Iehoua deus mulieri, quid hoc est quod fecisti? Dixit autem mulier, Serpens iste seduxit me & comedi. 15. Praeterea inimicitiam ponam inter te & mulierem hanc, ſimiliterque inter semen tuum & semen buius, hoc conteret tibi caput: tu autem conteres huic calcaneum. 2. Sam. 12. Nathan à Deo missus proposita parabola, Dauidem ad facti sui conscientiam revocat ac resipiscenti veniam pronunciat.
+
+[1.8.4.3] Plenè humiliatis doctrina fidei & resipiscentiae, & consolationes euangelicae promulgandae. Luc. 4. 18. Spiritus domini super me propterea quòd vnxit me vt euangelizem pauperibus: me sit me vt sanem contritos corde, vt praedicem captiuis dimissionem & caecis visus recuperationem & confractos emittam in libertatem. Act. 2. 37. His autem auditis compuncti sunt corde & dixerunt ad Petrum & reliquos Apostolos, quid faciemus viri fratres? 38. Petrus autem ait ad eos; Resipiscite & baptizetur vnus quisque vestrum in nomine Iesu Christi in remissionem peccatorum. Matth. 9. 13. Non ven• vt vocarem iustos sed peccatores ad resipiscentiam.
+
+## V. Credentes.
+
+[1.8.5.1] His proponenda, I. Euangelium de iustificatione, sanctificatione, & perseuerantia. II. Lex sine maledictione, qua doceantur nouae obedientiae fructus resipiscentiae convenientes edere. Rom. 8. 1. Nulla est condemnatio ijs, qui sunt in Christo Iesu. 1. Tim. 1. 9. Iusto non est lex posita. Exemplum sit epistola Pauli ad Romanos. III. Male dictio legis vtcunque non in personam quae iusta est & sancta apud deum, tamen aduersus personae peccata quae remanent vrgenda est: & sicut pater ferreas virgas servis destinatas, filiis saepè ob oculos ponit, vt terreatur; ita in fidelibus male dictionis meditatio creberrimè excitanda est, ne misericordia dei ad licentiam abvtantur, & vt pleniùs humilientur. Exparte enim sanctificatio est: vt ergo aboleantur reliquiae peccati, à meditatione legis & sensu peccati semper ordiendum est, & in Euangelio desiniendum.
+
+## VI. Lapsi.
+
+[1.8.6.1] Lapsi sunt qui à statu gratiae ex parte deficiunt.
+
+[1.8.6.2] Lapsus est, vel fidei, vel morum.
+
+[1.8.6.3] Lapsus fidei est vel in notitia doctrina Evangelicae, vel in apprehensione Christi.
+
+[1.8.6.4] Lapsus notitiae, est defectio ad errorem siue leuiorem siue fundamentalem.
+
+[1.8.6.5] Defectionem facientibus doctrina errori contraria demonstrativè inculcanda est cum doctrina resipiscentiae, affectu fraterno. Exemplum esto Epistola Pauli ad Galatas. 2. Tim. 2. 25. Cum lenit ate erudientem [〈 in non-Latin alphabet 〉] eos qui contrariò animo sunt affecti: ecquando det ijs deus vt resipiscentes agnoscant veritatem.
+
+[1.8.6.6] Lapsus qui est in apprehensione Christi, est desperatio.
+
+[1.8.6.7] Desperatis restituendis adhibenda sunt: Exploratio & Remedium.
+
+[1.8.6.8] Exploratio est vel causae tentationis, vel status.
+
+[1.8.6.9] Exploratio causae commodè fit priuata confessione, Iam. 5. 17. Confitemini alij aliis offens as, & orate alij pro aliis vt sanemini. Sed ne ex confessione ca•nificina quaedam fiat, his ea cautionibus circumscribenda est. I. Debet esse libera non coacta; quia ex ea salus non pendet. II. Non omnium peccatorum esse debet, sed eorum tantùm quae conscientiam
+premunt, è quibus nisi reuelentur, gravius immineat periculum. III. Pastoribus praecipuè fiat; ita tamen vt sciamus aliis in ecclesia fidelibus tutò fieri posse.
+
+[1.8.6.10] Exploratio status est, qua disquiritur an sint sub lege vel sub gratia.
+
+[1.8.6.11] Hoc vt liquido appareat, adhibitis quaestionibus primò eliciendum, an habeant displicentiam sui, quòd deum offenderint, id est, odium peccati quatenus peccatum est; quod fundamentum est resipiscentiae ad salutem: Secundò, an habeant vel sentiant in corde desiderium reconciliationis cum deo, quod viuae fidei principium est.
+
+[1.8.6.12] Exploratione facta, Remedium dandum est ex Euangelio, quod duplex. Primò crebrius inculcandae Meditationes Euangelicae: Vt, I. Peccatum esse remissibile. II. Promissiones indefinitas esse & neminem excludere. III. Velle credere esse credere, Psal. 145. 19. Reuel. 21. 6. IIII. Peccatum non tollere gratiam, sed illustrare. V. Cuncta dei opera esse in mediis contrariis. Secundò, rogandi sunt vt in ipso tentationis paroxysmo excitent sopitam fidem, & certò statuant sibi remissa peccata, atque precando vel seperatim vel cum aliis, contra sensum carnis & contra spem humanam luctentur strenuè:
+atue ista vt faciant, & fortius vrgendi & nolentes penè cogendi sunt. Psal. 13. ver. 1. Ex profunditatibus inclamavi te Iehoua. vers. 2. Domine ausculta voci meae: sint aures tuae intentae ad vocem deprecationum mearum. Psal. 77. vers. 2. Vox mea ad Deum, quum exclamo, vox mea ad Deum, vt aurem aduertat ad me. vers. 3. Tempore a•gustiae meae Dominum requir•. Rom. cap. 4. vers. 18. Qui Abraham contra spë sub spe credidit, vt fieret pater multarum gentium.
+
+[1.8.6.13] Atue vt haec remedia vim habeant, Ministerialis illa potestas ligandi & soluendi ad praescriptum verbi vsurpanda est. 2. Sam. 12. vers. 13. Tum dixit Dauid Nathani, peccaui Iehouae: quapropter dixit Nathan Dauidi, etiam Iehou• transtulit peccatum tuum: non es moriturus. 2. Corinth. cap. 5. vers. 20. Itaque nomine Christi legatione fungimur, velut Deo vos precante per nos: oramus Christi nomine reconciliemini deo. Et si fortè Melancholia mentem turbauerit, medicinae auxilium priuatim petendum.
+
+[1.8.6.14] Lapsus morum est quùm quis fidelis ad actuale peccatum in vita deficit. Vt, Ebrietas Noë, adulterium Dauidis, Abnegatio Petri, &c.
+
+[1.8.6.15] Lapsis hoc modo, quia gratia remanens
+quoad vim & habitum, ad tempus amitti potest quoad internum sensum & actum, proponenda lex Euangelio temperata: quia noui peccati actus, requirit novum actum & fidei & resipiscentiae. Isa. 1. 1, 2, 3, 4. Ah gens peccatrix, populus gravissimus iniquitate, semen maleficentissimum, filii corruptores: dereliquerunt Iehouam, contemptim irritauerunt sanctum Israëlis, abalienantes sese auerterunt retrorsum. v. 16. Lauate vos, purificate vos, amouete malignitatem actionum vestrarum ex aduerso oculorum meorum, &c. v. 18. Venite iam, & disceptemus, inquit Iehoua: si fuerint peccata vestra velut dibapha, tanquam nix exalbescent: si rubra fuerint velut coccineum, similia lanae •r•nt.
+
+## VII. Mixtus populus.
+
+[1.8.7.1] Mixtus populus sunt Ecclesiarum nostrarū caetus. His doctrina quaevis proponi potest siue legalis, siue Euangelica; si limitatio doctrinae & circum scriptio ad eas personas fiat, quibus conuenit. Ioh. cap. 7. v. 37. Ultimo autem die illo magno festi stetit Iesus & clamavit
+dicens, non, [quisque sed] si quis sit it, veniat ad me & bibat. Et Prophetarum in concionando hic mos fuit, improbis judicia & interitum denunciare; resipiscentibus liberationem in Christo promittere. 〈 in non-Latin alphabet 〉. Si in publico caetu desperet, quis caeteris obfirmatis, quid agendum est? 〈 in non-Latin alphabet 〉. Obfirmati legem audiant circumscriptam limitibus personarum & vitiorum; & Evangelii vocem audiat afflicta conscientia sibi speciatim applicatam.
+
+## CAP. VII. DE SPECIEBVS applicationis.
+
+[1.9.0.1] APplicatio est vel 〈 in non-Latin alphabet 〉, vel 〈 in non-Latin alphabet 〉.
+
+[1.9.0.2] Noetica, quae mentem respicit: estue vel 〈 in non-Latin alphabet 〉, vel 〈 in non-Latin alphabet 〉. 2. Tim. 3. 16. Tota Scriptura divinitùs est inspirata & vtilis [〈 in non-Latin alphabet 〉] ad doctrinam, [〈 in non-Latin alphabet 〉] adredargutionem, [〈 in non-Latin alphabet 〉] ad correctionem, [〈 in non-Latin alphabet 〉] ad institutionem quae est iniustitia. ver. 17. Ut perfectus sit homo Dei, ad omne opus bonum
+perfectè instructus.
+
+[1.9.0.3] 〈 in non-Latin alphabet 〉 est, qua doctrina adhibetur ad informandam mentem ad rectum iudicium de rebus credendis.
+
+[1.9.0.4] 〈 in non-Latin alphabet 〉 est, quo doctrina adhibetur ad re
+•ormandam mentem ab errore.
+
+[1.9.0.5] In confutationibus quae publicè pro concione fiunt, vtendum his cautionibus. I. 〈 in non-Latin alphabet 〉, sive status tractandae quaestionis certò teneatur. II. Errores tantùm arguantur ij, qui turbant ecclesiam, in qua vivimus; caeteris planè omissis, qui vel demortui jacent vel externi sunt; nisi ex iis periculum immineat. Matth. cap. 16. Cavete à fermento Pharisaeorum & Saducaeorum. Mar. cap. 9. Uidete & cavete à fermento Herodis. Apoc. 2. Pergamenses moventur de Nicolaitis, quibus •orum nonnulli assentiebantur. III. Si error extra fundamentum fidei sit, confutatio non solùm debet esse Christiana, vt semper, sed etiā amica & placida & •raterna dissentio.
+
+[1.9.0.6] Applicatio practica est, quae vitam & mores respicit; estue 〈 in non-Latin alphabet 〉.
+
+[1.9.0.7] 〈 in non-Latin alphabet 〉 est, qua doctrina adhibetur ad informandum hominem ad benè vivendum in aeconomia, politia, ecclesia. Hujus loci sunt Consolatio, & Exhortatio. Rom. 15. 3.
+
+[1.9.0.8] 〈 in non-Latin alphabet 〉 est, qua doctrina adhibetur ad
+reformandam vitam ab impietate & injustitia. Hujus loci est Admonitio. Haec facienda est, primò generalitèr, omissis circumstantiis personarum. 2. Sam. cap. 12. Nathan Davidem ad peceati sui cognitionem adducit •pe generalis parabolae. Act. cap. 19. vers. 25. Spectatis & auditis Paulum non solùm Ephesinam, sedprope toti•• Asiae multam turbam persuadēdo avertisse, (quòd dicat deos illos nō esse qui manibus fiant.) 34. Tum scriba, quùm repressisset turbam, dixit, viri Ephesii, &c. Adduxistis homines istos, neque sacrilegos, neque contumeliosos in deam vestram. Posteà si prior nō valeat, specialius vrgenda. 1. Tim. 5. 20. Eos qui peccant coram omnibus argue, vt & caeteri timeāt. Verū semper, in ipso odio peccati, eluceat in verbis amor personae: seque ipsum Minister in reprehensione (si possit) includat, vt mitior ea sit & mollior. Dan. 4. 16. Tum Daniel &c. Domine mi, somnium hoc eveniat osoribus tuis, & interpretatio •iu• iuimicis tuis. 17. Arbor illa quam vid•sti &c. tu es. Gal. 2. 15. Nos natura Iudaei & non ex gentibus peccatores. 1. Cor. 9. 6. Haec autem fratres, figura quadam transtuli ad meipsum, & Apollo propter vos: vt in nobis discatis, supr• id quod scriptu• est non sapere.
+
+[1.9.0.9] Atue hae quatuor applicationis species in quavis Scripturae sententia occurrunt. Exemplum autem apponam illud, quod posuit
+
+## Illyricus libr. de ratione cognoscendi S. litteras. Tract. 1.
+
+[1.9.1.1] Matth. cap. 10. vers. 20. Ne metuatis vobis ab ijs qui occidunt corpus, animam autem non possunt occidere: sed metuite magis illum, qui potest & corpus & animam perdere in Gehennam. Nonne duo passerculi minuto asse veneunt? & vnus ex illis non cadet in terram sine patre vestro? vestri verò etiam pili capitis omnes numerati sunt. Ne igitur metuatis, vos pluris est is quàm multi passerculi.
+
+## Hinc facile est, multiplicem doctrinam eruere; partim de confessione fidei; partim de providentia.
+
+[1.9.2.1] 〈 in non-Latin alphabet 〉. I. Necessarium esse vt veritatem cognitam quoties est opus, publicè profiteamur. II. Confessionem etiam cum fortunarum & capitis periculo faciendam. III. Prae Christo eiusque veritate vitam nostrā contemni debere. IIII. Quibus Christum, eiusque veritatem negare timor non est, paratas esse aeternas paenas & anima & corpore
+luendas. V. Vt rectè confessionem faciamus, Deum nobis regendis intentum esse. VI. Providentiam Dei non solum esse generalem, sed etiam specialem, quae minimas quasque res nostras, etiam pilos capitis, officiosè curet.
+
+[1.9.2.2] 〈 in non-Latin alphabet 〉. I. Errant, qui existimant satis esse si fidem, rectamue de religione sententiam corde amplectantur, atque ita conscientiam suam vni Deo probent: intereà apud homines liberum esse quidvis concedere aut affirmare, prout loci temporis & personarum conditio fert, praesertim vbi imminere videtur vitae discrimen. II. Errant Epicurei, negantes divinam providentiam; quia putant Dei maiestate indignum res humanas curare. III. Errant Stoici, qui putant omnia fato regi. IIII. Errant, qui casum & fortunam constituunt, citra vllam providentiae divinae sapientem ordinationem. V Errant Pelagiani, plus iusto humanis viribus tribuentes, perinde acsi in hominum manu esset positum, fidem pro arbitrio amplecti, in eadem perseverare eandem intrepidè confiteri ad finem vsue. VI. Errant, qui plus nituntur externis rebus & caducis opibus, quàm divinae potentiae ac bonitati.
+
+[1.9.2.3] 〈 in non-Latin alphabet 〉. I. Pro virili nitendum, vt verum
+Dei timorem ob oculos habeas; quia jam audis vnum Deum timendum prae omnibus hominibus. II. Discendum talem rerum humanarum contemptum, vt semper cupias iis relictis migrare hinc, & cum Christo conjungi in caelis. III. Consideratio providentiae specialis facit, vt Dei inspectoris praesentiam cogites, auxilium implores, juvari quoque te in omnibus persuasum habeas; denique non esse vllum periculum tam formidandum, à quo non possit & velit eripere, quando est opportunum.
+
+[1.9.2.4] 〈 in non-Latin alphabet 〉. I. Corrigunt haec verba Christi illorum negligentiam, qui precibus non obsecrant Deum pro syncera dilectione, qua inflammati non detrectēt vitam propter nomen eius profundere. II. Taxatur hominum quoque segnities, qui Dei providentiam, in rebus omnibus se exerentem, non agnoscunt & contemplantur. II. Arguuntur qui Deo non agunt gratias, quòd dignatur nos nostraue omnia providentia gubernare & tueri. III. Arguuntur, qui bonis Dei creaturis abutuntur, quando earum omnium curam esse Domino in confesso est.
+
+[1.9.2.5] Hoc modo quivis Scripturae locus tractandus: ita tamen vt non omnes expromantur
+doctrinae ad populum, sed illae tantum, quae nostris temporibus, & praesenti Ecclesiae condicioni aptè accommodentur. Et non solum selectae esse debent, sed etiam paucae; ne auditores obruantur multitudine.
+
+## CAP. VIII. De Reminiscentia in concionando.
+
+[1.10.1] QVià receptum est, vt memoritèr coram populo dicant Concionatores, de Reminiscentia hîc aliquid attexendum.
+
+[1.10.2] Artificiosa memoria quae constat locis & imaginibus facillimè absque labore docebit memoriae mandare conciones: sed ea probanda non est. I. Animatio imaginis, quae clavis est memoriae, impia est: quia requirit cogitationes absurdas, insolentes, prodigiosas, easque inprimis, quae pravissimos carnis affectus exacuunt & incendunt. II. Ingenium & memoriam obtundit, quia triplicem memoriam requirit pro vna; primam locorum; alteram imaginum; tertiam rei narrandae.
+
+[1.10.3] Consilium ergò haud invtile est, si concionaturus dati textus singulas doctrinas, doctrinarum singulas probationes & applicationes, applicationum illustrationes, eorumque omnium seriem mente diligenter consignet ope dispositionis, vel axiomaticae, vel syllogisticae, vel methodicae; nihil interim solicitus de verbis, quae provisam rem (vt inquit ille) non invita sequentur.
+
+[1.10.4] Multa incommoda habet illorum studium, qui scriptas conciones verbatim ediscunt. I. magnum laborem postulat. II. Qui in vno verbo impingit timidus, & concionem turbat & memoriam confundit. III. Pronunciatio, actio & affectuum sancti motus impediuntur; quia mens in hoc vnum tota incumbit, ne memoria oneri jam succumbens labascat.
+
+## CAP. IX
+
+[1.11.1] HVcvsque de Apparatu concionis: sequitur promulgatio.
+
+[1.11.2] In promulgatione duo requiruntur, occultatio humanae sapientiae, & demonstratio spiritus.
+
+[1.11.3] Occultanda est humana sapientia, siue fuerit in materia concionis, siue in ornatu verborum;
+quia praedicatio verbi, est testimonium Dei, & professio scientiae Christi, non humanae peritiae: deinde, quia auditores non debent fidem suam tribuere donis hominum, sed potentiae verbi Dei. 1. Cor. cap. 2. vers. 1. Ego quùm venirem ad vos, fratres, non veni cum eminentia facundiae aut sapientiae, annuncians vobis testimonium Dei. vers. 2. Non enim decreveram quicquam scire inter vos nisi Iesum Christum, eumque crucifixum. vers. 5. Ne fides vestra consistat in sapientia hominum, sed in potentia Dei.
+
+[1.11.4] Si quis existimet hoc modo barbariem in pulpita invehi; sciendum est, posse, imò debere ministrum privatim, artibus, philosophia, & varia lectione vti liberrimè, dum est in formanda concione: publicè verò haec omnia populum celare debet, & ne tantillum ostenta•e quidē. Artis etiam est celare artem.
+
+[1.11.5] Demonstratio spiritus est, quùm minister verbi inter concionandum ita se gerit, vt non tam eum, quàm spiritum dei in eo, & per eum loqui, omnes etiam idiotae & infideles iudicent. 1. Cor. 2. 4. Neque oratio mea & praedicatio mea versata est in persuasorijs humanae sapientiae verbis, sed in demonstratione spiritus & potentiae. & 14. 24. Si omnes prophetent, ingrediatur autem infidelis quispiam, aut idi•ta,
+arguitur ab omnibus, dijudicatur ab omnibus. vers. 25. Et ita occulta cordis eius manifesta fiunt, atque ita procidens in faciem, adorab•t Deum, renuncians Deum verè in vobis esse. & cap. 4. vers. 19. Ueniam brevi ad vos &c. & cognoscam non verba illorum qui inflati sunt, sed virtutem. vers. 20. Non enim in verbis est regnum Dei, sed in virtute. Mich. cap. 3. vers. 8. Ego repletus sum virtute à spiritu Iehovae, iudicioque & potentia, ad indicandum Iacobo defectionem ipsius, & Israeli peccatum ipsius. Haec vivum & actuosum ministerium facit. Luc. cap. 11. vers. 27. Factum est autem, quùm haec diceret, attollens vocem quaedam mulier è turba, dixit ei, beatus vterus qui te portavit, & vbera quae succisti.
+
+[1.11.6] Haec demonstratio est, vel in Sermone vel Gestu.
+
+[1.11.7] Sermo debet esse Spiritualis & Gratiosus.
+
+[1.11.8] Sermo spiritualis est is, quem doeet spiritus sanctus. 1. Cor. cap. 2. vers. 13. Quae loquimur, non sermonibus quos docet humana sapientia, sed quos docet Spiritus sanctus, spiritualia cum ijs quae spiritualia sunt coniungentes. Est autem oratio & simplex & perspicua, tum intelligentiae populi, tum maiestati spiritus exprimendae conveniens. Act. cap. 17.
+vers. 2. Paulus per tria Sabbatha disseruit cum ijs è Scripturis. vers. 3. Aperiens [〈 in non-Latin alphabet 〉] & aboculos ponens, opportuisse Christum pat• & resurgere amortuis. Gal. cap. 3. vers. 1. Amentes Galatae quis &c. quibus ob oculos Iesus Christus prius fuerat depictus, inter vos crucifixus. & 2. Cor. cap. 4. vers. 2. Sed abdicavimus turpitudinis latebras, non cum calliditate incedentes, neque falsantes sermonem Dei, sed declaratione veritatis commendantes nosipsos apud omnem conscientiam hominum, in conspectu Dei. vers. 3. Quòd si tectum est Evangelium nostrum, ijs qui pereunt tectum est. vers. 4. In quibus deus huius seculi excaecavit mentes, nempe in infidelibus, ne irradiet eos &c.
+
+[1.11.9] Quocirca concioni non intermiscenda vocabula artium, neue Graecae & Latinae phrases & argutiae. I. Interturbant mentes auditorum, vt antecedentia cum consequentibus aptare non possint. II. Rerum quae dicuntur intelligentiam impedit peregrina vox. III. Mentem à proposito ad aliud abstrahit.
+
+[1.11.10] Hic quoue fabularum narratio & verba quaeque prophana & ridicula omittentenda.
+
+[1.11.11] Sermo gratiosus est, in quo exprimitur gratia cordis. Luc. cap. 4. vers. 22. Et omnes
+testimonium ei dabunt, & mirabuntur super sermonibus plenis gratia, qui procedebant ex ore ipsius. Ioh. cap. 7. vers. 46. Responderunt ministri, nunquam ita loquutus est homo, vt iste homo.
+
+[1.11.12] Gratia est vel Personae, vel Ministerij.
+
+[1.11.13] Gratia personae, est sanctitas cordis & inculpata vita; quae, vtcunque non est de essentia Ministri, est tamen maximè necessaria. I. Quia doctrina verbi & intellectu, & praxi difficilis est; idcircò minister quod docet, exemplo suo velut typo exprimere debet. 1. Pet. cap. 5. vers. 3. Neque vt dominantes cleris, sed vt qui sitis [〈 in non-Latin alphabet 〉] exemplaria gregis. & 1. Tim. cap. 4. vers. 12. Esto exemplar fidelium in sermone, in conversatione. II. Qui pius non est, vtcunue Scripturarum teneat intelligentiam: tamen interiorem sensum & experientiam verbi corde non percipit. Psal. 25. vers. 8. Bonus & rectus Iehova est: idcircò docet peccatores viam suam. vers. 9. Facit vt incedant mansueti in iure, & docet mansuetos viam suam. Amos. cap. 3. vers. 7. Non enim facit Dominus Iehova quicquam, nisi quùm revelaverit secretum suum servis suis Prophetis. Gen. cap. 18. vers. 17. Dixit autem Iehova, occultemnè ego ab Abrahamo
+quod sum facturus. vers. 18. Quùm Abraham prorsus futurus sit gentis magnae ac potentis pater &c. vers. 19. Nam agnovieum, vt quûm praeceperit •ilijs suis & familiae suae post se, etiam observent vian▪ Iehovae exercendo iustitiam & iu•. III. Apud Deum execrandum est, coniungi sermonem pium cum vita impia. Psal. 50. vers. 16, 17. Improbo autem dicit Deus, quid tua vt enarres decreta mea, & assumas foedus meum in ore tuo, cùm tu oderis disciplinam. Insolens est, videre aberrantem viae ducem, & medicum aliorum, ipsum interim vlceribus scatentem, vt inquit Nazian. IIII. Arcanum est ecclesiasticum; debere Ministrum studiosè occultare infirmitates ne prodeant. Nam imperitus non ministeriū, sed ministri personam aspicit. Herodes audivit Ioh. Baptistam libentèr; non quia minister bonus, sed quia vir bonus. Marc. 6. 20. Rectè Nazian. in versibus. Qui sana docet, & turpitèr vivit, vna manu porrigit, quod altera rapit. V. Minister, qui est impius vel apertè vel clàm, non est dignus qui stet ante faciem sanctissimi & omnipotentis Dei. Ierem. cap. 15. vers. 19. Idcircò sic ait Iehova, si converteris, prout convertam te, coram mestabis. Isa. 6. 6. Sed advolavit adme vnus existis Seraphim, habens in manum prunam, quam forcipibus
+sumpserat ab altari. vers. 7. Admovique or•meo, dicens, Ecce hoc attigit labia tua: •am amovetur iniquit as tua, & peccatum tuum expiatur. vers. 8. Deinde audivi vocem Domini dicentis, quem missurus sum? & quis iturus est nobis? cui•ixi, En ego, mitte me. Levit. cap. 10. vers. 3. Tum dixit Moses Aaroni, illud est quod loquutus est Iehova dicendo, in propinquis meis sanctificabor, & ante conspectum totius populi glorificabor. Et hinc est, quòd impiis ministris tremenda iudicia Dei man•
+ant. 1. Sam. 2. 17. Sic erat peccatum istorum puerorum magnum valdè in conspectu Iehove; quia spernebant homines munus Iehovae, &c. vers. 25. Non auscultarunt voci patris sui, quia volebat Iehova eos perdere.
+
+[1.11.14] Sanctitatis praecipuè partes sunt. I. Bona conscientia. 2. Cor. cap. 1. vers. 12. Nam gloriatio nostra haec est, testimonium conscientiae nostrae, quod cum simplicitate & synceritate Dei, non cum sapientia carnali, sed •um gratia Dei, versati sumus in mundo. 1. Timoth. cap. 1. vers. 19. Retinens fidem & bonam conscientiam: qua expulsa, nonnulli naufragium fidei fecerunt. Act. cap. 24. vers. 16. Intereà verò ipse me exerceo, ad conscientiam babendam sine offendiculo apud Deum & apud
+homines semper. Haec si deest, os loquentis clausum est. Isa. cap. 56. Speculatores isti caeci quotquot sunt non agnoscunt: quotquot sunt canes sunt muti, non possunt latrare: tempori seruiunt: iacent, amant dormitionem. II. Sensus interior doctrinae tradendae. Lignum flammae capax non deflagrat nisi admoto igni: & ipse prior debet piè affectus esse, qui vult pios affectus ciere in aliis. Ergo quales motus concio requirit, tales concionator in animo suo privatim excitabit, vt eosdem in auditoribus auendat. III. Timor Dei, quo, veneratione diuinae maiestatis percitus, sobriè & moderatè loquitur. IV. Amor populi, quo se illorum cupere salutem ostendit. 1. Thess. 2. 7. Sed fuimus placidi in medio vestri, vt si nutrix foueat suos foetus. V. Minister quoque
+〈 in non-Latin alphabet 〉
+esse debet, id est, propter constantiam, integritatem, grauitatem, veracitatem, reuerendus, quique reuerentiam aliis praestare sciat, vel priuatim, vel publicè, prout audientium singulorum personis congr•
+it. VI.
+〈 in non-Latin alphabet 〉, id est, temperans, qui affectus vehementiores intus coërcet, & externos mores ac gestus moderatos habet & simplices, quibus dignitas & authoritas conciliantur & conseruantur. Ergo nec 〈 in non-Latin alphabet 〉 esse debet nec 〈 in non-Latin alphabet 〉,
+id est, sectator vini, nec litigator, nec percussor, nec iracundus: & qui iuniores sunt, exerceant se ad pietatem, & iuveniles cupiditates fugiant, 1. Tim. 4. 7. 14.
+
+[1.11.15] Ministerij gratia est. I. 〈 in non-Latin alphabet 〉. 1. Tim. 3. 2. Atue Pauli mens est non tantùm decorum esse & laudandum si adsit hoc donum, sed etiam ita necessarium esse, vt non possit deesse. Hoc nomine Nazianzenus Episcopatum recusauit: & Theophilactus in hunc locum, hoc docendi officium omnium praecipuè vt insit Episcopis necessarium esse dicit. In concilio Niceno, Miletio, hoc poenae loco impositū fuit, tenere nomen Ministri, sed non praedicare euangeliū. II. Authoritas, qua velut magni Iehouae legatus loquitur. Tit. 2. 19. Haec loquere & exhortare & argue cum omni imperio. 1. Pet. 4. 11. Si quis loquitur, loquatur vt eloquia Dei. III. Zelus, quo cupidissimus gloria Dei, decretum electionis de salute hominum ministerio suo complere & exequi conatur. Iob 32. 18. Plenus sum sermonibus, coarctat me spiritus ventris mei. 19. Ecce, venter meus, vt vinum cui non aperitur. Psal. 45. 1. Ebullit cor meum verbum bonū. 2. Tim. 2. 25. Erudientem eos, &c. ecquando det ijs deus vt re
+•ipiseentes agnoscant veritatem. Col. 1. 28, 29. Admonentes quemvis &c. vt quemvis sistamus
+perfectum in Christo Iesu.
+
+[1.11.16] Gestus est, vel in actione vocis vel corporis.
+
+[1.11.17] Vox debet ita esse alta, vt omnes audiant. Isa. 58. 1. Exclama guttere, ne cohibeto: tanquam buccinam extolle vocem tuam. Ioh. 7. 37. Ultimo die illo magno festi stetit Iesus & clamavit. Act. 2. 14. Stans autem Petrus cum vnde
+•im sustulit vocem suam & loquutus est.
+
+[1.11.18] In doctrina moderatior esse debet, in exhortatione ardentior & concitatior.
+
+[1.11.19] In gestu corporis sit ea grauitas, quae Dei legatum adornet. Convenit ergo, vt, erecto & quiescente trunco corporis, reliquae partes, vt brachium, manus, frons, oculi tales habeant motus, qui pios affectus animi exprimant & quasi eloquantur. Oculi & manus eleuatio fiduciam significat. 2. Chron. 6. 13. Fecerat Salomon suggestum aeneum, posueratque ipsum in medio atrij, &c. substitit igitur in eo & flexus in genua coram tota congregatione Israëlis, expandit manus suas versus coelum: 14. ac dixit, Iehoua Deus, &c. Act. 7. 55. Stephanus quùm esset plenus spiritu sancto, intentis in coelum oculis, vidit gloriam Dei, &c. Oculorum depressio dolorem & anxietatem. Luc. 18. 13. Publicanus autem procul stans nolebat vel •culos in coelum att•llere, sed percuti•bat pectu•
+suum, dicens, Deus placator mihi peccatori.
+
+[1.11.20] De gestu praeceptiones tradi aliae non possunt: tantùm, grauissimorum in hoc genere Ministrorum exemplum, regulae vicem obtineat.
+
+## CAP. X. DE CONCEPTIOne precum.
+
+[1.12.1] HActenus de praedicatione verbi: sequitur conceptio precum: quae est secunda pars prophetiae, qua minister vox est populi in inuocando Deum. Luc. cap. 11. vers. 1. Dixit ei quidam è discipulis, domine doce nos precari provt & Iohannes docuit discipulos suos. 1. Sam. 14. 24.
+
+[1.12.2] Hic consideranda:
+
+[1.12.3] 1. Materia, primò defectus & peccata populi;
+deinde gratiae dei & beneficia quibus eget. 1. Tim. 2. 1. Adhortor igitur ante omnia vt fiant deprecationes &c. pro quibusvis hominibus: 2. Pro regibus & quibusvis in eminentia constitutis. Tertul. apolog. Precantes sumus omnes pro omnibus imperatoribus, vitam illis prolixam, imperium securum, domum tutam, exercitus fortes, senatum fidelem, probum populum, orbem quietum, & quaecunque hominis & Caesaris vot• sunt. Et, oramus pro Imperatoribus, pro ministris eorum ac potestatibus, pro statis seculi, pro rerum quiete, pro mora finis. Hanc materiem oratio dominica reducit ad sex capita quae sunt, gloria dei, regnum, obedientia, conservatio vitae, remissio peccatorum, corroboratio spiritus.
+
+[1.12.4] II. Forma: I. Vox vna, •aque solius ministri, populo interim silente, assensumque ad finem praebente per Amen. Act. 4. 24. Qui quum haec audissent concorditer sustulerunt vocem ad deum, dixeruntque &c. Nehem. 8. 7. Deinde bene ac dixit Hezra Iehouae deo maximo: cui respondentes totus populus, Amen, Amen. 1. Corinth. 14 16. Si benedixeris spiritis, is qui implet locum idiotae, quomodo dicturus est Amen, ad tuam gratiarum actionem? Iustin. apolog. ad Antoninum. Secunda,
+•bi ille [〈 in non-Latin alphabet 〉] preces & gratiarum
+actionem absoluit populus, qui adest omnis, fausta approbatione acclamat, dicens, Amen. Athanas. apolog. ad Constantium Imper. Euseb. lib. 7. cap. 8. Hieron. prooem. 2o. in Galat. II. Vox intellecta, 1. Corinth. cap. 14. vers. 15. Precabor spiritu, precabor etiam intelligentia: psallam spiritu sed psallam etiam intelligentia.
+
+[1.12.5] III. Vox continuata non concisa & rupta; vt battologia vitetur. Matth. 6. 7.
+
+[1.12.6] IIII. Partes, quae sunt tres; Consideratio, Ordinatio, Prolatio.
+
+[1.12.7] Consideratio, qua idonea materies formandis precibus disquiritur.
+
+[1.12.8] Ordinatio, qua inventa materies in animo, certo ordine consignatur.
+
+[1.12.9] Prolatio, qua iuxta ordinem publicè enunciatur ad populi aedificationem.
+
+## 1.end
+
+[1.end.1] Laus Trin-vni Deo.

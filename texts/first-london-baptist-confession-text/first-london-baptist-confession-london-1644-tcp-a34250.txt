@@ -1,0 +1,272 @@
+Title: The Confession of faith of those churches which are commonly (though falsly) called Anabaptists, presented to the view of all that feare God
+Work: The Confession of faith of those churches which are commonly (though falsly) called Anabaptists (First London Baptist Confession)
+Author: First London Baptist Confession (1644)
+Language: english
+Credit: The Confession of faith of those churches which are commonly (though falsly) called Anabaptists, presented to the view of all that feare God, in EEBO-TCP A34250 (Wing C5790), London: Matthew Simmons, 1644 (London: Matthew Simmons, 1644). Transcription: Text Creation Partnership (EEBO-TCP Phase 2); keyboarded from page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/A34250/master/A34250.xml
+Retrieved: 2026-11-05 (source file 66118 bytes, SHA-256 36aee114734221de567edad6e7e757feaf454f18133bfb8945f0be73fb8cb350)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":24,"unread":1,"note":153}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## TO ALL THAT DESIRE The lifting up of the Name of the LORD JESUS in ſinceritie, the poore deſpiſed Churches of God in London ſend greeting, with prayers for their farther increaſe in the knowledge of C
+
+[front.1.1] WEE queſtion not but that it will ſeeme ſtrange to many men, that ſuch as wee are frequently termed to be, lying under that calumny and black brand of Heretickes, and ſowers of diviſion or 〈◊◊〉, ſhould preſume to appeare ſo publickly as now wee have done: But yet notwithſtanding wee may well ſay, to give anſwer to ſuch, what David ſaid to his brother, when the Lords battell was a fighting, 1 Sam. 29.30. Is there not a cauſe? Surely, if ever people had cauſe to ſpeake for the vindication of the truth of Chriſt in their hands, wee have, that being indeed the maine wheele at this time that ſets us aworke; for had any thing by men been tranſacted againſt our perſons onely, wee could quietly have ſitten ſtill, and committed our Cauſe to him who is a righteous Judge, who will in the great day judge the ſecrets of all mens hearts by Jeſus Chriſt: But being it is not onely us, but the Truth profeſſed by us, wee cannot, wee dare not but ſpeake; it is no ſtrange thing to any obſerving man, what ſad changes are laid, not onely by the world, that know not God, but alſo by thoſe that thinke themſelves much wronged, if they be not looked upon as the chiefe Worthies of the Church of God, and Watchmen of the Citie: But it hath fared with us from them, as from the poore Spouſe ſeeking her Beloved, Cant. 5.6, 7. They finding us out of that common road-way themſelves walke, have ſmote us and taken away our vaile, that ſo wee may by them be recommended odious in the eyes of all that behold us, and in the hearts of all that thinke upon us, which they have done both in Pulpit and Print, charging us with holding Free-will, Falling away from grace, denying Originall ſinne, diſclaiming of Magiſtracy, denying to aſſiſt them either in perſons
+or purſe in any of their lawfull Commands, doing acts unſeemly in the diſpenſing the Ordinance of Baptiſme, not to be named amongst Chriſtians: All which Charges wee diſclaime as notoriouſly untrue, though by reaſon of theſe calumnies caſt upon us, many that feare God are diſcouraged and foreſtalled in harbouring a good thought, either of us or what wee profeſſe; and many that know not God incouraged, if they can finde the place of our meeting, to get together in Cluſters to ſtone us, as looking upon us as a people holding ſuch things, as that wee are not worthy to live: Wee have therefore for the cleering of the truth wee profeſſe, that it may be at libertie, though wee be in bonds, briefly publiſhed a Confeſſion of our Faith, as deſiring all that feare God, ſeriouſly to conſider whether (if they compare what wee here ſay and confeſſe in the preſence of the Lord Jeſus and his Saints) men have not with their tongues in Pulpit, and pens in Print, both ſpoken and written things that are contrary to truth; but wee know our God in his owne time will cleere our Cauſe, and lift up his Sonne to make him the chiefe corner-ſtone, though he has been (or now ſhould be) rejected of Maſter Builders. And becauſe it may be conceived, that what is here publiſhed, may be but the Judgement of ſome one particular Congregation, more refined then the reſt; Wee doe therefore here ſubſcribe it, ſome of each body in the name, and by the appointment of ſeven Congregations, who though wee be diſtinct in reſpect of our particular bodies, for conveniency ſake, being as many as can well meete together in one place, yet are all one in Communion, holding Jeſus Chriſt to be our head and Lord; under whoſe government wee deſire alone to walke, in following the Lambe whereſoever he goeth; and wee beleeve the Lord will daily cauſe truth more to appeare in the hearts of his Saints, and make them aſhamed of their folly in the Land of their Nativitie, that ſo they may with one ſhoulder, more ſtudie to lift up the Name of the Lord Jeſus, and ſtand for his appointments and Lawes; which is the deſires and prayers of the contemned Churches of Chriſt in London for all Saints.
+
+[front.1.2] Subſcribed in the Names of ſeven Churches in London.
+William Kiffen.
+Thomas Patience.
+John Spilsbery.
+George Tipping.
+Samuel Richardſon.
+Thomas Shippard.
+Thomas Munday.
+Thomas Gunne.
+John Mabbatt.
+John Webb.
+Thomas Killcop.
+Paul Hobſon.
+Thomas Goare.
+Joſeph Phelpes.
+Edward Heath.
+
+## I.
+
+[1.1] THat GOD as he is in himſelfe, cannot be comprehended of any but himſelfe, dwelling in that inacceſſible light, that no eye can attaine unto, whom never man ſaw, nor can ſee; that there is but one God, one Chriſt, one Spirit, one Faith, one Baptiſme; one Rule of holineſſe and obedience for all Saints, at all times, in all places to be obſerved.
+
+## II.
+
+[2.1] That God is of himſelfe, that is, neither from another, nor of another, nor by another, nor for another; But is a Spirit, who as his being is of himſelfe, ſo he gives being, moving, and preſervation to all other things, being in himſelfe eternall, moſt holy, every way infinite in greatneſſe, wiſdome, power, juſtice, goodneſſe, truth, &c. In this God-head, there is the Father, the Sonne, and the Spirit; being every one of them one and the ſame God; and therefore not divided, but diſtinguiſhed one from another by their ſeverall properties; the Father being from himſelfe, the Sonne of the Father from everlaſting, the holy Spirit proceeding from the Father and the Sonne.
+
+## III.
+
+[1.3.1] That God hath decreed in himſelfe from everlaſting touching all things, effectually to work and diſpoſe them according to the counſell of his owne will, to the glory of his Name; in which decree appeareth his wiſdome, conſtancy, truth, and faithfulneſſe; Wiſdome is that whereby he contrives all things; Conſtancy is that whereby the decree of God remaines alwayes immutable; Truth is that whereby he declares that alone which he hath decreed, and though his ſayings may ſeeme to ſound ſometimes another thing, yet the ſenſe of them doth alwayes agree with the decree; Faithfulneſſe is that whereby he effects that he hath decreed, as he hath decreed. And touching his creature man, God had in Chriſt before the foundation of the world, according to the good pleaſure of his will, foreordained ſome men to eternall life through Jeſus Chriſt, to the praiſe and glory of his grace, leaving the reſt in their ſinne to their juſt condemnation, to the praiſe of his Juſtice.
+
+## IV.
+
+[1.4.1] In the beginning God made all things very good, created man after his own Image and likeneſſe, filling him with all perfection of all naturall excellency and uprightneſſe, free from all ſinne. But long he abode not in this honour, but by the ſubtiltie of the Serpent, which Satan uſed as his inſtrument, himſelfe with his Angels having ſinned before, and not kept their firſt eſtate, but left their owne habitation; firſt
+Eve, then Adam being ſeduced did wittingly and willingly fall into diſobedience and tranſgreſſion of the Commandement of their great Creator, for the which death came upon all, and reigned over all, ſo that all ſince the Fall are conceived in ſinne, and brought forth in iniquitie, and ſo by nature children of wrath, and ſervants of ſinne, ſubjects of death, and all
+other calamities due to ſinne in this world and for ever, being conſidered in the ſtate of nature, without relation to Chriſt.
+
+## V.
+
+[1.5.1] All mankind being thus fallen, and become altogether dead in ſinnes and treſpaſſes, and ſubject to the eternall wrath of the great God by tranſgreſſion; yet the elect, which God hath loved with an everlaſting love, are redeemed, quickned, and ſaved, not by themſelves, neither by their own workes, leſt any man ſhould boaſt himſelfe, but wholly and onely by God of his free grace and mercie through Jeſus Chriſt, who of God is made unto us wiſdome, righteouſneſſe, ſanctification and redemption, that as it is written, Hee that rejoyceth, let him rejoyce in the Lord.
+
+## VI.
+
+[1.6.1] This therefore is life eternall, to know the onely true God, and whom he hath ſent Jeſus Chriſt. And on the contrary, the Lord will render vengeance in flaming fire to them that know not God, and obey not the Goſpel of our Lord Ieſus Chriſt.
+
+## VII.
+
+[1.7.1] The Rule of this Knowledge, Faith, and Obedience, concerning the worſhip and ſervice of God, and all other Chriſtian duties, is not mans inventions, opinions, devices, lawes, conſtitutions, or traditions unwritten whatſoever, but onely the word of God contained in the Canonicall Scriptures.
+
+## VIII.
+
+[1.8.1] In this written Word God hath plainly revealed whatſoever he hath thought needfull for us to know, beleeve, and acknowledge, touching the Nature and Office of Chriſt, in whom all the promiſes are Yea and Amen to the praiſe of God.
+
+## IX.
+
+[1.9.1] Touching the Lord Jeſus, of whom
+Moſes and the Prophets wrote, and whom the Apoſtles preached, is the Sonne of God the Father, the brightneſſe of his glory, the ingraven forme of his being, God with him and with his holy Spirit, by whom he made the world, by whom he upholds and governes all the workes hee hath made, who alſo when the fulneſſe of time was come, was made man of a woman, of the Tribe of
+Judah, of the ſeed of Abraham and David, to wit, of Mary that bleſſed Virgin, by the holy Spirit comming upon her, and the power of the moſt High overſhadowing her, and was alſo in all things like unto us, ſinne onely excepted.
+
+## X.
+
+[1.10.1] Touching his Office, Jeſus Chriſt onely is made the Mediator of the new Covenant, even the everlaſting Covenant of grace between God and Man, to be perfectly and fully the Prophet, Prieſt and King of the Church of God for evermore.
+
+## XI.
+
+[1.11.1] Unto this Office hee was fore-ordained from everlaſting, by the authority of the Father, and in reſpect of his Manhood, from the womb called and ſeparated, and anointed alſo moſt fully and abundantly with all gifts neceſſary, God having without meaſure poured the Spirit upon him.
+
+## XII.
+
+[1.12.1] In this Call the Scripture holds forth two ſpeciall things conſiderable; firſt, the call to the Office; ſecondly, the Office it ſelf. Firſt, that none takes this honour but he that is called of God, as was Aaron, ſo alſo Chriſt, it being an action eſpecially of God the Father, whereby a ſpeciall covenant being made, hee ordaines his Sonne to this office: which Covenant is, that Chriſt ſhould be
+made a Sacrifice for ſinne, that hee ſhall ſee his ſeed, and prolong his dayes, and the pleaſure of the Lord ſhall proſper in his hand; which calling therefore contains in it ſelfe chuſing, fore-ordaining, ſending. Chuſing reſpects the end, fore-ordaining the means, ſending the execution it ſelf, all of meere grace, without any condition fore-ſeen, either in men, or in Chriſt himſelfe.
+
+## XIII.
+
+[1.13.1] So that this Office to be Mediator, that is, to be Prophet, Prieſt, and King of the Church of God, is ſo proper to Chriſt, as neither in the whole, nor in any part thereof, it can be transferred from him to any other.
+
+## XIV.
+
+[1.14.1] This Office it ſelf to which Chriſt was called, is threefold, of a Prophet, of Prieſt, & of a King: this number and order of Offices is ſhewed; firſt, by mens neceſſities grievouſly labouring under ignorance, by reaſon whereof they ſtand in infinit neceſſity of the Prophetical office of Chriſt to relieve them. Secondly, alienation frō God, wherein they ſtand in need of the Prieſtly Office to reconcile them: Thirdly, our utter diſability to return to him, by which they ſtand in need of the power of Chriſt in his Kingly Office to aſſiſt and govern them.
+
+## XV.
+
+[1.15.1] Touching the Propheſie of Chriſt, it is that whereby he hath perfectly revealed the whole will of God out of the boſome of the Father, that is needfull for his ſervants
+to know, beleeve, and obey; and therefore is called not onely a Prophet and a Doctor, and the Apoſtle of our profeſſion, and the Angel of the Covenant; but alſo the very wiſdome of God, and the treaſures of wiſdome and underſtanding.
+
+## XVI.
+
+[1.16.1] That he might be ſuch a Prophet as thereby to be every way compleat, it was neceſſary that he ſhould bee God, and withall alſo that he ſhould be man; for unleſſe hee had been God, he could never have perfectly underſtood the will of God, neither had he been able to reveale it throughout all ages; and unleſſe hee had been man, hee could not fitly have unfolded it in his own perſon to man.
+
+## XVII.
+
+[1.17.1] Touching his Prieſthood, Chriſt being conſecrated, hath appeared once to put away ſinne by the offering and ſacrifice of himſelf, and to this end hath fully performed and ſuffered all thoſe things by which God, through the blood of that his Croſſe in an acceptable ſacrifice, might reconcile his elect onely; and having broken downe the partition wall, and therwith finiſhed & removed all thoſe Rites, Shadowes, and Ceremonies, is now entred within the Vaile, into the Holy of Holieſt, that is, to the very Heavens, and preſence of God, where he for ever liveth and ſitteth at the right hand of Majeſty, appearing before the face of his Father to make interceſſion for ſuch as come to the Throne of Grace by that new and living way; and not that onely, but makes his people a ſpirituall Houſe, an holy Prieſthood, to offer up ſpirituall ſacrifice
+acceptable to God through him; neither doth the Father accept, or Chriſt offer to the Father any other worſhip or worſhippers.
+
+## XVIII.
+
+[1.18.1] This Prieſthood was not legall, or temporary, but according to the order of Melchiſedec;
+not by a carnall commandement, but by the power of an endleſſe life; not by an order that is weak and lame, but ſtable and perfect; not for a time, but for ever, admitting no ſucceſſor, but perpetuall and proper to Chriſt, and of him that ever liveth. Chriſt himſelfe was the Prieſt, Sacrifice and Altar: he was Prieſt, according to both natures, hee was a ſacrifice moſt properly according to his humane nature: whence in the Scripture it is wont to be attributed to his body, to his blood; yet the chiefe force whereby this ſacrifice was made effectuall, did depend upon his divine nature, namely, that the Sonne of God did offer himſelfe for us: he was the Altar properly according to his divine nature, it belonging to the Altar to ſanctifie that which is offered upon it, and ſo it ought to be of greater dignity then the Sacrifice it ſelfe.
+
+## XIX.
+
+[1.19.1] Touching his Kingdome, Chriſt being riſen from the dead, aſcended into heaven, ſat on the right hand of God the Father, having all power in heaven and earth, given unto him, he doth ſparitually govern his Church, exerciſing his power over all Angels and Men, good and bad, to the preſervation and ſalvation of the elect, to the overruling and deſtruction of his enemies, which are the Reprobates,
+probates, communicating and applying the benefits, vertue, and fruit of his Propheſie and Prieſthood to his elect, namely, to the ſubduing and taking away of their ſinnes, to their juſtification and adoption of Sonnes, regeneration, ſanctification, preſervation and ſtrengthening in all their conflicts againſt Satan, the World, the Fleſh, and the temptations of them, continually dwelling in, governing and keeping their hearts in faith and filiall feare by his Spirit, which having given it, he never takes away from them, but by it ſtill begets and nouriſheth in them faith, repentance, love, joy, hope, and all heavenly light in the ſoule unto immortality, notwithſtanding through our own unbeliefe, and the temptations of Satan, the ſenſible ſight of this light and love be clouded and overwhelmed for the time. And on the contrary, ruling in the world over his enemies, Satan, and all the veſſels of wrath, limiting, uſing, reſtraining them by his mighty power, as ſeems good in his divine wiſdome & juſtice to the execution of his determinate counſell, delivering them up to a reprobate mind, to be kept through their own deſerts, in darkneſſe and ſenſuality unto judgement.
+
+## XX.
+
+[1.20.1] This Kingdome ſhall be then fully perfected when hee ſhall the ſecond time come in glory to reigne amongſt his Saints, and to be admired of all them which doe beleeve, when he ſhall put downe all rule and authority under his feet, that the glory of the Father may be full and perfectly manifeſted in his Sonne, and the glory of the Father and the Sonne in all his members.
+
+## XXI.
+
+[1.21.1] That Chriſt Jeſus by his death did bring forth ſalvation and reconciliation onely for the elect, which were thoſe which God the Father gave him; & that the Goſpel which is to be preached to all men as the ground of faith, is, that Ieſus is the Chriſt, the Sonne of the ever-bleſſed God, filled with the perfection of all heavenly and ſpirituall excellencies, and that ſalvation is onely and alone to be had through the beleeving in his Name.
+
+## XXII.
+
+[1.22.1] That Faith is the gift of God wrought in the hearts of the elect by the Spirit of God, whereby they come to ſee, know, and beleeve the truth of the Scriptures, & not onely ſo, but the excellencie of them above all other writings and things in the world, as they hold forth the glory of God in his attributes, the excellency of Chriſt in his nature and offices, and the power of the fulneſſe of the Spirit in its workings and operations; and thereupon are inabled to caſt the weight of their ſoules upon this truth thus beleeved.
+
+## XXIII.
+
+[1.23.1] Thoſe that have this pretious faith wrought in them by the Spirit, can never finally nor totally fall away; and though many ſtormes and floods do ariſe and beat againſt them, yet they ſhall never be able to take them off that foundation and rock which by faith they are faſtened upon, but ſhall be kept by the power of God to ſalvation,
+where they ſhall enjoy their purchaſed poſſeſſion, they being formerly engraven upon the palms of Gods hands.
+
+## XXIV.
+
+[1.24.1] That faith is ordinarily begot by the preaching of the Goſpel, or word of Chriſt, without reſpect to any power or capacitie in the creature, but it is wholly paſſive, being dead in ſinnes and treſpaſſes, doth beleeve, and is converted by no leſſe power, then that which raiſed Chriſt from the dead.
+
+## XXV.
+
+[1.25.1] That the tenders of the Goſpel to the converſion of ſinners, is abſolutely free, no way requiring, as abſolutely neceſſary, any qualifications, preparations, terrors of the Law, or preceding Miniſtery of the Law, but onely and alone the naked ſoule, as a ſinner and ungodly to receive Chriſt, as crucified, dead, and buried, and riſen againe, being made a Prince and a Saviour for ſuch ſinners.
+
+## XXVI.
+
+[1.26.1] That the ſame power that converts to faith in Chriſt, the ſame power carries on the ſoule ſtill through all duties, temptations, conflicts, ſufferings, and continually what ever a Chriſtian is, he is by grace, and by a conſtant renewed operation from God, without which he cannot performe any dutie to God, or undergoe any temptations from Satan, the world, or men.
+
+## XXVII.
+
+[1.27.1] That God the Father, and Sonne, and Spirit, is one
+with all beleevers, in their fulneſſe, in relations, as head and members, as houſe and inhabitants, as huſband and wife, one with him, as light and love, and one with him in his inheritance, and in all his glory; and that all beleevers by vertue of this union and oneneſſe with God, are the adopted ſonnes of God, and heires with Chriſt, co-heires and joynt heires with him of the inheritance of all the promiſes of this life, and that which is to come.
+
+## XXVIII.
+
+[1.28.1] That thoſe which have union with Chriſt, are juſtified from all their ſinnes, paſt, preſent, and to come, by the bloud of Chriſt; which juſtification wee conceive to be a gracious and free acquittance of a guiltie, ſinfull creature, from all ſin by God, through the ſatisfaction that Chriſt hath made by his death; and this applyed in the manifeſtation of it through faith.
+
+## XXIX.
+
+[1.29.1] That all beleevers are a holy and ſanctified people, and that ſanctification is a ſpirituall grace of the new Covenant, and effect of the love of God, manifeſted to the ſoule, whereby the beleever is in truth and realitie ſeparated, both in ſoule and body, from all ſinne and dead workes, through the bloud of the everlaſting Covenant, whereby he alſo preſſeth after a heavenly and Evangelicall perfection, in obedience to all the Commands, which Chriſt as head and King in this new Covenant has preſcribed to him.
+
+## XXX.
+
+[1.30.1] All beleevers through the knowledge of that Juſtification
+of life given by the Father, and brought forth by the bloud of Chriſt, have this as their great priviledge of that new Covenant, peace with God, and reconciliation, whereby they that were afarre off, were brought nigh by that bloud, and have (as the Scripture ſpeaks) peace paſſing all underſtanding, yea, joy in God, through our Lord Jeſus Chriſt, by whom wee have received the Atonement.
+
+## XXXI.
+
+[1.31.1] That all beleevers in the time of this life, are in a continuall warfare, combate, and oppoſition againſt ſinne, ſelfe, the world, and the Devill, and liable to all manner of afflictions, tribulations, and perſecutions, and ſo ſhall continue untill Chriſt comes in his Kingdome, being predeſtinated and appointed thereunto; and whatſoever the Saints, any of them doe poſſeſſe or enjoy of God in this life, is onely by faith.
+
+## XXXII.
+
+[1.32.1] That the onely ſtrength by which the Saints are inabled to incounter with all oppoſition, and to overcome all afflictions, temptations, perſecutions, and tryalls, is onely by Jeſus Chriſt, who is the Captain of their ſalvation, being made perfect through ſufferings, who hath ingaged his ſtrength to aſſiſt them in all their afflictions, and to uphold them under all their temptations, and to preſerve them by his power to his everlaſting Kingdome.
+
+## XXXIII.
+
+[1.33.1] That Chriſt hath here on earth a ſpirituall Kingdome,
+which is the Church, which he hath purchaſed and redeemed to himſelfe, as a peculiar inheritance: which Church, as it is viſible to us, is a company of viſible Saints, called & ſeparated from the world, by the word and Spirit of God, to the viſible profeſſion of the faith of the Goſpel, being baptized into that faith, and joyned to the Lord, and each other, by mutuall agreement, in the practical injoyment of the Ordinances, commanded by Chriſt their head and King.
+
+## XXXIV.
+
+[1.34.1] To this Church he hath made his promiſes, and given the ſignes of his Covenant, preſence, love, bleſſing, and protection: here are the fountains and ſprings of his heavenly grace continually flowing forth; thither ought all men to come, of all eſtates, that acknowledge him to be their Prophet, Prieſt, and King, to be inrolled amongſt his houſhold ſervants, to be under his heavenly conduct and government, to lead their lives in his walled ſheepfold, and watered garden, to have communion here with the Saints, that they may be made to be partakers of their inheritance in the Kingdome of God.
+
+## XXXV.
+
+[1.35.1] And all his ſervants are called thither, to preſent their bodies and ſoules, and to bring their gifts God hath given them; ſo being come, they are here by himſelfe beſtowed in their ſeverall order, peculiar place, due uſe, being fitly compact and knit together, according to the effectuall working of every part, to the edification of it ſelfe in love.
+
+## XXXVI.
+
+[1.36.1] That being thus joyned, every Church has power given them from Chriſt for their better well-being, to chooſe to themſelves meet perſons into the office of Paſtors, Teachers, Elders, Deacons, being qualified according to the Word, as thoſe which Chriſt has appointed in his Teſtament, for the feeding, governing, ſerving, and building up of his Church, and that none other have power to impoſe them, either theſe or any other.
+
+## XXXVII.
+
+[1.37.1] That the Miniſters aforeſaid, lawfully called by the Church, where they are to adminiſter, ought to continue in their calling, according to Gods Ordinance, and carefully to feed the flock of Chriſt committed to them, not for filthy lucre, but of a ready minde.
+
+## XXXVIII.
+
+[1.38.1] That the due maintenance of the Officers aforeſaid, ſhould be the free and voluntary communication of the Church, that according to Chriſts Ordinance, they that preach the Goſpel, ſhould live on the Goſpel, and not by conſtraint to be compelled from the people by a forced Law.
+
+## XXXIX.
+
+[1.39.1] That Baptiſme is an Ordinance of the new Teſtament, given by Chriſt, to be diſpenſed onely upon perſons profeſſing
+faith, or that are Diſciples, or taught, who upon a profeſſion of faith, ought to be baptized.
+
+## XL.The word Baptizo, ſignifying to dip under water, yet ſo as with convenient garments both upon the adminiſtrator and ſubject, with all modeſtie.
+
+[1.40.1] The way and manner of the diſpenſing of this Ordinance, the Scripture holds out to be dipping or plunging the whole body under water: it being a ſigne, muſt anſwer the thing ſignified, which are theſe: firſt, the waſhing the whole ſoule in the bloud of Chriſt: Secondly, that intereſt the Saints have in the death, buriall, and reſurrection; thirdly, together with a confirmation of our faith, that as certainly as the body is buried under water, and riſeth againe, ſo certainly ſhall the bodies of the Saints be raiſed by the power of Chriſt, in the day of the reſurrection, to reigne with Chriſt.
+
+## XLI.
+
+[1.41.1] The perſons deſigned by Chriſt, to diſpenſe this Ordinance, the Scriptures hold forth to be a preaching Diſciple, it being no where tyed to a particular Church, Officer, or perſon extraordinarily ſent, the Commiſſion injoyning the adminiſtration, being given to them under no other conſideration, but as conſidered Diſciples.
+
+## XLII.
+
+[1.42.1] Chriſt has likewiſe given power to his whole Church to receive in and caſt out, by way of Excommunication, any member; and this power is given to every particular Congregation, and not one particular perſon, either member or Officer, but the whole.
+
+## XLIII.
+
+[1.43.1] And every particular member of each Church, how excellent, great, or learned ſoever, ought to be ſubject to this cenſure and judgement of Chriſt; and the Church ought with great care and tenderneſſe, with due advice to proceed againſt her members.
+
+## XLIV.
+
+[1.44.1] And as Chriſt for the keeping of this Church in holy and orderly Communion, placeth ſome ſpeciall men over the Church, who by their office are to governe, overſee, viſit, watch; ſo likewiſe for the better keeping thereof in all places, by the members, he hath given authoritie, and laid dutie upon all, to watch over one another.
+
+## XLV.
+
+[1.45.1] That alſo ſuch to whom God hath given gifts, being tryed in the Church, may and ought by the appointment of the Congregation, to propheſie, according to the proportion of faith, and ſo to teach publickly the Word of God, for the edification, exhortation, and comfort of the Church.
+
+## XLVI.
+
+[1.46.1] Thus being rightly gathered, eſtabliſhed, and ſtill proceeding in Chriſtian communion, and obedience of the Goſpel of Chriſt, none ought to ſeparate for faults and corruptions, which may, and as long as the Church conſiſts of men ſubject to failings, will fall out and ariſe amongſt them, even in true conſtituted Churches, untill they have in due order ſought redreſſe thereof.
+
+## XLVII.
+
+[1.47.1] And although the particular Congregations be diſtinct and ſeverall Bodies, every one as a compact and knit Citie in it ſelfe; yet are they all to walk by one and the ſame Rule, and by all meanes convenient to have the counſell and help one of another in all needfull affaires of the Church, as members of one body in the common faith under Chriſt their onely head.
+
+## XLVIII.
+
+[1.48.1] That a civill Magiſtracie is an ordinance of God ſet up by God for the puniſhment of evill doers, and for the praiſe of them that doe well; and that in all lawfull things commanded by them, ſubjection ought to be given by us in the Lord: and that we are to make ſupplication and prayer for Kings, and all that are in authority, that under them we may live a peaceable and quiet life in all godlines and honeſty.
+
+## XLIX.
+
+[1.49.1] The ſupreme Magiſtracie of this Kingdome we beleeve to be the King and Parliament freely choſen by the Kingdome, and that in all thoſe civill Lawes which have been acted by them, or for the preſent is or ſhall be ordained, we are bound to yeeld ſubjection and obedience unto in the Lord, as conceiving our ſelves bound to defend both the perſons of thoſe thus choſen, and all civill Lawes made by them, with our perſons, liberties, and eſtates, with all that is called ours, although we ſhould ſuffer never ſo much from them in not actively ſubmitting to ſome Eccleſiaſticall Lawes, which might be conceived by them to
+be their duties to eſtabliſh, which we for the preſent could not ſee, nor our conſciences could ſubmit unto; yet are we bound to yeeld our perſons to their pleaſures.
+
+## L.
+
+[1.50.1] And if God ſhould provide ſuch a mercie for us, as to incline the Magiſtrates hearts ſo for to tender our conſciences, as that we might bee protected by them from wrong, injury, oppreſſion and moleſtation, which long we formerly have groaned under by the tyranny and oppreſſion of the Prelaticall Hierarchy, which God through mercy hath made this preſent King and Parliament wonderfull honourable, as an inſtrument in his hand, to throw downe; and we thereby have had ſome breathing time, we ſhall, we hope, look at it as a mercy beyond our expectation, and conceive our ſelves further engaged for ever to bleſſe God for it.
+
+## LI.
+
+[1.51.1] But if God with-hold the Magiſtrates allowance and furtherance herein; yet we muſt notwithſtanding proceed together in Chriſtian communion, not daring to give place to ſuſpend our practiſe, but to walk in obedience to Chriſt in the profeſſion and holding forth this faith before mentioned, even in the midſt of all trialls and afflictions, not accounting our goods, lands, wives, children, fathers, mothers, brethren, ſiſters, yea, and our own lives dear unto us, ſo we may finiſh our courſe with joy: remembring alwayes we ought to obey God rather then men, and grounding upon the commandement, commiſſion and promiſe of our Lord and maſter Jeſus Chriſt, who
+as he hath all power in heaven and earth, ſo alſo hath promiſed, if we keep his commandements which he hath given us, to be with us to the end of the world: and when we have finiſhed our courſe, and kept the faith, to give us the crowne of righteouſneſſe, which is laid up for all that love his appearing, and to whom we muſt give an account of all our actions, no man being able to diſcharge us of the ſame.
+
+## LII.
+
+[1.52.1] And likewiſe unto all men is to be given whatſoever is their due; tributes, cuſtomes, and all ſuch lawfull duties, ought willingly to bee by us paid and performed, our lands, goods, and bodies, to ſubmit to the Magiſtrate in the Lord, and the Magiſtrate every way to bee acknowledged, reverenced, and obeyed, according to godlineſſe; not becauſe of wrath onely, but for conſcience ſake. And finally, all men ſo to be eſteemed and regarded, as is due and meer for their place, age, eſtate and condition.
+
+## LII.
+
+[1.53.1] And thus wee deſire to give unto God that which is Gods, and unto Ceſar that which is Ceſars,
+and unto all men that which belongeth unto them, endevouring our ſelves to have alwayes a cleare conſcience void of offence towards God, and towards man. And if any take this that we have ſaid, to be hereſie, then doe wee with the Apoſtle freely confeſſe, that after the way which they call hereſie, worſhip we the God of our Fathers, beleeving all things which are written in the Law and in the Prophets and Apoſtles, deſiring from our ſoules to diſclaime all hereſies
+and opinions which are not after Chriſt, and to be ſtedfaſt, unmoveable, alwayes abounding in the worke of the Lord, as knowing our labour ſhall not be in vain in the Lord.
+
+[1.53.2] 1 COR. 1.24.
+Not that we have dominion over your faith, but are helpers of your joy: for by faith we ſtand.
+
+## 1.end
+
+[1.end.1] FINIS.

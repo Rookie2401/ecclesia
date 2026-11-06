@@ -1,0 +1,550 @@
+Title: A learned sermon of the nature of pride
+Work: A learned sermon of the nature of pride
+Author: Richard Hooker (1553/4–1600)
+Language: english
+Credit: A learned sermon of the nature of pride, in EEBO-TCP A03589, from the 1612 Oxford printing, ed. Henry Jackson (under the direction of John Spenser) (Oxford: Joseph Barnes (sold by John Barnes), 1612). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://raw.githubusercontent.com/textcreationpartnership/A03589/master/A03589.xml
+Retrieved: 2026-11-05 (source file 42527 bytes, SHA-256 060b0f859e2117b4d9017de599081361038cbab922827e8686b5fafaf914fb98)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":20,"unread":2,"note":2}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## 1
+
+[1.1] ABAC. 2. 4.
+His minde swelleth and is not right in him:
+But the iust by his faith shall liue.
+
+[1.2] THE nature of man beeing much
+more delighted to bee led then
+drawne, doth many times stubbornely
+resist authoritie when to
+perswasiō it easily yeeldeth. Wher
+vpon the wisest Law-makers haue
+endevoured alwaies that those
+lawes might seeme most reasonable
+which they would haue most inviolably kept. A
+law simply commaunding or forbidding is but dead in
+comparison of that which expresseth the reason where
+fore it doth the one or the other. And surelie even in
+the Lawes of God, although that hee hath given commandement,
+be in it selfe a reason sufficient to exact all
+obedience at the handes of men: yet a forcible inducement
+it is to obey with greater alacritie and cheerefulnesse
+of minde, when wee see plainely that nothing is
+imposed more then we must needes yeeld vnto, except
+we wilbe vnreasonable. In a word, whatsoever we be
+taught, be it precept for direction of our manners, or
+article for instruction of our faith, or document anie
+way for information of our mindes, it then taketh root
+and abideth when wee conceiue not only what God
+doth speake, but why. Neither is it a small thing which
+we derogate as well from the honor of his truth, as frō
+the comfort, ioy, & delight which we our selues should
+take by it, when wee loosely slide over his speech as
+though it were as our owne is, commonly vulgar and
+triviall: wheras he vttereth nothing but it hath besides
+the substance of doctrine delivered a depth of wisdome
+in the verie choice and frame of words to deliver it in:
+the reason whereof being not perceived but by greater
+intention of braine then our nice mindes for the most
+part can well awaie with, faine wee woulde bring the
+world if we might to thinke it but a needlesse curiosity
+to rip vp anie thing further then extemporall readinesse
+of wit doeth serue to reach vnto. Which course if
+here we did list to follow, we might tell you that in the
+first branch of this sentence God doth condemne the
+Babilonians pride, and in the second teach what happinesse
+of state shall grow to the righteous by the constā
+cie
+of their faith, notwithstanding the troubles which
+now they suffer; and after certaine notes of holesome
+instruction herevpon collected, passe over without detaining
+your mindes in any further removed speculation.
+But as I take it there is a difference betweene the
+talke that beseemeth Nurces amongst children, & that
+which men of capacitie and iudgement doe or shoulde
+receiue instruction by.
+
+[1.3] The minde of the Prophet being erected with that
+which hath beene hitherto spoken, receiveth here for
+ful satisfaction, a short abridgement of that which is afterwards
+more particularly vnfolded. Wherefore as
+the question befores disputed of doeth concerne two
+sorts of men, the wicked florishing as the Bay, and the
+righteous like the withered grasse; the one full of pride
+the other cast downe with vtter discouragement: so the
+answere which God doth make for resolutiō of doubts
+herevpon arisen hath reference vnto both sorts, & this
+present sentence containing a briefe abstract thereof,
+comprehendeth summarily as wel the feareful estate of
+iniquity over exalted, as the hope laid vp for righteousnesse
+opprest. In the former branch of which sentence,
+let vs first examin what this rectitude or streight
+nesse importeth which God denieth to be in the minde
+of the Babylonian. All things which God did create he
+made them at the first, true good, and right. True, in respect
+of correspondence vnto that patterne of their being,
+which was eternally drawne in the counsell of
+Gods fore knowledge; Good, in regarde of the vse and
+benefit which each thing yeeldeth vnto other; Right, by
+an apt conformitie of all partes with that end which is
+outwardly proposed for each thing to tend vnto. Other
+things haue ends proposed, but haue not the facultie
+to know, iudge, and esteeme of them, and therefore
+as they tend therevnto vnwittingly, so likewise in the
+meanes whereby they acquire their appointed endes,
+they are by necessitie so helde, that they cannot divert
+from them. The ends why the heavens do moue, the
+heavens themselues know not, and their motions they
+cannot but continue. Only men in all their actions
+know what it is which they seeke for, neither are they
+by any such necessitie tied naturally vnto any certaine
+determinate meane to obtaine their ende by, but that
+they may, if they will, forsake it. And therefore in the
+whole world no creature but only man which hath the
+last end of his actions proposed as a recompence and
+reward: wherevnto his mind derectly bending it selfe,
+is tearmed right or straight, otherwise perverse.
+
+[1.4] To make this somewhat more plaine, we must note,
+that as they which travell from city to citty, enquire ever
+for the straightest way, because the straightest is
+that which soonest bringeth them vnto their iourneies
+end: So we having here as the Apostle speaketh no abiding
+City, but being alwaies in travell towardes that
+place of ioy, immortality, and rest, cannot but in every
+of our deeds, words, and thoughts, thinke that to be best
+which with most expedition leadeth vs therevnto, and
+is for that very cause tearmed right. That Soveraigne
+good, which is the eternall fruition of all good, being
+our last and chiefest felicitie, there is no desperat despiser
+of God and godlinesse living which doth not wish
+for. The difference betweene right and crooked minds,
+is in the meanes which the one or the other do eschew
+or follow. Certaine it is, that al particular things which
+are naturally desired in the world, as food, rayment, honour,
+wealth, pleasure, knowledge, they are subordinated
+in such wise vnto that future good which we looke
+for in the world to come, that even in them there lieth
+a direct way tending vnto this. Otherwise wee must
+thinke that God making promises of good things in
+this life, did seeke to pervert men & to lead them from
+their right minds. Where is then the obliquitie of the
+mind of man? His mind is perverse, cam, and crooked,
+not when it bendeth it selfe vnto any of these things,
+but when it bendeth so, that it swarveth either to the
+right hand or to the left by excesse or defect from that
+exact rule whereby humane actions are measured. The
+rule to measure and iudge them by is the law of God.
+For this cause the Prophet doth make so often and so
+earnest sute, O direct me in the way of thy commandements:
+As long as J haue respect to thy Statuts I am sure not
+to tread amisse. Vnder the name of the Lawe wee must
+comprehend not only that which God hath written in
+tables and leaues, but that which nature also hath engraven
+in the hearts of men. Else how shall those heathen
+which never had bookes but heaven and earth to
+looke vpon be convicted of perversenesse? But the Gentiles
+which had not the law in bookes, had, saith the Apostle,
+the effect of the law written in their harts.
+
+[1.5] Then seeing that the heart of man is not right exactly
+vnlesse it be found in all parts such that God examining
+and calling it vnto account with all severity of rigor
+be not able once to charge it with declining or suar
+ving aside, (which absolute perfection when did God ever
+find in the sons of meer mortall men?) Doth it not
+follow that all flesh must of necessity fall downe and
+confesse, wee are not dust and ashes but worse, our
+mindes from the highest to the lowest are not right?
+If not right, then vndoubtedly not capable of that
+blessednes which wee naturally seeke, but subiect vnto
+that which wee most abhorre, anguish, tribulation,
+death, woe, endlesse misery. For whatsoeuer misseth
+the waie of life, the issue thereof cannot bee but perdition.
+By which reason all being wrapped vp in sinne,
+and made thereby the children of death, the mindes of
+all men being plainely convicted not to be right: shall
+we thinke that God hath indued them with so many excellencies,
+mo not only then any, but then all the creatures
+in the world besides, to leaue them in such estate
+that they had beene happier if they had never beene?
+Here commeth necessarily in a new waie vnto salvation,
+so that they which were in the other perverse, may
+in this be found straight and righteous. That the way
+of nature, this the way of grace. The end of that waie
+salvation merited presupposing the righteousnesse of
+mens works, their righteousnesse a naturall habilitie to
+do them, that habilitie the goodnes of God which created
+them in such perfection. But the end of this way
+salvation bestowed vpon men as a gifte presupposing
+not their righteousnesse, but the forgiuenesse of their
+vnrighteousnesse, iustification; their iustification not
+their naturall habilitie to do good, but their hearty sorrow
+for not doing, & vnfained beliefe in him for whose
+sake not doers are accepted, which is their vocation;
+their vocation the election of God taking them out
+from the number of lost children; their election a mediator
+in whom to be elect; this mediation inexplicable
+mercie, his mercie their miserie, for whom he vouchsafed
+to make himselfe a mediator. The want of exact
+distinguishing between these two waies, and observing
+what they haue common, what peculiar, hath been the
+cause of the greatest part of that confusion whereof
+christianity at this day laboureth. The lacke of diligence
+in searching, laying downe, and invring mens
+minds with those hidden grounds of reason, wherevpon
+the least particulars in each of these are most firmely
+and strongly builded; is the only reason of all those
+scruples and vncertainties wherewith wee are in such
+sort intāgled that a number despaire of ever discerning
+what is right or wrong in any thing. But we will let this
+matter rest whereinto wee stepped to search out away
+how some minds may be and are right truly even in the
+sight of God, though they be simplie in themselues not
+right.
+
+[1.6] Howbeit there is not only this difference betweene
+the iust and impious, that the mind of the one is right
+in the sight of God because his obliquitie is imputed,
+the other perverse because his sinne is vnrepented of:
+but even as lines that are drawn with a trembling hand,
+but yet to the point which they should, are thought
+ragged and vneven, neverthelesse direct in comparison
+of them which run cleane another way; so there is no
+incongruitie in tearming them right minded men, whō
+though God may charge with many things amisse, yet
+they are not as those hideous and ougly monsters, in
+whom because there is nothing but wilfull opposition
+of mind against God, a more then tolerable deformitie
+is noted in them by saying that their mindes are not
+right. The Angell of the Church of Thyatira vnto whō
+the sonne of God sendeth this greeting, I know thy works
+and thy loue, and service, and faith: Notwithstanding I haue
+a few things against thee, was not as he vnto whom St
+Peter, Thou hast no fellowship in this businesse, for thy heart
+is not right in the sight of God. So that whereas the orderly
+dispositiō of the mind of man should be this, perturbations
+and sensuall appetities all kept in aw by a moderate
+and sober will; will in all things framed by reason;
+reason directed by the law of God and nature; this Babyloman
+had his mind as it were turned vpside downe.
+In him vnreasonable cecitie and blindnesse trampled al
+lawes both of God and nature vnder feet; wilfulnesse
+tyrannized over reason, & brutish sensualitie over will.
+An evident token that his outrage would worke his overthrow
+and procure his speedie ruine. The mother
+whereof was that which the Prophet in these wordes
+signifieth; His mind doth swell.
+
+[1.7] Immoderate swelling, a token of verie eminent
+breach, and of inevitable destruction; Pride, a vice
+which cleaveth so fast vnto the hearts of men that if we
+were to strippe our selues of all faultes one by one, wee
+should vndoubtedly finde it the very last and hardest to
+put of. But J am not here to touch the secret itching
+humor of vanitie wherewith men are generally touched.
+It was a thing more then meanely inordinat wherewith
+the Babylonian did swell. Which that we may both
+the better conceaue, and the more easily reape profite
+by the nature of this vice which sett•th the whole
+world out of course, and hath put so many even of the
+wisest besides themselues, is first of all to be inquired into;
+secōdly the dangers to be discovered, which it draweth
+inevitable after it, being not cured; and last of al the
+waies to cure it.
+
+[1.8] Whether we looke vpon the gifts of nature, or of
+grace, or whatsoever is in the worlde admired as a part
+of mans excellency, adorning his body, beutifying his
+mind, or externally any way commending him in the
+account and opinion of men, there is in every kinde
+somewhat possible which no man hath, and somewhat
+had which few men can attaine vnto. By occasiō wherof
+there groweth disparagement necessarily; and by
+occasion of disparagement, pride through mens ignorance.
+First therfore although men be not proud of any
+thing which is not at the least in opinion good, yet every
+good thing they are not proud of, but only of that
+which neither is common vnto many, and being desired
+of all, causeth them which haue it to be honored aboue
+the rest. Now there is no man so void of braine, as to
+suppose that pride consisteth in the bare possession of
+such things; for then to haue vertue were a vice, and
+they should be the happiest men who are most wretched,
+because they haue least of that which they would
+haue. And though in speech wee doe intimate a kind of
+vanitie to be in them of whom we say, They are wise mē
+and they know it, yet this doth not proue that everywise
+man is proud which doth not thinke himselfe to bee
+blockish. What we may haue and knowe that we haue
+it without offence, doe wee then make offensiue when
+we take ioy and delight in having it? What difference
+betweene men enriched with all abundance of earthly
+and heavenly blessings, and Idols gorgeously attired,
+but this, the one takes pleasure in that which they haue, the
+other none? If we may be possest with beautie, strength,
+riches, power, knowledge, if we may be privie what we
+are every way, if glad and ioyfull for our owne welfare
+and in all this remaine vnblameable, neverthelesse some
+there are who granting thus much, doubt whether it
+may stand with humilitie to except those testimonies
+of praise and commendation, those titles, roomes, and
+other honours which the worlde yeeldeth as acknowledgements
+of some mens excellencie aboue others.
+For in as much as Christ hath said vnto those that are
+his; The kings of the Gentiles raigne over them, and they
+that beare rule over them are called gratious Lords: Bee yee
+not so; The Anabaptist herevpon vrgeth equalitie amongst
+Christians, as if all exercise of authoritie were
+nothing else but heathenish pride. Our Lord and saviour
+had no such meaning. But his Disciples feeding thē
+selues with a vaine imagination for the time, that the
+Messias of the world should in Ierusalē erect his thron,
+and exercise dominion with great pompe and outward
+statelinesse, advanced in honour and terrene power aboue
+all the Princes of the earth, began to thinke how
+with their Lords condition, their owne would also rise:
+that having left and forsaken all to follow him, their
+place about him should not be meane: & because they
+were many it troubled them much, which of the should
+be the greatest man. When sure was made for two by
+name, that of them one might sit at his right hand, and
+the other at his left, the rest began to stomacke, each taking
+it grievously that any should haue what all did affect.
+Their Lord and Master to correct this humor turneth
+aside their cogitations from these vaine and fansifull
+conceits, giving them plainely to vnderstand that
+they did but deceaue themselues. His comming was
+not to purchase an earthly but to bestowe an heavenly
+kingdome, wherein they (if any) shalbe greatest whome
+vnfained humilitie maketh in this world lowest, & least
+amongst others: Yee are they which haue continued with
+me in my temptations, therefore I leave vnto you a kingdome
+as my father hath appointed me, that yee may eate and
+drinke at my table in my kingdome,
+& sit on seats, & iudge
+the twelue tribes of Israell. But my kingdome is no such
+kingdome as yee dreame of. And therefore these hungry
+ambitious contentions are seemlier in heathens thē
+in you. Wherefore from Christs intent and purpose
+nothing further removed then dislike of distinctions in
+titles and callings annexed for orders sake vnto authoritie,
+whether it be Ecclesiasticall or civill. And whē wee
+haue examined throughly what the nature of this vice
+is no man knowing it, can he so simple as not to see an
+vglie: shape thereof apparent many times in reiecting
+honours offered, then in the very exacting of them at
+the hands of men. For as Iudas his care for the poore
+was meere covetousnesse, and that franckhearted wastfulnesse
+spoken of in the Gospell, thrift; so there is
+no doubt but that going in ragges may bee pride, and
+thrones be challenged with vnfained humilitie.
+
+[1.9] We must goe further therefore and enter somwhat
+deeper before we can come to the closet wherein this
+poyson lyeth. There is in the heart of every proud man,
+first an errour of vnderstanding; a vaine opinion where
+by he thinketh his owne excellencie, and by reason
+thereof, his worthinesse of estimation, regard, and honour,
+to be greater then in truth it is. This maketh him
+in all his affections accordingly to raise vp himselfe, &
+by his inward affections his outward acts are fashioned.
+Which if you list to haue exemplified, you may either
+by calling to mind things spoken of them whom
+God himselfe hath in Scripture specially noted with
+this fault, or by presenting to your secret cogitations
+that which you daily behold in the odious liues & manners
+of high minded men. It were too long to gather
+together so plentifull an harvest of examples in this
+kind as the sacred Scripture affordeth. That which wee
+drinke in at our eares doth not so percingly enter, as
+that which the mind doth conceaue by sight. Is there
+any thing written concerning the Assyrian Monarch in
+the 10. of Esay, of his swelling mind, his hawtie lookes,
+his great and presumptuous vaunts; By the power of mine
+owne hand I haue done all things, and by mine owne wisdome
+I haue subdued the world? Any thing concerning the
+dames of Sion in the third of the Prophet Esay, of their
+stretched out neckes, their immodesteies, their pageantlike,
+stately, and pompous gate? Any thing concerning
+the practises of Corah, Dathan, and Abiram; of their
+impatience to liue in subiection, their mutinies, repining
+at lawfull authoritie, their grudging against their
+superiours Ecclesiasticall and Civil? Any thing concerning
+pride in any sort or sect which the present face of
+the world doth not as in a glasse represent to the viewe
+of all mens beholding? So that if bookes, both prophane
+and holy, were all lost, as long as the manners of
+men retaine the state they are in: for him which observeth
+how that when men haue once conceaved an overweaning
+of themselues it maketh them in all their
+affections to swell how deadly their hatred, how heavy
+their displeasunre, how vnappeaseable their indignation
+and wrath is aboue other mens, in what manner they
+compose themselues to be as Heteroclites without the
+compasse of all such rules as common sort are mesured
+by; how the oathes which religious hearts do tremble
+at they affect as principall graces of speech; what felicitie
+they take to see the enormitie of their crimes aboue
+the reach of lawes and punishments; how much
+it delighteth them when they are able to appale with
+the cloudinesse of their looke; how far they exceed the
+tearmes wherewith mans nature should bee limited;
+how high they beare their heades over others, howe
+they browbeat al men which doe not receaue their sentences
+as oracles with marvelous applause and approbation;
+how they looke vpon no man but with an indirect
+countenance, nor heare any thing saving their
+owne praise with patience, nor speake without scornefulnesse
+and disdaine; how they vse their servants as if
+they were beasts, their inferiours as servāts, their equals
+as inferiours, and as for superiours acknowledge none;
+how they admire themselues as venerable, puissant,
+wise, circumspect, provident, every way great, taking all
+men besides themselues for ciphers, poore, inglorious,
+silly creatures, needlesse burthens of the earth, of scourings
+nothing: in a word for him which marketh howe
+irregular and exorbitant they are in all things, it can be
+no hard thing hereby to gather, that pride is nothing
+but an inordinate elation of the minde proceeding frō
+a false conceit of mens excellencie in things honored,
+which accordingly frameth also their deeds and behaviour
+vnlesse there bee cunning to conceale it. For a
+foule scarre may be covered with a faire cloath. And as
+proud as Lucifer, may be in outward appearance lowly.
+
+[1.10] No man expecteth grapes of thistles: nor from a
+thing of so bad a nature can other then sutable fruites
+be looked for, What harme soever in private families
+there groweth by disobedience of children, stubbornes
+of servants, vntractablenesse in thē, who, although they
+otherwise may rule, yet should in consideration of the
+imparitie of their sex bee also subiect; whatsoever by
+strife amongst mē combined in the fellowship of greater
+societies, by tyrannie of potentates, ambition of nobles,
+rebellion of subiects in civill states; by heresies,
+schismes, divisions in the Church; naming pride wee
+name the mother which brought them forth, and the
+only nurse that feedeth them. Giue me the harts of all
+men humbled, and what is there that can overthrew or
+disturbe the peace of th• world? Wherein many things
+are the cause of much evill, but pride of all.
+
+[1.11] To declaime of the swarmes of evils issuing, out of
+pride is an easie labour. I rather wish that I could exactly
+prescribe and perswade effectually the remedies
+whereby a so are so grievous might bee cured, and the
+meanes how the pride of swelling mindes might be taken
+downe. Wherevnto so much we haue already gained,
+that the evidence of the cause which breedeth it
+pointeth directly vnto the likeliest and fittest helpes to
+take it away: diseases that come of fulnesse, emptinesse
+must remoue. Pride is not cured, but by abating the error
+which causeth the minde to swell. Then seeing that
+they swel by misconceit of their own excellēcy; for this
+cause al which tend to the beating down of their pride,
+whether it be advertisemēt from men, or frō God himselfe
+chastisment, it then maketh thē cease to be prowd,
+when it causeth them to see their errour in overseeing
+the thing they were prowd of. At this marke Iob in his
+apologie vnto his eloquent friends aimeth. For perceiving
+how much they delighted to heare themselues
+talke, as if they had given their poore afflicted familiar
+a schooling of marvelous deepe and rare instruction, as
+if they had taught him more then all the world besides
+could acquaint him with, his answer was to this effect.
+Yee swell as though yee had conceaued some greater
+matter, but as for that which yee are delivered of who
+knoweth it not? Is any man ignorant of these things?
+At the same marke the blessed Apostle driveth; yee abound
+in all things, yee are rich, yee raigne, and would
+to Christ we did raigne with you. But boast not. For
+what haue yee or are yee of your selues? To this marke
+all those humble confessions are referred, which haue
+beene alwaies frequent in the mouthes of Saints truely
+wading in the triall of themselues: as that of the Prophet,
+we are nothing but soarenesse and festered corruption,
+our very light is darknesse and our righteousnes it selfe
+vnrighteousnes; that of Gregory, Let no man ever put confidence
+in his owne deserts, Sordet in conspectu indicis, quod
+fulget in conspectu operantis, In the fight of that dreadful
+Iudge it is noysome, which in the dooers iudgement
+maketh a beautifull shew; That of Anselm, I adore thee,
+I blesse thee Lord God of heaven and redeemer of the worlde
+with all the power, abilitie, and strength of my heart and
+soule, for thy goodnesse so vnmeasurably extended, not in regard
+of my merits wherevnto only torments were due, but
+of thy meere vnprocured benignity. If these fathers should
+be raised againe from the dust and haue the bookes laid
+open before them wherein such sentences are found as
+this Workes no other then the value, desert, price, and worth
+of the ioyes of the kingdome of heaven;
+Heaven in relation
+to our workes as the very stipend which the hired labourer
+covenanteth to haue of him whose workes he doth, a thing equally
+and tustly answering vnto the time and waight of his
+travailes rather then to a voluntarie or bountifull gift. If I
+say those reverend fore-rehearsed fathers whose books
+are so full of sentences witnessing their Christian humilitie
+should be raised from the dead, and behold with
+their eies such things written; would they not plainely
+pronounce of the authors of such writ, that they were
+fuller of Lucifer then of Christ, that they were proud-hearted
+men, and carried more swelling minds then sincerely
+and feelingly knowne Christianitie can tolerate?
+
+[1.12] But as vnruly children with whom wholsome admonition
+prevaileth little are notwithstanding brought to
+feare that ever after which they haue once well smarted
+for: so the mind which falleth not with instruction, yet
+vnder the rod of divine chastisement ceaseth to swell. If
+therefore the Prophet David instructed by good experiēce
+haue acknowledged, Lord I was even at the point
+of cleane forgetting my selfe, and so straying from my
+right mind: but thy rod hath beene my reformer, it hath
+beene good for me even as much as my foule is worth
+that I haue beene with sorrow troubled: if the blessed
+Apostle did neede the corrosiue of sharpe and bitter
+strokes least his heart should swell with too great abundance
+of heavenly revelations, surely vpon vs whatsoever
+God in this world doth, or shall inflict, it cannot
+seeme more then our pride doth exact, not only by way
+of revenge, but of remedy. So hard it is to cure a fore of
+such qualitie as pride is, in as much as that which rooteth
+out other vices, causeth this, and (which is even aboue
+all conceit) if we were cleane from all spot & blemish
+both of other faults and of pride, the fall of Angels
+doth make it almost a question whether we might
+not need a preservatiue stil least we should happily wax
+proud that we are not proud. What is virtue but a medicine,
+and vice but a wound? Yet wee haue so often
+deeply wounded our selues with medicines, that God
+hath beene faine to make wounds medicinable, to cure
+by vice where vertue hath striken, to suffer the iust man
+to fall that being raised he may be taught what power it
+was which vpheld him standing. I am not afraid to affirme
+it boldly with S. Augustine, that men puffed vp
+through a proud opinion of their owne sanctitie and
+holinesse receaue a benefit at the hands of God and are
+assisted with his grace, whē with his grace they are not
+assisted but permitted & that greevously to transgresse,
+whereby as they were in over great liking of themselus
+supplanted, so the dislike of that which did supplant
+them may establish them afterwards the surer. Aske the
+very soule of Peter, and it shall vndoubtedly make you
+it selfe this answer; my eger protestations made in the
+glorie of my ghostly strength I am ashamed of, but
+those christ all teares wherewith my sinne and weaknes
+was bewailed haue procured my endles ioy, my strēgth
+hath beene my ruine, and my fall my stay.
+
+[1.13] FINIS.
+
+[1.14] 〈1 page duplicate〉
+
+[1.15] 〈1 page duplicate〉

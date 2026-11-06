@@ -1,0 +1,562 @@
+Title: The Confession of Faith (Edinburgh 1671)
+Work: The Confession of Faith (Westminster Confession)
+Author: Westminster Confession of Faith (1646)
+Language: english
+Credit: The Confession of Faith (Edinburgh 1671), in EEBO-TCP A34242 (Wing C5769): The confession of faith; and, The larger and shorter catechism ... approved by the General Assembly of the kirk of Scotland, Edinburgh: George Swinton and Thomas Brown, 1671 (Edinburgh: George Swinton and Thomas Brown (sold by James Glen and David Trench), 1671). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/textcreationpartnership/A34242/master/A34242.xml
+Retrieved: 2026-11-05 (source file 668313 bytes, SHA-256 67336b370fb1905285155bdaa28d71a736e3ad956209ca3f37df88b63276fed4)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":73,"note":573,"unread":110}
+Ecclesia library, source 4d0014ea.
+
+========================================================================
+
+## CHAP. I. Of the holy Scripture.
+
+[1.1] ALthough the light of Nature, and the works of Creation and Providence, do so far manifest the Goodness, Wisdom, and Power of God, as to leave men
+unexcusable; yet they are not sufficient to give that knowledge of God and of his Will, which is necessary un•o salvation. Therefore it pleased the Lord at sundry times, and in divers manners, to reveal himself, and to declare that his Will unto his Church; and afterwards for the better preserving, and propagating of the Truth, and for the more sure establishment and comfort of the Church against the corruption of the flesh, and the malice of Sathan and of the World; to commit the same wholly unto writing; which makes the holy Scripture to be most necessary; those former ways of Gods revealing his will unto his People, being now ceased.
+
+[1.2] II. Under the Name of Holy Scripture, or the Word of God written, are now contained all the Books of the Old and new Testament, which are these.
+
+[1.3] Of the Old Testament.
+GEnesis.
+Exodus.
+Leviticus.
+Numbers.
+Deuteronomie.
+Joshua.
+Judges.
+Ruth.
+I. Samuel.
+II. Samuel.
+I. Kings.
+II. Kings.
+I. Chronicles.
+II. Chronicles.
+Ezra.
+Nehemiah.
+Esther.
+Job.
+Psalms.
+Proverbs.
+Ecclesiastes.
+The Song of Songs
+Isajah.
+Jeremiah.
+Lamentations.
+Ezekiel.
+Daniel.
+Hosea.
+Joel.
+Amos.
+Obadiah.
+Jonah.
+Micah.
+Nahum.
+Habakkuk.
+Zephaniah.
+Haggai.
+Zechariah.
+Malachi.
+
+[1.4] Of the New Testament.
+The Gospel according to MAtthew.
+The Gospel according to Mark.
+The Gospel according to Luke.
+The Gospel according to John.
+The Acts of the Apostles.
+Paul's Epistle to the Romans.
+I. Corinthians.
+II. Corinthians.
+Galatians.
+Ephesians.
+Philippians.
+Colossians.
+I. Thessalonians.
+II. Thessalonians.
+To Timothy. I.
+To Timothy. II.
+To Titus.
+To Philemon.
+The Epistle to the Hebrews.
+The Epistle of James.
+The first and second Epistle of Peter.
+The first, second and third Epistles of John.
+The Epistle of Jude.
+The Revelations.
+
+[1.5] All which are given by inspiration of God, to be the Rule of Faith and life.
+
+[1.6] III. The Books commonly called Apocrypha, not being of Divine inspiration, are no part of the Canon of the Scripture; and therefore are of no Authority in the Church of God, nor to be any otherwise approved, or made use of, than other humane writings.
+
+[1.7] IV. The Authority of the holy Scripture, for which it ought to be believed and obey'd; dependeth not upon the testimony of any man, or Church; but wholly upon God (who is Truth it self) the Author thereof; and therefore it is to be received, because it is the Word of God..
+
+[1.8] V. We may be moved & induced by the testimony of the Church, to an high and reverend esteem of the holy Scripture. And the heavenliness of the Matter, the efficacy of the Doctrine, the Majesty of the stile, the consent of all the parts, the scope of the whole (which is, to give all glory to God,) the full discovery it makes of the only way of mans salvation, the many other incomparable Excellencies, and the
+intire perfection thereof, are Arguments whereby it doth abundantly evidence it self to be the Word of God; yet notwithstanding, our full perswasion and assurance of the infallible truth, and Divine authority thereof, is from the inward work of the holy Spirit, bearing witness by, and with the Word in our hearts.
+
+[1.9] VI. The whole Counsel of God concerning all things necessary for his own Glory, mans Salvation, Faith, and life, is either expr•sly set down in Scripture, or by good and necessary conseq•ence may be deduc•d from Scripture: un•o which nothing at any time is to be added, whether by new Revelation of the spirit, or traditions of men. Nevertheless we acknowledge the inward illumination of the Spirit of God to be necessary, for the saving understanding of such things as are revealed in the word: and that there are some circumstances concerning the Worship of God, and Government of the Church, c•mmon to humane Actions and Societies, which are to be ordered by the light of Nature, and Christian •rudence, according to the general Rules of the Word
+which are alwaies to be observed.
+
+[1.10] VII. All things in Scripture are not alike plain in themselves, nor alike clear unto all: yet those things which are necessary to be known believed, and observed for salvation, are so clearly propounded and opened in some places of Scripture or other, that not only the Learned but the Unlearned, in a due use of the ordinary means may attain unto a sufficient understanding of them.
+
+[1.11] VIII. The Old Testament in Hebrew (which was the Native Language of the people of God of Old) and the New Testament in Greek (which at the time of the writing of it, was most generally known to the Nations) being immediately inspired by God, and by his singular care & providence kept pure in all ages, are therefore Authentical, so as in all controversies of Religion, the Church is finally to appeal unto them. But because these Original Tongues are not known to the People of God, who have right unto, and interest in the Scriptures, and are commanded in the fear of God, to read & search them, therefore they are to be translated
+into the vulgar Language of every Nation unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and through patience and comfort of the Scriptures may have hope.
+
+[1.12] IX. The infallible Rule of Interpretation of Scripture, is the Scripture it self and therefore, when there is a question about the true and full sence of any Scripture (which is not manifold, but one) it must be searched and known by other places that speak more clearly.
+
+[1.13] X The Supreame Judge, by which all Controversies of Religion are to be determined, and all decrees of Councils, Opinions of Ancient Writers, Doctrines of men, and private Spirits, are to be examined; and in whose sentence we are to rest, can be no other but the holy Spirit speaking in the Scripture.
+
+## CHAP. II. Of God, and of the Holy Trinity.
+
+[2.1] THere is but one only, living, and true God; who is infinite in being and Perfection, a most pure spirit, invisible, without body,
+parts, or passions, immutable, immense eternal, incomprehensible, Almighty, most wise, most holy, most free, most absolute, working all things according to the counsel of his own immutable and most righteous wi•l, for his own glory, most loving, gracious, merciful, long-suffering, abundant in goodness and tru•h, •orgiving iniquity, transgression▪ and sin, the rewarder of them that diligently seek him, and withall, •ost just and terrible in his judgments; hating all sin, and who will by 〈◊〉 means clear the guilty.
+
+[2.2] II. God hath all life, glory, goodness, blessedness, in, and of himself, and is alone in and unto himself al-sufficient, not ••anding in need of any creatures which he hath made, nor deriving any glory from them, but only ma•ifesting his own glory, in, by, unto, and upon them: He is the alone fountain of all being, of whom, through whom, and to whom are all thing•
+, and hath most Soveraign dominion over them, to do by them, for them, or upon them, whatsoever himself pleaseth. In his sight all things
+are open and manifest, his knowledge is infinite, infallible, and independant upon the Creature, so as nothing is to him contingent or uncertain. He is most holy in all his counsels, in all his works, and in all his commands. To him is due from Angels and men, and every other creature, whatsoever worship, service, or obedience he is pleased to require of them.
+
+[2.3] III. In the Unity of the God-head, there be three persons, of one substance, power and eternity▪ God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten, nor proceeding: The Son is eternally begotten of the Father: the Holy Ghost eternally proceeding from the Father and the Son.
+
+## CHAP. III. Of Gods Eternal Decree.
+
+[1.3.1] GOD from all eternity did, by the most wise and holy Counsel of his own will, freely, and unchangeably o•dain whatsoever comes to pass; yet so, as thereby, neither is God the Author of sin, nor is violence offered to the will of the
+Creatures, nor is the liberty or contingency of second Causes taken away, but rather established.
+
+[1.3.2] II. Although God knows whatsoever may, or can come to pass upon all supposed conditions, yet hath he not decreed any thing, because he fore-saw it as future, or as that which would come to pass upon such conditions.
+
+[1.3.3] By the decree of God, for the manifestation of his glory, some men and Angels, are predestinated unto everlasting life, and others fore-ordained to everlasting death.
+
+[1.3.4] IV. These Angels and men, thus predestinated and fore-ordained, are particularly, and unchangeably designed, and their number is so certain and definite, that it cannot be either increased or diminished.
+
+[1.3.5] V. Those of mankind, that are predestinated unto Life, God, before the foundation of the world was laid, according to his eternal & immutable purpose, & the secret counsel and good pleasure of his Will, hath chosen in Christ unto everlasting glory, out of his meer free grace, & love without any foresight of Faith, or good works, or perseverance
+in either of them, or any other thing in the creature as conditions or causes moving him thereunto, and all to the Praise of his glorious grace.
+
+[1.3.6] VI. As God hath appointed the Elect unto Glory, so hath he by the eternal and most free purpose of his Will, fore ordained all the means thereunto. Wherefore they who are Elected being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ, by his Spirit working in due season, are justified, adopted, sanctified, and kept by his power through faith unto salvation. Neither any other redeemed by Christ, effectually called, justified, adopted, sanctified and saved, but the Elect onely.
+
+[1.3.7] VII. The rest of mankind God was pleased, according to the unsearchable counsel of his own Wi•l, whereby he extendeth, or withholdeth mercy as he pleaseth, for the glory of his soveraign power over his creatures, to pass by, and to ordain them to dishonor and wrath, for their sin, to the praise of his glorious justice.
+
+[1.3.8] VIII. The Doctrine of this high Mystery of Predestination is to be
+handled with special prudence and care, that men attending the will of God revealed in his Word, and yielding obed•ence thereunto, may from the certainty of their effectual Vocation, be assured of their eternal Election. So shall this Doctrine afford matter of praise, reverence and admiration of God, and of humility, diligence and abundant consolation to all that sincerely obey the Gospel.
+
+## CHAP. IV. Of Creation.
+
+[1.4.1] IT pleased God the Father, Son and Holy Ghost, for the manifestation of the glory of his eternal Power, Wisdom and Goodness, in the beginning to create, or make of nothing the World, and all things therein, whether visible or invisible, in the space of six days and all very good.
+
+[1.4.2] II. After God had made all other creatures, he created Man, male and female, with reasonable and immortal souls, indued with knowledge, righteousness and tr•e holyness; after his own Image, having the Law of God written in their
+hearts, and power to fulfil it, and yet under a possibility of transgressing, being le•t to the liberty of their own will, which was subject unto change. Beside this Law written in their hearts, they received a command, not to eat of the tree of the knowledge of good and evil, which whiles they kept, they were happy in their Communion with God, and had Dominion over the creatures.
+
+## CHHP. V. Of Providence.
+
+[1.5.1] GOD the great Creator of all things, doth uphold, direct, dispose, and govern all creatures, acttions, and things, from the greatest even to the least, by his most wise and holy Providence, according to his infallible fore-knowledge, and the free and immutable counsel of his own Will, to the praise of the glory of his Wisdom, Power, Justice, Goodness, and Mercy.
+
+[1.5.2] II. Although in Relation to the fore-knowledge and decree of God, the first cause, all things come to pass immutably, and infallibly, yet, by the same Providence he ordereth them to fall out according to
+the nature of second causes, either necessarily, freely or contingently.
+
+[1.5.3] III. God in his ordinary Providence maketh use of means: yet is free to work without, above, and against them at his pleasure. IV. The Almighty power, unsearchable wisdom; and infinite goodness of God so far manifest themselve• in his Providence, that it extendeth it self even to the first fall, and all other sins of Angels and men, and that not by a bare permission, but such as hath joyned with it a most wise and powerful bounding, and otherwise ordering and governing of them, in a manifold dispensation, to his own holy ends: yet so, as the sinfulness thereof proceedeth onely from the creature, and not from God who being most holy and righteous, neither is, nor can be the Author or Approver of sin.
+
+[1.5.4] V. The most wise, righteous and gracious God doth often times leave for a season his own children to manifold temptations, and the corruption of their own hearts to chastise them for their former sins, or to discover unto them the hidden strength of corruption, and deceitfulness of
+their hearts, that they may be humbled, and to raise them to a more close and constant dependance for their support upon himself, and to make them more watchfull against all future occasions of sin, and for sundry other just and holy ends.
+
+[1.5.5] VI. As for those wicked and ungodly men, whom God as a righteous Judg for former sins doth blind and harden, from them he not only witholdeth his grace, whereby they might have been enlightned in their understandings, and wrought upon in their hearts, but sometimes also withdraweth the gifts which they had, & exposeth them to such objects as their corruption makes occasion of sin; and withal, gives them over to their own lusts, the temptations of the World, and the power of Satan, whereby it comes to pass that they harden themselves even under those means which God useth for the softning of others.
+
+[1.5.6] VII. As the providence of God doth in general reach to all creatures; so after a special manner it taketh care of his Church, and disposeth all things to the good thereof.
+
+## CHAP. VI. Of the fall of Man, of Sin, and of the punishment thereof.
+
+[1.6.1] OUr first parents being seduced by the subtilty and temptation of Satan, sinned in eating the forbidden fruit. This their sin, God was pleased according to his wise and holy counsel, to permit, having purpos'd to order it to's own glory
+
+[1.6.2] II. By this sin they fell from their original righteousness and communion with God, and so became dead in sin, and wholly defiled in all the faculties & parts of soul and body.
+
+[1.6.3] III. They being the root of all mankind, the guilt of this sin was imputed, and the same death in sin and corrupted nature, conveyed to all their posterity descending from them by ordinary generation.
+
+[1.6.4] IV. From this original corruption, whereby we are utterly indisposed, disabled, and made opposite to all good, and wholly inclined to all evil, do proceed all actual transgressions.
+
+[1.6.5] V. This corruption of nature during this life, doth remain in those that are regenerated, and although
+it be, Through Christ, pardoned & mortified, yet both it self, and all the motions thereof are truly and properly sin.
+
+[1.6.6] VI. Every s•n, both original and Actual, being a transgression of the righteous Law of God, and contrary thereunto, doth in its own nature, bring guilt upon the sinner, whereby he is bound over to the wrath of God, and curse of the Law, and so made subject to death, with all miseries spiritual, temporal, and eternal.
+
+## CHAP. VII. Of Gods Covenant with man.
+
+[1.7.1] THe distance between God and the creature is so great, that although reasonable creatures do owe obedience unto him as their creator yet they could never have any fruition of him as their blessedness and reward, but by some voluntary condescension on Gods part, which he hath been pleased to express by way of Covenant.
+
+[1.7.2] II. The first Covenant made with Man, was a covenant of Works, wherein life was promised to Adam, and in him to his posterity, upon
+condition of perfect and personal obedience.
+
+[1.7.3] III. Man by his fall, having made himself incapable of life by that covenant, the Lord was pleas'd to make a Second, commonly called the Covenant of Grace: Wherein he freely offereth unto sinners, Life, & Salvation by Jesus Christ, requiring of them faith in him that they may be saved, and promising to give unto all those that are ordained unto Life, his holy Spirit, to make them willing and able to believe.
+
+[1.7.4] IV. This Covenant of Grace is frequently set forth in the Scripture by the Name of a Testament, in reference to the death of Jesus Christ the Testator, and to the everlasting Inheritance, with all things belonging to it, therein bequeathed.
+
+[1.7.5] V. This Covenant was differently administred in the time of the Law, and in the time of the Gospel. Under the Law, it was administred by Promises, Prophecies, Sacrifices, Circumcision, the Paschal Lamb, and other Types and Ordinances delivered to the people of the Jews, all fore-signifying Christ to come
+▪ which were for that time
+sufficient and efficacious, through the operation of the spirit to instruct and build up the Elect in Faith in the promised Messiah, by whom they had full remission of sins, and eternal Salvation; and is called, the Old Testament.
+
+[1.7.6] VI. Under the Gospel, when Christ the substance, was exhibited, the Ordinances in which this Covenant is dispensed, are the preaching of the Word, & the administration of the Sacrament of Baptisme, and the Lords Supper. Which though fewer in number, and administred with more simplicity, and less outward glory, yet, in them it is held forth in more fulness, evidence and spiritual efficacy, to all Nations both Jews and Gentiles; and is called the New Testament. There are not therefore two Covenants of Grace, differing in substance, but one & the same, under various dispensations.
+
+## CHAP. VIII. Of Christ the Mediator.
+
+[1.8.1] IT pleased God, in his eternal purpose to chuse and ordain the Lord Jesus, his only begotten Son, to be the Mediator between God
+and Man, the Prophet, Priest, and King, the Head, and Saviour of his Church, the heir of all things, and Judge of the World: Unto whom he did from all eternity give a people to be his seed, and to be by him in time Redeemed, Called, Justified, Sanctified and Glorified.
+
+[1.8.2] II. The Son of God, the second Person in the Trinity, being very and eternal God, of one substance, and equal with the Father; did, when the fulness of time was come, take upon him mans nature, with all the essential properties, and common infirmities thereof, yet without sin: being conceived by the power of the Holy Ghost, in the womb of the Virgin Mary, of her substance. So that two whole Perfect and distinct Natures, the God-head and the Man-hood, were inseparably joyned together in one person, without Conversion, Composition or Confusion. Which person is very God, and very Man, yet one Christ the only Mediator between God and man.
+
+[1.8.3] III. The Lord Jesus, in his humane nature, thus united to the divine, was sanctified and anointed
+with the holy spirit above measure, having in him all the treasures of wisdom and knowledge: in whom, it pleased the Father, that all fulness should dwell, to the end, that being holy, harmless, undefiled and full of grace and truth, he might be thorowly furnished to execute the Office of a Mediator, and Surety: which Office he took not unto himself, but was thereunto called •y his Father, who put all power & judgment into his hand, & gave him commandment to execute the same.
+
+[1.8.4] IV. This Office the Lord Jesus did most willingly undertake, which that he might discharge, he was made under the Law, and did perfectly fulfill it, endured most grievous torments immediately in his soul, and most painful sufferings in his body; was crucified and died: was buried, and remained under the power of death; yet saw no ••••uption. On the third day h• arose from the dead, with the same ••dy in which h•
+〈◊〉, with which also he ascend•• i•to heaven, and th•re sitteth at the •ight hand of his Father g, making 〈◊〉
+h, and shall return to judge m•n, and
+Angels at the end of the World.
+
+[1.8.5] V. The Lord Jesus, by his perfect obedience, and sacrifice of himself, which he, through the eternal spirit once offered up to God, hath fully satisfied the Justice of his Father, and purchased, not only reconciliation, but an everlasting inheritance in the Kingdom of Heaven, for all those whom the Father hath given unto him.
+
+[1.8.6] VI. Although the work of Redemption was not actually wrought by Christ till after his Incarnation, yet the vertue, efficacy, and benefits thereof were communicated unto the elect in all ages successively from the beginning of the World, in, and by those promises, types, and sacrifices, wherein he was revealed, and signified to be the seed of the Woman, which should bruise the Serpents head; and the Lamb slain from the beginning of the World; being yesterday and to day the same, and for ever.
+
+[1.8.7] VII. Christ, in the work of Mediation, acteth according to both Natures, by each Nature doing that which is proper to it self, yet by reason of the unity of the Person,
+that which is proper to one nature▪ is some times in Scripture attributed to the Person denominated by the other Nature.
+
+[1.8.8] VIII. To all those for whom Christ hath purchased▪ redemption, he doth certainly, and effectually apply and communicate the same, making intercession for them, and revealing unto them, in and by the word, the Mysteries of Salvation, effectually perswading them by his spirit to believe, and obey, and governing their hearts by his word and spirit, overcoming all their enemies by his Almighty Power and Wisdom in such manner, and wayes, as are most consonant to his wonderful and unsearchable dispensation.
+
+## CHAP. IX. Of Free Will.
+
+[1.9.1] GOD hath indued the Will of Man with that natural liberty that is neither forced, nor by any absolute necessity of Nature determined to do good or evil.
+
+[1.9.2] II. Man, in his state of innocency, had freedom and power, to will, and to do, that which was good, & well-pleasing to God; but yet, mutably,
+so that he might fall from it.
+
+[1.9.3] III. Man by his fall into a state of sin, hath wholly lost all ability of Will to any spiritual good accompanying salvation; so as, a natural man, being altogether averse from that good, and dead in sin, is not able, by his own strength, to convert himself, or to prepare himself thereunto.
+
+[1.9.4] IV. When God converts a sinner, and translates him into the state of grace; he freeth him from his natural bondage under sin; and by his grace, inables him freely to will and to do that which is spiritually good yet so, as by reason of his remaining corruption, he doth not perfectly nor only will that which is good, but doth also will that which is evil.
+
+[1.9.5] V. The will of man is made per
+•ectly and immutably free to good alone in the state of Glory only.
+
+## CHAP. X. Of effectual calling.
+
+[1.10.1] ALL those whom God hath predestinated unto life, and those only he is pleased in his appointed & accepted time, effectually to call, by his word and Spirit, out of that
+state of sin and death, in which they are by nature, to grace and salvation by Jesus Christ, in lightning their minds spiritually and savingly to understand the things of God; taking away their heart of stone, and giving unto them an heart of flesh; renewing their wills, and by his Almighty power determining them to that which is good, & effectually drawing them to Jesus Christ; yet so, as they come most freely, being made willing by his grace.
+
+[1.10.2] II. This effectual Call is of Gods free, and special grace alone, not from any thing at all foreseen in man, who is altogether passive therein, until being quickened & renewed by the holy Spirit, he is thereby inabled to answer this Call, and to imbrace the grace offered, and conveyed in it.
+
+[1.10.3] III. Elect infants dying in Infancy are regenerated, and saved by Christ through the Spirit, who worketh when where and how he pleaseth: So also are all other elect Persons, who are uncapable of being outwardly called by the Word.
+
+[1.10.4] IV. Others, not elected, though they may be called by the Ministry
+of the Word, and may have some common operations of the Spirit, yet they never truely come unto Christ, and therefore cannot be saved: much less can men, not professing the Christian Religion, be saved in any other way whatsoever, be they never so diligent to frame their lives according to the light of Nature, and the Law of that Religion they do profess. And, to assert and maintain, that they may, is very pernicious, and to be detested.
+
+## CHAP. XI. Of Iustification,
+
+[1.11.1] THose whom GOD effectually calleth he also freely justifieth not by infusing righteousness into them, but by pardoning their sins, & by accounting and accepting their persons as righteous: not, for any thing wrought in them, or done by them, but for Christs sake alone: nor, by imputing faith itself, the act of believing, nor any other evangelical obedience, to them as their righteousness; but, by imputing the obedience and satisfaction of Christ unto them, they receiving and resting on him and his righteousness by
+faith, which faith they have, not of themselves, it is the gift of God.
+
+[1.11.2] II Faith, thus receiving and resting on Christ and his righteousness, is the alone instrument of justification; yet is it not alone in the person justified, but is ever accompanied with all other saving graces, & is no dead faith but worketh by love.
+
+[1.11.3] III. Christ by his obedience and death, did fully discharge the debt of all those that are thus justified, and did make a proper, real, and full satisfaction to his Fathers Justice in their behalf. Yet in as much as he was given by the Father for them, and his obedience and satisfaction accepted in their stead hand, both freely, not for any thing in them, their justification is only of free grace, that, both the exact justice, & rich grace of God, might be glorified in the justification of sinners.
+
+[1.11.4] IV. God did from all eternity, decree to justifie all the elect, and Christ did, in the fulness of time, die f•r their sins, and rise again for their justification: nevertheless they are not justified, untill the holy spirit doth in due time, actually apply Christ unto them.
+
+[1.11.5] V. God doth continue to forgive the sins of those that are justified: and, although they can never fall from the state of justification; yet, they may by their sins, fall under Gods fatherly displeasure, and not have the light of his countenance restored unto them, until they humble themselves, confess their sins, beg pardon, and renew their Faith and Repentance.
+
+[1.11.6] VI. The justification of Believers under the Old Testament, was, in all these respects, one and the same, with the justification of Believers under the New Testament.
+
+## CHAP. XII. Of Adoption.
+
+[1.12.1] ALl those that are justified, God vouchsafeth, in, and for his only Son Jesus Christ, to make partakers of the grace of Adoption: by which they are taken into the number, and enjoy the liberties and priviledges of the children of God, have his Name put upon them c, receive the spirit of Adoption, have access to the throne of grace with boldness, are inabled to cry Abba, Father, are pitied, protected, provided
+for, and chastned by him, as by a Father: yet never cast off, but sealed to the day of redemption, and inherit the promises, as heirs of everlasting Salvation.
+
+## CHAP. XIII. Of Sanctification.
+
+[1.13.1] THey who are effectually called, and regenerated, having a new heart, & a new spirit created in them are further sanctified really & personally, through the vertue of Christs death & resurrection, by his word and spirit dwelling in them: the dominion of the whole body of sin is destroyed, and the several lusts thereof are more & more weakned and mortified, and they, more and more quickned and strengthned in all saving graces, to the practice of true holiness, without which no man shall see the Lord.
+
+[1.13.2] II. This sanctification is throughout, in the whole man: yet imperfect in this life, there abideth still some remnants of corruption in every part: whence ariseth a continual and irreconcilable war; the flesh lusting against the spirit, and the spirit against the flesh.
+
+[1.13.3] III. In which war, although the remaining corruption, for a time, may much prevail: yet through the continual supply of strength from the sanctifying Spirit of Christ, the regenerate part doth overcome: & so the Saints grow in grace, perfecting holiness in the fear of God.
+
+## CHAP. XIV. Of saving Faith.
+
+[1.14.1] THe grace of Faith, whereby the Elect are inabled to believe to the saving of their Souls, is the work of the Spirit of Christ in their hearts, & is ordinarily wrought by the Ministry of the Word, by which also, and by the administration of the Sacraments, and Prayer, it is increased and strengthned.
+
+[1.14.2] II. By this Faith, a Christian believeth to be true, whatsoever is revealed in the word, for the authority of God himself speaking therein
+▪ and acteth differently upon that which each particular passage thereof containeth, yielding obedience to the Commands; trembling at the threatnings, and imbracing the promises of God for this life, and that which is to come. But the principal
+acts of saving faith, are Accepting, Receiving, and resting upon Christ alone for Justification, Sanctification, and Eternal life; by vertue of the Covenant of grace.
+
+[1.14.3] III. This faith is different in degrees, weak, or strong: may be often and many waies assailed, and weakned, but gets the victory: growing up in many to the attainment of a full assurance through Christ, who is both the Author and finisher of our Faith.
+
+## CHAP. XV. Of Repentance unto life.
+
+[1.15.1] REpentance unto life, is an Evangelical grace, the doctrine whereof is to be Preached by every Minister of the Gospel, as well as that of Faith in Christ.
+
+[1.15.2] II. By it, a sinner, out of the sight and sense not only of the danger, but also of the filthiness and odiousness of his sins, as contrary to the holy nature, and righteous Law of God: and, upon the apprehension of his mercy in Christ to such as are penitent, so grieves for, & hates his sin•, as to turn from them all unto God, purposing & endeavoring to walk
+with him in all the waies of his Commandments.
+
+[1.15.3] III. Although Repentance be not to be rested in, as any satisfaction for sin, or any cause of the pardon thereof, which is the act of Gods free grace in Christ, yet is it of such necessity to all sinners, that none may expect pardon without it.
+
+[1.15.4] IV. As there is no sin so small but it deserves damnation; so there is no sin so great, that it can bring damnation on those who truly repent.
+
+[1.15.5] V. Men ought not to content themselves with a general repentance, but it is every mans duty to endeavour to repent of his particular sins, particularly.
+
+[1.15.6] VI. As every man is bound to make private confession of his sins to God, praying for the pardon thereof upon which, and the forsaking of them, he shall find mercy: so he that scandalizeth his brother, or the Church of Christ, ought to be willing by a private or publick confess•
+on▪ and sorrow for his sin to declare his repentance to th•se that are offended, who are thereupon to be recon•••ed to him, and in love to receive him..
+
+## CHAP. XVI. Of good Woorks.
+
+[1.16.1] GOod Works are onely such as God hath commanded in his holy Word, and not such as without the warrant thereof, are devised by men, out of blind zeal, or upon any pretence of good intention.
+
+[1.16.2] II. These good works done in obedience to Gods Commandments, are the fruits and evidences of a true and lively faith: and by them, Believers manifest their thankfulness: strengthen their assurance, edifie their Brethren, adorn the profession of the Gospel, stop the mouths of the adversaries, and glorifie God, whose workmanship they are, created in Christ Jesus thereunto: that having their fruit unto holiness, they may have the end, eternal life.
+
+[1.16.3] III. Their ability to do good works is not at all of themselves, but wholly from the Spirit of Christ. And that they may be inabled thereunto, besides the graces they have already received, there is required an actual influence of the same holy Spirit, to work in them to will and to do, of his good pleasure: yet are
+they not hereupon to grow negligent, as if they were not bound to perform any duty, unless upon a special motion of the Spirit; but they ought to be diligent in stirring up the grace of God that is in them.
+
+[1.16.4] IV. They who in their obedience attain to the greatest hight, which is possible in this life, are so far from being able to supererogate, and to do more than God requires, as that they fall short of much which in duty they are bound to do.
+
+[1.16.5] V. We cannot by our best works merit pardon of sin, or eternal life at the hand of God, by reason of the great disproportion that is between them and the glory to come; & the infinite distance that is between us & God, whom, by them, we can neither profit, not satisfie for the debt of our former sins, but when we have done all we can, we have done but our duty, and are unprofitable servants, and because, as they are good they proceed from his spirit: and as they are wrought by us, they are defiled, and mixed with so much weakness & imperfection, that they cannot endure the severity of Gods judgment.
+
+[1.16.6] VI. Yet notwithstanding the Persons of believers being accepted through Christ, their good works also are accepted in him, not as though they were in this life wholly unblamable and unreprovable in Gods sight, but that, he looking upon them in his Son, is pleased to accept and reward that which is sincere, though accompanied with many weaknesses and imperfections.
+
+[1.16.7] VII. Works done by unregenerate men, although, for the mater of them they may be things which God commands, and of good use, both to themselves and others, yet because they proceed not from an heart purified by faith, nor are done in a right manner, according to the word, nor to a right end, the glory of God, they are therefore sinful, and cannot please God, or make a man meet to receive grace from God. And yet their neglect of them is more sinful and displeasing unto God.
+
+## CHAP. XVII. Of Perseverance.
+
+[1.17.1] THey whom God hath accepted in his •eloved, effectually called, a•d sanctified by hi• Spirit, can
+neither to•ally nor finally; fall away from the state of grace: but shall certainly persevere •herein to the end, and be eternally saved.
+
+[1.17.2] II. This perseverance of the Saints depends not upon their own free will, but upon the immutability of the decree of election, flowing from the free & unch•ngeable love of God the Father, upon the e•ficacy of the merit and in•ercession of Jesus Chri••
+▪ the abiding of the spirit, & of the seed of God within them, and the nature of the Covenant of Grace: from all which ariseth also the certainty & infalli•ility thereof.
+
+[1.17.3] III. Nevertheless, they may through the temptations of •atan & of the world, the prevalency of corruption remaining in them; and the neglect of the means of their preservation, fall into grievous sins, and for a time continue therein, whereby they incur Gods displeasure, and grieve his holy spirit, come to be d•prived of some measure of their graces and comforts, have their hearts hardened, and their consciences wounded, hurt, and scandalize others, and bring temporal judgments upon themselves.
+
+## CHAP. XVIII. Of the assurance of Grace and Salvation.
+
+[1.18.1] ALthough hypocrites and other unregenerate men may vainly deceive themselves with false hopes and carnal presumptions of being in the favour of God, and estate of Salvation, which hope of theirs shall perish: yet such as truly believe in the Lord Jesus, and love him in sincerity, endeavouring to walk in all good conscience before him, may in this life be certainly assured that they are in the state of grace, and may rejoyce in the hope of the glory of god which hope shall never make them ashamed.
+
+[1.18.2] II. This certainty is not a bare conjectural and probable perswasion, grounded upon a fallible hope, but an infallible assurance of faith, founded upon the divine truth of the promises of salvation, the inward evidence of those graces unto which these promises are made, the testimony of the spirit o• adoption witnessing with ou• spirits that we are the children of God: which spirit is the earnest of inheritance, whereby we are sealed to the day of redemption.
+
+[1.18.3] III. This infallible assurance doth not so belong to the essence of faith but that a true believer may wait long and conflict with many difficulties before he be partaker of it: yea, being enabled by the spirit to know the things which are freely given him of God, he may, without extraordinary revelation, in the right use of ordinary means, attain thereunto. And therefore it is the duty of every one to give all diligence to make his calling and election sure, that thereby his heart may be enlarged in peace & joy in the holy Ghost, in love & thankfulness to God, & in strength and chearfulness in the duties of obedience, the proper fruits of this assurance; so far is it from inclining men to looseness.
+
+[1.18.4] IV. True believers may have the assurance of their Salvation divers ways shaken, diminished, and intermitted, as by negligence in preserving of it, by falling into some special sin, which woundeth the conscience, & grieveth the spirit, by some sudden or vehement temptation, by Gods withdrawing the light of his countenance, & suffering even such as fear him to walk in darkness, and to have
+no light: yet are they never utterly destitute of that seed of God, & life of faith, that love of Christ and the brethren, that sincerity of heart, and conscience of duty, out of which by the operation of the spiri•, this assurance may in due time be revived, and by the which in the mean time their supported from utter despair
+
+## CHAP. XIX. Of the Law of God.
+
+[1.19.1] GOD gave to Adam a Law, as a Covenant of Works, by which he bound him, & all his posterity to personal, entire, exact and perpetual obedience, promised life upon the fulfilling, and threatned death upon the breach of it: and indued him with power and ability to keep it.
+
+[1.19.2] II. This Law, after his fall continued to be a perfect rule of righteousness, & as such, was delivered by God upon Mount Sinai, in ten Commandments, and written in two Tables, the four first Commandments containing our duty towards God, and the other six, our duty to man.
+
+[1.19.3] III. Beside this Law commonly called Moral, God was pleased to give to the people of Is•ael, as a Church under age, Ceremonial Laws, containing several typical Ordi•ances, partly of worship, prefiguring Christ his graces, actions, suffering•, and benefits, and partly hold•ng forth divers instructions of Moral duties. All which Ceremonial Laws are now abrogated under the new Testament.
+
+[1.19.4] IV. To them also, as a body Politic, he gave sundry Judicial Laws, which expired together with the state of that people, not obligeing any other now, further than the general equity thereof may require.
+
+[1.19.5] V. The Moral Law doth for ever bind all, as well justified persons as others, to the obedience thereof, and that, not only in regard of the •atter contained in it, but also in respect of the Authority of God the Creator who gave it. Neither doth Christ in the Gospel any way dissolve but much strengthen this obligation.
+
+[1.19.6] VI. Although true believer▪ be not under the Law, as a Covenant of works, to be thereby justified, or
+condemned, yet it is of great use to them, as well as to others, in that, as a rule of life informing the of the will of God, and their duty, it directs and binds them to walk accordingly, discovering also the sinful pollutions of their nature, hearts and lives: so as examining themselves thereby, they may come to further conviction of, hum•liation for, and hatred against sin: together with a clearer sight of the need they have of Christ, and the perfection of his obedience. It is likewise of use to the regenerate, to restrain their corruptions: in that it forbids sin: and the threatnings of it serve to shew, what even their sins deserve: and what afflictions in this life, they may expect for them, although freed from the curse thereof threatned in the Law. The promises of it in like manner, shew them Gods approbation of obedience, & what blessings they may expect upon the performance there of: although not as due to them by the Law, as a Covenant of Works. So as a mans doing good, and refraining from evil, because the Law encourageth to the one, & deterreth from the other,
+is no evidence of his being under the Law, and not under grace.
+
+[1.19.7] VII. Neither are the fore mentioned uses of the Law contrary to the grace of the Gospel, but do sweetly comply with it, the spirit of Christ subduing, and inabling the will of man, to do that freely and chearfully, which the will of God revealed in the Law, requireth to be done,
+
+## CHAP. XX. Of Christian Liberty, and Liberty of Conscience.
+
+[1.20.1] THe Liberty which Christ hath purchased for Believers, under the gospel, consists in their freedom from the guilt of sin, the condemning wrath of God, the curse of the Moral Law, and in their being delivered from this present evil world, bondage to Satan, and dominion of sin; from the evil of afflictions, the sting of death, the Victory of the grave, and everlasting damnation, as also, in their free access to God, and their yielding obedience unto him, not out of slavish fear, but a Child like love and willing mind. All which were common also to Believers under the Law. But under
+the new Testament, the liberty of Christians is further inlarged, in their freedom from the yoke of the Ceremonial Law, to which the Jewish Church was subject g, and in greater boldness of access to the Throne of Grace h, and in fuller communications of the free Spirit of God, than believers under the Law, did ordinarily partake of.
+
+[1.20.2] II. God alone is Lord of the conscience: and hath left it free from the doctrines and commandments of men which are in any thing contrary to his word, or beside it, in matters of Faith or Worship. So that to believe such Doctrines, or to obey such commands out of conscience, is to betray true liberty of conscience, & the requiring of an implicite. Faith, and an absolute and blind obedience, is, to destroy liberty of conscience, and reason also.
+
+[1.20.3] III. They, who upon pretence of Christian Liberty, do practice any sin, or cherish any Lust, do thereby destroy the end of Christian liberty, which is, that being delivered out of the hands of our Enemies, we might serve the Lord without fear, in holiness and righteousness before
+him all the daies of our life.
+
+[1.20.4] IV. And because the power which God hath ordained, and the liberty which Christ hath purchased, are not intended by God, to destroy, but mutually to uphold & preserve one another: They, who upon pretence of Christian liberty shall oppose any lawful power, or the lawful exercise of it, whether it be Civil or Ecclesiastical, resist the ordinance of God. And, for their publishing of such practices, as are contrary to the light of nature, or to the known principles of Christianity, whether concerning Faith, Worship, or Conversation: or, to the power of Godliness: or such erroneous Opinions or Practices, as either in their own nature, or in the manner of publishing or maintaining them, are destructive to the external peace and order which Christ hath established in the Church, they may lawfully be called to account, and proceeded against by the Censures of the Church, and by the power of civil Magistrate.
+
+## CHAP. XXI. Of Religious Worship, and the Sabbath day.
+
+[1.21.1] THe light of Nature sheweth that there is a God, who hath Lordship & sovereignty over all, is good▪ & doth good unto all, & is therefore to be feared, loved, praised, called upon, trusted in and served with all the heart, and with all the soul, and with all the might. But, the acceptable way of worshiping the true God, is instituted by himself, and so limited to his own revealed Will▪ that he may not be worshipped according to the imaginations & devices of men, or the suggestions of Satan, under any visible representations, or any other way not prescribed in the holy Scripture.
+
+[1.21.2] II. Religious Worship is to be given to God, the Father, Son and holy Ghost; and to him alone; not to Angels, Saints, or any other Creature, and since the Fall, not without a Mediator; nor in the mediation of any other, but of Christ alone.
+
+[1.21.3] III. Prayer with Thanks-giving being one special part of Religious
+Worship, is by God required of all men: and that it may be accepted it is to be made in the name of the Son, by the help of his Spirit, according to his will: with understanding, reverence, humility, fervency, faith, love, and perseverance and if vocal, in a known tongue.
+
+[1.21.4] IV. Prayer is to be made for all things lawful, and for all sorts of men living, or that shall live hereafter o: but not for the dead, nor for those of whom it it may be known that they have sinned the sin unto death.
+
+[1.21.5] V. The reading of the Scriptures with Godly fear, the sound Preaching, and conscionable hearing of the Word; in obedience unto God, with understanding, faith, and reverence: singing of Psalms with grace in the heart: as also the due administration, and worthy receiving of the Sacraments instituted by Christ; are all parts of the ordinary Religious Worship of God; besides religious Oaths, Vows, Sollemn Fasting, and Thanksgivings upon several occasions, which are
+in their several times and seasons, to be used in an holy and religious manner.
+
+[1.21.6] VI. Neither Prayer nor any other part of Religious Worship, is now under the Gospel, either tyed unto, or made more acceptable by any place in which it is performed or towards which it is directed: but GOD is to be worshipped every where, in Spirit and truth: as in private Families, daily, and in secret, each one to himself; so more solemnly in the publick Assemblies, which are not carelesly or wilfully to be neglected, or forsaken when God, by his word or providence calleth thereunto.
+
+[1.21.7] VII. As it is of the Law of Nature, that, in general, a due proportion of time be set apart, for the Worship of God: so in his word, by a positive, moral, and perpetual Commandment, binding all men, in all Ages, he hath particularly appointed one day in seven for a Sabbath to be kept holy unto him: which from the beginning of the World to the resurrection of Christ, was the last day of the week; and from the resurrection of Christ, was
+changed▪ into the first day of the Week, which in Scripture is called the Lords Day, and is to be continued to the end of the World, as the Christian Sabbath.
+
+[1.21.8] VIII. This Sabbath is then kept holy unto the Lord, when men, after a due preparing of their hearts and ordering of their common affairs beforehand, do not only observe an holy rest all the day, from their own works, words & thoughts about their worldly imployments▪ and recreations, but also are taken up the whole time in the publick and private exercises of his Worship, and in the duties of necessity and mercy.
+
+## CHAP. XXII. Of Lawful Oaths and Vows.
+
+[1.22.1] A Lawful Oath is a part of religious Worship, wherein, upon just occasion, the person swearing, solemnly calleth God to witness what he asserteth or promiseth; and to judge him according to the truth or falshood of what he sweareth.
+
+[1.22.2] II. The Name of God only, is that by which men ought to swear, & therein it is to be used with all holy
+fear and reverence. Therefore to swear vainly, or rashly, by that glorious and dreadful Name; or, to swear at all, by any other thing, is sinful and to be abhorred. Yet, as in matters of weight and moment, an Oath is warranted by the word of God, under the New Testament as well as under the Old; so a lawful Oath, being imposed by lawful Authority, in such matters ought to be taken.
+
+[1.22.3] III. Whosoever taketh an Oath, ought duly to consider the weightiness of so solemn an act, and therein to avouch nothing, but what he is fully perswaded is the Truth, Neither may any man▪ bind himself by Oath to any thing but what is good and just, and what he believeth so to be, and what he is able and resolved to perform. Yet it is a sin, to refuse an Oath touching any thing that is good and just, being imposed by lawful Authority.
+
+[1.22.4] IV. An Oath is to be taken in the plain and common sense of the words without equivocation, or mental reservation: It cannot oblige to sin; but, in any thing not sinful, being taken, it binds to performance,
+although to a mans own hart. Nor is it to be vio•ated, although made to Hereticks o• Infidels.
+
+[1.22.5] V. A Vow is of the like nature with a Promissary O•th, and ought to be made with the like Religious care, and to be performed with the like faithfulness.
+
+[1.22.6] VI. It is not to be made to any Creature but to God a•one, and that it may be accepted, it is to be made voluntarily, out of Faith, and conscience of Duty, in way of thankfulness▪ for mercy received, or of the obtaining of what we want: whereby we more strictly bind our selves to necessary duties: or, to other things, so far, and so long as they may fitly conduce thereunto.
+
+[1.22.7] VII. No man may Vow, to do any thing forbidden in the word of God, or what would hinder any duty therein commanded, or which is not in his own power, and for the performance whereof, he hath no promise of ability from God. In which respect, Popish Monastical Vows of perpetual single life, professed Poverty, and Regular Obedience, are so far from being degrees
+of higher Perfection, that they are superstitious and sinful snares, in which, no Christian may intangle himself.
+
+## CHAP. XXIII. Of the Civil Magistrate.
+
+[1.23.1] GOD, the Supream Lord and King of all the world, hath ordained Civil Magistrates to be under him, over the people for his own Glory, and the publick good: and to this end, hath armed them with the power of the sword, for the defence and encouragement of them that are good, and for the punishment of evil doers.
+
+[1.23.2] II. It is Lawful for Christians to accept and execute the Office of a Magistrate, when called thereunto: in the managing whereof, as they ought especially to maintain Piety, Justice, and Peace, according to the wholsome Laws of each Commonwealth: so for that end, they may lawfully now under the New Testament, wage War, upon just and necessary occasion.
+
+[1.23.3] III. The Civil Magistrate may not assume to himself the administration of the Word & Sacraments,
+or the power of the Keys of the Kingdom of Heaven: yet he hath Authority, and it is his duty, to take order that Unity and peace be preserved in the Church, that the truth of God be kept pure and entire, that all blasphemies and heresies be suppressed, all corruptions and abuses in worship & discipline prevented, or reformed: and all the Ordinances of God duly settled, administred and observed: For the better effecting whereof, he hath power to call Synods, to be present at them, and to provide that whatsoever is transacted in them, be according to the mind of God.
+
+[1.23.4] IV. It is the duty of people to pray for Magistrates, to honour their persons, to pay them tribute & other dues: to obey their lawful Commands, and to be subject to their Authority for conscience sake Infidelity or indifference in Religion doth not make void the Magistrates just and legal Authority, nor free the people from their due obedience to him: From which Ecclesiastical persons are not exempted, much less hath the Pope any power or jurisdiction over them, in their
+Dominions, or over any of their people; and least of all to deprive them of their Dominions, or lives, if he shall judge them to be Hereticks or upon any other pretence whatsoever.
+
+## CHAP. XXIV. Of Marriage and Divorce.
+
+[1.24.1] MArriage is to be between one Man and one Woman. neither is it lawful for any Man to have more than one Wife, nor for any Woman to have more than one Husband, at the same time.
+
+[1.24.2] II. Marriage was ordained for the mutual help of Husband and Wife, for the increase of Mankind, with a legitimate issue, and of the Church with an holy seed, and for preventing of uncleanness.
+
+[1.24.3] III. It is lawful for all sorts of people to marry, who are able with judgment to give their consent. Yet, is it the duty of Christians to marry only in the Lord. And therefore such as profess the true reformed Religion, should not marry with Infidels, Papists, or other Idolaters. Neither should such as are godly be unequally yoked, by
+marrying with such as are notoriously wicked in their life, or maintain damnable heresies.
+
+[1.24.4] IV. Marriage ought not to be within the degrees of Consanguinity or Affinity forbidden in the Word. N•r can such incest•o•s Marriages ever be made lawful by any Law of man, or consent of Parties, so as those Per•ons may live together as Man and Wife. The man may not ma•ry any of his wifes kinred nearer in blood, than he may of his own; nor, the Wo•an of her Husbands kindred, nearer in blood than of her own.
+
+[1.24.5] V. Adultery or fornication committed after a Contract, being detected before Mar•iage, giveth iust occasion to the innocent Party to dissolve that contract
+▪ In the case of Adultery after Marriage, it is lawful for the innocent party to sue out a divorce, and af•er the divorce, to marry another, as if the offending party were dead.
+
+[1.24.6] VI. Although the corruptions of man be such as is apt to study Arguments, unduely to put asunder thos• whom God hath j•yned together in marriage: yet ••thing but
+Adultery, or such wilful desertion as can no way be remedied by the Church, or Civil Magistrate, is cause sufficient of dissolving the bond of Marriage: Wherein, a publick and orderly course of proceeding is to be observed: And, the persons concerned in it, not left to their own wills & discretion in their own case.
+
+## CHAP. XXV. Of the Church.
+
+[1.25.1] THE Catholick or Universal Church which is invisible, consists of the whole number of the Elect, that have been, are, or shall be gathered into one, under Christ the Head thereof; and is the Spouse, the Body, the fulness of him that filleth all in all.
+
+[1.25.2] II. The Visible Church which is also Catholick or Universal, unde• the Gospel (not confined to one Nation, as before under the law) consist• of all those, throughout the world▪ that pro•ess the true Religion, together with their Children: an• is the Kingdom of the Lord Jesu• Christ, the House and family o• God, ou• of which there is no ordinary
+possibility of Salvation.
+
+[1.25.3] III. Unto this Catholick visible Church, Christ hath given the Ministry, Oracles, and Ordinances of God, for the gathering, and perfecting of the Saints, in this life to the end of the World: and doth by his own presence and spirit, according to his promise, make them effectual thereunto.
+
+[1.25.4] IV. This Catholick Church hath been sometimes more, sometimes less visible. And particular Churches, which are Members thereof, are more or less pure, according as the Doctrine of the Gospel is taught and imbraced, Ordinances administred, and publick Worship performed more or less purely in them.
+
+[1.25.5] V. The purest Churches under Heaven are subject both to mixture and errour, and some have so degenerated as to become no Churches of Christ, but Synagogues of Satan. Nevertheless, there shall be alwaies a Church on Earth to worship God according to his will.
+
+[1.25.6] VI. There is no other Head of the Church, but the Lord Jesus Christ. Nor can the Pope of Rome,
+in any sence be head thereof: but is that Anti-Christ, that Man of sin, and Son of perdition that exalteth himself in the Church, against Christ and all that is called God.
+
+## CHAP. XXVI. Of the Communion of Saints.
+
+[1.26.1] ALL Saints that are united to Jesus Christ their head, by his Spirit, and by Faith, have fellowship with him in his graces, sufferings, death, resurrection, and glory. And, being united to one another in love, they have communion in each others gifts and graces, and are obliged to the performance of such duties publick and private, as do conduce to their mutual good, both in the inward & outward man.
+
+[1.26.2] II. Saints by profession are bound to maintain an holy fellowship and communion in the worship of God; and in performing such other spiritual servic•s as tend to their mutual edification: as also, in relieving each other in outward things according to their several abilities, and necessities. Which Communion, as God offereth opportunity, is to be extended unto all those, who in
+every place call upon the Name of the Lord Jesus.
+
+[1.26.3] III. This Communion which the Saints have with Christ, doth not make them, in any wise, partakers of the substance of his God-head, or to be equal with Christ in any respect: either of which to affir•, is impious and blasphem•us. Nor doth their Communion one with another as Saints, take away, or infringe the title or propriety which each man hath in his goods and possessions.
+
+## CHAP. XXVII. Of the Sacraments.
+
+[1.27.1] SAcraments are holy Signs, and Seals of the Covenant of grace, immediately instituted by God, to represent Christ, and his benefits; and to confirm our interest in him. as also, to put a visible difference between those that belong unto the Church, and the rest of the world; and solemnly to engage them to the service of God in Christ according to his word.
+
+[1.27.2] II. There is in every Sacrament a Spiritual relation, or Sacramental union, between the sign and the
+thing signified: whence it comes to pass, that the names, and effects of the one, are attributed to the other.
+
+[1.27.3] III. The grace which is exhibited in, or by the Sacraments rightly used, is not conferred by any power in them; neither doth the efficacy of a Sacrament depend upon the piety, or intention of him that doth administer it; but upon the work of the Spirit, and the word of institution, which contains, together with a precept authorizing the use thereof, a promise of benefit to worthy receivers.
+
+[1.27.4] IV. There be only two Sacraments ordained by Christ our Lord, in the Gospel, that is to say, Baptism and the Supper of the Lord, neither of which may be dispensed by any, but by a Minister of the word lawfully ordained.
+
+[1.27.5] V. The Sacraments of the Old Testament, in regard of the spiritual things thereby signified, and exhibited, were, for substance the same with those of the New.
+
+## CHAP. XXVIII. Of Baptisme.
+
+[1.28.1] BAptism is a Sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the party baptized, into the visible Church: but also, to be unto him a sign and seal of the Covenant of Grace, of his ingrafting into Christ, of Regeneration, of Remission of sins, and of his giving up unto God through Jesus Christ, to walk in newness of life, which Sacrament is, by Christs own appointment, to be continued in his Church, untill the end of the World.
+
+[1.28.2] II. The outward Element to be used in the Sacrament, is Water, wherewith the party is to be Baptized, in the name of the Father, and of the Son, and of the Holy-Ghost, by a Minister of the Gospel, lawfully called thereunto.
+
+[1.28.3] III. Dipping of the person into the Water, is not necessary: but, Baptism is rightly administred, by pouring, or sprinkling Water upon the person.
+
+[1.28.4] IV. Not only those that do actually
+p•of•ss Faith in, and obedience unto Christ, but also the infants of one, or both believing parents, are to be baptized.
+
+[1.28.5] V. Although i• be a great sin to contemn or neglect this ordinance, yet •race and Salvation are not so inseparably annexed unto it, as that no person can be regenerated or saved without it, or that all that are baptized, are undoubtedly regenerated.
+
+[1.28.6] VI. The efficacy of Baptism is not •yed to that moment of time, wherein it is administred, yet notwithstanding by the right use of this Ordinance, the grace promised, is not only offered, but really exhibited & confer'd by the Holy Ghost to such (whether of age, or infants) as that grace belongeth unto, according to the Council of Gods own Will, in his appointed time.
+
+[1.28.7] VII. The Sacrament of Baptism is but once to be administred to any person.
+
+## CHAP. XXIX. Of the LORDS Supper.
+
+[1.29.1] OUr Lord Jesus, in the night wherein he was betrayed, instituted
+the Sacrament of his Body and Blood, called the Lords Supper to be observed in his Church, unto the end of the world, for the perpetual Remembrance of the Sacrifice of himself in his Death: the sealing all benefits thereof unto true Believers, their spiritual nourishment and growth in him, their further engagement in, and to all duties whi•h they ow unto him, and to be a Bond and Pledge of their Communion with him, and with each other, as Members of his Mystical Body.
+
+[1.29.2] II. In this Sacrament Christ is not offered up to his Father: nor, any real Sacrifice made at all, for remission of s•n of the quick or dead, but only a commemoration of that one, offering up of himself, by himself, upon the Cross, once for all, and a spiritual oblation of all possible praise unto God for the same. So that, the Popish Sacrifice of the Mass (as they call it) is most abominably injurious to Christs one, only Sacrifice, the only propitiation for all the sins of the elect.
+
+[1.29.3] III. The Lord Jesus hath in this Ordinance, appointed his Minister•
+to declare his word of institution to the People, to pray and bless the Elements of Bread and Wine, and thereby to set them apart from a common to a holy use: and to take, and break the Bread, to take the Cup, and (they communicating also themselves) to give both to the Communicants, but to none who are not then present in the Congregation.
+
+[1.29.4] IV. Private Masses, or receiving this Sacrament by a Priest, or any other alone, as likewise the denyal of the Cup to the People, worshipping the Elements, the lifting them up, or carrying them about for adoration, and the reserving them for any pretended religious use, are all contrary to the nature of this Sacrament, and to the institution of Christ.
+
+[1.29.5] V. The outward Elements in this Sacrament duly set apart to the uses ordained by Christ, have such relation to him crucified, as that truly, yet Sacramentally only, they are sometimes called by the name of the things they represent, to wit, the Body and Blood of Christ: albeit in substance and nature, they still remain,
+truly and only Bread and Wine, as they were before.
+
+[1.29.6] VI. That Doctrine which maintains a change of the substance of Bread and Wine, into the substance of Christs Body and blood (commonly called Transubstantiation) by Consecration of a Priest, or by any other way, is repugnant, not to Scripture alone, but even to common sense and reason; overthroweth the nature of the Sacrament, & hath been, and is the cause of manifold superstitions; yea, of gross Idolatries.
+
+[1.29.7] VII. Worthy receivers outwardly partaking of the visible Elements, in this Sacrament, do then also inwardly by faith really & indeed, yet not carnally & corporally, but spiritually, receive, & feed upon Christ crucified, & all benefits of his death▪ The Body & Blood of Christ being then, nor corporally or carnally, in, with or under the bread and Wine: yet, as really, but spiritually, present to the faith of believers in that ordinance, as the Elements themselves are to their outward senses.
+
+[1.29.8] VIII. Although ignorant, and wicked men receive the outward elements
+in this Sacrament: yet they receive not the thing signified thereby; but by their unworthy coming thereunto, are guilty of the body & blood of the Lord to their own damnation. Wherefore, all ignorant and ungodly persons, as they are unfit to enjoy Communion with him, so are they unworthy of the Lords Ta•le▪ and cannot without great sin against Christ while they remain such, partake of these holy Mysteries, or be admitted thereunto.
+
+## CHAP. XXX. Of Church Censures.
+
+[1.30.1] THe Lord Jesus, as King and Head of his Church, hath therein appointed a Government, in the hand of Church Officers, distinct from the Civil Magistrate.
+
+[1.30.2] II. To these Officers, the Keys of the Kingdom of Heaven are committed: by vertue whereof, they have power, respectively, to retain, and remit sins: to shut that Kingdom against the impenitent, both by the word and Censures; and to open it unto penitent sinners, by the Ministry of the Gospel, and by absolution
+from Censures, as occasion sha•l require.
+
+[1.30.3] III. Church Censures are necessary, for the •eclaiming and gaining of offending Brethren, for deterring of oth••s from the like offences, for pu•ging out of that Leaven which might infect the whole Lump, for v••dicating the honour of Christ, 〈◊〉 the holy profession of the Gos
+••l, & for preventing the wrath of God, which might iustly fall upon the Church, if they should suffer his Covenant, and •he Seals thereof to be •rofaned by notorious and obstinate offenders.
+
+[1.30.4] IV. For the better attaining of these ends, the officers of the Church are to proceed by Admonition, suspension from the Sacrament of the Lords Supper for a season; and by Excommunication from the Church, according to the nature of the crime and demerit of the person.
+
+## CHAP. XXXI. Of Synods and Councils.
+
+[1.31.1] FOr the better Government, and further edification of the Church there ought to be such Assemblies,
+as are commonly called Synods or Councils.
+
+[1.31.2] II. As Magistrates may lawfully call a Synod of Ministers, and other fit persons, to consult and advise with, about matters of Religion: So, if Magistrates be open Enemies to the Church, the Ministers of Christ, of themselves, by vertue of their Office; or they, with other fit persons, upon delegation from their Churches, may meet together in such assemblies.
+
+[1.31.3] III. It belongeth to Synods and Councils, Ministerially to determine Controversies of Faith, and cases of Conscience, to set down rules and Directions for the better ordering of the publick worship o• God, and Government of his Church: to receive complaints in cases of malice, administration: and authoritatively, to determine the same; which Decrees and Determinations, if consonant to the word of God, are to be received with reverence, and submission: not only for their agreement with the word, but also for the power whereby they are made as being an Ordinance of God appointed thereunto in his Word.
+
+[1.31.4] IV. All Synods or Councils, since the Apostles times, whether general or particular, may erre, and many have erred. Therefore they are not to be made the rule of Faith, or practice; but to be used as an help in both.
+
+[1.31.5] V. Synods and Councils are to handle, or conclude nothing, but that which is Ecclesiastical: and are not to intermeddle with Civil affairs which concern the Common wealth, unless by way of humble petition in cases extraordinary: or by way of advice, for satisfaction of conscience, if they be thereunto required by the Civil Magistrate.
+
+## CHAP. XXXII· Of the state of men after death, and of the Resurrection of the dead.
+
+[1.32.1] THe bodies of men, after death, return to dust, and see corruption: but their Souls (which neither die nor sleep) having an immortal subsistence, immediately return to God who gave them: the souls of the righteous, being then made perfect in holiness, are received into the highest Heavens
+where they behold the face of God, in light and glory, waiting for the full Redemption of their Bodies. And the souls of the wicked are cast into Hell, where they remain in torments and utter darkness, reserved to the Judgment of the great day. Besides these two places, for souls separated from their bodies, the Scripture acknowledgeth none.
+
+[1.32.2] II. At the last day, such as are found alive, shall not die, but be changed; and all the dead shall be raised up, with the self same bodies, and none other, although with different qualities, which shall be united again to their souls for ever.
+
+[1.32.3] III. The Bodies of the unjust, shall by the power of Christ be raised to dishonour: the Bodies of the just by the Spirit, unto honour: and be made conformable to his own glorious Body.
+
+## CHAP. XXXIII. Of the last judgment.
+
+[1.33.1] GOD hath appointed a Day, wherein he will judge the World in righteousness, by Jesus Christ, to whom all power and
+judgment is given of the Father. in which day, not only the Apostate Angels shall be judged, but likewise all persons that have lived upon earth, shall appear before the Tribunal of Christ, to give an accompt of their thoughts, words and deeds, and to receive accordingly to what they have done in the body, whether good or evil.
+
+[1.33.2] II. The end of Gods appointing this day, is for the manifestation of the gl•ry of his mercy, in the eternal salvation of the elect: and, of his justice, in the damnation of the reprobate, who are wicked, and disobedient: For, then shall the Righteous go into everlasting Life, and receive that fulness of joy and refreshing, which shall come from the Presence of the Lord: but▪ the wicked, who know not God▪ and obey not the Gospel of Jesus Christ, shall be cast into eternal Torments, and be p•nished with everlasting destruction from the presence of the Lord, and from the glory of h•s power.
+
+[1.33.3] III. As Christ would have us to be certainly perswaded that th•r• shall be a Day of Judgment, both
+to deter all men from sin, and for the greater consolation of the godly in their adversity: so, will he have that day unknown to Men, that they may shake off all carnal security, and be alwaies watchful, because they know not at what hour the Lord will come: and, may be ever prepared to say, Come, Lord Jesus, come quickly, Amen
+.
+
+## 1.end
+
+[1.end.1] FINIS.
