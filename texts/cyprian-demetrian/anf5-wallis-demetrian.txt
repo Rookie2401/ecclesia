@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/An_Address_to_Demetrianus
 Retrieved: 2026-11-05 (source file 45010 bytes, SHA-256 2c5c90b171b163bd8a870241f62bd0940785612625fa6cde96984f35e12ef2bc)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":47}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

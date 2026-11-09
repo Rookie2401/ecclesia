@@ -2,7 +2,7 @@
 
 Every text stored in the [Ecclesia](https://rookie2401.github.io/) theological library, kept apart from the app, free to download.
 
-- **683 editions of 448 works**: Greek, Latin, Hebrew (with the Aramaic of the Hebrew Bible), English and Dutch.
+- **691 editions of 452 works**: Greek, Latin, Hebrew (with the Aramaic of the Hebrew Bible), English and Dutch.
 - **Browse and download:** [the download page](https://rookie2401.github.io/ecclesia/).
 - **One text:** `texts/<work>/<edition>.txt`. Plain UTF-8, with its credit, licence and source at the top.
 - **Everything:** `ecclesia-texts.sqlite.gz`, a SQLite database (90 MB to download, 425 MB unpacked).

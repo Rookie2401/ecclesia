@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Hag.xml
 Retrieved: 2026-11-05 (source file 71754 bytes, SHA-256 26ebbae4fe491cf89ce70e1264cbcbf66a562b497cb214b677e67a9a43ad545c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":4}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

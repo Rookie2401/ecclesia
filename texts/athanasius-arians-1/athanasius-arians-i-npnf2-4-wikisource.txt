@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Against_the_Arians/Against_the_Arians/Discourse_I
 Retrieved: 2026-11-05 (source file 269067 bytes, SHA-256 24948180629dba4c8301106b05d51ceee4da5d206a34476f5728e5cd36d0eba7)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":388}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

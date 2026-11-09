@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_II/City_of_God
 Retrieved: 2026-11-05 (source file 2646771 bytes, SHA-256 77a261ab421ae66eb269ffa3cc545fe2da3a75f612d39539ac84c24b748e016b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1393}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

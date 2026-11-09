@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Life_of_Antony/Vita_Antoni
 Retrieved: 2026-11-05 (source file 180676 bytes, SHA-256 ccd321af566dd739e80e09f05b0f9ae767e1511e6b8ee06e40c57466a37e54e1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":162}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

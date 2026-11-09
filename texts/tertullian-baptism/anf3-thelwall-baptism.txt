@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Ethical/On_Baptism
 Retrieved: 2026-11-05 (source file 68817 bytes, SHA-256 1505f8ef83e3a97c80c6f6d788ab2cd33e112e8f16ff4c11c2bb53b22e46de0c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":218}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

@@ -23,8 +23,14 @@ const BLOCKED = new Set(["copyright_unverified", "copyright_restricted"])
 // ── The rights gate: every stored edition must be cleared by the catalogue, or nothing is built. ──
 const stored = []
 const refused = []
+// Folders of the store that are pages, not works (the Category II–IV candidates registry: names only, no texts).
+const PAGES = new Set(["candidates"])
 for (const entry of readdirSync(library, { withFileTypes: true })) {
   if (!entry.isDirectory()) continue
+  if (PAGES.has(entry.name)) {
+    if (existsSync(path.join(library, entry.name, "manifest.json"))) refused.push(`${entry.name}: a page that holds a manifest.json`)
+    continue
+  }
   const manifest = json(path.join(library, entry.name, "manifest.json"))
   for (const edition of manifest.editions) {
     const work = works.get(manifest.workId)

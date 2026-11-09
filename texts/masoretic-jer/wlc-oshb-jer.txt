@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Jer.xml
 Retrieved: 2026-11-05 (source file 1977728 bytes, SHA-256 1a7ad7bc26a2cae1d3964230e8eb73043bc1f32505cb86cd69a25261dc39f493)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":206}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

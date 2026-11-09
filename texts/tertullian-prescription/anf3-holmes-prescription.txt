@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/The_Prescription_Against_Heretics
 Retrieved: 2026-11-05 (source file 147033 bytes, SHA-256 06f6238c1856ec3b016d7bfd15133c87c5bf53c9a2ede686863fd2fb1b53bd82)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":464}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

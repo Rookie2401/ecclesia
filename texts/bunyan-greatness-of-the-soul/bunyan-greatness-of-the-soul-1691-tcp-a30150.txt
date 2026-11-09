@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/textcreationpartnership/A30150/master/A30150.xml
 Retrieved: 2026-11-05 (source file 437444 bytes, SHA-256 7be942d08f4b1ec2b0214fe4de0bf250c723edb829f95736f16211c3fa1841a1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":143,"unread":1101,"note":328}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

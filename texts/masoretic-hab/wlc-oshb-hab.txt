@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Hab.xml
 Retrieved: 2026-11-05 (source file 79467 bytes, SHA-256 2592b212d816775adc8dac46bd0c46263982c308a186dde64dfb8239c57bd2d1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":12}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

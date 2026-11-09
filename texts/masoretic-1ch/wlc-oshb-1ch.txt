@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/1Chr.xml
 Retrieved: 2026-11-05 (source file 1014881 bytes, SHA-256 8b59992b6607c6ca0fc423813be8cc244f011c1da32bc8485c0c0f581a897ed4)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":169}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

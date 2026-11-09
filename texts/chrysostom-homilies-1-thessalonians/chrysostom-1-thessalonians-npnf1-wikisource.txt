@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Philippians,_Colossians,_and_Thessalonians/On_First_Thessalonians
 Retrieved: 2026-11-05 (source file 291783 bytes, SHA-256 f2aba7a69b2421388ab2074e870b4b4ddb9efcb4e2118c344ce1efd1221fdac9)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":136}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

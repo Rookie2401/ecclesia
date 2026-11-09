@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VI/Treatises/The_Perpetual_Virginity_of_Blessed_Mary
 Retrieved: 2026-11-05 (source file 64716 bytes, SHA-256 1809558e76479b5cf1311a55716efbfa12e7d3f6711ff6ecfc80b66ecbb2477c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":86}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Ezek.xml
 Retrieved: 2026-11-05 (source file 1724378 bytes, SHA-256 90bf8adfa66b2f6695c702263fe668755c99c6afc386202c12de4f704f5d4e46)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":211}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

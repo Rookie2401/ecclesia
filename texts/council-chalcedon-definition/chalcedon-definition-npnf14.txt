@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Fourth_Ecumenical_Council/The_Definition_of_Faith
 Retrieved: 2026-11-05 (source file 18045 bytes, SHA-256 4edf1782d20c7e484bde7769a165f0c0cad79d8e1f521b4adf8666df70323529)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 

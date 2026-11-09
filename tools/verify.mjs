@@ -37,7 +37,8 @@ for (const work of json(path.join(library, "catalogue.json")).works) for (const 
 let editions = 0, segments = 0, characters = 0
 const seenTexts = new Set()
 for (const entry of readdirSync(library, { withFileTypes: true })) {
-  if (!entry.isDirectory()) continue
+  // The candidates registry is a page of the store, not a work: it holds names only.
+  if (!entry.isDirectory() || entry.name === "candidates") continue
   const manifest = json(path.join(library, entry.name, "manifest.json"))
   for (const edition of manifest.editions) {
     editions += 1

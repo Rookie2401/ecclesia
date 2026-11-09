@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XII/Leo_the_Great/Letters/Letter_28
 Retrieved: 2026-11-05 (source file 36020 bytes, SHA-256 e40b1ed4d4c63238f4e72ba3696aff3f9bd99105f7960fe634a84dc29dfe5e37)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":70}
-Ecclesia library, source 4d0014ea.
+Ecclesia library, source a94a88da.
 
 ========================================================================
 
