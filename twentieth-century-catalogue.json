@@ -902,9 +902,9 @@
       "title": "Mysticism",
       "publicationYear": 1911,
       "originalLanguage": "English",
-      "sourceUrl": "https://www.gutenberg.org/ebooks/20420",
+      "sourceUrl": "https://ccel.org/ccel/underhill/mysticism",
       "sourceClass": "transcription",
-      "notes": "",
+      "notes": "CCEL text is available; confirm whether it reproduces the 1911 original or a later revised edition before importing.",
       "tradition": "Anglican",
       "collection": "1900–1930",
       "rights": "public_domain_us_original_edition",
@@ -1045,6 +1045,36 @@
       "rights": "cc_by_4_0_verification_required_at_ingest",
       "acquisitionStatus": "publisher_license_located",
       "imported": false
+    },
+    {
+      "id": "evelyn-underhill-practical-mysticism-1915-extra",
+      "author": "Evelyn Underhill",
+      "originalLanguage": "English",
+      "tradition": "Anglican",
+      "collection": "1900–1930",
+      "rights": "public_domain_us_original_edition",
+      "sourceClass": "transcription",
+      "acquisitionStatus": "transcription_located",
+      "imported": false,
+      "title": "Practical Mysticism",
+      "publicationYear": 1915,
+      "sourceUrl": "https://www.gutenberg.org/ebooks/21774",
+      "notes": "Project Gutenberg public-domain U.S. English text; review source edition."
+    },
+    {
+      "id": "evelyn-underhill-essentials-of-mysticism-1920-extra",
+      "author": "Evelyn Underhill",
+      "originalLanguage": "English",
+      "tradition": "Anglican",
+      "collection": "1900–1930",
+      "rights": "public_domain_us_original_edition",
+      "sourceClass": "transcription",
+      "acquisitionStatus": "transcription_located",
+      "imported": false,
+      "title": "The Essentials of Mysticism, and Other Essays",
+      "publicationYear": 1920,
+      "sourceUrl": "https://www.gutenberg.org/ebooks/74203",
+      "notes": "Project Gutenberg transcription of 1920 first edition."
     }
   ]
 }
