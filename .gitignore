@@ -1,2 +1,2 @@
-ecclesia-texts.sqlite
-ecclesia-texts.sqlite-journal
+*.sqlite
+*.sqlite-journal

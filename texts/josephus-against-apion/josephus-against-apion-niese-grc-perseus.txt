@@ -9,7 +9,7 @@ Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/da
 Retrieved: 2026-11-10 (source file 422398 bytes, SHA-256 75cc3dabaeb12a2224e3524eae9e5a25695f6cdac20389d76de347c8cf35dbcd)
 Changes from the source: cut into numbered segments; these elements were not stored: {"milestone":76}
 Incomplete: The Greek text covers Books I–II in Greek, except II.51 (end)–113 and lacks the Greek of II.51 (end)–113. The Greek of these sections is lost in the manuscripts; Niese prints in their place the old Latin version (made for Cassiodorus, 6th century), and the store keeps it as he prints it, so those sections are Latin, not Greek.
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

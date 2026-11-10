@@ -1,0 +1,1743 @@
+Title: A faythfull and moost godlye treatyse concernyng the most sacred Sacrament of the blessed body and bloude of our sauioure Chryst, co[m]piled by Iohn Caluyne, a man of no …
+Work: Short Treatise on the Lord's Supper
+Author: John Calvin (1509–1564)
+Language: english
+Credit: A faythfull and moost godlye treatyse concernyng the most sacred Sacrament of the blessed body and bloude of our sauioure Chryst, co[m]piled by Iohn Caluyne, a man of no …, in EEBO-TCP A17659 (STC 4411), trans. Thomas Broke; Miles Coverdale (London: Printed by John Day for William Seres?, 1548). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/textcreationpartnership/A17659/master/A17659.xml
+Retrieved: 2026-11-10 (source file 244951 bytes, SHA-256 8b57de61bc21343ca685abc8c4c1a6b128f955d81c1faf87e0836887ffc046dc)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":45,"unread":109,"note":58}
+Ecclesia library, source 6700fbc4.
+
+========================================================================
+
+## 1
+
+[1.1] FOr as moche as the most holye supper of
+our lorde Iesu Christ hath of longe tyme
+ben lapped vp in manyfold and great errours
+and euen of late dayes wrapped in
+many opinions and contentions, nothynge so
+quiet as was besemyng: no meruayle thoughe
+certayue weake conscienced persones, can not
+wel determyne what thynge they ought chyflye
+to folowe, but do, wyth indeferente and
+suspense mynde, loke whan the seruauntes of
+God settinge all contention a parte shall agree
+amonge them selues, and brynge the matter
+to some concorde and vnitie. And seynge that
+such kynde of doubte hath no smal incommoditye
+annexed, and that it is a thyngee mooste
+dayngerouse, to haue no certayne determinacion
+of that mistrye, the knowledge wherof is
+so necessarye to our saluation: I haue thought
+it a thynge moste profytable, bryeflye to spake
+of the chiefe sume of the matter and yet playnlye
+to declare what thynge we oughte chyeflye
+to sticke vnto therin. More ouer, certayne honeste
+men perceyuynge the matter to require
+no lesse: desyred me earnestly to take it in hande
+whose requeste I coulde by no meanes denye
+vnlesse I wolde haue bene slake in doynge my
+dutye. And that the difficultie therof may the
+more easely be opened it is neadfull to declare
+what order we intende to folowe herein.
+
+[1.2] Fyrst I shall declare for what cause, and to
+what ende, the Lorde hath instituted this most
+holye sacramente. Then what •ruite we take
+therof, and herein I wyll declare howe the bodye
+of Chryst• is geuen vs in it.
+
+[1.3] Thyrdlye, what is the ryght vse therof.
+Forthlye, I shall reherse the erroures and superslicions
+wherby it hath ben defaced, and so
+wyll I declare, howe the seruauntes of God
+ought to differ from the papistes.
+
+[1.4] Finallye, I wyll declare the originall of
+that contencion, whiche hath ben so ernestlye
+mayntayned euen of the same men whyche in
+our time, haue applied al theyr studye to bring
+the gospel to lyght agayne, to replenish againe
+the congregatiō, and to restore the syncere and
+pure doctryne. As concernynge the Fyrste
+
+[1.5] When it pleased the almyghty oure God
+by baptisme, to chose vs into the cōgregation,
+that is to saye into his house whyche he wyll
+nouryshe and defende: and that he hath receyued
+vs, not onely as houshold seruauntes, but
+also as his chyldren: it behoueth hym (yf he
+wyl playe the parte of a good father) to bringe
+vs vp, ministrynge vnto vs all thynges necessarye
+to foode and clothynge.
+
+[1.6] But as concernynge the thinges that pertayne
+to the educacion of the bodye, bycause
+they be common to all men, so that as well the
+euyl persones as y• good be partakers therof:
+they are not to be taken as for thynges appertaynyng
+to his houshould onely. No doubt, in
+that he feadeth and defendeth our bodies, and
+whiles we be partakers of al those good thinges
+which he most plēteously and liberally geueth
+vs, is declared a great tokē of his father
+•y
+goodnes towarde vs. But in lyke maner as
+the lyfe wherin he hath regenerate vs, is spi
+•ituall:
+so is it neadfull that the meate wherwith
+we should be susteyned & strēgthed, be al
+•o
+spiritual. For we muste vnderstande, y• we
+are not called to possesse the celestiall inheri
+•aunce,
+in tyme to come onely: but y• throughe
+•ope we are in maner set in possession therof
+•l ready. So y• he hath not onely promised vs
+lyfe, but delyueringe vs from death, he hath al
+ready ledde vs into it in very dede. And thys
+thinge opteyned we, whē he begate vs a newe
+wyth the sede of immortalitie, y• is to saye his
+worde, whiche through the holy goste he hath
+prynted & fastened in our hertes. That we ther
+fore may defende & susteyne this lyfe, we must
+not seke y• caducal & corriptible meates, wherwith
+the bealy is fed: but we must prouide for
+our soules much better & more excellent foode.
+And the whole scripture witnesseth, y• the selfe
+same wordes, wherby the lorde hath begotten
+vs a new, is y• spiritual bread wherby our soules
+are susteined & fedde: the reasone is this, by
+cause in it, Christ our onely life is giuē & ministred
+vnto vs. For when god would that al abundance
+of lyfe, shoulde remayne in Christ to
+the intent y• by hym, he myght make vs partakars
+therof: he ordayned the worde also, wherby
+Christ & all his mercyes myght be ministred
+vnto vs. Thys sentence therfore is infallibly
+true, that our soules are fed & nourished, wyth
+none other foode then Iesu Christ. Wherfore
+the heauenly father being careful for our educacion,
+gaue vs none other foode: yea rather
+he committed thys vnto vs, singularly.
+
+[1.7] And for as muche as it is sufficient ynoughe
+for the recreacion and sustenaunce of our soules,
+he wyll•d vs to content oure selues therewith,
+and that our soules shoulde rest t•gether
+therin: bycause we maye by no meanes be with
+out that foode, whyche beynge taken awaye,
+none other can be founde. Nowe do we perceyue
+after what sort Christe is y• onely foode
+wherwyth our soules be sedd•••ut bycause he
+is distributed vnto vs by the worde of y• lorde
+as by the instrument appoynted for the same
+purpose: he is named breade and wyne.
+And that whyche is spoken of the worde, appertayneth
+also to the sacrament of the supper,
+wherby the Lorde leadeth vs vnto the partakyng
+of Christ. For because we be so weake
+and feble, that we can not (wyth vnfayned
+trust of mynde) receyue hym, when he is offred
+vnto vs in the bare preachyng of the doctrine:
+the father of mercye wyllyng to accommodate
+hym selfe vnto our infimitie therin, hath ioyned
+vnto the worde a signe to be sene with the
+eyes, whereby he myght represent vnto vs the
+very substance of his promesses, that al doubt
+and wauerynge taken awaye, we myght be cō
+fyrmed
+and strengthened in hym.
+
+[1.8] Seynge therfore thys misterye is hyghe
+and harde to attayne to: and that we can not
+by witte comprehende, or by studye vnderstāde
+howe the bodye and bloude of Christe maye be
+communicate vnto vs: and that we be so rude
+and ignoraunt, that we vnderstande not euen
+the verye leaste of the diuine matters: it was
+neadefull to declare and open thys misterye
+after suche sorte as the abilitie of oure wytte
+myght awaye wyth all.
+
+[1.9] And for that cause dyd the Lorde institute the
+supper▪ that he myght print in our consciences
+those promesses wherwyth he hath in the gospell
+promysed, to make vs partakers of hys
+bodye and bloude: and that he myght establysh
+vs in thys perswasion, our spiritual lyfe to be
+remaynynge in hym, that we, receyuyng so noble
+a pledge, maye conceyue a sure hope of saluation.
+Forthermore, that we should be exercised
+in acknowledgynge his great goodnes towardes
+vs, & in celebratyng and settyng forth
+of the same wyth all la•de and prayse. Thyrdly,
+that we should be prouoked to imbrace holynesse
+and innoncencie, for as much as we acknowledge
+oure selues to be the members of
+Christe, and that aboue all other, we set forth
+and maynteyne frendshyp and brotherly concorde,
+wherof we haue an especial cōmaundement.
+When we haue wel and diligently marked
+these thre causes (to whyche no doubte the
+Lorde had respecte when he instituted the supper)
+an entrye shall be opened vnto vs that we
+maye the better vnderstande what fruyte we
+receyue therby, and by what meane we maye
+vse it a ryght. We muste therfore nowe come
+vnto the seconde parte, that we maye declare
+what holsome fruyte the supper of the Lorde
+bryngeth vnto vs: so we wyl vnderstande and
+gather the same. And that shall we know whē
+we wyll digentlye perpende oure owne greate
+lacke which if succurreth. No remedy we must
+neades be vehementlye troubled and vexed in
+mynde, so often as we consyder what we are
+our selues, and when we examyne al that is in
+vs. For there is not one of vs that can fynde
+so muche as one lytle crombe of iustice in hym
+selfe: but contrarye wyse, we are defyled wyth
+so many vices and wycked dedes, stouffed full
+of so greate a multitude of synnes, that there
+neadeth none other accuser then our owne conscience:
+nother neadeth it to seke for any other
+iudge to gyue sentence agaynste vs. Wherof
+it foloweth, that the yre of God is styred agaynste
+vs, and that none of vs can be able to
+escape the iudgement of eternall death.
+
+[1.10] And vnlesse we wyll be verye dreamars and
+blockeheades no remedy we shal, through this
+horrible cogitacion, be ve•ed and troubled, as
+it were wyth a continuall hel fyre. For we can
+not remember the iudgmente of God, but incōtinent
+oure owne damnation is before oure
+else. We are therfore al redy swalowed vp by
+the deuouring sincke of death, were it not that
+almightie God delyuereth vs. And what hope
+of resurrection may we haue whē we cōsyder
+oure owne fleshe, so rotton and full of all corruption?
+And therfore whether we consyder
+body or soule, nothynge can be more miserable
+then we are, so longe as we shall consyder but
+oure selues onely: and whylse we perceyue so
+great miseries, no remedye we must neades be
+miserably tormēted, and affected with extreme
+heauynesse. That the heauenly father therfore
+myght succure thys oure calamitie, he gaue vnto
+vs the supper, as a glasse wherin we myght
+beholde Christe crucifyed and raysed agayne.
+Crucified, that our sinnes might be forgynen.
+Raysed agayne, that we delyuered from corruption
+and deathe, myghte be restored to the
+heauenly immortalitie. Thys singular consolacion
+take we of the lordes supper, that it directeth
+and leadeth vs vnto the crosse and resurrection
+of Christe: that we maye knowe
+for certentye, that we (although we be wycked
+and vncleane) be acknowledged and receyued
+of the lorde, yea and taken for iust: and that by
+hym we are restored to lyfe notwithstandynge
+that we be hedged in Wtin al kindnes of death:
+and that we be replenished wyth all kynde of
+felicitye, notwythstandyng that we be miserable
+and ful of calamitie. Or to make the thyng
+more playne. When there is no goodnesse at
+all remaynyng in vs, neyther any one thynge,
+of those thynges whiche shoulde helpe to the
+op•aynynge of saluacion: the supper doth abundauntly
+wytnesse vnto vs, that we haue
+•ptayned all thinges profitable and holsome,
+in that we be partakers of the death and passion
+of Chist, Wherfore we maye affirme, that
+whiles the lorde admitteth vs in to the felowshyppe
+of the goodes and richesses of Christe,
+he opene•h the treasorye of hys mercyes. Let
+vs remember therefore that in the supper is
+geuen vnto vs, as it were a glasse, wherin we
+may beholde Christe, crucifyed, to delyuer vs
+from death and dampnacion and reysed vp agayne
+to iustifye vs, and gyue vs lyfe euerlastyng
+And all be it that the same mer•cye is geuen
+vnto vs in the Gospel: yet, for that in the
+supper, we haue more certentie and fuller frui
+•yon,
+we can do no lesse but acknowledge that
+we receyue thys profyte therof.
+
+[1.11] But for bycause the merytes of Christe
+appertayne nothynge vnto vs, vnlesse he him
+selfe be ou••s before: it is mooste expedyente
+that in the Supper he be geuen vnto vs, that
+those thynges whereof we haue spoken, may
+in verye dede, be perfourmed in vs. And therfore
+haue I vsed to saye. That Christe is the
+mattire and substaunce of the Sacramentes
+and that the mercies and benefytes which we
+gette by him, are the efficacie and strength therof.
+To cōclude, the hole strength and energye
+of the supper consisteth in this thinge, to confirme
+the reconciliacion wyth God, made by
+the death and passion of Christe. To certifye
+vs that our soules be washed in his bloude, 〈◊〉
+that we be made iust throughe his obedience.
+And •o conclude. To prynt surely in our myndes,
+that hope of saluacion which we haue in
+all those thynges that he hath done for vs.
+
+[1.12] Upon this must we necessarilye conclude,
+that there is a substance annexed vnto this vertue:
+otherwyse shoulde we haue no stydfastnesse
+or certentie therin, we must therfore conclude,
+that in the supper are geuē vnto vs two
+thynges, that is to saye Christ, as fountayne,
+origyn and mattier of all good thynges: and
+the fruite and efficacie of his death and passion,
+whiche thynge, euen the verie wordes y•
+be spokē in the supper do a bundaūtly declare
+For when he bedde vs eate his body & drynke
+his bloude: he addeth, that his body was geuē
+for vs and his bloude shedde for the remission
+of oure synnes, wherin he doth fyrste declare
+that his bodye, and bloud are not simply with
+out any other consideracion, communicate vnto
+vs: but that we must also cōsider the fruite
+that cōmeth vnto vs by his death and passion.
+In fine. Howe maye we be able to come to the
+fru•cion of so excedynge good thynges, onlesse
+we be partakers of the bodye and bloude of
+him that hath produced these thynges, and gyuen
+them vnto vs.
+
+[1.13] Nowe entre we into that question, whiche
+hath bene so greatly tossed both in tyme paste
+and in these oure dayes also: howe those wordes
+are to be vnderstande, wherin Christe calleth
+his bodye breade, and hys bloude wyne.
+Whiche wordes maye easely be opened, yf we
+kepe in memorye those principles whyche I
+haue before set forth: that is to saye, that all
+the fruite we seke for in the supper, is brought
+to noughte, onlesse Christe be gyuen vnto vs
+therin, as the foundacion and substance of all
+the whole matter. And yf we ones graunt this
+thynge, then no doubt we shall graūt also, that
+there is gyuen vnto vs nought els but an vnprofitable
+& vayne Sacramēt▪ yf we deny that
+in it is gyuē vnto vs the very participacion of
+Christ: whiche thynge were execrable & shame
+full blasphemye. Forthermore, yf the maner of
+the communion with Christ be suche that we
+be partakers of all the mercies and benifites
+which he gate for vs by his death: then are we
+not partakers wt the spirite onely but wt y• mā
+boode
+also: wherin he perfourmed perfit obedience
+to God the father, to the intent he mighte
+paye oure det es. Althoughe, to saye the truth
+the one can not be wythoute the other. For
+whē he geueth him selfe vnto vs, he doth it to
+the intent we shoulde possese him whole. And
+therfore, as I haue sayde, that his spirite is
+oure life: euen so doth he his owne mouth declare
+that hys fleshe is oure foode, and his
+bloude oure verye drynke. Yf this be not spoken
+in vayne, no remedy oure life must neades
+consiste in him, and oure soules be nourished
+wyth hys fleshe and bloude, as wyth theyr
+proper and peculyar foode. Of that thynge
+haue we testimony in y• supper, whē it is sayd
+of the breade that we should take it and eate it
+and that it is his bodye: and of the cuppe, that
+we drynke it and that it is hys bloude here are
+the bodye and bloude named, to the intent we
+should learne to seke the substāce of our spirituall
+lyfe therin. Now yf any man woulde demande
+of me whether the breade be the bodye
+of Christ, & the wyne his bloud: therto woulde
+I answer, that the breade and wy•e are visib•l
+signes, representynge vnto vs the bodye &
+bloude of Christe, and that they be called the
+body and bloud bycause they be as it were instrumētes
+wherby the lorde Iesu Christ distributeth
+them vnto vs. This forme of speaking
+agreeth very well wyth the thynge
+
+[1.14] For not wythstandynge that oureeyes, 〈◊〉
+nor oure wyttes can not comprehende the communion
+that wee haue in the bodye of Christe
+yet is it there openlye shewed before oure eyes.
+We haue, in a lyke thynge, an example verye
+fytte for the purpose. When the lorde woulde
+that his spirite should appeare in the baptisme
+of Christe, he shewed him vnder the shape of a
+doue▪ Iohn the Baptyste recytyng that hystorye
+sayeth that he sawe the holye Gost descen
+dynge. But yf we marke it well, we shal fynde
+that he sawe nought els but a Doue. For the
+substance of the holy Gooste is muisible.
+
+[1.15] But for that he knewe that vision to be no
+vayne figure, but the mooste sure token of the
+presēce of the holy goost: he doubted nothyng
+at all to affirme that he sawe him: because he
+was represented vnto him vnder soche sort as
+he was able to abyde. Euen so must we say as
+concernynge the communion that we haue in
+the bodye and bloude of Christe. It is a spirituall
+misterye, whyche can neyther be sene
+wyth the eyes, nother comprehended with the
+wytte. Therfore, as the weakenes of oure nature
+requireth, it is set forth wyth visible figures
+and signes: but yet vnder such sort that
+it is not a bare and simple figure, but ioyned
+vnto his verite and substance. The bread therfore
+is not vnworthylye called the bodye: for
+as moch as it doth not onelye r•present it vnto
+vs, but also brynge vnto vs the same
+thynge. I can be ryght well contente therfore▪
+to graunt: that the name of the body of Christ
+be transferred vnto the bread because it is the
+sacrament and fygure therof.
+
+[1.16] But thys one thynge wyll I adde. That the
+sacrametes of the Lord oughte by no meanes
+to be separate frome his substance and verytye
+And yet is it not onely mete, but also very
+necess•ry: so to set them a sunder, that they
+be not confoūded. But to deuide them so, that
+the one shoulde be made perfyt without the other
+is moste vnsemley. Whē we therfore, do
+beholde the visible signe: we muste consider
+what it representeth, and who gaue it vs. For
+the bread is geuen to the intent that it shoulde
+be y• figure of the bodye of Christ▪ & we are cō
+maunded
+to eate it. It is geuen I say, of God
+the certayne & vnchaungeable veritie. Yf so be
+y• God can neyther disceyue nor lye: it foloweth
+y• he doth in verye dede performe, and fulfyll,
+al that he doth there signifye. No remedy
+therfore, we must neades vnfaynedlye receyue
+the bodye and bloude of Christe in his supper
+for as muche as the Lorde offereth vnto vs
+herin, the cōmunion for them both. For what
+shoulde this meane, that we should eate bread
+& drynke wyne, to the intēt that they shoud declare
+vnto vs that hys fleshe is oure meate
+and bys bloude oure drynke, yf he letteynge
+the spirituall veritye passe, shoulde gyue vs
+nought elles but breade and wyne? had he not
+then instituted thys misterye faynedlye and in
+vayne? And as we saye in the Frenche tonge,
+vnder disceyuable signes? And therfore muste
+we neades graunte, that yf the representation
+whyche the Lorde gyueth in the supper be no
+sayned thynge, that then the inwarde substaunce
+of the Sacramente is annexed to the
+visible signes: and that in lyke maner as the
+breade is distributed in the hande, so is the body
+of Christ cōmunicate vnto vs, to the entēt
+that we shoulde be partakers thereof. And
+doubtlesse yf there were no more but thys one
+thynge, yet oughte it to satisfye vs aboundantlye,
+for as muche as we vnderstande that
+in the supper. Christ gyueth vnto vs the very
+substaunce of hys bodye and bloude: that we
+maye wyth full tyghte possesse hym, and in
+possessynge hym, be called into the societie of
+al hys good thynges. For in that we possesse
+hym, all the treasures and heauenlye goodes,
+whyche be secretelye layed vp in hym, are set
+out vnto vs, to the intent that they shoulde be
+oures, and that we shoulde enioye them wyth
+hym. Brefely therfore to defyne the profyte of
+the supper: we maye saye y• in it Iesus Christ
+is offered vnto vs: that we may possesse hym,
+hym selfe, and in hym aboundaunce and plentye
+of all the mercyes and benefytes that the
+mynde can desyre. Whiche thynge is an exceadynge
+great helpe vnto vs in stablishynge our
+consciences in that truste whyche we ought to
+haue in hym. An other vtilitie is, that by it we
+are more steared and admonished to acknowledge
+the benefytes which we haue and do day
+lye receyue of the Lorde Iesu Christe that we
+maye gyue vnto hym honoure and glorye: and
+that (as mete is) we celebrate hys moste holye
+name wyth continuall prayses. For by nature
+we are very negligent, and in remembraūce of
+the goodnes of our god, neyther do we thynke
+there on at any tyme, onlesse he do awake our
+slougyshnesse and prouoke vs to our dutye.
+
+[1.17] And wyth sharper prickes cā we not be pricked,
+then in that he compelleth vs (as it were)
+to se wyth oure eyes, and to handle wyth oure
+handes, yea openly to knowe and perceyue, the
+greatnesse of the inestimable benefyt in that he
+feadeth, and refresheth vs with his owne proper
+substance, which thing he would should be
+declared & made open vnto vs, in y• he byddeth
+vs declare his death tyll he come. If so be that
+it be a thing so necessary to saluation, not to be
+vnmindful of the mercies & benefites that god
+hath shewed vnto vs, but rather diligently to
+call them a gaine to memorie, and to extolle thē
+greatly to other men, that we maye by mutual
+admoniciōs be stered vp: we se therin a singulare
+cōmoditie of the supper, whiche calleth vs
+back frō the vice of vnthankfulnes, & suffreth
+vs not to forget y• great benefite which Christ
+shewed vs whan he died for our sakes: but it
+bryngeth vs to this passe, that wee geue thankes
+vnto him, and do (as it were) with an open
+testimonie, confesse how moch we are bounde
+vnto him. The thrid kynd of vtiliti• consisteth
+in this thing, that we be therby more vehemētlie
+stered vp, to sanctimonie and puritie of lyfe
+and are with more force of persuasions, dryuē
+chieflye and before all other, to kepe charitie &
+frēdship amōg ourselues. For, seing that we be
+made the members of Christe, beynge gra•ted
+into his bodye, and are ioyned to gether with
+him, as with oure head: it is but mete, that we
+chiefly be facioned after his puritie, & •nnocencie,
+& that ther be especially such cōcord among
+vs, as ought to be among the membres of one
+bodye. Although to haue y• true vnderstādyng
+of this vtilite, we ought not to thinke, that the
+lorde doth only exhorte and stere vs vp, other
+inflame vs with an external signe. For this is
+the chiefe thynge that he with his spirite worketh
+intierlye in vs, to adde force and efficacye
+as his ordinaunce whiche he hath appoynted
+as it were an instrument seruynge hym to this
+purpose, that he might accomplysh and finishe
+his worke in vs, therfore, because the power
+of the holy goste is coupled with the sacramentes,
+whan they be receyued so as they oughte
+to be: we ought to hope and truste, that they
+be an helpe vnto vs that we maye go forward
+in holynesse of lyfe and especyally in charitie.
+
+[1.18] Nowe muste we come to the thyrde of the
+chiefe partes whyche we haue purposed in the
+begynnynge of thys lytle boke, that is to saye
+to the ryght vse, that we maye reuerentlye obserue
+the institution of the Lorde. For who
+so euer cometh vnto thys sacrament, wyth a
+certayne comtempte, negligentlye or wythout
+regarde, nothynge carefull to holde hys purpose,
+and to perseuer in that where in the Lorde
+hath called hym: he dothe frowardlye abuse
+it, and in abusynge fylthyly contaminate it.
+
+[1.19] But to contaminate and pollute the thynge
+that god hath so holyly consecrated, is a great
+and intollerable sacriledge. Neyther is it in
+vayne that Paule declareth so greuouse and
+cruell dampnation to all them that receyue it
+vnworthelye. For yf there be nothinge, either
+in heauen, eyther in earh, that is more worthy
+then the bodye and bloude of the Lord: it is no
+smal faute to dispice it, and to receyue it wythout
+consyderation, and to come thyther not
+well and diligentlye prepared. Forthermore,
+he dothe aduertise vs to proue our selues, that
+we maye vse it euen as the thynge requyreth.
+Yf so be that we vnderstande what probation
+that oughte to be: we shall also perceyue
+what vse that is whych we loke for, but great
+and wyse circumspection muste be had in this
+thynge. For as we can not be to diligent in examinynge
+our selues, as the Lorde hath commaunded:
+euen so dyd the sophihical doctours
+(whyl•e they requyred I canne not tell what
+kinde of probation, and diligēce in examinyng
+of a mans selfe, suche as neuer man coulde be
+able to performe, holde the miserable consciences
+to muche pe•plexe, casting them into wonderfull
+daungerouse anxietie, yea rather into
+horrible tormentes. And to be delyuered from
+these inrollynges of perturbacions, we muste
+(as I haue sayde before) reduce all thynges to
+the institution of the Lorde, as to the rule,
+whiche yf we folowe, wee shall neyther slyde
+nor erre. And folowynge it we ought to consyder
+whether we fele in our selues vnfayned
+repentaunce and fayth. Whyche two are so
+ioyned betwene them selues, that it is not possible
+that the one can by any meanes con•yste
+wythout the other. For yf we do suppose that
+our lyfe remayneth in Christe: then muste wee
+acknowledge that in our selues we are deade.
+
+[1.20] Yf we seke oure force and strength in hym:
+then must we vnderstande that we destituted
+of all strength, do faynte. Yf we put all oure
+felicitie in his mercy: we must neades perceiue
+howe great our misery is, whē that is a way.
+Yf our quietnesse & tranquilite be reposed in
+him: thē must we feele nought els in our selues
+but vnquietnes, troublesome eares, and solicitudes.
+And such affection can not be in vs but
+it wil ingender in vs a cartayne displeasaunce
+of our whole lyfe, besydes the care•ulnes and
+feare, & at the laste, the loue & desire of iustice.
+For he that knoweth the filthines of his sinne
+and the m•serie of his estate whilse he is exiled
+from God, is so gr•a•ly a bashed, that he is cō
+strayned,
+to be out of conceyt with him selfe
+to condemne hym selfe, and for very dolour of
+hert to weepe and syghe. To these thynges, is
+the iudgement of. God obiected incon•mente,
+whiche thrutcheth the conscience of the synner
+in wonderfull straites, whan he perceiueth y•
+he can by no meanes escape, and that there is
+no place of defence remayning. Whan we acknowledginge
+oure owne misery after suche
+sorte are able to taste of the goodnesse of God
+then do wee desire to directe all the order of
+oure lyfe vnto his wyll, that (abiectinge the
+thynges whiche we folowed before (we maye
+in him be made a new creature. Yf wee, therfore
+wyll haue that communyon, whiche is be
+seming for vs to haue, the communion of the
+mooste holye supper of the Lorde: Let vs
+with a frime cōfidence of mynde take Christe
+for our iustice, lyfe and health: let vs embrace
+his promesses supposynge them be to certayne
+and cōstant: let vs renounce al succours to the
+contrarie, whiche striue therwith, and all confidence
+of the same: that we distrustynge oure
+selues and al other creatures maye be quiet in
+him onelie, and content oure selues with his
+onely mercie which thing bicause it can not be
+done, vnlesse we know how moche neade we
+haue of helpe and succure: no remedy we must
+neades be moste sharpely pricked and digged
+as it were wt a goade, through that fealing of
+our misery: that we as mē half• famished, may
+desprously loke for him. For howe fonde a
+thynge were it to seke for meate wythout any
+maner of appetit: And to gette an appetite to
+meate, the nexte way is to haue an emptye stomake,
+but in suche takynge that it maye admitte
+meate Of this it foloweth y• it behoueth
+our soules to be hungry, and seruentlye to desyre
+meate, that they maye in the supper of the
+Lorde fynde theyr nu•rimente. Forthermore,
+it is to be noted that we can not desyre Christe
+vnlesse we do aspire to y• iustice of god: which
+consisteth in the denyall of oure selues, and
+the obedience that ought to be giuē vnto hym.
+For it can by no meanes agree, that we should
+be of the bodye of Christ. 〈◊〉 uyng in the meane
+〈◊〉 f•lthily, volt•ptuously, and without •ule
+Sc••ge that in Christe is nought elles but all
+puritye, contin•nce, gentl•nesse, sobrietie, veritye,
+humblenesse and other lyke vertu•s: it behoueth
+vs (yf we wyll be membres of his body)
+to be cleare frō al voluptuousnesse & riotte
+from arrogancy, intempetance, vanitie, pryde,
+and other vices. For we can not mingle those
+wyth him wythout great shame and reproche.
+It behoueth vs all waye to rem•mbre, that
+there is no more concorde betwene him and iniquitie,
+then is betwene lyght and darkenesse.
+Lo by what meanes wee maye come to perfyt
+repentaunce: by appoyntynge our iourney so,
+that oure lyfe be fashioned after the example
+of Christe. But, although thys thynge be commune
+to all partes of the lyfe: yet take they
+place chieflye in charitye: which in thys Sacrament
+is singulerlye commended vnto vs.
+
+[1.21] By reason whereof, it is also called the bonde
+therof. For as the bread, whyche for the vse of
+all men, is there sanc•ifyed, is made of man••
+grayn•s, so compacte to gyther that one can
+not be seperate and discerned from the other:
+euen after the same rate oughte wee to be ioyned
+togyther wyth the indissoluble bonde of
+frendshyppe. And so do we all receyue one bodye
+of Christ, to the ende we may be his m•mbres.
+But yf we be full of discordes and di•
+cencions::
+we do as muche as in vs lyeth, teare
+Christ and poule hym in sunder neyther shall
+we be gyltye of smaller sacrilege, then yf we
+had done the thynge in dede, Let vs not therfore
+bee bolde to come thyther, yf anye hatred
+or euyll wyll towardes any man, and chiefly a
+christiā and ioyned to the vnitie of the church•
+do remayne in vs. We muste also (for the kepyng
+and folowyng of the order of the Lorde)
+brynge wyth vs an other affection: that is to
+saye, that we confesse wyth mouth and declare
+in verye dede howe muche we are bounde to
+our Sauiour: and that we may gyue thankes
+vnto hym: not onelye that wee maye gyue
+glorye to hys name, but that we maye also instructe
+one an other, and that our neyghbours
+maye, through oure example, learne what they
+ought to do.
+
+[1.22] But for that there can no man be founde,
+that hath so profited in fayth and sanctitie of
+lyfe, but that he lacketh yet verye muche: it
+were daunger leste verye many godlye consciences
+shoulde be troubled wyth those wordes
+that I haue spoken, vnlesse I would retourne
+myttigatynge those preceptes whiche I haue
+gyuen of fayth and repentaunce.
+
+[1.23] For that kynde of teachynge is very daungerouse,
+wherin some men, leauynge the perfyte
+truste and repentaunce of the mynde, wyl
+that all men whyche be not indued wyth such
+thynges, be excluded. For so shoulde all men,
+be excluded, not one man excepted.
+
+[1.24] And to proue that thynge to be trew, who
+can boste that he hath no poynte of diffidence
+in hym? and that he is depraued wyth no spot
+of mynde, or wyth no kynde of weakenesse?
+Certes the chyldren of God haue suche fayth
+that it is neadful for thē alwaies to pray vnto
+the lorde that he be present and helpe theyr incredulitie.
+For thys disease is so faste rooted
+in vs, that we can by no meanes be healed, before
+we be delyuered out of the boūdes of this
+body. Yea the holinesse of our life is such, that
+we muste neades praye dayly to gette remission
+of synnes, and grace to amende.
+
+[1.25] And, although some be more imperfyte then
+some, yet is there no men but he falleth in many
+thynges. And therfore, yf that integr•tye
+of fayth and lyfe be requyred, wherein wanteth
+no•hynge at all: the supper shoulde not be
+onely vnprofitable vnto all men, but also very
+hurtful, which thinge, no doubt, is most wyde
+from the mynde & purpose of the Lorde which
+gaue vnto his congregacion, nothynge more
+wholesome then that. When we therfore, shal
+fele in oure selues a fayth not yet perfyte, and
+shall not be indued wyth so pure a conscience
+but that it accuse vs of many vices: that ought
+not to let vs for comynge to the Lordes sacred
+table: so be that we, voyed of al hypocri•y and
+simulation, do in y• weakenesse trust for health
+in Christ, wyllyng to directe our lyfe after the
+rule of y• gospell. But namely I say that there
+be none Hypocrisy: bicause very many do disceyue
+thē selues wyth vayne flat crynges, persuaring them selues that it is sufficient if they
+condemne theyr vices although• th•y do nourishe
+the same: or els it sufficeth if they absteine
+frō them for a tyme and intende to retourne to
+the same agayne incontinent. But the true repentaunce
+is firme and constant. And therfore
+it bryngeth to passe that wee stryue agaynste
+the euyll that wee oure selues carye wyth vs,
+nor for a fewe dayes or monethes but through
+all the tyme of oure lyfe: wythout any maner
+intermission. When we fel• that vices do s•
+displease vs, and that the vnf•in•d hatred for
+th•m protedyng from the feare of god, is graffed
+in vs, and that we be also led wyth the desyre
+to lyue well and holylye: wee are apte and
+mete to receiue the supper of y• Lord: although
+there be yet remayning in vs very many fragmentes
+of infirmities. Yea vnlesse we were
+weake, subiect to diffidence, & vnperfecte lyfe:
+the sacramente were vnprofitable for vs, and
+the institution therof had not ben necessarye.
+Seynge therfore it is the remedye wherwyth
+God would succure our weaknes, strēghthen
+oure faythe, increase our charite and set vs forwarde
+in sanctitie of lyfe: we oughte so moche
+the rather to vse it, how moch more greuously
+we feele our selues oppressed wyth the magnytude
+of y• disease. Moch lesse ought it to be an
+impedimēt vnto vs. For if we do lay for excuse
+that we be yet weake in fayth, and not of lyfe
+perfyte ynoughe, to the intente we maye with
+drawe oure selu•s frome the vse of the supper
+it were euen lyke as yf a man would abstayne
+from physyke because he were sycke.
+
+[1.26] The weaknesse therfore of fayth & the vyces
+of our lyfe ought to admonishe vs to come
+to the supper, as to the chyefe remedye, that
+they myght bee amended and corrected.
+
+[1.27] So that we come not, voyde of all faythe and
+repentance. Wherof the fyrst is hyd in ye mind
+and therfore our conscience must beare vs witnesse
+before God. The later is declared in action
+and worke: and therfore it is requisyte y•
+it appeare in our lyfe.
+
+[1.28] As concernynge the tyme of celebratynge
+the supper, it may not bee apoynted and prescribed
+vnto all men. For there is no man but
+he shall sometyme haue suche pryuate impedyment•s,
+as maye excuse a man thoughe he abstayne.
+Besydes that wee haue no precepte.
+wherby all men be compelled to vse it so ofte
+as it maye be offered vn•o them, but yet yf we
+haue respecte vnto the ende where vnto the
+Lorde leadeth vs: we shall knowe that the vse
+therof oughte to be muche more common thn
+it is commonlye amonge many men. For, loke
+how moch more we be ••pressed wt weakenes
+so moch the more often ought wee to be exercy
+sed in it, because it maye and ought to bee profytable
+vnto vs, both for the confirmacyon of
+our fayth, and also for the settynge for warde
+of the holynesse of lyfe. Wherfore in all congr•gacyōs
+wel ordered, ought to be such custō
+that the supper be celebrate so ofte as maye be
+and so much as y• people shalbe able to receyue
+And euerye priuate persone ought, so much as
+in hym lyeth, to be ready to receyue it so often
+as it shall be celebrate in a common assemble:
+vnlesse he be by verye vrgent causes constrayned
+to absteyne. For, all be it, that the tyme is
+not assigned nor the daye expressed by any precepte
+or cōmaundement: yet ought this thinge
+to suffice, that wee knowe it to be the Lordes
+wyl we should vse this Sacramēt of y• times.
+Otherwyse we knowe not the profite that cometh
+vnto vs therby. The excuses that some
+men lay, are voyed and vayne. Some say they
+are not worthye: and by that pretexte they absteyne
+all the yere. Other do not onelye consyder
+howe vnworthy they be: But they do also
+laye for them, that they can not communicate
+wyth suche as they see come thyther vnprepared.
+Also, other suppose that the ofte vse of it
+is superfluous: neyther do they thynke that it
+ought to be so often iterated and repeted, after
+that we haue once receyued Christe. I aske of
+those fyrste, whyche laye for them selues theyr
+owne vnworthynesse: howe theyr conscience
+can susteyne so greate miserye more then an
+yere, & dare not call vpō the lorde accordyngly.
+For they wyl graunt it to be a poynte of rashnesse,
+to call vpon god as a father, vnlesse wee
+be the membres of Christ. Whyche thynge
+can not be done vnlesse the substaunce and veritie
+of the supper be fulfylled in vs.
+
+[1.29] And yf wee haue the veritie it self▪ we are
+wyth muche better reason, mete to receyue the
+signe.
+
+[1.30] Wherby we perteyue, that they whyche
+woulde exempte them selues from the supper
+as vnworthye, do robbe them selues of that
+great commoditie of inuocatyng and prayinge
+to god. But I woulde not cōpell them whose
+consciences be troubled and feared by anye religion,
+to the intente they shoulde intermingle
+them selues rashlye: But rather I counsayle
+them to tarye for a season, vntyll the lorde shal
+voultsafe to delyuer them from that anxietie.
+In lyke maner yf there be anye other cause I
+do not deny but it is lawfull to deferre.
+
+[1.31] I do onelye purpose to declare, that no man
+ought to continewe longe in thys thynge that
+he maye absteyne for vnworthynesse.
+
+[1.32] For so is the congregacion robbed of the communion:
+wherin all oure health consisteth.
+
+[1.33] Let hym rather indeuoure to fyghte agaynste
+all the impedimentes wyche the deuyl casteth
+agaynste hym, leste he be excluded frō so greate
+a good thynge, and consequently robbed of all
+the benefytes to gyther.
+
+[1.34] The other mens reasone is more aparaunt:
+bycause they vse this reasone. That is to say,
+yf it be not leaful to eate commune bread with
+them that name them selues brethrens, and
+dooe, yet neuerthelesse▪ lyue fylthyly and lycen
+cioussye: moche lesse that breade, whych is consecrated
+for this intent, that it maye represent
+and geue vnto vs the bodye of the Lorde.
+
+[1.35] But it is no harde thynge to make answere to
+these also, that it perteyneth not to euery priuate
+person, to iudge and decerne, who ought
+to be admit•ed, and who to bee depelled: but
+to the whole congregacion, other else the shepe
+he•de and elders, whose helpe he oughte to
+vse in the orderyng and gouernyng of the congregacion.
+For sayncte Paule cōmaundeth vs
+not to examyne other, but oure selues
+
+[1.36] It is our dutie, to admonish them that lyue viciouslye:
+and if they wyll not here vs to make
+relacion to the shepeherde: that he maye finishe
+the matter by the authoritie of y• congregaciō.
+But we maye not so wythdrawe oure selues
+frome the cōpanie and assemble of the wycked
+that we forsake the communion of the congregacion.
+Bysydes these thynges, it shall ofte
+tymes chaunce, that the crimes be not so magnifest,
+that it maye beleaful to procede to excō
+municacion.
+For, although the shepeherde shal
+in his mynde iudge any man to be vnworthy:
+yet may he not pronounce him to be such a one
+or prohibite hym the supper: vnlesse he haue cō
+uicted
+hym by the iugemente of the congregacion,
+whyche thynge whan it chaunceth, there
+remayneth none other remedie, but that we desyre
+god that he wyll delyuer his church from
+al offences: in this meane tyme whylse we loke
+for the daye of indgement, wherin the chaffe
+shall be seuered from the good grayne. The
+thyrde, haue no kynde at all of the lyklinesse of
+the truthe. For this spirituall bread is not gyuen
+vnto vs, to the intēt we should be glutted
+incontinent, but rather, that tastyng the swetnesse
+therof, we shoulde hunger the more after
+it, and vse it as often as it shoulde be profered
+vnto vs. This is the thing that I haue expoū
+ded
+before: that Iesus Christ is neuer so communicate
+vnto vs (so longe as we be in thys
+mortall lyffe) that oure soules maye be saciate
+with hym, but that he maye be an acustomed
+nouryshement vnto them.
+
+[1.37] To come to the fourth parte. Whan the
+deuyll perceyued that the lorde lefte to the congregacion,
+nothyng more profitable than thys
+sacramēt: he dyd (after his accustomed maner)
+employe hym selfe (euen incontine•t vpon the
+fyrst institucion) to cōtaminate it with diuers
+errours and supersticions, to y• intēt he might
+corrupte and distroy the fruite therof: neither
+dide he sease to labour hys purpos, vntyll he
+had put away the institucion of the lorde, and
+tourned it into a lye and vanite. It pertaineth
+not to my purpose to assygne in what tyme euery
+disceyte and erroure had hys begynnyyg.
+It shall be sufficient for me articularly to note
+the erroures y• the deuyl hath inuented, which
+we muste beware of yf we wyll haue the supper
+of the Lorde vncorrupted. Fyrst therfore
+whā the lorde gaue the supper vnto vs, to the
+intent it shoulde be distributed among vs, that
+it might represēt vnto vs the cōmunion which
+we haue in his bodye, and also that we myght
+be partakers of that sacrifice, whyche he offered
+vnto his father, to purge oure sinnes: men
+haue on the contrarie, by theyr owne wyttes
+commented, that it is a sacrifyce wherby we
+obtayne of god remission of sinnes. Whyche
+thynge is detestable sacr•lege, and not to bee
+suffered by any meanes. For vnlesse we acknoledge,
+and beleue stedfastlye that the death of
+the lorde Iesu Christe is the onely sacrifice,
+wherby he reconciled vs to god the father, puttynge
+away al the sinnes wherof we were giltye
+in hys iudgement: we ouerthrowe and distroye
+hys force and efficacie. Unlesse we graūt
+that Christe is the onely pryest by whose inte•cession
+we are comen agayne into fauour with
+his fath•r: we robbe hym of hys honoure, and
+do him great iniurie. Seing therfore, that, that
+opinion whiche fayneth that the supper of the
+lorde is a sacrifice wherby we gette & obtayn•
+remission of synnes, fyghteth agaynste the
+same, it muste be taken awaye & condemned as
+diuyllyshe. That it repugneth is most. certaine
+For how cā these thynges agree? That Christ
+in dyinge, offered sacrifice to y• father: wherby
+once for all he optayned pardon and remission
+of all oure sinnes: & that we muste sacrifyce agayne
+daylye, that we may obtayne that thing
+whyche is to be sowght in hys onely death?
+
+[1.38] Thys erroure was not at the higheste incontinent
+vpon the begynnyng, but increasynge by
+lytle and lytle, it was at length brought to this
+point. It is manifest y• the fathers of olde time
+called the supper a sacrifice. But they showe a
+reason why, because the death of Christ is represented
+there in. Theyr saying therfore, is to
+this purpose, that because the supper is the memorie
+of that onlye sacrifice, wherin we ought
+vtterlye to content oure selues, therfore is that
+name attributed. Neyther can I blame the custome
+of the olde congregacion, because they
+did in theyr gesture & riete figurate a certaine
+ymage of a sacrifice, wt the same cerimonies in
+maner, that were in vse vnder y• olde law: this
+one thynge excepted, y• in steade of a •east, they
+vsed bread for theyr sacr•fice. Whyche thinge
+for that it pricketh to nere the Iewyshe marke
+and is not agreable to the institution of the
+Lorde, I do not alowe it.
+
+[1.39] For in the olde testament (the tyme of figures)
+the lorde instituted such ceremonies, to be
+obserued, vntyll that sacrifyce were celebrated
+in the fleshe of his moste deare beloued sonne,
+whyche was the truth of them all.
+
+[1.40] Seynge therfore, all thys is finished, there remayneth
+no more but that we vse the communion
+therof. It is therfore superfluous, to declare
+that thynge, wyth figures. Therfore, by
+the instruction of Christ, we are not commaū
+ded
+to offer or sacrifyce: but to take and eate
+the thinge that is al ready offered and sacrificed.
+And although the aūcientes, dyd somwhat
+offende in that obseruation: yet was not the
+impietie so great as that which dyd afterward
+crepe in. For the thynge that was proper and
+peculiar to the death of Christe, was vtterlye
+transposed to the masse: that it myght satisfye
+to god for our offences, & that we myght be reconcyled
+by it. Besydes these thynges, that office
+whyche was Christes, was attributed vnto
+them which called them selues priestes that
+they myghte sacrifyce vnto god, and that they
+myght praye before hym wyth theyr sacrifices
+to optayne pardone and remission of oure sinnes.
+I wyl not dissēble in these soluciōs which
+the enemyes of y• truth do brynge in this matter.
+That the masse is no newe sacrifyce, but
+the applicacyon of that onelye sacrifyce wherof
+I haue spoken. Althoughe they go aboute
+to couer theyr abhominacion wyth some maner
+colour: Yet doth it manifestlye apeare to
+be a mere cauillacion. For it is not onely sayd
+that the sacrifice of Christe is but one: but also
+that it oughte not to be iterate, s•ynge that
+the force and efficacie therof is perpetual. It is
+not sayd that Christe was ones offered vp to
+the father, that other shoulde afterwarde v•e
+the same oblacion: that they myght applye vnto
+vs the force of his intercessyon: but that he
+is entred into the sanctuarye of heauen, and
+that he apperethe there to the intente he may
+make the father mercyfull vnto vs, throughe
+hys intercession. As concernynge the applycacyon
+of the merites of his death, that we
+may feele the fruite therof: that is done, not after
+suche sort as they of the popyshe churche
+thynke it to be done: but when we receyue the
+tydynges of the Gospell, euen such as the ministers
+whom God hath ordeyned as embasatours,
+dooe in theyr preachynge proteste: yea
+such as he hath sealed wyth sacramentes as
+wyth seales. All, aswel teachers as pastours
+haue alowed this opinion of the commone people
+wherin they supposed, that mā to deserue
+mercye and iustifcacion (euen for the workes
+sake) which woulde heare or bye a masse.
+
+[1.41] But I saye, that yf we wyll take any profyte
+of the supper, we muste bring thether nothing
+of our owne, to the intent to deserue the thing
+that we loke for: but that we muste onelye receyue
+wyth fayth, the mercye that is in it offered
+vnto vs. And yet doth not that mercye remayne
+in the sacramēt: but as it commeth frō
+the crosse of Christ, euen so it sendeth vs back
+agayne to the same. Nothyng therfore, is so
+contrary to the true vnderstanding of the supper,
+as to make therof a sacrifice. For it wyll
+not fuffer vs to acknowledge the deathe of
+Christe to be the onely sacrifice, whiche shall
+continewe for euer. These thynges well vnderstande,
+it shall be euident, that al those masses
+wherin is no suche communion of the supper
+as the Lorde instituted, are nought else but verie
+abominacyon. For the Lorde dyd not ordayne
+that the prist only should seuerally satisfie
+him selfe after he had fynished his sacrifice:
+but his wyl was y• this sacramēt shoulde
+be distributed in an open assēble, like vnto the
+first supper which he celebrated with his apostles.
+But after y• this detestable opinion was
+inuented, this vnhappie custome proceded out
+of it as out of an hell mouthe, wherin the people
+contenting them selues with being present
+at the action, as though they should therby optayne
+some great merite, do in the meane time
+abstaine from the cōmunion: because the prest
+bosteth that he offereth sacrifice for all and
+chieflie for them that be present. I let passe the
+disceytes and illucions wherin▪ is so moche
+vnseamelynesse, that they are not to be spoken
+of: as to attribute to eueri little saynt his appropriate
+masse: and to transferre vnto •atte
+and wyll (as we saye in the French prouerbe)
+the thynge that is spoken of the supper of the
+lord. Also to make marchaūdise therof. With
+the other puddell of filthynesses which haue
+spronge of thys name sacrifice. An other errowre
+foloweth whych the deuyll hath sowen
+to the intente to corrupte thys hyghe mistcrie
+that is to saye, in that he commented the trāssubstanciacion
+of the bread into the bodyeand
+of the wyne into the bloude of Christ, after
+the wordes should be pronounsed wyth the
+intente to consecrate.
+
+[1.42] Fyrst that cōment hath no foundacion at al
+in the scripture, neyther hath it any testemonie
+of the olde congregation: and therfore can it
+by no meanes agree or stande with the wordes
+of the lorde. Is not suche an interpretacion to
+violent and to muche wrasted? To saye, that
+when Christ shewynge bread, calleth it his bodye,
+the substance of the bread is cōs•med, and
+that the bodye of Christe succedeth in the place
+thereof? But it neadeth not to call the matter
+into question, seinge that the bryght & splendiferouse
+veritie is of it selfe able to confute so
+absurde a vanitie. I let passe infinite testimonyes
+both of the scripture and of the fathers
+also, wherin the sacramente is called breade. I
+saye this onely, that the nature of the Sacramēt
+requireth: that the material bread remayne
+for the visible signe of the body For it is a generall
+rule amonge y• sacramētes: that the signes
+whiche we se in them, ought to haue some
+similitude wyth the spirituall thinge that they
+represent. As we are therfore in baptisme, certifyed
+that oure soules be inwardlye washed,
+whē the water, y• washeth the fylth of the body,
+is powred vpō vs to declare y• same thing:
+euen so must there neades be in the supper materiall
+breade, that it may be declared vnto vs
+that the bodye of Christe is oure foode. For
+what declaracyon were it, yf the qualitie wytnes
+shoulde represent vnto vs that body. We
+knowe therfore manifestlye, that vnlesse the
+substance of bread do there remayne, al the representacion,
+whiche the lorde (wyllynge to accommodate
+hym selfe to oure infirmitie) gaue
+vnto vs: doth vtterly decaye and peryshe.
+
+[1.43] For the wordes which the lorde spake soūde
+no lesse then yf one woulde saye. In lyke maner
+as mans body is nouryshed and susteyned
+wyth bread: so is my fleshe the spiritual foode
+wherwyth the soules be quyckened. Besydes
+these thynges. For what purpose doth Paule
+propone that similitude? as one lofe is made
+of many graynes, mingled and ioyned to gether
+one wyth an other: euen so wee (for as
+muche as we take parte al of one bread) ought
+to be faste ioyned togyther one with an other.
+And yf the whytnesse onelye shoulde remayne
+wythout the substance, were it not a thyng to
+be laughed at to here a man speake as Paule
+doth? Wherfore wythout any doubtyng at al
+I conclude that thys transsubstanciacion is
+the deuylles interpretation, to depraue y• truth
+of the supper.
+
+[1.44] Many dotynge castes haue folowed of this
+lye: & woulde God they had not ben more then
+doting castes, & that they had not ben also horrible
+abhominaciōs. For mē (imagining, I can
+not tell what maner of placelye presence) haue
+taught y• bothe the diuinity & the humanitye of
+Christ are fastned vnto y• whitenes, nothinge
+cōsyderyng what incōueniēses folowed vpon
+the same. Although the olde doctours of Sorbone
+haue reasoned very subtllly, how the body
+& bloud be ioyned with the signes: yet can it
+not be denyed, but that in the popyshe church,
+was receyued both of high and lowe, and is at
+this day with fyre, sworde, murder, & al kynde
+of tormentes cruelly defended and holden, this
+opinion: that Christe is conteyned vnder these
+signes and that we ought to seke hym there.
+
+[1.45] Whiche opinion yf they wyll maynteyne: no
+remedy they must also graūt, that the bodye of
+Christ (as a thinge infinite) is conteyned in no
+place, other elles that it is in diuers places at
+once. And in the affirmynge hereof, they come
+at length to this passe, that it differeth nothing
+at all frome a fantasticall apparicion. To appoyn•e
+therfore suche kynde of presence inclosed
+in a place, wherein the bodye of Christe
+shoulde be included in, or as they saye locallye
+ioyned to the signe• is not onelye a thynge foly
+she, but also an execrable errour diminishing
+the glory of Christ• vtterly destroying al that
+ought to be bel•ued as cōcerninge his humane
+nature. For y• scripture teacheth in euery place
+that lyke as in earth Christ toke our humanitie,
+euen so, he pluckynge the same out of thys
+mortall estate, and yet nothynge chaungynge
+the na•ure therof, caryed it vp into heauē. And
+for thys cause oughte we when we speake of
+the humanitie of Christ, to consider two thinges.
+The fyrste, that we diminishe nothinge of
+the veritie of his nature. The other, that we
+derogate nothynge of his glorious estate. And
+to do thys thynge in his kynde, we muste lefte
+vp our myndes into heauen, that we may seke
+out redeamer there. For yf we wyll caste hym
+frome vs vnder the corruptible Elementes of
+thys worlde: we shall both destroye those thinges
+whiche the scriptures do wytnes as concerning
+his humane nature: and also bringe to
+nought his moste glorious ascension. But bycause
+many mē haue abundantly handled this
+matter: I had rather let it passe then to wade,
+further therin. My mynde was to note, by the
+waye, thys thynge onely. That to thynke that
+Christ is shutte vp vnder the bread and wine,
+other els to ioyne thē so togither, y• our mynde
+cleaue fast there and is not erected into heauē:
+is a diuelyshe dottage, whyche thynge I shall
+also toutche in an other place. And when thys
+peruerse opinion was once receyued, it ingendred
+many other supersticions. Fyrst that carnall
+adoracion, which is none other thyng but
+mere idolatry. For yf a man woulde prostrate
+him selfe before the breade, and honour Christ
+there, as yf he were there presente, conteyned
+therin: were not that the setting vp of an idole
+in steade of the Sacrament? For we were not
+cōmaunded to honour, but to eate. We ought
+not therfore so rashely to attempt that thinge.
+Forthermore thys was an obseruation in the
+olde congregacion, to admonishe the people before
+the supper shoulde be celebrated, that they
+lyfte vp theyr hertes, to the intent they shoulde
+vnderstande, that they oughte not to styke in
+the visible signe, yf they would honour Christ
+a right. But we shal not long contende as cō
+cernynge
+thys article: yf the presence and coniunction
+of the veritie wyth the signe be well
+vnderstande: wherof I haue all readye spoken
+and wyl hereafter declare at large. Out of the
+same fountayne are sprongen the residewe of
+the supersticiouse ceremonies: as to carye the
+Sacramēt thorow the stretes once in the yere▪
+as it were in a pompe, an other season to set
+vp a taberancle for it, and to kepe it al the yere
+longe shutte vp in a pire or case, that the people
+maye giue hede there vnto as vnto god, which
+shynges bycause they are all not onely inuented
+by mans wytie without the worde of god,
+but also playne repugnante to the institucion
+of the supper: they ought of all Christians vtterly
+to be reiected.
+
+[1.46] I haue declared whēse thys calamity of the
+papisticall churche, that the people doth all the
+yeare longe absteyne from the communion of
+the supper, had hys begynnynge: bycause it is
+counted as a sacrifice whyche one man muste
+offer vp in the name of the whole multitude.
+But although we maye vse it but once euerye
+yere, yet it is then miserably pulled in sunder, &
+as it were torne in pieces. For where as the sacrament
+of the bloude ought to be distributed
+to the people, as it apeareth by the expresse cō
+maundement
+of the Lorde: they decree that the
+people ought to be cōtented with the one halfe
+parte. So are the miserable christians, by most
+wycked gyle robbed of the benefyte that God
+gaue thē neither is it any smal benefyt to haue
+the cōmunion of the bloude of the lorde to nouryshe
+vs wyth all: and it is to muche crueltye
+to take that thynge violently from them vnto
+whom it belongeth of ryght.
+
+[1.47] Wherin we maye easelye perceyue, wyth
+what foole hardinesse and frowardnesse the
+pope hath exercised tyranny agaynst the cōgregacion
+of God, after tyme that he onely helde
+the impery, when the lorde had cōmaunded his
+disciples to eate the breade that was sanctifyed
+in his body: and then comynge to the cuppe
+he sayed not onely drynke ye, but he added exprestely,
+al. Woulde we haue a thynge spoken
+more openly? he byddeth vs eate the breade vsynge
+no vniuersall worde therin. But of the
+cuppe he byddeth vs all drynke. Whense cometh
+thys difference: but that he entended ther
+by to preuent thys malyce and subtyl crafte of
+the dyuell? Neuerthelesse, the pope is of suche
+arrogancye and pryde: that he dare be bolde
+to cōmaunde to the contrarye: loke that ye do
+not all drynke. And that he maye declare hym
+selfe to be wyser then God: he sayth it is right
+and agreable to reasone, that the priestes haue
+some prerogatyue more then the people, to the
+ende that the dignitie of a priest should be honoured.
+As though the Lorde had not bene of
+discrecion nor had consyde•ed after what sort
+the one ought to be knowne from the other.
+Besydes thys he obiecteth the daungers that
+myght befal yf the cuppe shoulde be gyuen cō
+monly
+vnto al mē. Some drope forsoth, might
+chaunce to be shedde as though the Lorde hadnot
+forsene that thynge.
+
+[1.48] Doth he not laye negligence to the Lordes
+charge, that sayth he cōfoūdeth the order that
+he shoulde obserue, and that he hath caste hys
+people into thys daunger wythout any maner
+of reasone? And that they maye declare that
+there ensue•h no great incōmoditie vpon thys
+chaunge, they saye that the whole is cōprehended
+vnder one kynde, bicause the body can not
+be separated from the bloude. As thoughe the
+lorde had disc•uered thē, the one frō the other.
+For yf the one part maye be lefte as superfluous:
+it had bene folyshe and vayne for both to
+be distinctly, & seuerally gyuen vnto vs. But
+some of the popes bande, perceyuyng that this
+so greate abhominacion coulde not otherwyse
+be defēded then impudentlye, went aboute to
+couer it by some other meanes. They say, that
+when Christe instituted this Sacramente, he
+spake vnto his apostles onelye whō he had as
+then promoted to the order of priesthode. But
+what answer wyl they make to Paule, which
+sayeth, that he hath taught the christen people
+the thing that he learned of the lorde, that euery
+one should eate of the bread & drynke of the
+cuppe? But who hath reueyled vnto these men
+that Christe gaue the supper vnto his apostles
+as vnto priestes? The wordes soūde to the cō
+trarye
+in that he doth afterwarde cōmaunde,
+that they folowing his example, shoulde do the
+same. He prescribeth therfore a rule whiche he
+woulde shoulde continewe in his churche for
+euer. And thys rule was in the auncient tyme
+obserued: vnto suche time as Antichrist ruling
+alone, auaunced him selfe, and stretched vp his
+hornes agaynste God vertitie, to the intent to
+destroy it vtterly. We se therfore that it is intollerable
+frowardnes, so to deuide and teare
+this Sacramēt y• those partes should be disceuered
+which god hath ioyned. That I may cō
+clude
+the more briefely: I wyll comprehende in
+one chapter, the thynge that elles myghte haue
+ben deuided. That is to saye, y• the deuil, hath
+(without any doctrine of the supper) brought
+in thys maner of celebratyng, setting vp in the
+steade of the doctrine, ceremonies, some fylthy
+some vnprofitable, some also noysome & daungerouse:
+whereof haue ensued verye manye
+euylles. In so much y• the masse which is vsed
+in y• popish church in steade of the supper, if I
+shoulde define it a righte, is none other thinge,
+then a mere apishe emulation & disguised masking.
+I cal it an apishe emulacion, bicause that
+like as apes do play the wātons in imitatyng,
+rudely & without reason, the workes of men:
+euē so do they imitate the Lordes holy supper
+in suche wyse, y• with theyr prepesterous inuē
+tions,
+they corrupte the hole truth therof. And
+to declare this to be true, is not thys the chiefe
+thynge hat the Lorde lefte with vs, that we
+shoude celebrate this mistery with perfyte and
+true vnderstandyng? where vpon it foloweth
+that the substance therof cōsisteth in doctrine.
+
+[1.49] And that once taken awaye, there remayneth
+noughte els but a ceremonye, coulde and
+without vertue or strength. Not onely scriptures
+are wytnesses of this thyng, but also the
+popes owne lawes: wherein there is a sētence
+alleged, in whiche Augustine asketh what other
+thynge baptisme shoulde bee wythout the
+worde, then a corruptible Element. Wy•h the
+worde, as he addeth incontinent, not in that it
+is pronunced, but bicause it is vnderstande &c.
+Wherby he declareth that the sacramentes do
+take theyr force and energy of the word of the
+lorde: when it is preached after suche sorte as
+it maye be vnderstanded. The residewe, is not
+worthy the name of a sacramente. But in the
+masse, it is so farre vnlyke that any doctrine
+should be intelligibly harde, that cōtrary wyse
+al the whole mistery is thought to be prophaned
+vnlesse all thinges be sayd and done priuily
+& couertly to the intent nothing may be perceyued
+or vnderstande. So, that theyr cōsecration
+differeth nothinge frō a kynde of inchaūtmēt.
+For after the maner of an inchaūter, they
+thynke that wyth whysperynges & diuers gestures,
+they brynge Christe out of heauen into
+theyr handes: Whereby we perceyue, that the
+masse so ordeined, is rather a manifest and opē
+prophanacion of the supper, then the obseruation
+therof: and that the peculier and chief substance
+of the supper wanteth: which consisteth
+in thys thynge, that the mistery be truely opened
+to the people, and the promesses rehersed
+wyth open voyce: not that the priest: wyth out
+other reason or vnderstandyng, shoulde stylly
+whysper out an hummyng that can not be vnderstande.
+I call it a play or maskyng, bycause
+there is nought els sene but the folyshnes and
+gestures of players, which thinges woulde become
+a playe muche better then the sacred supper
+of the lorde. No doubt, the sacrifices of the
+olde testament were celebrated with diuers ornamentes
+& ceremonies. But bicause they had
+a good significacion, and were all ordeyned to
+instructe and exersice the people in godlynesse:
+they were far vnlike vnto these, which serue
+for none other purpose at all, but that wythout
+any maner profite they maye occupye and
+holde suspense, the mynd of the people. To cō
+clude,
+because these masse mōgers (yf I maye
+so call them) do allege thys example of the olde
+testamēt, for the defence of their ceremonies, it
+shal be good to note what difference is betwen
+that whyche they do, and that whych was by
+god commaunded to the Iewysshe people.
+
+[1.50] For yf I laye for me this one thyng, what
+so euer was then doone was founded on the
+commaundement of God: and that theyr foolyshe
+tryfles hane none other foundacion than
+on mans inuencion: were not there a great difference?
+But I haue thynges to disproue thē
+wyth, that be moch greater then these be. For
+it was not for naught that the lord prescribed
+such a forme for a tyme, to the intent that at y•
+length it should haue an ende and be abrogate
+No doubt because he had not as then declared
+hys doctrine so playnly, he woulde so moche
+y• rather y• his people shold be exercised in figuers:
+that the thynge whych wanted in that testament,
+myght be repared in the other. But
+sense that Christ apeared in the fleshe: loke by
+howe moche more the doctrine is lyghtened, so
+moch more are the figures diminished. Seyng
+therfore we haue the bodye▪ we must leaue the
+shadowes. For yf we wyll replenisshe the abolyshed
+cerimonies: we shal patche agayne that
+vaile▪ that Christ brake in sonder by his death
+and so shall we obscure and darken the lyght
+of the Gospel. Thus do we perceyue, that this
+multitude of cerimones, whych is sene in the
+masse, is the forme of the Iewyshe law, vtterly
+contrarie to the christiā relygyon. I am not
+of that mind that I would disproue al cerimonies,
+whyche do serue to honestie and a publyke
+order, wherby the more reuerence is geuen
+to the sacrament: so that they do well agree to
+the purpose, and be sober. But that immensurable
+laborynthe, maye by no meanes be sufferred:
+for as moche as it hath ingendred infite
+supersticiōs, & made the people as it were am•
+sed
+wyth out any maner edificacion. By thys
+it may easily be perceyued wherin those, vnto
+whom god hath opened the vnderstandyng of
+his truthe, oughte to deffer from the papistes▪
+First, thei shal be out of doubt y• it is abominable
+sacreledge, to compt y• masse as a sacrifice,
+wherby remission of synnes may be obtayned
+other to repu•e y• priest for a mediatoure, whiche
+may applie the merites of Christes passion
+vnto thē y• bye masses, or be presēt at y• doyng
+of them, or do wyth deuocion worshippe them.
+But they shal rather beleue that the death and
+passion of Christe, is the only sacryfice wherby
+the ire of god is pacified, and perpetuall iustice
+gotē vnto vs. And by sydes these thynges
+that the lorde Iesus is entered into the celestial
+sāctuarie: that he may there show him selfe for
+vs, and by the vertue of his sacrifice, praye for
+vs. But yet they shal esealy graūt, that the fruite
+of his death is communicate vnto vs in the
+supper, not bi the merite of the worke, but for
+the promesses that are made vnto vs therin, so
+that we imbrace them wyth fa•th. Forthermore
+they ought in no case to graunte that the bread
+is transsubstanciated (as they say) into the bodye
+of Chryst, or the wyne into bloud: but they
+must in that thyng constantly beleue, that the
+visible sygnes do retayne his substaunce, that
+hey may represent vnto vs, that spiritual veritie
+wherof I haue spoken before. Thyrdlye▪
+although they ought to be surely persuaded wt
+themselues that the lorde doth in veri dede geue
+the same thyng that he doth represent: and
+so that wee do vnfaynedlye receyue the bodye
+and bloude of Christe: yet shal they not seke if
+as included vnder y• breade, or fastned (as they
+say) locally vnto the visible sygne: moche lesse
+oughte they to hono•re the sacrament, but to
+stretch vp the minde into heauē, that they may
+there receyue and honour Christe.
+
+[1.51] Hense shal it come to passe that they shall
+dispice and condemne for ydolatrye, all those
+supersticiouse cerimonies, as well of the carying
+forth of the sacramēt in pōpe & ꝓcessiōs, as
+of the buyldyng vp of those tabernacles wherin
+it is set forth to be honoured. For the promesses
+of the lorde stretch no farther, then to y•
+vse whych he cōmitted vnto vs. Forthermore
+they shal iudge the instituciō of the lorde to beviolated
+and broken, in that the people is robbed
+of the one parte of the sacrament: and that
+it is necessarie, that bothe partes be wholy dystributed,
+yf it shoulde be obserued aryght, In
+fyne, they shal suppose, that it is not onely superfluouse
+but also dayngerouse, and that it
+becometh not the chrystian religyon, to vse so
+many cerimonies, takē of the Iewes, more thā
+the symplicitie wherin the apostles instructed
+vs. They shal also iudge that it is euen of an
+vngodly frowardnesse, so to celebrate the supper
+with gestures▪ and maskers mouinges, that
+no doctrine at al may there be herde, but is rather
+buryed, as though it were a certeyne kind
+of magycall arte. To conclude at the laste, wee
+must now come to the last of the chiefe partes.
+That is to saye, to that contencion whyche in
+oure tyme is steared in this matter, whiche for
+as much as no doubt it was of the deuils stearyng
+vpon to let, or rather to breake the course
+of the Gospell, I woulde wyshe it to be forgoten
+for euer: much lesse can I be delyted in the
+rehersynge of the same.
+
+[1.52] But bycause I do perceyue very many godly
+myndes: which know not whyther to turne
+them selues: I wyll briefely say the thyng that
+I shall thynke necessarye to declare howe they
+maye delyuer them selues.
+
+[1.53] Fyrste I desyre and beseche al faythfull persones
+euen for the names sake of the lyuynge
+God, that they be not greatly offended, bicause
+thys controuersy is moued amonge them that
+were the chiefe capiteynes, in restorynge and
+brynging in agayne of the doctrine of the gospel.
+For it is no new thinge for the lorde to suffer
+his seruaūtes to be ignorant in some thinges:
+and suffer them to contende amonge them
+selues: not that he woulde suffer them to erre
+continuallye, but for a tyme: to the intente he
+myght make them more humble. And no doubt
+yf all thynges had chaunced prosperoussye to
+thys daye, and had flowed accordynge to oure
+wyll, perchaunce men woulde haue forgotten
+them selues: other els the mercy of god shoulde
+not haue ben so muche knowen as it ought to
+be. And therfore the lordes wyll was to take awaye
+from men aloccasyon of gloriynge: that
+glory myght be gyuen vnto hym onely.
+
+[1.54] Forthermore, yf we consyder wyth howe
+greate darkenesse the worlde was beset, when
+they whiche moued this controuersy, beganne
+to leade vs backe againe to the light of the veritie:
+in dede we wyll merueyle nothynge at all
+though they knewe no• all thynges euen from
+the begynnynge. It is rather a notable miracle
+of god, that they, in so litle space of time, were
+so illumined, that they them selues myghte escape
+& leade other out of that synke of errours
+wherin we had ben so longe tyme drowned.
+
+[1.55] But there is no better waye, then to reherse
+the matter it selfe euen as it was done. For
+therby it shal apeare, that there is not so much
+matter of offence in thys behalfe, as is cōmonlye
+supposed to be.
+
+[1.56] When Luther beganne to teache, he handeled
+the matter of the supper so, that as concernynge
+the corporall presence of Christe, he
+seamed to leaue it suche, as all men dyd then
+conceyue. For condemnynge transsubstanciaon,
+he sayed that the breade was the bodye of
+Christe, bycause it was ioyned togyther wyth
+hym. Besydes thys, he added certeyne harde
+and grosse similitudes. But that he dyd by cō
+pulsion,
+bycause he coulde not otherwyse declare
+his mynde. For it is an harde thynge to
+expounde so harde a matter: and not to vse
+some thynges, not all of the fittest for the purpose.
+After this dyd zuinglius, and Ecolampadius
+begynne to growe. Whyche when they
+consydered the gyle and disceyt that the deuyll
+bad brought in, inestablishing that carnall presence:
+whyche had ben taught and beleued. v•.
+hundreth yeres before: they supposed it wyckednesse
+to dissemble a matter of so greate importaunce.
+And chiefely bycause there was annxed
+vnto thys erro•te, an e•ecrable ydolatrye,
+that Christe shoulde be worshypped as included
+vnder a piece of breade. But bycause it
+was verye harde, to pull backe thys opinion,
+whiche had ben longe & deaplie roted in the hertes
+of men, they applyed all the force of there
+wytte, to impugne the same, teachynge that
+it was a most grose and absurde •rroure not
+to acknowledge those thinges whiche be throughout
+the whole scripture, testified of the ascencion
+of Chryste. That he, in the nature of
+man, is receiued in to heauē, and that he shal tari•
+there vntyll he descende to iudge the world.
+But whylse they were very moche bente vnto
+this purpose: they omited to declare what presence
+of Chryste in the supper we ought to beleue,
+& what communiō of his body and bloud
+is ther receiued. In so moch y• Luther suposed
+thē willing to leaue nought else but y• bare signes
+voyde of y• spiritual substāce. And therfor
+he began to resyst opēly: in so moch y• he declared
+thē worthy to be cōpted for heretikes. And
+after the cōtēciō wared ones hotte, in ꝓgresse
+of tyme it was so increased & inflamed, y• it
+was to fiersely stered to & fro, about a: •v. yers
+to gether, duringe whiche tyme, neyther partie
+would, wt indifferēt and quyete mynde here other.
+For althoughe they did once conferre betwene
+thē selues: yet was there so great ali•nacion
+of myndes, y• they departed the purpose
+not brought to passe. For when they shoulde
+haue come to some cōcorde, they recoyled more
+and more: myndyng nought els but to defende
+theyr opinion and to confute the contrary, we
+perceyue therfore in what thing Luther erred
+and also wherin zinglius and Ecolampadius
+dyd erre: It was Luthers duetie: at the beginnyng
+to admonish that it was not his purpose
+to stablyshe suche a locall presence as the papistes
+do dreame. Also, to proteste y• he soughte
+not in thys place, to haue the Sacrament honoured
+as God. Thyrdlye to absteyne from
+those rude similitudes, most hard to be vnderstanded:
+or els to vse them moderatlye, and to
+interprete them so, that they myghte not haue
+ben cause of any offence. To conclude, sence
+that contention was moued, he passed al measure
+both in declarynge his opinion, and also
+in rebukynge other, wyth to much• rigoure of
+wordes. For whē he should haue expoūded his
+mynde so, that it myght haue ben receyued: accordynge
+to his accustomed vehemency, to the
+intent to impugne them that helde the contrarye,
+he vsed incredible fourmes of speakynge:
+whiche coulde not well be suffered of them
+whose mindes were but sklenderly appoynted
+to gyue credence to him. The other also, offended
+in that they did sticke so styefely in the impugnynge
+of that supersticiouse and fantasticall
+opinion of the papistes, as concernyng the
+placely presence and the adoratiō that folowed
+thereof, employinge their diligence to the rooting
+out of vices, rather thē to the establishing
+of y• thing which was profitable to be knowē.
+
+[1.57] For notwythstanding that they denyed not
+the veritie: yet dyd not they teache it openly as
+was beseamyng. This do I vnderstande, that
+whylse they gaue them selues studiouslye and
+diligentlye, to affirme that the bread and wy•e
+were called the body & bloud of Christ bicause
+they be ye signes therof: they thought not that
+they ought in the meane time to do this thinge
+also, to adde to that they are the signes after
+such sorte that the veritie is neuerthelesse ioyned
+vnto thē. Neyther dyd they declare y• they
+wente not about to deface the true cōmunion,
+which the lorde gyueth vs in his body & bloud.
+
+[1.58] Of truth neyther of them was vnworthy
+blame, for as muche as they dyd not susteyne
+to here one an other, that all affection layed aparte,
+they myght folowe the veritie, on which
+syde so euer it shoulde appeare. But yet ought
+not we therefore, to lette passe oure duetie towardes
+them, least we forget the mercyes and
+benefytes whiche God gaue vnto them, and
+distributed vnto vs by their hādes For onlesse
+we be vnthankefull, and vnmyndeful of those
+thynges which we owe vnto them: absteyning
+from all reproche and euyll report, we shall easyly
+forgeue these and moche greater thynges.
+To conclude, seyng that we knowe they were
+both of Godly conuersacion and excellent doctrine,
+and that they also whiche at this daye
+be on lyue, be no lesse: we oughte neyther to
+speake nor iudge of them, otherwyse thē with
+greate modestie and reuerence.
+
+[1.59] And chieflye because it hath pleased oure lorde
+God so, that after he had by this meanes instructed
+them to humilitie, he made an ende of
+thys vnlucky contencion, or at the leste qualifyed
+it for the tyme, so that in the meane seasō
+it myght be fynished. This haue I spoken because
+ther is as yet no order published, wherin
+that concorde is appoynted: whiche thynge
+were verye nessarie. But thys thynge shall be
+when God wyll that all they whyche shoulde
+set an order in these thynges, do agre in one.
+In the meane tyme thys ought to suffice you
+that there be a brotherlye frenshyppe and con
+•unction
+betwene the congregacion: as belongeth
+to the Christian communion. Wyth one
+voyce therfore we wyl confesse, that when we
+do accordynge to the institution of the Lorde
+receyu• the Sacrament with fayth, we are vndoubtedlye
+made partakers of the substaunce
+of the body and bloude of Christe Howe thys
+thynge shoulde be done, some men can better
+define and more playnly expounde, then other.
+But thys thynge is chiefely to be remembred,
+that we exclude all carnall imagination, & that
+the mynde ought to be erected into heauē, and
+that we thynke not our Lorde Iesu Christe to
+be so vyle that he may be conteyned in corruptible
+elementes. Agayne, leste the force of thys
+most sacred mistery, shoulde be diminished, we
+must thynke that it is wrought by the secrete
+and wonderful power of God:
+and that his spirite is the bonde
+of thys partaking: whiche
+is for that cause called
+spirituall.
+
+[1.60] Finis.

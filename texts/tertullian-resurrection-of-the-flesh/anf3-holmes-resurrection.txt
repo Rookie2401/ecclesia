@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/On_the_Resurrection_of_the_Flesh
 Retrieved: 2026-11-05 (source file 290783 bytes, SHA-256 3029d0a5276571fd807ca744a61619d951b690c7bb006af22e054a84e6e42b5d)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":482}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

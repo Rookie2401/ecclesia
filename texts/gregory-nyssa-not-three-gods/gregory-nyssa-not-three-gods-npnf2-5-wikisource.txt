@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Dogmatic_Treatises/On_'Not_Three_Gods.'
 Retrieved: 2026-11-05 (source file 34634 bytes, SHA-256 402870c3c313822f2aeca9c08a7a7af89955b9ddbf414e13bc67564153cd9f17)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":24}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

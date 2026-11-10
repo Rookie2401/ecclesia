@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Joel.xml
 Retrieved: 2026-11-05 (source file 105277 bytes, SHA-256 c0fefc6881afe949b023968106cdccc05a690734b8bb6e9aa48914d77e5369af)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":29}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

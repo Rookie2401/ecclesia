@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Lord%27s_Prayer
 Retrieved: 2026-11-05 (source file 58051 bytes, SHA-256 da836e5db50a6db2a09fd29a7c19c4a377c3b86f5d641cb0b71a0b7354571f30)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":101}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

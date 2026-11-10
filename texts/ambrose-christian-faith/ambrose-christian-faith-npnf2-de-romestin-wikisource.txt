@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/Exposition_of_the_Christian_Faith
 Retrieved: 2026-11-05 (source file 729915 bytes, SHA-256 a0e3759afb3c3ab9afdd027701e0ccb5c674e8f8fb75afb2e1dea006f0330da6)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1168}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

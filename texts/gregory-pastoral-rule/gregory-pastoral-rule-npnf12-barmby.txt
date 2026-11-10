@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XII/Gregory_the_Great/The_Book_of_Pastoral_Rule
 Retrieved: 2026-11-05 (source file 459357 bytes, SHA-256 d0b55a27ee74a6ebf4ff4ea557973c0f2216ab64a01fe23b405dbc24517f401c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":36}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

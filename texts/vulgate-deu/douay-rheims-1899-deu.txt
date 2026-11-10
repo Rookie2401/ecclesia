@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://ebible.org/Scriptures/engDRA_usfx.zip
 Retrieved: 2026-11-05 (source file 2948574 bytes, SHA-256 f6560ec0cb95e8ed97207ca83298f0bda5c32261b9188844b2d7ecb6bfb67adb)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":73,"toc":219,"cl":1}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

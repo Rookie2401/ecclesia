@@ -9,7 +9,7 @@ Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Two_Epist
 Retrieved: 2026-11-10 (source file 33935 bytes, SHA-256 b37a65a7cb133ea887e59f6c6caca6996a9f52bfbadf2d0464cf89e2f63576f6)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":71}
 Incomplete: The Greek text covers the Greek fragments of the second letter, as Funk and Diekamp print them, from chapters 2, 3, 5, 6, 8, 9, 10, 11, 12, 13 of their numbering and lacks the rest of the letter, which survives whole only in a Syriac translation. The Greek original is lost apart from quotations (chiefly in Antiochus of Saba's Pandect); the whole letter survives in Syriac (ed. J. T. Beelen, 1856), of which no open transcription was found.
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

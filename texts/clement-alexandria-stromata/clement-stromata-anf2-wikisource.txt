@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_II/CLEMENT_OF_ALEXANDRIA/The_Stromata,_or_Miscellanies
 Retrieved: 2026-11-05 (source file 1527951 bytes, SHA-256 f6516b10da30018401eb46406ad5c507550ecc7aeb2237217f62449cf19557e1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1915}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

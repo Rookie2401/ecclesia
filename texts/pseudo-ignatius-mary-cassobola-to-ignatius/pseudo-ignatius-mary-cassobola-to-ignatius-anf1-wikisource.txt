@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_from_Maria_of_Cassobelae
 Retrieved: 2026-11-10 (source file 7491 bytes, SHA-256 b0b4a2b5ba4c33bae0579b65ce6fe895e2eb38db76efb9418b3b1c052874b330)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":21}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

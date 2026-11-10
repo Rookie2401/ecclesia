@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Antiochians
 Retrieved: 2026-11-10 (source file 12380 bytes, SHA-256 1119fb3e3dfd4dc2a474d8cc81bed1d6770b1c75fa20d810d103a65f8e45fc01)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":50}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

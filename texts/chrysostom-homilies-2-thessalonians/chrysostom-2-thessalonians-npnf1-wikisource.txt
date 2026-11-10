@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Philippians,_Colossians,_and_Thessalonians/On_2_Thessalonians
 Retrieved: 2026-11-05 (source file 114428 bytes, SHA-256 442f054f7797b41a609db8abdf0d8b84d60488814699192629f053a43a34a8d0)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":16}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

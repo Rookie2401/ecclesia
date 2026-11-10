@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Exod.xml
 Retrieved: 2026-11-05 (source file 1524391 bytes, SHA-256 04868367cdacb6ccdc61488e923e20f918172042e6437842a0621f63ac5b847f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":162}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

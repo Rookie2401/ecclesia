@@ -47,14 +47,24 @@ stored.sort((a, b) => `${a.work.id}/${a.edition.editionId}`.localeCompare(`${b.w
 // ── Start clean: only what this build writes. ──
 const textsRoot = path.join(here, "texts")
 rmSync(textsRoot, { recursive: true, force: true })
-const databaseFile = path.join(here, "ecclesia-texts.sqlite")
-rmSync(databaseFile, { force: true })
-rmSync(`${databaseFile}.gz`, { force: true })
-rmSync(`${databaseFile}-journal`, { force: true })
+// ── The library is published as one database per part, so that no file passes GitHub's 100 MB limit for one file. ──
+// Every catalogue section belongs to exactly one part; a section not named here stops the build.
+const PARTS = [
+  { id: "early", title: "Scripture, the Second Temple, the early Church and the Middle Ages", sections: ["S", "T", "I", "II", "III"] },
+  { id: "reformation", title: "The Reformation and after", sections: ["IV", "V", "VI", "VII"] },
+]
+const fileOf = (part) => path.join(here, `ecclesia-texts-${part.id}.sqlite`)
+for (const name of ["ecclesia-texts.sqlite", ...PARTS.map((part) => path.basename(fileOf(part)))]) {
+  for (const suffix of ["", ".gz", "-journal"]) rmSync(path.join(here, name + suffix), { force: true })
+}
+const partOf = (section) => { const part = PARTS.find((item) => item.sections.includes(section)); if (!part) throw new Error(`section "${section}" belongs to no database part`); return part }
+for (const work of catalogue.works) partOf(work.section)
 
 // Rows are written edition by edition, children first; the links are all checked once at the end.
-const database = new DatabaseSync(databaseFile, { enableForeignKeyConstraints: false })
-database.exec(`
+const value = (item) => item === undefined || item === null ? null : typeof item === "boolean" ? Number(item) : typeof item === "object" ? JSON.stringify(item) : item
+for (const part of PARTS) {
+  const db = new DatabaseSync(fileOf(part), { enableForeignKeyConstraints: false })
+  db.exec(`
 PRAGMA journal_mode = OFF; PRAGMA synchronous = OFF; PRAGMA page_size = 4096;
 CREATE TABLE meta (key TEXT PRIMARY KEY, value TEXT NOT NULL);
 CREATE TABLE authors (id TEXT PRIMARY KEY, name TEXT NOT NULL, dates TEXT, year INTEGER, era TEXT, kind TEXT, section TEXT);
@@ -71,19 +81,25 @@ CREATE VIEW texts AS SELECT e.work_id, w.title AS work, a.name AS author, e.id A
   FROM segments s JOIN editions e ON e.id = s.edition_id JOIN works w ON w.id = e.work_id LEFT JOIN authors a ON a.id = w.author_id
   JOIN divisions d ON d.edition_id = s.edition_id AND d.position = s.division;
 `)
-const value = (item) => item === undefined || item === null ? null : typeof item === "boolean" ? Number(item) : typeof item === "object" ? JSON.stringify(item) : item
-const insert = (table, count) => { const statement = database.prepare(`INSERT INTO ${table} VALUES (${Array(count).fill("?").join(",")})`); return (...row) => statement.run(...row.map(value)) }
-const addAuthor = insert("authors", 7), addWork = insert("works", 15), addEdition = insert("editions", 29), addDivision = insert("divisions", 4), addSegment = insert("segments", 5)
 
-database.exec("BEGIN")
-for (const a of catalogue.authors) addAuthor(a.id, a.name, a.dates, a.year, a.era, a.kind, a.section)
-// Every catalogue entry is listed, so the database also says what it does NOT hold and why. Only stored editions have text.
-for (const w of catalogue.works) addWork(w.id, w.authorId, w.section, w.title, w.listedAs, w.kind, w.partOf, w.sameAs, w.originalLanguage, w.composed, w.status, w.statusBasis, w.bilingualComplete, w.incomplete, w.notes)
+  const insert = (table, count) => { const statement = db.prepare(`INSERT INTO ${table} VALUES (${Array(count).fill("?").join(",")})`); return (...row) => statement.run(...row.map(value)) }
+  Object.assign(part, { db, editions: 0, segments: 0, addAuthor: insert("authors", 7), addWork: insert("works", 15), addEdition: insert("editions", 29), addDivision: insert("divisions", 4), addSegment: insert("segments", 5), addMeta: insert("meta", 2) })
+  db.exec("BEGIN")
+}
+
+// Each part lists every catalogue entry of its sections, so it also says what it does NOT hold and why, and the authors of
+// those entries (an author whose entries fall in both parts is in both). Only stored editions have text.
+for (const part of PARTS) {
+  const ids = new Set(catalogue.works.filter((work) => part.sections.includes(work.section)).map((work) => work.authorId))
+  for (const a of catalogue.authors) if (ids.has(a.id) || part.sections.includes(a.section)) part.addAuthor(a.id, a.name, a.dates, a.year, a.era, a.kind, a.section)
+}
+for (const w of catalogue.works) partOf(w.section).addWork(w.id, w.authorId, w.section, w.title, w.listedAs, w.kind, w.partOf, w.sameAs, w.originalLanguage, w.composed, w.status, w.statusBasis, w.bilingualComplete, w.incomplete, w.notes)
 
 const listing = new Map()
 let totalSegments = 0, totalTxtBytes = 0
 for (const { work, record, manifest, edition } of stored) {
   const author = authors.get(work.authorId)
+  const part = partOf(work.section)
   const header = [
     `Title: ${record.title}`,
     `Work: ${work.title}`,
@@ -104,10 +120,10 @@ for (const { work, record, manifest, edition } of stored) {
   edition.divisions.forEach((division, position) => {
     const file = json(path.join(library, manifest.workId, edition.editionId, division.file))
     if (file.segments.length !== division.segments) throw new Error(`${manifest.workId}/${edition.editionId}/${division.file}: manifest says ${division.segments} segments, the file has ${file.segments.length}`)
-    addDivision(edition.editionId, position, division.ref, division.title)
+    part.addDivision(edition.editionId, position, division.ref, division.title)
     lines.push(`## ${division.title}`, "")
     file.segments.forEach((segment, at) => {
-      addSegment(edition.editionId, position, at, segment.ref, segment.text)
+      part.addSegment(edition.editionId, position, at, segment.ref, segment.text)
       lines.push(`[${segment.ref}] ${segment.text}`, "")
       segments += 1
     })
@@ -117,32 +133,35 @@ for (const { work, record, manifest, edition } of stored) {
   mkdirSync(path.join(here, "texts", manifest.workId), { recursive: true })
   writeFileSync(path.join(here, relative), text)
   const hash = sha256(text)
-  addEdition(edition.editionId, manifest.workId, edition.role, edition.language, record.title, record.containedIn, record.editor, record.translator, record.publisher, record.place, record.year,
+  part.addEdition(edition.editionId, manifest.workId, edition.role, edition.language, record.title, record.containedIn, record.editor, record.translator, record.publisher, record.place, record.year,
     edition.credit, edition.licence, record.licenceUrl, record.attribution, record.usPublicDomain, record.life70, edition.sourceUrl, edition.retrievedAt, edition.sourceBytes, edition.sourceSha256,
     edition.segmentRefs, edition.leftOut, edition.passagesLeftOut, edition.divisions.length, segments, relative, text.length, hash)
   totalSegments += segments; totalTxtBytes += text.length
-  if (!listing.has(work.id)) listing.set(work.id, { id: work.id, title: work.title, author: author?.name ?? "", dates: author?.dates ?? "", era: author?.era ?? "", section: work.section, status: work.status, incomplete: work.incomplete, editions: [] })
+  part.editions += 1; part.segments += segments
+  if (!listing.has(work.id)) listing.set(work.id, { id: work.id, title: work.title, author: author?.name ?? "", dates: author?.dates ?? "", era: author?.era ?? "", section: work.section, database: part.id, status: work.status, incomplete: work.incomplete, editions: [] })
   listing.get(work.id).editions.push({ id: edition.editionId, role: edition.role, language: edition.language, title: record.title, year: record.year, credit: edition.credit, licence: edition.licence, licenceUrl: record.licenceUrl, life70: record.life70, divisions: edition.divisions.length, segments, leftOut: edition.passagesLeftOut ? edition.passagesLeftOut.words : 0, path: relative, bytes: text.length, sha256: hash })
 }
-const meta = { source_commit: sourceCommit, built_from_date: sourceDate, editions: stored.length, segments: totalSegments, catalogue_entries: catalogue.works.length }
-const addMeta = insert("meta", 2)
-for (const [key, item] of Object.entries(meta)) addMeta(key, String(item))
-database.exec("COMMIT")
-const broken = database.prepare("PRAGMA foreign_key_check").all()
-if (broken.length) throw new Error(`${broken.length} broken links, the first: ${JSON.stringify(broken[0])}`)
-database.exec("CREATE INDEX editions_work ON editions(work_id); CREATE INDEX works_author ON works(author_id); ANALYZE; VACUUM;")
-database.close()
-
-// ── The compressed database is what is published: the raw file is over GitHub's 100 MB limit for one file. ──
-const rawDatabase = readFileSync(databaseFile)
-const packed = gzipSync(rawDatabase, { level: 9 })
-writeFileSync(`${databaseFile}.gz`, packed)
+const databases = []
+for (const part of PARTS) {
+  const meta = { source_commit: sourceCommit, built_from_date: sourceDate, part: part.title, sections: part.sections.join(" "), editions: part.editions, segments: part.segments, catalogue_entries: catalogue.works.filter((work) => part.sections.includes(work.section)).length }
+  for (const [key, item] of Object.entries(meta)) part.addMeta(key, String(item))
+  part.db.exec("COMMIT")
+  const broken = part.db.prepare("PRAGMA foreign_key_check").all()
+  if (broken.length) throw new Error(`${part.id}: ${broken.length} broken links, the first: ${JSON.stringify(broken[0])}`)
+  part.db.exec("CREATE INDEX editions_work ON editions(work_id); CREATE INDEX works_author ON works(author_id); ANALYZE; VACUUM;")
+  part.db.close()
+  // The compressed file is what is published.
+  const raw = readFileSync(fileOf(part))
+  const packed = gzipSync(raw, { level: 9 })
+  writeFileSync(`${fileOf(part)}.gz`, packed)
+  databases.push({ id: part.id, title: part.title, sections: part.sections, editions: part.editions, segments: part.segments, path: `${path.basename(fileOf(part))}.gz`, bytes: packed.length, sha256: sha256(packed), unpackedBytes: raw.length, unpackedSha256: sha256(raw) })
+}
 writeFileSync(path.join(here, "catalogue.json"), JSON.stringify({
   source: sourceCommit, date: sourceDate,
   counts: { works: listing.size, editions: stored.length, segments: totalSegments, catalogueEntries: catalogue.works.length, withoutText: catalogue.works.length - listing.size },
-  database: { path: "ecclesia-texts.sqlite.gz", bytes: packed.length, sha256: sha256(packed), unpackedBytes: rawDatabase.length, unpackedSha256: sha256(rawDatabase) },
+  databases,
   works: [...listing.values()],
 }) + "\n")
 writeFileSync(path.join(here, ".nojekyll"), "")
 const mib = (n) => `${(n / 1048576).toFixed(1)} MiB`
-console.log(JSON.stringify({ works: listing.size, editions: stored.length, segments: totalSegments, texts: mib(totalTxtBytes), database: mib(rawDatabase.length), databaseGz: mib(packed.length), gzOver100MB: packed.length >= 100_000_000, largestTxt: mib(Math.max(...stored.map((item) => statSync(path.join(here, "texts", item.manifest.workId, `${item.edition.editionId}.txt`)).size))), exists: existsSync(databaseFile) }))
+console.log(JSON.stringify({ works: listing.size, editions: stored.length, segments: totalSegments, texts: mib(totalTxtBytes), databases: databases.map((item) => `${item.id}: ${item.editions} editions, ${mib(item.unpackedBytes)}, ${mib(item.bytes)} gz`), gzOver100MB: databases.some((item) => item.bytes >= 100_000_000), largestTxt: mib(Math.max(...stored.map((item) => statSync(path.join(here, "texts", item.manifest.workId, `${item.edition.editionId}.txt`)).size))), exists: PARTS.every((part) => existsSync(fileOf(part))) }))

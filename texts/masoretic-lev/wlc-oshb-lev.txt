@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Lev.xml
 Retrieved: 2026-11-05 (source file 1085066 bytes, SHA-256 e21e70265c9ef500182f8ccb4f4e1186e5a79e1169d24cef23cc479baf07b191)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":52}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 

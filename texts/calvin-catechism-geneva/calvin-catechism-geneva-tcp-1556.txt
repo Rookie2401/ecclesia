@@ -1,0 +1,2701 @@
+Title: The catechisme or manner to teache children the Christian religion wherin the minister demandeth the question, and the childe maketh answere. Made by the excellent …
+Work: The Catechism of the Church of Geneva
+Author: John Calvin (1509–1564)
+Language: english
+Credit: The catechisme or manner to teache children the Christian religion wherin the minister demandeth the question, and the childe maketh answere. Made by the excellent …, in EEBO-TCP A17610 (STC 4380), trans. Anonymous (the printing names no translator) (Geneva: By Iohn Crespin, 1556). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).
+Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://raw.githubusercontent.com/textcreationpartnership/A17610/master/A17610.xml
+Retrieved: 2026-11-10 (source file 318876 bytes, SHA-256 cb2c6e4f5ee9fc33e500ec37c7cc3720491b16379aa4dd88d173b5ded31a8143)
+Changes from the source: cut into numbered segments; these elements were not stored: {"pb":154,"note":299,"unread":2}
+Ecclesia library, source 6700fbc4.
+
+========================================================================
+
+## Of the Articles of faithe.
+
+[1.1] ¶ The M niſter.
+VVHAT is the principall and chiefe ende of mans life?
+
+[1.2] ¶ The Childe.
+To know God.
+
+[1.3] ¶ The miniſter.
+What moueth the to ſay ſo?
+
+[1.4] ¶ The childe.
+Becauſe he hath created vs, and placed vs in this worlde, to ſet forth his glory in vs. And it is good reaſon that we employ our whole life to the anauncement of hys glory, ſeing he is the originall, beginning, & fountayne therof.
+
+[1.5] ¶ The miniſter.
+What is then the principall and chiefe felicitie of man?
+
+[1.6] ¶ The childe.
+Euen the ſelf ſame, I meane to know God,
+and to haue hys glory ſhewed furth in vs.
+
+[1.7] ¶ The miniſter.
+Why doſt thou call this, mans chiefe felicitie?
+
+[1.8] ¶ The childe.
+Becauſe that without it, our condicyon or ſtate, were more miſerable then the ſtate of brute beaſtes.
+
+[1.9] ¶ The miniſter.
+Hereby then we may euidently ſee, that there can no ſuche miſerye happen vnto man, as not to lyue in the knowledge of God.
+
+[1.10] ¶ The childe.
+That is moſte certeyne.
+
+[1.11] ¶ The miniſter.
+But tel me, what is the true and right knowledge of God?
+
+[1.12] ¶ The childe.
+Whan a man ſo knoweth God, that he is in ful mind to honor him.
+
+[1.13] ¶ The Miniſter.
+Which is the way for a man to honor God a ryght?
+
+[1.14] ¶ The childe.
+It is to put our whole truſt & confidence in hym: to ſtudye to ſerue him, in obeying vnto his wil & commaundementes:
+to ſeke & cal vpon him for help in our neceſſities, looking for ſaluacion & al good thinges at his hand. And finally to acknowlage both wyth heart and mouth, that he is the liuely fountayne of all goodneſſe, from whom onely al benefites and good thynges doe come.
+
+[1.15] ¶ The miniſter.
+Wel than to the end that theſe thinges may be diſcuſſed in order,
+& declared more at large, which is the firſt poynt?
+
+[1.16] ¶ The child.
+The firſt is, to put our whole confidence in God alone.
+
+[1.17] ¶ The miniſter.
+Howe may that thing be done?
+
+[1.18] ¶ The childe.
+We muſt firſt haue an aſſured knowledge, that as he is almighty, ſo he is all bountifull and parfitlie good.
+
+[1.19] The miniſter.
+And is that ſufficient?
+
+[1.20] ¶ The childe.
+No.
+
+[1.21] ¶ The miniſter.
+Shewe the reaſon.
+
+[1.22] ¶ The childe.
+For there is no worthines in vs, why God ſhould eyther ſhew his power to helpe vs: or vſe hys mercifull goodnes to ſaue vs.
+
+[1.23] ¶ The minister.
+What is than further requyred?
+
+[1.24] ¶ The childe.
+This is requiſite more, that euerie one of vs be fully aſſured in his conſcience, that he is beloued of God, & that he will be both his father & ſauiour.
+
+[1.25] ¶ The miniſter.
+Howe ſhall we be aſſured hereof?
+
+[1.26] ¶ The childe.
+By his owne woorde, wherin he vttereth
+moſte playnlye vnto vs, hys plentifull mercye in our ſauiour Chriſt, & geueth vs vndoubted aſſurance of his louing mynd towardes vs.
+
+[1.27] ¶ The miniſter.
+Well,
+then I perceiue that the very ground to come by a ſure confydence in God, is, to know him in our ſauiour Chriſt.
+
+[1.28] ¶ The childe.
+Yea truelye.
+
+[1.29] ¶ The miniſter.
+Then briefelye, what is the effecte and ſubſtaunce of thys knowledge of God in Chriſte?
+
+[1.30] ¶ The childe.
+It is conteyned in the confeſsion of the fayth, vſed of all Chriſten men, which is commonly called the Crede of the Apoſtles: bothe becauſe it is a compendyous and a briefe gatherynge of the articles of that faythe, whiche hathe bene alwayes continued in Chriſtes Churche: and alſo becauſe it was taken out of the pure doctrine of the Apoſtles.
+
+[1.31] ¶ The miniſter.
+Rehearſe the ſame.
+
+[1.32] I beleue in God the father almighty,
+maker of heauen and earth: And in Ieſu Chriſt hys onely ſonne our Lorde: Who was conceyued by the holye Ghoſte, borne of the vyrgyn Marye: Suffered paſsion vnder
+Ponce Pylate, was crucifyed, dead, buried, and deſcēded into hell: He roſe agayne the thyrde daye from deathe: He aſcended into heauen, and ſytteth on the right hande of God the father almyghtye: From thenſe he wil come to iudge the quicke and the dead.
+
+[1.33] I beleue in the holye goſte: The holy Churche vniuerſall, the communion of Goddes electe: the forgeueneſſe of ſynnes: the ryſing agayne of the bodyes: and lyfe euerlaſtyng.
+
+[1.34] ¶ The miniſter.
+To the intent that this confeſsion maye be more particularely and playnely declared,
+in to how many partes ſhal we deuyde it?
+
+[1.35] ¶ The childe.
+In to foure principall partes.
+
+[1.36] ¶ The miniſter.
+What be they?
+
+[1.37] ¶ The childe.
+The fyrſte concerneth God the father. The ſeconde parte is of the ſonne of God, our ſauiour Chriſte: wherein briefly alſo the whole ſtory of our redempcion is rehearſed. The thyrde is touchyng the holye goſte. The fourth cōcerneth the holy Churche, and Goddes free gyftes vnto the ſame.
+
+[1.38] ¶ The miniſter.
+Seing there is but one God, what moueth thee to make rehearſal of God the father,
+God the ſonne, and God the holye goſt, as if ther were thre gods?
+
+[1.39] ¶ The childe.
+Becauſe that in the ſubſtance or nature of God wee haue to conſider the Father,
+as the fountayne, beginning, and originall cauſe of al thinges: then ſecondarely, his ſonne, who is hys euerlaſtyng wyſedome: & thyrdly the holy ghoſte, who is his incō
+prehenſible vertue and puiſſaunte myght, which is extēded and ſpred vpon all creatures: and yet neuertheles remaineth alwayes wholy in hymſelfe.
+
+[1.40] ¶ The miniſter.
+This is then the meanyng: that there is no inconuenience at al, to vnderſtand ſeuerally and apart, theſe three perſons in the ſubſtāce of God, who notwythſtandyng is one, and not therby deuyded.
+
+[1.41] ¶ The childe.
+It is euen ſo.
+
+[1.42] ¶ The miniſter.
+Make rehearſal nowe of the fyrſt parte of the Crede.
+
+[1.43] ¶ The childe.
+I beleue in God the father almighty,
+maker of heauen and earth.
+
+[1.44] The miniſter.
+Wherfore doeſt thou cal hym Father?
+
+[1.45] ¶ The childe.
+I call hym ſo, hauyng reſpect to Ieſu
+Chriſt, who is the euerlaſtyng worde begotten of God before all worldes,
+without begynning: who beyng afterwardes openly ſhewed vnto the world, was euidentlye approuued and declared to be hys ſonne. Now ſeing God is oure Sauioure Chriſtes father, it foloweth neceſſarilye that he is alſo our father.
+
+[1.46] ¶ The miniſter.
+What meaneſt thou by that, thou calleſt hym Almightye?
+
+[1.47] ¶ The childe.
+In that I ſay he is Almightye,
+I meane not that he hath a power which he doth not exerciſe: but contrariwiſe, that al creatures be in his hād and vnder his gouernāce: that he ordereth and dyſpoſeth all thynges by hys vnſearcheable wiſedome and prouidence: that he ruleth the worlde as it pleaſeth him: and that continually he guydeth al thynges therin after hys own good pleaſure.
+
+[1.48] The miniſter.
+So then by thy ſaying,
+the power of God is not ydle nor vnoccupied, but cōtinually exerciſed: ſo that nothyng is done, but by hym, or by his leaue and ordinaunce.
+
+[1.49] ¶ The childe.
+It is euen as you ſaye.
+
+[1.50] ¶ The miniſter.
+Wherfore is that clauſe added therunto,
+Maker of heauen and earth?
+
+[1.51] ¶ The childe.
+Becauſe he hath made himſelfe knowen vnto vs by his workes, it is neceſſary for vs to ſeeke hym owt in thē.
+For oure capacytye, and the reache of oure vnderſtanding is not ſufficiēte nor able to cōprehende his diuyne ſubſtaunce, but he hath made the world as a myrroure or glaſſe,
+wherin we maye beholde his diuine maieſtie, in ſuche ſorte as it is expediente for vs to knowe hym.
+
+[1.52] ¶ The miniſter.
+Doeſt thou not comprehende all creatures in theſe two wordes, heauen and earth?
+
+[1.53] ¶ The childe.
+Yes verely: & they may righte well be vnderſtanded in theſe two wordes, ſeynge that all thinges be eyther heauenlye, or earthlye.
+
+[1.54] ¶ The miniſter.
+And why calleſt thou God only by the name of creator or maker? ſeynge that to order thinges, and to conſerue them alwayes in their ſtate, is a thynge of muche more importaunce, then to haue for one tyme created them.
+
+[1.55] ¶ The childe.
+By thys worde Creator, it is not onely meante that he dyd once create them, hauyng
+no farther regarde to them afterwardes: But we ought to vnderſtand, that as the worlde was made of him in the beginning, euen ſo nowe he doth cōſerue the ſame, & vpholdeth the ſtate of thinges, ſo that heauen and earth,
+with the reſte of the creatures, coulde not contynue in their eſtate, if his power did not preſerue them. Moreouer, ſeinge in this maner he dothe maintayne all thynges, holdynge them (as it were) in his hand: it muſt nedes folow, that he hath the rule & gouernance of all. Wherefore in that that he is creator of heauen & earth, it is he that by hys bountyfull goodneſſe, myghtye power, and hyghe wiſedome, doth conducte and guide the whole order of nature. It is he that ſendeth raine and drought, haile, tempeſtes, and fayre wether: he ſēdeth fertilite and barennes, dearth and plentie, health and ſycknes: & to be ſhorte, he hath all thynges at commaundement, to do hym ſeruice at his owne good pleaſure.
+
+[1.56] ¶ The minister.
+What ſaieſt thou as touching the deuels and wicked perſons, be they alſo ſubiecte to hym, and at hys commaundement?
+
+[1.57] ¶ The childe.
+Albeit that God dothe not guide them wyth his holy ſpirite,
+yet he doth brydell them in ſuch ſort that they be not able to
+ſtyrre or moue without his permiſsion and appointment: yea & moreouer, he doth compel them to execute his will & pleaſure, although it bee cleane agaynſt theyr intent & purpoſe.
+
+[1.58] ¶ The miniſter.
+To what purpoſe doth it ſerue thee to knowe this?
+
+[1.59] ¶ The childe.
+The knowledge hereof doeth wonderfully comforte vs, for we might thinke our ſelues in a miſerable caſe, if the deuylles and the wycked had power to do any thynge contrary to Gods wil or appointment. And moreouer we could neuer be quiete in our cōſciences, yf we ſhuld think our ſelues to be in theyr daunger.
+But forſomuche as we know that God brydeleth them faſt, and chayneth them, as it were in a priſon, in ſuche wiſe that they can do nothing, but as he permitteth: we haue iuſte occaſion, not onely to bee quiete in mind, but alſo to receyue moſt confortable ioye, ſince God hath promyſed to bee our protectour and defender.
+
+[1.60] ¶ The minister.
+Go to then,
+lett vs come to the ſeconde parte of our beliefe.
+
+[1.61] ¶ The childe.
+And in Ieſu Chriſte his onely ſonne, our Lorde.
+
+[1.62] ¶ The miniſter.
+What is bryeflye the effecte and ſubſtance of thys parte?
+
+[1.63] ¶ The childe.
+It is to acknowledge the ſonne of God to be our ſauiour: and to vnderſtand the meane wherby he hath redemed vs from death, and purchaſed lyfe vnto vs.
+
+[1.64] ¶ The miniſter.
+What ſygnifyeth thys worde Ieſus, by whych thou nameſt hym?
+
+[1.65] ¶ The childe
+It is as muche to ſaye, as Sauyour:
+and thys name was geuen vnto him by the angell at Gods commandement.
+
+[1.66] ¶ The minister.
+What? is that of more eſtimacion, than if that name hadde bene geuen vnto hym by men?
+
+[1.67] ¶ The childe.
+Yea a great deale: for ſince Goddes pleaſure was that he ſhoulde be ſo named, it geueth vs certayne knowledge that he is our very ſauiour in dede.
+
+[1.68] ¶ The miniſter.
+What ſygnifyeth then thys woorde Chriſte, whiche foloweth after?
+
+[1.69] ¶ The childe.
+This word, Chriſte, doth expreſſe more effectually his office: and doth vs to were that he was anointed of oure heauenlye father,
+to ſygnifye that he was ordeined to be a kynge, Prieſte, and Prophete.
+
+[1.70] ¶ The miniſter.
+How haſt thou the knowlege hereof?
+
+[1.71] ¶ The childe.
+By the ſcripture, whiche doth ſuffyciently teache vs that anointynge dyd ſerue for theſe three offices, or dignities, the which be alſo attributed vnto hym in many places of the ſcriptures.
+
+[1.72] ¶ The miniſter.
+But, what maner of oyle was it wherewith he was anointed?
+
+[1.73] ¶ The childe.
+It was no ſuch material oile, as we vſe, and as did ſerue in olde time, to the ordeininge or inſtitutiō of kynges, Prieſtes, and Prophetes: but a farre more excellent oyle, euen the grace of Gods holy ſpirite, wherof the aunciente anointing in the olde teſtamente was a fygure.
+
+[1.74] ¶ The miniſter.
+What maner of kyngdom is that wherof thou ſpeakeſt?
+
+[1.75] ¶ The childe.
+Thys kyngdome of Chriſte is not earthly,
+but ſpirituall, the ſubſtaunce wherof doeth conſiſt in Gods worde, and in his holy ſpirite, wherin is conteined both ryghteouſneſſe and lyfe euerlaſtynge.
+
+[1.76] ¶ The miniſter.
+And what is his Prieſthoode?
+
+[1.77] ¶ The childe.
+It is an offyce and auctorytie to preſente himſelfe before God,
+to obtayne grace & fauour for vs: and to pacifye hys fathers wrath, by offering vp the moſt acceptable ſacryfyce of hym ſelfe vnto him.
+
+[1.78] ¶ The minister.
+Why calleſt thou hym a Prophete?
+
+[1.79] ¶ The childe.
+Bycauſe that he came downe into the worlde, to brynge vnto vs the moſte worthy & ioyfull embaſsie or meſſage of God his father: to declare at large moſt euidently to the worlde his fathers wil, and to finiſhe all reuelations and Prophecyes.
+
+[1.80] ¶ The minister.
+Commeth there any profite vnto thee by thoſe names and dignities of Chriſte?
+
+[1.81] ¶ The childe.
+Yea they altogether belonge to our comfort, and proffit. For Chriſt did receiue all theſe of hys father, to make vs partakers therof, wherby we myghte euerye one receyue of hys fulneſſe.
+
+[1.82] ¶ The miniſter.
+Declare thys thyng vnto me more at large.
+
+[1.83] ¶ The childe.
+He receiued the holy ghoſt in moſte full perfection, with all the giftes and graces of
+the ſame: to beſtowe them on vs, and to diſtribute them vnto euerye one of vs in the meaſure and quantytye that God knoweth to be moſte mete and expediente for vs:
+and ſo by this meanes wee drawe oute of hym, as if it were oute of a fountayne, all the ſpirituall gyftes that we haue.
+
+[1.84] ¶ The miniſter.
+To what vſe doth the kyngdom of Chriſt ſerue vs?
+
+[1.85] ¶ The childe.
+To ſet vs in libertie of conſcience,
+to lyue godly and holily, that we beinge enriched with hys ſpirituall treaſures, and armed with his power, may be able to ouercome the deuyll, ſynne, fleſhe, & the worlde, whych bee euery one pernycyous enemies vnto our ſoules.
+
+[1.86] ¶ The miniſter.
+What profite haue we of his prieſthoode?
+
+[1.87] ¶ The childe.
+Firſt by this meanes he is our mediator to bring vs into the fauour of God his father:
+and againe hereby wee haue a fre entrye to come in and ſhewe oure ſelues boldely before God: and to offre vp our ſelues with al that belongeth vnto vs, for a ſacrifice, and in thys poynt we are felowes after a ſorte of his prieſthood.
+
+[1.88] ¶ The miniſter.
+The vtilitye of his office in that he is a
+Prophete is yet behynde.
+
+[1.89] ¶ The childe.
+Since our lorde Ieſu hath receyued this office to become the maſter and teacher of hys flocke: the ende of this dignitie is,
+to bring us to the righte knowledge of god, and of his trueth, ſo that wee myght become Gods houſhold ſcholers and of hys familye.
+
+[1.90] ¶ The miniſter.
+This is then it that a man may briefly gather of thy wordes: that theſe thre titles or names of Chriſt, do include thre ſundry offices, the which God hath geuen vnto his ſonne, to the entent to beſtow the fruit, & profite of the ſame vpon his elect.
+
+[1.91] ¶ The childe.
+Ye ſaye truely.
+
+[1.92] ¶ The miniſter.
+By what reaſon calleſt thou Chriſt the onely ſonne of God,
+ſynce God doth name vs alſo hys chyldren?
+
+[1.93] ¶ The childe.
+As touching that, that we are Gods children, we be not ſo borne, neither doth it come of our nature: but only by his fatherly adoption, & by grace, in that
+that God doeth voucheſafe to accepte vs and take vs for his children: now our Lord Ieſus beyng begotten of one very ſubſtance with his father, and beynge of the ſelfe ſame nature and god head, may euen of good ryght be called Gods onelye ſonne: for that there is none other that can clayme that tytle by naturall ryghte, but he alone.
+
+[1.94] ¶ The miniſter.
+This is then the meaning, that thys honour pertayneth peculiarelye vnto hym alone, as vnto whome it belongeth by courſe naturall, the whiche notwithſtandinge he hath by free gyft of hys goodnes communicated vnto vs, makyng vs partakers thereof, in that we are becomen his own membres.
+
+[1.95] ¶ The childe.
+It is euen ſo: and therfore in reſpect of that his communicatyng and alyaunce with vs, the ſcripture calleth Chriſte in an other place the fyrſte borne among many brethren.
+
+[1.96] ¶ The miniſter.
+What is the meanyng of that that foloweth?
+
+[1.97] ¶ The childe.
+It doth vs to wete after what ſort the ſonne of God was annoynted of hys father, to becume our ſauior: that is to ſay, he tooke vpon hym our freſh, & therin fulfilled al thinges neceſſarye for our redempcion, according as they be here rehearſed,
+
+[1.98] ¶ The miniſter.
+What meaneſt thou by theſe two clauſes: Conceyued by the holye Ghoſte, Borne of the virgin Mary?
+
+[1.99] ¶ The childe.
+The meanyng thereof is:
+that he was faſhioned in the bleſſed virgins wombe, takyng very ſubſtaunce and manhod of her own body, that he myght therby become the ſeede of Dauid, as the Prophetes hadde a longe tyme before ſygnyfyed: and yet notwithſtandyng all thys was wroughte by the ſecrete and merueilous power of the holye goſte, with out the company of man.
+
+[1.100] ¶ The miniſter.
+Was it then nedefull that he ſhoulde take vpon hym oure very fleſhe?
+
+[1.101] ¶ The childe.
+Yea verely:
+for it was conuenient that mans tranſgreſsion, and his diſobedience agaynſte God, ſhoulde be purged lyke wiſe by the nature of man.
+And moreouer if Chriſte had not bene partaker of our very nature, he had not bene a meete mediatoure to make vs at one, and to ioyne vs together with God his father.
+
+[1.102] ¶ The miniſter.
+Than thys is thy ſaying: that it behoued that Chriſt ſhoulde become very man, to the ende he myghte execute the office of a ſauiour in our ſhape and perſone.
+
+[1.103] ¶ The childe.
+Yea verely:
+For we muſt borowe of him, all that which is lacking in our ſelues, for this our defaut cold not otherwiſe be recouered.
+
+[1.104] ¶ The miniſter.
+But for what cauſe was thys thyng wrought by gods holy ſpirite, and not rather by the company of man, according to the ordre of nature.
+
+[1.105] ¶ The childe.
+Becauſe the ſeede of manne is of it ſelfe all to gether corrupted with ſynne:
+it behooued that thys conception of Chriſt ſhould be wroughte by the power of the holy goſte,
+wherby our ſauiour might be preſerued from all corrupcyon of ſynne, and replenyſſhed with all maner of holynes.
+
+[1.106] ¶ The miniſter.
+So then by theſe ſayinges it is euidenly declared vnto vs: that he (whiche ſhould purifye and clenſe other from fylthe of ſynne) muſte be hymſelfe free and cleare from all ſpottes therof, and euen from his mothers wombe dedicated, & kept holy vnto God in pureneſſe of nature, ſo that he may not be giltie of that corrupcyon where with the whole ſtocke of man is generally infected.
+
+[1.107] ¶ The childe
+That is the very meanyng of my woordes.
+
+[1.108] ¶ The miniſter.
+How cummeth it to paſſe that he is our Lorde?
+
+[1.109] ¶ The childe
+Euen by the ordinance of God himſelfe:
+who alſo made hym our gouernor, to the ende that he myght execute
+hys fathers kyngdom both in heauen, and in earth, and that he myght be heade and ruler bothe of Aungelles and of goddes faythfull people.
+
+[1.110] ¶ The miniſter.
+Wherfore ſpeakeſt thou of his deathe, immediatlye after hys birth? & leaueſte out the whole ſtory of hys lyfe?
+
+[1.111] ¶ The childe.
+For becauſe there is nothyng mencioned or ſpoken of in our Cred: but that whiche peculiarelye belongeth to the pyth and ſubſtance of our redemption.
+
+[1.112] ¶ The miniſter.
+Why is it not ſayde playnely in one woorde, that he dyed: withoute anye ſpeakynge of Ponce Pilate, by whoſe iugement he ſuffered?
+
+[1.113] ¶ The childe.
+The mencion that is made of Ponce Pilate, was not onelye for this conſideracion to make the ſtorye of Chriſtes Paſsion to haue more euident aſſurance: but alſo to declare vnto vs, that his death hath taken a way our condemnacion.
+
+[1.114] ¶ The miniſter.
+How ſo?
+
+[1.115] ¶ The childe.
+Fyrſt he ſuffered deathe, to the ende to take a waye the payne that was due vnto vs, that we might be therby clearely delyuered from the ſame: Now for ſo muche as we were in faute and gyltie before gods iudgemente as wicked myſdoers:
+Chriſt myndyng to take vpon him our perſone, and to bayle vs, by ſuſteyning all our miſerie: vouchſaued to ſhew hymſelfe before yearthly iudges, & to be condemned by the ſentence or iudgement of the ſame, that therby we myght be giltleſſe & cleare before the iudgemente ſeate of oure heauenlye iudge hys father.
+
+[1.116] ¶ The miniſter.
+Notwithſtanding, Pilate doth pronounce hym innocent, and ſo by that he doeth not condemne hym as woorthye of deathe.
+
+[1.117] ¶ The childe.
+Pilate dyd bothe the one and the other:
+firſt he was pronounced innocente & iuſt, by the iudges owne mouth, to ſygnifye that he ſuffered not for hys owne deſerte, but for our treſpaces. And yet withal, the ſame iudge dyd
+dyd geue ſolemnelye the ſentence of deathe agaynſt hym, to teſtifye and expreſſe that he is our true pledge & raunſome:
+as he who alſo hath taken vnto hym oure condemnation to make vs quite and to deliuer vs from the ſame.
+
+[1.118] ¶ The miniſter.
+That is wel ſayd: for if he had bene a ſinner in deede, he had not bene meete to haue ſuffered death for the offences of other: and neuertheleſſe to the end that we myght be clearely quitte and delyuered by hys condemnacyon:
+it was neceſſary that he ſhould be taken and counted as a malefactoure or miſdoer.
+
+[1.119] ¶ The childe.
+I meane no other thynge.
+
+[1.120] ¶ The miniſter.
+Wher thou ſaiſt Chriſt ſuffred on the croſſe: was that kynde of deathe more auaylable and of more importaunce, than if he had bene otherwyſe put to deathe?
+
+[1.121] ¶ The childe.
+Yea verely: and touching that matter, Sainct Paule ſayeth that he was hanged on a tree, to the intente
+that he myghte take vpon hym our curſe,
+and ſo dyſcharge vs. for that kynde of deathe was accurſed of God.
+
+[1.122] ¶ The miniſter.
+What? is it not a greate reproche and dyſhonoure vnto our Lorde Ieſu, to ſay that he was accurſed, and that before God?
+
+[1.123] ¶ The childe.
+No not a whit: for he through hys almyghtye power, by taking the curſe from vs vnto hymſelfe, did in ſuch ſort make it voyde and of none effecte, that he hymſelfe neuertheles continued ſtill ſo bleſſed, that he was able to fulfyll vs alſo with hys bleſſynges.
+
+[1.124] ¶ The miniſter.
+Make an expoſiciō of that that foloweth.
+
+[1.125] ¶ The childe.
+In ſo muche as deathe was a curſſe or punyſhement appointed vnto man for ſynne:
+therfore our ſauiour Chriſt did ſuffer death and by ſuffering ouercame it. And to the entent alſo to make it the more certaynly knowen vnto vs, that his death was not a coloured or counterfaited thing: it pleaſed hym alſo to be buryed after the common maner of other menne.
+
+[1.126] ¶ The minister
+But it appeareth not that any profyte cummeth to vs by thys that Chriſte hathe
+wonne the victory of death: ſeing that we (it not withſtanding) ceaſe not to dye,
+
+[1.127] ¶ The childe.
+That doth not hinder,
+for the deathe of the faythfull is nowe nothing elles, but a readye paſſage to a better lyfe.
+
+[1.128] ¶ The miniſter.
+It foloweth then neceſſarily hereof: that we oughte in no wyſe to be afrayde of deathe, as though it were a dredefull thīg: but rather it behoueth vs willingly to walke the trace of oure heade and capitayne Ieſu Chriſt, who hath walked and troden the ſame waye before vs, not to the entente to leade vs to our deſtruction, but to procure vs an euerlaſtynge ſauegarde.
+
+[1.129] ¶ The childe.
+It is euen ſo.
+
+[1.130] ¶ The miniſter.
+What is the ſence of that clauſe whiche is putte to afterward,
+as touchyng his deſcendyng into hell?
+
+[1.131] ¶ The childe
+The ryghte meanynge therof is,
+that Chriſt dyd not onelye ſuffre a naturall deathe, which is a departyng and goyng aſunder of the body and ſoule: but alſo that his ſoule was in woōderfull dyſtreſſe, beyng wofully preſſed, and enduring grieuous
+tormentes, and as it were hellyke paynes,
+which Sainct Peter calleth the ſorowes or pangues of deathe,
+
+[1.132] ¶ The miniſter.
+For what conſideration ſuſtained he thoſe paynes, and in what ſorte?
+
+[1.133] ¶ The childe
+Becawſe he preſented hymſelfe before God to be a ſacryfice ſatiſfactory, and to make amēdes in the behalfe of ſynners, it was mete that as he did beare the wayght and burthen of our ſynnes: ſo lykewyſe he ſhoulde feele this horryble anguyſhe, and greuous tormente of conſcience whiche ſynne bryngeth, beyng in caſe as if God had vtterlye forſaken hym and ben haynouſſy diſpleaſed agaynſte hym. And in verye deede, he was brought to ſuche extremytye of anguyſhe,
+that he was dryeuen to crye: my God my God, why haſte thou forſaken me?
+
+[1.134] ¶ The miniſter
+Why? was God then angry with him?
+
+[1.135] ¶ The childe
+Nay, how beit it was cōueniente that God ſhoulde punyſhe hym in ſuche ſorte,
+to veryfie ād performe the wordes of Eſay the Prophet, who ſaieth that he was beatē with the hāde of his father for our ſinnes ād that
+he dyd ſuffer the puniſhmente due to oure trangreſſyons.
+
+[1.136] ¶ The miniſter
+But howe coulde it be that he was in ſuche dreadefull anguyſhe, as though God hadde vtterly forſaken hym, ſeing he was God hymſelfe?
+
+[1.137] ¶ The childe
+We muſt vnderſtande, that he was in ſuch deſtreſſe onlye as touchīge his humanitye. And to the intente that he myghte feele theſe panges in hys manhoode, hys Godhead dyd in the meane tyme for a lytle ſpace kepe it ſelfe cloſe, as if it had bene hydd, that is to ſaye, it dyd not ſhewe nor vtter the mygh therof.
+
+[1.138] ¶ The miniſter.
+But how could thys be that Chriſte, who is the health of the world, could bee vnder ſuch condemnacion?
+
+[1.139] ¶ The childe.
+He was not ſo vnder it, that he ſhuld cōtynewe in the ſame. For he hath in ſuche wiſe felte theſe terrors whiche wee haue ſpoken of: that he was not ouercome of the ſame, but hath rather therby made battayll agaynſt the power of hell: to breake and deſtroye it.
+
+[1.140] ¶ The minister.
+Hereby then we ſee the difference betwene
+that anguiſh or vexacion of mynde whiche Chriſte dyd ſuffer:
+and that whyche the impenytente ſynners dooe abyde, whome God doth punyſhe in hys terryble wrath: for that verye payne whiche Chriſte ſuſtained for a tyme, the wycked muſt endure continually: and that whych was vnto Chriſt but a goade as it were, to prycke him: is vnto the wycked in ſteade of a glaiue to wound them to death,
+
+[1.141] ¶ The childe
+Trueth it is: for oure ſauyoure Chriſte, notwithſtandynge theſe vexations, euē in the myddes of his tormētes, did not ceaſſe to put a ful truſt euermore in God: but the damned ſynners do diſpaire withoute al confydence in Goddes goodnes: yea they ſtomake agaynſte God, in ſo muche that they blaſpheme hys maieſtye.
+
+[1.142] ¶ The miniſter.
+Maye we nowe gather ſuffyciently of this that is ſayed,
+what fruite or profite cō
+meth to vs by the death of Ieſus Chriſte?
+
+[1.143] ¶ The childe
+Yea very well:
+and fyrſte of all we ſee that it is a ſacryfice wherwith he hath fully aunſwared and ſatyſfyed hys fathers iudgement in our behalfe: and therby alſo he hath appaiſed Goddes wrath, whiche worthely hanged ouer vs, & hath broughte
+vs into his fauoure againe. Secōdlye that he ſhedde his bloud to purifie ād clenſe our ſoules from al maner of ſpottes: & fynally that he hath ſo cleane wyped awaye oure ſynnes through his precyous death, that God wil neuer hereafter haue remēbraunce of them to call vs to any reckoninge: yea euenſo, that the obligation or hande wrytynge whiche was to be ſhewed forthe againſte vs to oure cōdemnation, is nowe cleane cancelled, and vtterlye made voyde
+
+[1.144] ¶ The miniſter
+Haue we no other profite, beſydes this of his death?
+
+[1.145] ¶ The childe.
+Yes verely: that is if we be true membres of Chriſte, our olde man is crucyfyed, and our fleſhe is mortyfied, to the ende that no euyll luſtes or affections doe herafter beare rule in vs.
+
+[1.146] ¶ The miniſter.
+Expound the article folowing.
+
+[1.147] ¶ The childe.
+He roſe the thirde daie frō death to lyfe,
+wherī he ſhewed that he had vaynquiſhed & gottē the victorie of death and ſynne. For through his reſurrection, he ſwalowed vp death, he broke aſōdre the chaines wherwith the deuill did holde vs in captyuitie: & fynally he deſtroied all hys
+power and kyngdome.
+
+[1.148] ¶ The minister.
+Tell me how many wayes this reſurrection of Chriſte doeth profite vs?
+
+[1.149] ¶ The childe.
+Thre maner of ways: the firſte,
+that we haue fully obtained to be ryghteous ther by. Secondly, that his riſinge frō death is a ſure gage and certaine aſſuraunce unto vs that we ſhall ōce ryſe agayne into a lyfe without ende, and moſte glorious. Thyrdely,
+that if we be in dede truely partakers of his reſurrection, we ryſe nowe in this preſent worlde in to a new kynde of lyfe, addicted wholy to ſerue God, and to leade an holye conuerſation agreable to his wil and pleaſure.
+
+[1.150] ¶ The minister
+Let vs goe forwarde to the reſte.
+
+[1.151] ¶ The childe
+He aſcended vp into heauen.
+
+[1.152] ¶ The miniſter
+Wente Chriſt vp into heauen in ſuche ſort, that he was no lōger abydinge in the yearth?
+
+[1.153] ¶ The childe.
+Yea,
+for whan he had performed whollye all thynges that were enioyned him by the commandement of his father, and had accōpliſhed all that was neceſſarie for our
+health, it was not nedefulle that he ſhoulde remayne any longer in the worlde.
+
+[1.154] ¶ The miniſter.
+What profyte haue wee by hys aſcenſion?
+
+[1.155] ¶ The childe.
+We receyue double profyte thereby:
+for ſince that our ſauyoure Chriſte is entred into heauen in our name: euen inlyke maner as he came downe from thēce for oure ſakes onely: he hath thereby made an open entrye into the ſame place for vs, geuynge us withal an aſſured knowledge, that the gate of heauen is nowe wyde open to receiue vs, whych was before faſte ſhutte, through our ſynnes. The ſeconde profite is, that he ſytteth there preſente alwais in the ſyght of God the father to make interceſſyon for us,
+and to be our aduocate to make anſwere for vs.
+
+[1.156] ¶ The miniſter
+But is oure ſauioure Chriſt ſo gone out of the worlde, that he is no more here with vs?
+
+[1.157] ¶ The childe
+No dowteles:
+for he hymſelfe ſayeth the contrarye: that is, that he wyl be here preſente with vs vnto the worldes ende.
+
+[1.158] ¶ The miniſter.
+Is it meant of his bodely preſence, that
+he maketh promiſe ſo to cōtynue with vs?
+
+[1.159] ¶ The childe.
+No verelye:
+for it is a nother matter to ſpeake of hys body which was lyfte vp out of this worlde into heauen: and to ſpeake of hys godlye power whiche is ſpred abrode throughout the whole worlde.
+
+[1.160] ¶ The minister.
+Declare the meanīg of this ſentēce: He ſytteth on the ryghte hand of God the Father.
+
+[1.161] ¶ The childe.
+The vnderſtandyng of that is,
+to ſignifye that he hath receyued into his handes the gouernance of heauen and yearth, whereby he is kynge and ruler ouer al thynges.
+
+[1.162] ¶ The miniſter.
+What ſignifieth this worde, ryghthande, and the ſyttyng on the ryghthande, whereof mention is here made?
+
+[1.163] ¶ The childe.
+It is a ſimilitude,
+or a maner of ſpeache borowed of earthly Princes, whiche are wonte to place on their right ſide, ſuche as they ſubſtitute nexte vnder them to ſee to the execution of lawes and to ſupplye their roume and offyce in their ſteade.
+
+[1.164] ¶ The miniſter
+Then thou meaneſt nothing els therby,
+but that whiche S. Paule ſpeaketh to the
+Epheſians: that he was conſtitute and appointed head of the Churche, ſet in authoritie aboue all powers,
+and that he hath receiued a name or dignitie paſſynge all other.
+
+[1.165] ¶ The childe.
+My meanynge is none other.
+
+[1.166] ¶ The miniſter.
+Goe forwarde to the reſidue.
+
+[1.167] ¶ The childe.
+From thence he wil come to iudge the quycke ād the dead: that is to ſaye, he will come doune from heauē, and ſhewe himſelfe viſibly once agayne in iudgement,
+euen in that ſhape, wherin he was ſeen to aſcend.
+
+[1.168] ¶ The miniſter.
+Seynge the iudgemente of God ſhalbe in the ende of the worlde, how maye that be whych thou ſaieſt, ſome ſhalbe a lyue, and other ſome ſhalbe dead: namely ſince alſo it is a thing moſt certainly oppointed vnto all men,
+to dye once?
+
+[1.169] ¶ The childe.
+S. Paule maketh anſwer to this queſtiō himſelfe, ſaying, that they which at that time ſhalbe lefte on liue,
+ſhalbe ſodainly chāged in a momēt of time: to the end that their corruptible nature maye be altered and that they may receiue a newe body whiche ſhalbe no more ſubiect to corruption.
+
+[1.170] ¶ The miniſter.
+Thy meaninge is then that this alteratiō or change ſhalbe vnto them in ſteade of a death, in ſomuche as it ſhal do a way & abolyſhe their former nature, and make them ryſe againe in a newe & more glorious ſtate
+
+[1.171] ¶ The childe
+It is euen ſo.
+
+[1.172] ¶ The miniſter.
+Doe we receyue any comfort by this that our ſauiour Chriſt will come once to iudge the worlde?
+
+[1.173] ¶ The childe
+Yea verely, and that a ſynguler great comforte: forwe are taught certeynly, that hys commyng at that tyme ſhalbe onely for our ſaluation.
+
+[1.174] ¶ The miniſter.
+Wel then there is no cauſe why we ſhoulde be afrayde of the day of iudgement, or wherfore we ſhoulde lothe the cummyng thereof.
+
+[1.175] ¶ The childe.
+No truely:
+forſomuch as we ſhall appeare before no other iudge but him, who is our aduocate and hath taken vpon hym to defende our cawſe.
+
+[1.176] ¶ The minister.
+Let vs nowe come to the third parte.
+
+[1.177] ¶ The childe
+That part cōcerneth our fayth & confidence in the holy goſte.
+
+[1.178] ¶ The miniſter.
+And to what purpoſe doth it ſerue vs?
+
+[1.179] ¶ The childe.
+It doth vs to vnderſtād,
+that euen as God hath firſt redemed vs, & geuen euerlaſting health vnto vs in Ieſu Chriſt, euē ſo it pleaſed hym to make vs partakers of theſe his graces ād benefites through his holy ſpirite.
+
+[1.180] ¶ The miniſter.
+How ſo?
+
+[1.181] ¶ The childe.
+In lyke maner as the bloud of Chriſte is the onelye thyng that pourgeth oure ſoules:
+euē ſo the holy ghoſt muſt ſprinkle ād moyſten our cōſciences with the ſame to make them pure and cleane.
+
+[1.182] ¶ The miniſter.
+Yet this needeth a more euident declaration.
+
+[1.183] ¶ The childe.
+It is no more to ſaye, but that the holye ſpirite of God dwellyng in our heartes, doth make vs feele the vertue, and goodnes of our Lord Ieſus:
+for it is he that doth open the eyes of our hearte to beholde gods benefites towardes vs: he doeth ſeale and imprint his aboundante graces in our ſoules: and this ſpirite doeth alſo regenerate vs, and make vs new creatures, in ſuch ſort,
+that by his meanes we receiue to our moſt cōfort, al thoſe giftes and benefites
+which be offered vnto vs ſo plentifully in Chriſt our ſauiour.
+
+[1.184] ¶ The miniſter
+What foloweth now next?
+
+[1.185] ¶ The childe.
+The fourth part of our beliefe,
+where it is ſayde: I beleue that there is a Catholique or uniuerſal churche.
+
+[1.186] ¶ The miniſter
+What is this Churche?
+
+[1.187] ¶ The childe
+It is the felowſhip or congregation of them that belieue,
+whom God hathe ordeyned and choſen unto life euerlaſting.
+
+[1.188] ¶ The miniſter.
+Is it neceſſary that we beleue this artiticle?
+
+[1.189] ¶ The childe
+Yea it is a thyng very neceſſarye, onleſſe we mynd to make Chriſtes death vtterlye voyde and of none effect, and to make all thoſe thīges ſuperfluous ād to no purpoſe, whiche we haue rehearſed alreadye: for the church is the verye fruite that proceadeth of all Chriſtes dooinges.
+
+[1.190] ¶ The miniſter,
+This is thā thy ſayīg that all which hither to hath bene declared,
+doth touche the cauſe, ād grownde of our ſaluatiō, inſomuche as God hath receiued vs into his fauoure, by the meanes of our ſauiour Ieſus Chriſt:
+& hath ſtabliſhed this grace in vs through his holy ſpirite. But nowe the effect that cūmeth of all this, is declared vnto vs, to geue the more euidēt aſſurance therof.
+
+[1.191] ¶ The childe.
+It is euen ſo as you ſay.
+
+[1.192] ¶ The minister.
+What meaneſt thou by ſaying The holy churche?
+
+[1.193] ¶ The childe.
+I call the Churche holy in this ſence, becauſe that thoſe whō God hathe choſen, he iuſtifieth & renueth vnto holynes ād innocēcy of lyfe, to make his glory to ſhyne in thē.
+And alſo oure ſauiour Chriſte hath ſāctified his churche, which he redemede, to the ende it myght be glorious and without ſpot.
+
+[1.194] ¶ The miniſter
+What meaneth this worde, Catholique or vniuerſall?
+
+[1.195] ¶ The childe
+It ſerueth to put vs in remēbrāce,
+that as there is but one head of the righte beleuers, euē ſo it behoueth thē to be knit together in one bodye: ī ſuch ſorte that there be not diuers churches, but one churche alonely diſpſed thorowout the whole worlde.
+
+[1.196] ¶ The miniſter.
+Declare as touchīg the communiō of ſainctes.
+
+[1.197] ¶ The childe.
+That clauſe is putte to,
+for a more playne declaration or ſetting furth of the vnitie
+and coupling together of the membres of Chriſtes church. Moreouer it doth vs to vnderſtand, that al the benefites that Chriſte hath geuē, and all the good that he hathe done for his church, belongeth to the profite and ſaluacion of euerye faithfull perſonne, for ſo much as they haue all a common partaking together.
+
+[1.198] ¶ The miniſter.
+But where thou nameſt the churche holye: is the holineſſe therof now alreadi vpright and perfecte?
+
+[1.199] ¶ The childe.
+No verely, for it is in contynuall battayll ſo longe as we are in this world and laboreth alwaye vnder imperfectiō ād infirmities which ſhal neuer be cleane taken a way, vntill we be al together coupled to our head Ieſu Chriſt, by whome we are perfitly ſanctified, and made holy.
+
+[1.200] ¶ The miniſter.
+Is there no other way to knowe this church but by beliefe or faithe?
+
+[1.201] ¶ The childe.
+Yes verely, there is a church or cōpanye of Goddes people which may be ſene to the eye, forſomuch as God hath geuē outwarde tokens and Sacramētes by the whiche we may knowe the ſame. But here in this place mēciō is made onely of the peculiar and choſen cōpani of Goddes childrē whō
+whom he hath choſen to euerlaſting lyfe: the whiche feloweſhyppe cannot be perfectely diſcerned here by our ſences nor by outward tokens.
+
+[1.202] ¶ The miniſter
+What is there more?
+
+[1.203] ¶ The childe.
+I beleue the remiſſion of our ſynnes.
+
+[1.204] ¶ The minister
+What is the ryghte or proper ſignification of thys woord, Remiſſyon?
+
+[1.205] ¶ The childe.
+It ſignifyeth properlye that God doeth freelye forgeue al the ſinnes of them whiche beleue in hym, in ſuche ſorte, that they ſhall neuer be called to any accounte: neyther ſhall they make anye aunſwere before Goddes iuſtice ſeate, therby to receyue any puniſhement.
+
+[1.206] ¶ The miniſter.
+It is eaſy than to be gathered of this, that we doe not merite or deſerue by any ſatiſfaction or amendes that we can make, that God ſhoulde pardon our ſynnes.
+
+[1.207] ¶ The minister.
+Ye ſay true: for oure ſauiour Chriſt hath made the full payment himſelf, and hath ſuſtayned the payne due vnto the ſame: for we of our parte, be not able to make anie maner of recōpence, but we are drieuē
+to ſeeke vpon God, that of his mere liberalitie, we may obtayne this benefyt frely.
+
+[1.208] ¶ The miniſter.
+Wherefore doeſt thou make mencion of remiſſyon immediatelye after that thou haſt ſpoken of the churche?
+
+[1.209] ¶ The childe.
+Becauſe that no manne can receyue forgeuenes of his ſinnes vnles he be incorporated,
+and ioyned in the felowſhyp of Goddes people, and ſo continue in the vnitie & common partakynge of Chriſtes benefites, with the ſame hys bodye euen to thende, lyke a true membre of hys Churche.
+
+[1.210] ¶ The miniſter.
+By thys ſaying than, without the churche ther is nothing but hel, death, and damnacion.
+
+[1.211] ¶ The childe.
+That is moſt certayne: for all ſuch as do deuide & diſſeuer them ſelues from the body of Chriſte, to the intente to make a ſect and breake the vnitie therof, are vtterly deſtitute of al hope to enioy euerlaſting lyfe, whiles they kepe themſelues ſo diuided and a parte.
+
+[1.212] ¶ The miniſter.
+What foloweth more.
+
+[1.213] ¶ The childe
+The ryſyng agayne of the body,
+and lyfe euerlaſting.
+
+[1.214] ¶ The miniſter.
+Whereto ſerueth thys article in our beliefe?
+
+[1.215] ¶ The childe.
+It doeth vs to vnderſtande, that our ioye and felicitie conſyſteth not in anye thynge vpon earthe: the which knowledge maye ſerue vs for two neceſſary purpoſes: The firſte it ſerueth to teache vs to paſſe through this tranſitory world, as if it were through a ſtrange countreye, ſettyng litle by the thynges of thys worlde, and not ſettyng oure affect you on thynges of ſo vnſtable continuaunce. Then ſecondarily it putteth vs in coūfort, that although as yet we haue no full taſte or enioying of the felicitie which our Lord god hathe freelye prepared for vs in our ſauiour Chriſt, that yet we oughte not for that to dyſcourage our ſelues, but paciently to wayte for hym vnto the tyme that he ſhall appere.
+
+[1.216] ¶ The miniſter.
+What ſhalbe the maner of our reſurrection?
+
+[1.217] ¶ The childe.
+Al they which be dead before that
+tyme ſhal then take theyr own bodyes agayn vnto them:
+howbeit they ſhalbe of a nother ſorte or faſhion: that is to we
+•e, they ſhalbe no more ſubiecte, to death or corrupcion: and yet notwithſtanding they ſhalbe of the ſelfe ſame nature and ſubſtaunce as before. And ſuche as ſhal then remayne alyue, God wyll rayſe them vp maruelouſly and ſodainely chaunge theyr bodyes, in the twinklinge of an eye, (as we haue ſayd before.)
+
+[1.218] ¶ The miniſter.
+Shall not the wycked be aſwell partakers of thys reſurrection, as the faythfull?
+
+[1.219] ¶ The childe.
+Yes verely, but they ſhal be in condycion or ſtate farre vnlyke:
+for the one (that is to wete) the faythfull, ſhall ryſe agayne to euerlaſtynge ioye and felycitye, & the other to euerlaſting death, and damnacion.
+
+[1.220] ¶ The miniſter.
+Wherfore then is there not aſwell mencion made of hell, and death euerlaſtynge, as of heauen and lyfe that endureth for euer?
+
+[1.221] ¶ The childe
+Bycauſe the Crede is a bryefe ſumme of oure faith conteinynge in as fewe woordes as can be, that, that belongeth peculyerly to comfort the conſciences of Goddes faythfull: therfore Gods benefytes whiche he freely beſtoweth vpon hys people be reherſed alonely, without any mencyon of the wycked, who are cleane ſhute oute of hys kyngdome.
+
+[1.222] ¶ The miniſter.
+Since we haue the very foundacion & grounde wher vpon our fayth is builded,
+we maye wel gather hereof that this is the very ryghte fayth.
+
+[1.223] ¶ The childe.
+Yea verely:
+that is to ſaye, it is a ſure perſwaſion and a ſtedfaſte knowledge of Gods tender loue to wardes vs, accordynge as he hath playnlye vttered in his ghoſpell, that he wylbe both a father, and a ſauyoure vnto vs through the meanes of oure Lorde Ieſu Chriſte.
+
+[1.224] ¶ The miniſter.
+Is this fayth a thyng ſtandynge in oure power, eyther is it a free gyfte that God geueth at hys pleaſure?
+
+[1.225] ¶ The childe.
+The ſcrypture teacheth vs that it is aſpeciall gyft of the holy goſt, and very experience doeth alſo confirme the ſame.
+
+[1.226] ¶ The miniſter.
+And why ſo?
+
+[1.227] ¶ The childe.
+For the feblenes of oure wyttes is ſuche, that we can by no meanes attayne vnto the vnderſtandynge of Gods wyſedome and the ſecretes of his ſpirite, the which thynges be opened and made knowen vnto vs by faythe: and oure heartes are naturally inclyned to a certayne diſtruſte, or at leſt a vaine truſt either in oure ſelues,
+or in other creatures: but what tyme Gods ſpirite hath lyghtened our heartes, and made vs able to vnderſtāde Gods wyll (the whiche thyng we can not attaine other wiſe) thā doth he arme vs alſo with a ſtedfaſte cō
+fydence in hys goodnes, ſealinge (as it were) and impryntyng the promiſes of euerlaſtynge healthe in our heartes,
+
+[1.228] ¶ The miniſter.
+What profyte commeth to vs through this faith whan we haue it?
+
+[1.229] ¶ The childe.
+It doeth iuſtifie vs, before God,
+and maketh vs enherytours of euerlaſtynge lyfe.
+
+[1.230] ¶ The miniſter.
+Why? thē is not a man iuſtyfyed through good workes, if he lyue holylye, and in the obedience of Goddes wyll?
+
+[1.231] ¶ The childe.
+If any manne were to be founde ſo perfecte, as to leade his life vprightly before God, ſuche a one myghte worthelye be called a ryghteous manne: but forſomuche as we euerye one, maye iuſtlie counte our ſelues wretched ſinners in the ſyght of God: we are of neceſſytye dryuen, to ſeeke elles where for a worthynes to make anſwere for vs to Gods iudgemente.
+
+[1.232] ¶ The miniſter.
+But,
+be all our workes ſo diſproued, that they can meryte nothyng at all for vs before God?
+
+[1.233] ¶ The childe
+Fyrſt, al ſuche workes as we do of our ſelues,
+by the inclination of our owne nature, are vtterly corrupte. Wherof it foloweth neceſſarily, that they can not pleaſe god, but rather do prouoke hys wrath, and he condemneth them euery one.
+
+[1.234] ¶ The miniſter.
+Thys is then thy ſayinge: that vnto the tyme that God hath of his fauourable goodnes receyued vs to mercy,
+we can doe no maner of thynge but ſynne: euen as an euell tree can brynge forth no
+fruite but that that is euyll.
+
+[1.235] ¶ The childe.
+It is euen ſo: for although oure woorkes make a fayre ſhewe outwardely to mannes ſyghte: yet withoute doubte they are wycked in Goddes ſyght, forſomuch as the heart is naughte, and vngracious, vnto the whyche God chiefly hath reſpecte.
+
+[1.236] ¶ The miniſter.
+Hereby then thou doeſt conclude that it lyeth not in oure power, to preuente God with our merytes: and ſo to prouoke him to loue vs, but muche rather contrarywyſe, we therby do ſtyrre him to be more and more angry againſt vs.
+
+[1.237] ¶ The childe.
+Yea ſurelye: and therfore I ſaye, that without any maner conſyderacion of oure owne workes, he doth accept and receyue vs into hys fauoure, of hys mere lyberall goodnes, & bountyful mercy,
+through the merites of our ſauiour Chriſt, accountyng hys righteouſnes to be ours, and for hys ſake, ſo forgettynge oure fautes, that he wyl lay them no more to oure charge.
+
+[1.238] ¶ The miniſter.
+What meaneſt thou then that a man is iuſtyfied by his fayth?
+
+[1.239] ¶ The childe,
+Iuſtification or righteouſnes is attributed vnto faythe, for ſomuche as through beleuing (that is) receiuynge with an aſſurance of the heart, the promyſes of the ghoſpell, we enter into poſſeſſyon of thys ryghteouſnes.
+
+[1.240] ¶ The miniſter.
+Thys is bryfely thy meanynge, that euen as God doth preſente and offre thys ryghteouſnes freelye vnto vs in hys goſpell, euen ſo the onely meane or way to receiue that excellente gyfte of GOD, is faythe.
+
+[1.241] ¶ The childe.
+Yea forſoth.
+
+[1.242] ¶ The miniſter.
+wel then,
+after that god hath once receyued vs into hys fauour, be not the workes which we doe through his grace, of fayth, and by the vertue of his ſpirite, acceprable vnto him?
+
+[1.243] ¶ The childe.
+Yeas verely,
+becauſe he doth of his free goodnes, ſo accepte them and take them: and not bycauſe theyr worthines doth deſerue ſo to be eſtemed.
+
+[1.244] ¶ The miniſter.
+How is it that they be not worthy of themſelues to be accepted ſince they be workes procedvnge of the holy ghoſt?
+
+[1.245] ¶ The childe.
+Forſomuch as we cary alway ſome infirmitie of the fleſhe about vs, which wyl haue a ſtroke and a doing in al our workes, wherby they are defyled.
+
+[1.246] ¶ The miniſter.
+By what meanes then are they made acceptable vnto God?
+
+[1.247] ¶ The childe.
+By the meanes of faith:
+for through fayth, a man is well aſſured in his conſcience, that God wyll not looke narowly vpon hys workes, nor trie them by the ſharpe rygoure of hys iuſtyce: but that he wyl rather hyde the vnperfytnes & the vncleane ſpottes that be in them, with the vndefyled purenes of our ſauiour Chriſt, and ſo accoumpt them as perfecte.
+
+[1.248] ¶ The miniſter.
+May we ſaye then that a Chriſtian manne is iuſtifyed by his workes, after that God hath called hym, or that he doeth meryte through them Gods fauour to the procurement of lyfe euerlaſtyng?
+
+[1.249] ¶ The childe.
+No verely:
+but contrarywyſe it is ſayd, that no manne lyuing ſhalbe iuſtified in Gods ſyght: and therefore it is oure dutie to praie that he do not enter into iudgemente with vs, or cal vs to a coumpte.
+
+[1.250] ¶ The miniſter.
+Thou meaneſte not hereby that the good dedes of faythfull menne are to no purpoſe and vnprofytable?
+
+[1.251] ¶ The childe.
+I meane nothing leſſe: for god promyſeth to rewarde them largely, both in this worlde & in the life to come. And yet thys notwithſtandyng, thoſe rewardes of God be not geuē for the worthy deſertes of oure dedes, but onely becauſe it pleaſeth GOD of his goodnes to loue vs freely, & ſo to couer and forget our fautes, that he wil neuer cal them any more to remē
+braunce.
+
+[1.252] ¶ The miniſter.
+May we perſwade our ſelues that we are iuſte without good woorkes,
+& without the diligente applying of oure ſelues to walke in al Goddes holy commaundementes?
+
+[1.253] ¶ The childe.
+That is not poſſyble: for to beleue in
+Chriſt is as much to ſay,
+as to receiue Chriſt in ſuch ſort & with ſuch properties, as he doth geue himſelfe vnto vs: now this is an euident thing, that Chriſt doth not only promes to deliuer vs from death, & to reſtore vnto vs the louing fauour of god his father thorow the onely merites of his innocency: But alſo he promiſeth to make vs newe creatures, by his holy ſpirite, to the ende that we ſhould leade a holy conuerſacion in al good workes.
+
+[1.254] ¶ The miniſter.
+Then I ſee, that it is ſo farre from the offyce or workyng of faythe to make men deſpyſers of good deedes, or negligent to lyue godly: that it is the very roote or lyuelye fountayne, whereout all good woorkes doeſprynge.
+
+[1.255] ¶ The childe.
+Ye ſaye as the trueth is,
+and for thys cauſe the doctryne of the goſpell doeth conſyſte in theſe two poyntes: faith and repentaunce.
+
+[1.256] ¶ The miniſter.
+And what maner of thynge,
+is Repentaunce?
+
+[1.257] ¶ The childe.
+It is and earneſte dyſpleaſure to warde
+ſynne, and therwith al a feruente deſyre or longyng for godlines, proceadyng of the feare of God: and inducing vs to the mortifying of our carnall affectyons, inclining vs altogether to the guiding and gouernaunce of the holy goſt, to ſerue God vnfeynedly.
+
+[1.258] ¶ The miniſter.
+Thys then whiche we haue touched, is the ſecond poynt of a chriſten mans lyfe which ſtandeth in ſeruyng of God.
+
+[1.259] ¶ The childe.
+Yea verely:
+and we haue ſayd alſo that the very ryghte and alowable ſeruyce of God, doeth conſyſt in ſubmyttyng our ſelues humbly vnto hym, ſtudying earneſtly to doe according to hys wil.
+
+[1.260] ¶ The miniſter.
+Wherfore ſtandeth gods ſeruice herin onely?
+
+[1.261] ¶ The childe.
+Becauſe he wil not be ſerued or wurſhipped after our fantaſy and imaginacion, but after his own good pleaſure.
+
+[1.262] ¶ The miniſter.
+What rules or ordinaunces hath he preſcrybed vnto vs to leade our lyfe by?
+
+[1.263] ¶ The childe.
+His lawe.
+
+[1.264] ¶ The miniſter.
+What thynges dothe yt conteyne?
+
+[1.265] ¶ The childe.
+It is deuided into.ii. partes,
+where of the firſt doth containe foure commaundementes, the ſeconde contayneth.vi. ſo that there be.x. in the whole.
+
+[1.266] ¶ The miniſter.
+Who hath made this diuiſion therof?
+
+[1.267] ¶ The childe.
+God hymſelfe:
+who alſo gaue it written in two tables vnto Moiſes ſaying, that the whole was reduced into ten ſentences.
+
+[1.268] ¶ The miniſter.
+What is the matter of ſubſtaunce of the firſt table?
+
+[1.269] ¶ The childe.
+It toucheth the due maner of woorſhyppyng God.
+
+[1.270] ¶ The miniſter.
+What is contayned in the ſeconde table?
+
+[1.271] ¶ The childe.
+It ſheweth vs in what maner we ought to behaue our ſelues towards our neghboures, and what duetye we owe vnto them.
+
+[1.272] ¶ The miniſter.
+Rehearſe the fyrſte commaundement.
+
+[1.273] ¶ The childe.
+HEarkē,
+ād take heede Iſraell: I am the lorde thy God, whiche hath broght thee furth of the land of Egypt, out of the houſe of bondage. Thou ſhalt haue none other God before my face.
+
+[1.274] ¶ The miniſter.
+Declare the meanyng hereof.
+
+[1.275] ¶ The childe.
+It is a preface to begynne withal, or an introduction to the whole law: for he doth chalenge here vnto himſelf, firſt autoritie to commaund, naming hymſelfe euerlaſting, & the creator of the world: and agayne after he calleth himſelfe oure God, wherby he moueth our heartes to haue in reuerence, & to eſteme highly hys doctrine: for if that he be our ſauior, it is good reaſon that we be alſo hys louing ſubiectes, and obedient people.
+
+[1.276] ¶ The miniſter.
+But that whiche foloweth after,
+touching the deliueraunce from the miſerable bondage of Egipt: is it not referred pecularely to the people of Iſrael?
+
+[1.277] ¶ The childe.
+Yes verely, as cōcerning the deliuerāce from bodely bondage: howbeit it belongeth
+alſo generallye vnto vs all with out excepciō, in ſo much as he hath delyuered oure ſoules from the ſpirituall captiuitie of ſynne, and from the tirāny of the deuyll and hys kyngedome, whereof the bōdage of Egipt was but a figure.
+
+[1.278] ¶ The miniſter.
+Why doeth he make mencion of thys in the very beginning of hys lawe?
+
+[1.279] ¶ The childe,
+It is done to put vs in remembraunce, how greatly we are bound to ſhewe vnto hym al obedience in performyng of his will: and to ſygnifye vnto vs what ingratitude and vnkindnes it is to do the cōtrary.
+
+[1.280] ¶ The miniſter.
+And what is briefly the effecte of that he requyreth of vs, in thys fyrſt cōmaūdemēt?
+
+[1.281] ¶ The childe.
+He enioyneth vs to reſerue vnto hym onely the honor due vnto hym:
+and that in no wyſe we alienate or put it from him, geuing the ſame vnto any other.
+
+[1.282] ¶ The miniſter.
+What is the honour due vnto hym alone?
+
+[1.283] ¶ The childe.
+To worſhip hym,
+to put our whole truſt in hym, to call vpō hymād ſuch other like, which be attributed peculiarly and onely vnto his maieſtye.
+
+[1.284] ¶ The miniſter.
+Wherfore is that clauſe putte to: before my face?
+
+[1.285] ¶ The childe.
+Forſomuch as he ſeeth & knoweth al thinges, & iudgeth the ſecret thoghtes of mens heartes: he ſignifieth vnto vs, that he doth not account it ſufficient if we make a countenaunce or beare a faire ſhew before mē, but that his wil is that alſo in very dede, euen from the bottom of our heart, with feruent affection, we do take him for our only God.
+
+[1.286] ¶ The miniſter.
+Rehearſe the ſeconde commaundement.
+
+[1.287] ¶ The childe.
+Se thou make thee no grauen image,
+neither any ſimilitude of any thing, eyther in heauen aboue, either in the earth beneath, or in the waters which be beneth the earth: thou ſhalt do no honor vnto them nor wurſhip them.
+
+[1.288] ¶ The miniſter.
+Doth he vtterlye forbydde the makyng of any images?
+
+[1.289] ¶ The childe.
+No: but he doth forbid expreſly eyther to make anye image thereby to repreſente or figure god: either to make any image to wurſhyppe yt.
+
+[1.290] ¶ The miniſter.
+Wherefore are we forbydden to make anie figure or image of God?
+
+[1.291] ¶ The childe.
+Becauſe there is no ſimilitude nor compariſon betwene hī that is an euerlaſting ſpirite,
+not able to be conceiued of the mind, nor poſſible to be ſeene with eies, and a material body mortal and apte to putrifye, which we may both feele & ſee.
+
+[1.292] ¶ The miniſter.
+Thy mīde is then, that he doth great dyſhonor to Gods maieſtie, that goth about to repreſent or figure him in ſuch ſort.
+
+[1.293] ¶ The childe.
+Yea verely.
+
+[1.294] ¶ The miniſter.
+What maner of adoracion is here inhibited?
+
+[1.295] ¶ The childe.
+We are forbydden here to come before any image to make our prayers, or to bowe oure knee before it, or to make any other ſemblant or token of reuerence: as though God were more preſent there, or ſhewed furth hys power vnto vs more in that place, than els where.
+
+[1.296] ¶ The miniſter.
+This is not then to be taken as though al keruyng or painting of Images were vtterlye prohibited: but alonly to make
+any image to doe God ſeruice therwith or therby to wurſhip him in viſible thinges:
+eyther finallye to make anye Image, wherby the ſimple may take occaſion to abuſe it vnto any kind of ſuperſtition or idolatry: all ſuche are vtterly forbydden.
+
+[1.297] ¶ The childe.
+It is euen ſo.
+
+[1.298] ¶ The minister.
+For what purpoſe principally was this commaundemente geuen?
+
+[1.299] ¶ The childe.
+In lyke maner as in the firſte commaundement, God ſheweth himſelfe to be alone the verye ſame, vnto whom all honor doth belong: euen ſo now in this ſeconde cōmaundement he goeth about to withdrawe vs frō all ſuperſtitious kind of wurſhipping, proceding of our carnal imagitions.
+
+[1.300] ¶ The miniſter.
+Reharſe that that foloweth this commaundement.
+
+[1.301] ¶ The childe.
+He ioyneth vnto it a threatning ſaying: I am the eternal, your God, almightie, Iealous, and puniſhing the wickednes of the fathers in their children, vnto the third ād fowerth generatiō of ſuch as dooe hateme.
+
+[1.302] ¶ The miniſter
+Wherfore doth he make mencion there of his myght?
+
+[1.303] ¶ The childe.
+To put vs in remembraunce that he is of ſufficient ablenes to vpholde, maintayn and defende hys honour.
+
+[1.304] ¶ The miniſter
+What meaneth he by ſpeaking of iealouſy.
+
+[1.305] ¶ The childe.
+He doth vs to were, that he can not abyde a companion with him, for euen as he hath of his vnſpeakable goodnes, frely geuen hymſelfe vnto vs: in lyke maner alſo he chalengeth as duetye of our behalfe, that we become altogether hys ſeruaūtes, wholy addycte and geuen to pleaſe hym: and thys is the ſpirituall chaſtitie whiche he looketh for of our ſoules, that they be dedicated vnto hym, ād kept holy for him And contrarywyſe,
+it is a very ſpirituall whoredome, if our mindes be alyenated, or anye whitte withdrawen from hym, to any kynde of Idolatry, or ſuperſticion.
+
+[1.306] ¶ The minister
+How ought this to be taken, that he puniſheth the trāſgreſſyōs of the fathers in
+theyr children.
+
+[1.307] ¶ The childe
+To pearce our hartes more depely, with the terror of hys wrathe, who doth not onely threaten to puniſhe the offenders, but alſo their feede after theym.
+
+[1.308] ¶ The miniſter
+What? is not this contrarie vnto the ryghteuouſnes of God, to puniſhe the one for the others faute?
+
+[1.309] ¶ The childe.
+If we dooe waye and cōſider aryghte,
+the ſtate wherunto the whole nature of manne is broughte by the fall of Adā, it maye be thought ſuperfluous and more then nedeth to moue this doubte: for we are euerye one of vs borne vnder the curſe of God, ād the childrē of hys wrathe, ſo that we can not finde faute with God when he letteth vs alone and ſuffereth vs ſtyll to contynue ſuche as we are of nature. Nowe as it is a ſure tokē of gods tender affectiō & fauore towardes his ſeruauntes, when he doth alſo enriche theyr children with his manyfolde bleſſynges: ſo likewyſe it is a moſt dreadfull token of Gods vengeance towardes the wycked, when he ſuffereth theyr ofſpringe to contynewe in their curſed ſtate.
+
+[1.310] ¶ The minister.
+What ſayeth he more beſydes this?
+
+[1.311] ¶ The childe
+To the ende he myght ſtyrre vs alſo with tender loue he ſaith moreouer that he ſheweth foorth his aboundaunte mercy vnto the thowſand diſcent of ſuche as loue hym & kepe his commaundementes.
+
+[1.312] ¶ The miniſter.
+Doeth he meane therby, that the obedyence and holye conuerſacion of a faithfull man ſhalbe ſuffyciente to ſaue his poſterytie, althouge it be naughte and wicked?
+
+[1.313] ¶ The childe.
+Not ſo but the meaninge therof is,
+that he wyll in ſuche ſort ſhewe forth his beneficial goodnes towardes the faithful, that for the fauour he beareth vnto them, he will alſo be knowen vnto their childrē to be their God, not onely mīdyng to proſpere thē here in thynges of thys worlde, but to ſaynctifie them alſo with the giftes of his ſpirite, wherby they maye become ſeruiſable and ready to pleaſe him.
+
+[1.314] ¶ The miniſter.
+But this is not altogether a generall rule, that the children of the wicked be accurſed: and contrarywyſe faithfull mens children bleſſed.
+
+[1.315] ¶ The childe
+No:
+for our Lorde doth reſerue this libertye
+to himſelfe alwayes, to ſhewe mercie vnto the childerne of the wicked: and on the other part, he hath not ſo bownd hys grace to the children of the faithfull but that he may at hys pleaſure reiecte whome he wyll: yet notwithſtanding he doeth in ſuch wyſe order theſe thinges, that all mēne may eaſely ſee, that he hath not made this louyng promyſe for noght.
+
+[1.316] ¶ The miniſter.
+Wherfore doth he reherſe here in the promes? toathowſand diſcent, whereas in the threatnynge he made mencion but of. iii. or foure?
+
+[1.317] ¶ The minister.
+That is done to ſygnifye, that God is of his owne good will and inclination, alwayes more ready to vſe gentlenes & fauourablenes, then roughnes or rygour: accordyng as he ſayeth of himſelfe that he hath a ready inclinacion to do good,
+or to ſhewe mercye, and cōtrariwiſe ſlowe vnto anger.
+
+[1.318] ¶ The miniſter.
+Let vs come nowe to the thyrde commaundement.
+
+[1.319] ¶ The childe.
+Thou ſhalt not take the name of the Lorde thy God in vaine.
+
+[1.320] ¶ The miniſter
+What is the right vnderſtanding of that?
+
+[1.321] ¶ The childe
+He doeth not onely forbid to abuſe and blaſpheme the bleſſed name of God by periurye: but forbyddeth as wel al vayne, and ſuperfluous othes.
+
+[1.322] ¶ The miniſter.
+Maye a man then ſweare lawefully at any tyme?
+
+[1.323] ¶ The childe
+Yea verely, when there is iuſt occaſion: that is to ſay, to maintayne the trueth of a matter when the tyme ſhall require, and lykewyſe to kepe and nouryſhe brotherly charytye amonge vs.
+
+[1.324] ¶ The miniſter,
+Doth he dyſproue no othes but ſuche as are made to the hinderaunce of Gods honour?
+
+[1.325] ¶ The childe.
+In one kinde of othe he teacheth vs a generall rule: to wete, that we ought not ſweare at all: that is to ſaye, that we maye not cal God to wytnes, vnleſſe it be done with al humblenes of minde, hauing a reuerente feare towardes hys maieſtye before oure eyes, to the entent to glorifie hys name: for euen as it is holye,
+and of moſt worthy pryce,
+ſo it behoueth vs to take diligent hede, that we doe not in ſuche ſorte name hym, or call hym to witnes, that either we may ſeeme to paſſe lyghtelye of hym oure ſelues, either whereby other maye take occaſiō to haue him in ſmall reuerence.
+
+[1.326] ¶ The miniſter
+How ſhal a man vſe his name with ſuche due reuerence?
+
+[1.327] ¶ The childe
+If we doe neyther thynke nor ſpeake of God, nor of his workes, but with all reuerence and honor.
+
+[1.328] ¶ The miniſter.
+What foloweth this commaundemēte.
+
+[1.329] ¶ The childe.
+He addeth vnto it a threatnynge: that he wyll coumpt hym that vſeth his name irreuerenlye as a wycked malefactoure?
+
+[1.330] ¶ The miniſter.
+Seyng that God pronounceth threatiningly in other places in a generalite, that he will puniſhe al tranſgreſſoures: what vehemencye is there beſides in theſe wordes?
+
+[1.331] ¶ The childe.
+He doth expreſſy declare hereby, in howe greate eſtymacion he hath the honour of hys holy name: forſomuche as he
+ſayeth precyſely, by euidente woordes, that he can not abyde that any man doe vſe it vnreuerently, to the intent we migth with ſo much the more careful dilygence haue it in honor.
+
+[1.332] ¶ The miniſter.
+Let vs goe to the fourth commaundemente.
+
+[1.333] ¶ The childe.
+REmembre to kepe holye the ſabboth daye: ſyxe dayes ſhalt thou laboure, & do any neadfull worke thou haſt to do? but the ſeuenth day is the reſte of the lorde thy God, thou ſhalte do no worke that daye, neyther thou nor thy ſonne, nor thy doughter, neither thy ſeruante, nor thy handmayde, no not thyne oxe, or aſſe, neither the ſtraunger that is withe in thy gates. for in ſyxe dayes God made heauē and earth, and all that is in them, but the ſeuenth daye he reſted, wherfore he hathe bleſſed the day of reſte, and hath dedicate it peculiarly to hymſelfe.
+
+[1.334] ¶ The miniſter.
+Geueth God in commaundemente that men ſhall trauaile ſixe dayes euery weeke, and ſo reſte the ſeuenth?
+
+[1.335] ¶ The childe.
+No, he doth not preciſely commaunde it: but rather he doth geue menne leaue to
+trauaile aboute theyr commen buſines for the tyme of ſyxe dayes, and ſo maketh a reſtraint onely of the ſeuēth, in the which he forbiddeth to laboure.
+
+[1.336] ¶ The minister.
+Are we then bounde by Gods commaundement to refrayne one daye in the weeke from al maner of labour?
+
+[1.337] ¶ The childe
+This commaundemente hath a certayne ſpeciall conſideration in it: for as touchynge the obſeruation of bodely reſte, it belongeth to that parte of the olde law which is called ceremonial, the which ceremonies, were vtterly aboliſhed at the comming of Chriſt.
+
+[1.338] ¶ The minister
+Sayeſt thou then, that this commaundemente belongeth peculyerly vnto the Iewes, & that God did geue it onely for the time of the olde teſtament?
+
+[1.339] ¶ The childe.
+Yea verely, as touchyng the ceremonie therof, and the outwarde bodely reſte to be obſerued therin.
+
+[1.340] ¶ The miniſter.
+Why then, is there any other thyng conteyned in it beſydes the ceremonie?
+
+[1.341] ¶ The childe.
+Yea truely: for there be three conſyderacions, for the whych this commādement was geuen.
+
+[1.342] ¶ The miniſter.
+What are they?
+
+[1.343] ¶ The childe.
+The firſt is,
+that it myght be a figure to repreſente our ſpiritual reſt: The ſeconde for a comely order to be vſed in the church or congregation: And thirdely, for the refreſhyng of ſeruantes, that they myghte haue ſome reliefe of theyr trauaile.
+
+[1.344] ¶ The miniſter
+What is that, thou calleſt ſpiritual reſt?
+
+[1.345] ¶ The childe.
+That we ceaſe to doe the workes of oure owne luſtes & wyl, that the lorde may bring forth the woorkes of hys ſpirite in oure heartes.
+
+[1.346] ¶ The miniſter
+How may we do this?
+
+[1.347] ¶ The childe
+By mortifying our fleſche and ſubduing the inordinate affections of our nature, to the end that Gods ſpirite onely maye beate rule in vs.
+
+[1.348] ¶ The miniſter.
+Are we bound to this reſt but one daye in the weeke?
+
+[1.349] ¶ The childe.
+It is our bounden duetye to continue in this reſt alwayes:
+ſo that when we haue once begon to entre in to it, we muſte goe on forwarde whiles oure lyfe laſteth.
+
+[1.350] ¶ The miniſter.
+Howe happeneth it then that there is but one daye appointed to repreſent & figure vnto vs a thinge that dureth our whole lyfe?
+
+[1.351] ¶ The childe.
+It is not neceſſarye that the figure or ſhaddowe of a thyng doe reſēble throughly in all pointes the thinge it is ordeined to repreſente: it is to be thought ſuffyciente, if they agre & be lyke in ſonne pointes.
+
+[1.352] ¶ The miniſter.
+And wherfore was the ſeuenth daye appointed rather then any other?
+
+[1.353] ¶ The childe.
+The numbre of ſeuen doth ſygnifie ād importe a certayne perfection in the holye ſcripture,
+wherfore the ſeuenth daye was moſte meete to ſette out vnto vs a thing that ſhould ſtil continue: moreouer it putteth vs in remembraunce that our ſpirituall reſt or quietnes is not full nor perfecte, whyles we lyue in this world,
+neyther ſhall it be abſolutely broughte to pefection vntyll we departe thys lyfe.
+
+[1.354] ¶ The miniſter.
+What is mente by that which our lord alleageth here, ſaying,
+that it behoueth vs to reſte, for ſo muche as he hath done the ſame?
+
+[1.355] ¶ The childe
+When God had created al his woorkes in ſyxe dayes, he dedicated or appointed the ſeuenth to the vewe and beholding of his workmanſhip. And to the intent we might be the more eaſely induced to the conſideration there of, he bringeth foorth his owne exaumple, for that there is nothinge of ſo muche worthines to be deſyred, as to become lyke vnto him.
+
+[1.356] ¶ The miniſter.
+Muſt we than daily haue conſideration and remembraunce of goddes woorkes: or is it inough to haue minde of them one day in the weeke?
+
+[1.357] ¶ The childe
+Verely our bound duety is to haue bothe daylye & hourely a reuerent conſideracion of hys merueillous woorkes:
+but for that we are through frailtie ſo negligent & forgetful, there is one certain daye, peculiarelye
+appointed, to renew from time to time the remembraūce of this our duety, and that is the politique ordre which I ſpake of.
+
+[1.358] ¶ The childe.
+What maner of ordre ought the people to obſerue in that day?
+
+[1.359] ¶ The childe.
+They are bounde that daye to come together,
+and to geue diligente eare to the woorde of God, to make theyr prayers vnto God, and finallye to make open profeſſion of their faith and religion.
+
+[1.360] ¶ The miniſter.
+What meaneſt thou by ſaying, that it was partly ordeined for the recreation and eaſe of ſeruauntes?
+
+[1.361] ¶ The childe
+To thintente that they whiche be vnder the authoritye and power of others, myght be releaſed ſomewhat and lyghtened of theyr paynful laboures, the whiche thyng alſo ſerueth to the furtheraunce of the common wealth: for ſomuch, as euery man hath iuſt cauſe to be the readyer willynglye to trauayle the other ſixe days, when they conſider, that they may take their reſt in the ſeuenth.
+
+[1.362] ¶ The miniſter
+Goe to then, let vs nowe alſo ſee how
+this commaundement belongeth vnto vs.
+
+[1.363] ¶ The childe
+As touching the ceremony ther of,
+we haue nothing to do with it: for the vſe of al ceremonyes ceaſſed at the cumming of Chriſte, who was the ende and ſubſtaunce of them.
+
+[1.364] ¶ The miniſter.
+How ſo?
+
+[1.365] ¶ The childe.
+For our old man, vnto whome the ceremonies belonged, is now crucifyed by the vertue of his death:
+& through the merite of his reſurrection we riſe agayn into a newnes of lyfe.
+
+[1.366] ¶ The miniſter.
+What is there than in this comaundement that concerneth vs?
+
+[1.367] ¶ The childe.
+We are bounde to obſerue the politique ordre appoynted in the churche for the hearyng of Goddes woorde, for cumming together to make common prayers, and for the ryghte vſe of the ſacramentes.
+
+[1.368] ¶ The miniſter
+And dothe the fygure profytt vs no more?
+
+[1.369] ¶ The childe
+Yes veryly: for it leadethe vs to the
+trewth of that thing, wherof the ſabboth day is a figure: which is, that we being made the true mēbers of Chriſte, ought to leaue of from doing the woorkes of our owne will, & to commit our ſelues wholy vnto his tuicion & gouernance.
+
+[1.370] ¶ The miniſter.
+Lette vs come now to the ſeconde table.
+
+[1.371] ¶ The childe.
+HOnor thy father & thy mother.
+
+[1.372] ¶ The minister.
+What doeſt thou meane by this woord, Honour?
+
+[1.373] ¶ The childe
+The meaning is that children are of duetye bounde to vſe humble obedience and lowlynes,
+towardes their father and mother, bearynge a reuerente minde towardes them, ready to aſſyſt and ayde thē, and willyng to doe after theyr commaundementes according to their dutie.
+
+[1.374] ¶ The miniſter.
+Proceade farther in thys commaundement.
+
+[1.375] ¶ The childe.
+God ioyneth alſo a promes to this commaundement, ſayng, that thou maiſt leade a proſperous lyfe many yeares in the lande whiche the lord thy God hath geuen thee.
+
+[1.376] ¶ The miniſter.
+What is the meanyng of this promes?
+
+[1.377] ¶ The childe.
+That God will indue them with a long lyfe here in thys worlde, whiche haue theyr father and mother in due reuerence.
+
+[1.378] ¶ The miniſter.
+How cummeth it to paſſe, that god promiſeth man to prolong hys life here in thys world (as if it were a ſpeciall benefite) ſince this life preſent is ſo ful of al kynd of miſery?
+
+[1.379] ¶ The childe.
+Though our lyfe here in thys world be neuer ſo full of wretchednes,
+yet not with ſtanding a long life is a bleſsing of God vnto the faithfull: for ſomuche as god doth ſhew furth his fatherly affection to wardes his in that they knowe they are vnder hys protection and defence?
+
+[1.380] ¶ The miniſter.
+May a man gather of the contrary parte, that he who liueth not manye yeares, is accurſed of God?
+
+[1.381] ¶ The childe.
+No: but rather it cummeth to paſſe manye tymes, that oure lord taketh them ſoneſte of all out of thys world, ſhortenyng
+theyr lyfe, whome he loueth moſt dearely.
+
+[1.382] ¶ The miniſter.
+Since he doeth thus, It ſemeth that he keepeth not alwayes promeſſe.
+
+[1.383] ¶ The childe.
+Yes verelye:
+for what promes ſoeuer god maketh vs, touching the benefites of this world, we ought to take it with this condicion, ſo farfurth as it ſhalbe expedient for the health of our ſoule. For it were a meanes to haue the promes of god in ſmal reputacyon, if the eyes of oure mynd wer not directed further then to cōſidre onely the ſtate of thys preſent lyfe.
+
+[1.384] ¶ The miniſter.
+And what is to be ſayd of them that be diſobedient vnto father and mother?
+
+[1.385] ¶ The childe.
+God will not onely puniſh them with euerlaſting payne in the day of iudgement,
+but he wil execute alſo puniſhmente on theyr bodyes here in thys worlde: eyther by ſhortnynge their life, eyther by procuring them a ſhameful death, either at the leaſt a life moſt miſerable.
+
+[1.386] ¶ The miniſter.
+Doeth not God ſpeake expreſly and namely of the lande of Canaan in thys promeſſe?
+
+[1.387] ¶ The childe.
+Yes verely, as touching the children of Iſrael, vnto whom the commaundement was firſt geuen: but ſince it hath pleaſed god to receyue vs alſo into the noumbre of hys people,
+we muſt take it in a more general ſignificatyon, ſo that, in ſomuche as the whole earthe is the lordes, we ought to acknowledge that what countreye ſoeuer we do inhabite, god hathe geuen vnto vs the ſame for a dwellinge place.
+
+[1.388] ¶ The miniſter.
+Is there nothyng elles to be vnderſtande in this commaundement?
+
+[1.389] ¶ The childe.
+Yes, for notwithſtandyng no mencion is made in it expreſly but of the father and mother: yet we muſt vnderſtand in them, al magiſtrates, rulers, & ſuperiours, for ſo muche as there is one maner of conſideracion of theym all.
+
+[1.390] ¶ The miniſter.
+What is that?
+
+[1.391] ¶ The childe.
+AS God hath geuē vnto them all, theyr authoritie and preeminence: and becauſe there is no prerogatiue of ſuperioritye, neither of father nor mother, neyther of prynce, or ruler, magiſtrate, or maiſter, neyther anye other offyce or tytle of
+preemynence,
+but ſuche as God hath ordeyned: therfore they require al by one maner of reaſon theyr due obedience.
+
+[1.392] ¶ The miniſter.
+Goe nowe to the ſixt,
+commaundement.
+
+[1.393] ¶ The childe
+THou ſhalt do no murther.
+
+[1.394] ¶ The miniſter.
+Is there nothyng forbydden here but open murther?
+
+[1.395] ¶ The childe.
+Yes verelye: for conſideryng that it is god who geueth thys in commaundemēt, the which hath chiefe regarde vnto oure heartes: he doth not only geue vs a law to reſtrayne our outward dedes, but principally to brydle the affections of oure mynde.
+
+[1.396] ¶ The miniſter.
+Thy meanynge is then, that there is a certayne kinde of murther lying prieuelye in the heart, the whiche is forbydden here of God.
+
+[1.397] ¶ The childe.
+It is euen ſo: and that is a malicious hatred or rancour, and a deſyer to doe hurt vnto our neyghbour.
+
+[1.398] ¶ The miniſter.
+Is it inough then if we beare no hatred
+nor malice towardes any man?
+
+[1.399] ¶ The childe.
+No, for in that, that god forbyddeth hatred, it is to be vnderſtand alſo that he requireth of vs to loue all men, & that vnfeynedly from the bottome of the hearte, procuryng by all meanes, theyr welth.
+
+[1.400] ¶ The miniſter.
+Rehearſe the ſeuenthe commaundement.
+
+[1.401] ¶ The childe
+THou ſhalt not commit adultery.
+
+[1.402] ¶ The miniſter.
+What is the ſumme and effect of thys commaundement?
+
+[1.403] ¶ The childe.
+All whoredome is declared to be accurſed of God,
+& therfore it behoueth vs to refrayne from it if ſo be we feare to prouoke hys wrath agaynſt vs.
+
+[1.404] ¶ The miniſter.
+Is there no other thyng conteyned in this commaundemente?
+
+[1.405] ¶ The childe.
+We muſte al wayes haue an eye and a regarde to the lawmaker, who in ſo muche as he is God, from whome nothing lyeth hid: he ſtayeth not himſelfe in the conſideracion of the outwarde woorke,
+goyng no farther, but he requyrethe alſo that the heart be cleane from al corruptiō and luſte.
+
+[1.406] ¶ The miniſter.
+Shewe me then, what is the full and perfecte meanyng of thys commaundemente.
+
+[1.407] ¶ The childe.
+Forſomuche as oure bodies & ſoules are the temples where Gods holy ſpirite reſteth,
+this commaundemente requireth of vs, to kepe thē in all honeſte purenes. in ſuche ſorte that it is not ynough for vs, if we be chaſt as touchīg the carnall act, but we muſt alſo be withoute all vnclenly luſtes or deſyres, without all inordinate fanſyes: fynally we are inhibyted all woordes and geſtures which ſounde or allure to vnclenlynes, ſo that there muſte be no parte in vs, defyled, or vnchaſte.
+
+[1.408] ¶ The miniſter.
+Go on to the eyght commaundemente.
+
+[1.409] ¶ The childe.
+THow ſhalt not ſteale.
+
+[1.410] ¶ The miniſter.
+Doth this commaundemente forbydde only ſuche robberies as be puniſhed by cō
+mune lawes, either doth it reache any farther to any other kynde of ſtealyng?
+
+[1.411] ¶ The childe.
+Thys commaundemente reacheth vnto al naughty,
+vnlawful, or diſceauable occupacyons, and forbiddeth all diſalowable or diſcommendable wayes and meanes, wherby we plucke vnto vs any parte of oure neyghbours ſubſtance, whether it be by violence by fraude, or by any other meanes, that God hath not alowed by hys worde.
+
+[1.412] ¶ The miniſter.
+Is it ynough if a manne refraine from the dede doynge, eyther is it forbydden alſo to mynde or purpoſe any ſuche thynge?
+
+[1.413] ¶ The childe.
+We muſt al waies haue a conſyderacion that God was the maker of this law:
+who forſomuch as he is a ſpirite, hath not onely regard to robberies that be committed in dede, but he conſidereth aſwell our ſecret enterpriſes, oure deuyſes, and purpoſes, and the deſyres of our mynde, to come by riches throughe oure neygh boures loſſe.
+
+[1.414] ¶ The miniſter.
+What behoueth it vs then to doe?
+
+[1.415] ¶ The childe.
+We are bounde to do our endeuoure that euery man maye haue his due
+and ryghte.
+
+[1.416] ¶ The miniſter.
+What is the nynth commaundemente?
+
+[1.417] ¶ The childe.
+THow ſhalt beare no falſe wytnes agaynſte thy neyghboure.
+
+[1.418] ¶ The minister.
+Doth god forbyd in this commaundement, open periurye before a iudge onely: eyther are we charged to make noe lye to the dyſprofyte of oure neyghbours?
+
+[1.419] ¶ The childe.
+In namynge one kynde of lying,
+he forbiddeth vtterly to make any leaſyng: meanynge that we maye not ſpeake any thynge to the reproche of our neyghboure falſelye: and that we maye in no wyſe backbyte hym or make lyes of hym, whereby he myghte ſuſtayne loſſe in hys goodes, or be hyndered in hys good name.
+
+[1.420] ¶ The miniſter.
+Wherfore doth he ſpeake expreſly of open periuryes, rather then of any other kind of lies?
+
+[1.421] ¶ The childe.
+To the intente that we might the
+more earneſtly deteſte, and abhorre,
+al backbiting, and lying: ſignyfying vnto vs withal, that whoſoeuer doth accuſtome himſelf to ſpeake ſtāderouſly of his neyghbour, or to make any lie to his neighbors, hinderaunce priuely, he wyll not be aſhamed ſhortely after to forſweare hymſelfe openly.
+
+[1.422] ¶ The miniſter.
+Be ſlanderous and lying wordes forbidden here alone: either be we alſo reſtrained from al euyl thynkinge?
+
+[1.423] ¶ The childe.
+As wel the one as the other by the reaſon which we haue already aleged,
+for that that is euyll in the doyng before men: is as euil to be willed or thought before God.
+
+[1.424] ¶ The miniſter.
+Rehearſe then in fewe wordes the very ſence and meanynge of it.
+
+[1.425] ¶ The childe.
+We are taught by thys commaundement, not to be ready to iudge euyll, or to ſpeake any wordes that ſounde to the reproche and infamy of others: but muche rather to haue a good opynyon of oure neyghbours, ād to ſpeake wordes to theyr prayſe, and to the mayntenaunce of theyr good fame, and honeſte eſtymacion, ſo farre
+foorth as the trueth wyll beare vs.
+
+[1.426] ¶ The miniſter.
+Let vs come now to the laſte commaundemente.
+
+[1.427] ¶ The childe.
+Thou ſhalte not deſyre thy neyghbours houſe:
+thou ſhalt not deſyre thy neighbours wife, nor his ſeruaunt, nor his mayde, nor hys oxe, nor aſſe, neyther any thig that is thy neyghbours.
+
+[1.428] ¶ The miniſter.
+Seing the whole lawe is ſpiritual, and requyreth purenes of the hart (as thou haſt ſaid) and forſomuche as euery one of the other afore ſayde commaundementes were ordeined, aſwell to correcte and amende the naughtye rebellyous affections of the hearte, as to rule & gouerne the outwarde doinges of men, it appereth that this commaundement is ſuperfluous, and that there was inough ſayde before.
+
+[1.429] ¶ The childe.
+In the aboue reherſed commaundementes, God forbyddeth all wyllynge or conſentynge to do euil, minding therby to brydell and ſuppreſſe all rooted affections, or deliberate purpoſes of naughtines: but here in this he vtterlye inhybiteth all euyll thoughtes, lyght mocions, ſodaine
+affections, yea thoughe we neuer fully purpoſe them, neyther endeuoure oure ſelues, or conſente wyllyngly to doe them.
+
+[1.430] ¶ The miniſter.
+Sayeſt thou then, that the leaſte mocion or temptacion that can entre into the thought of a faythfull man is ſinne, though he vtterly refuſe it, ſtriue againſt it, and wyll not by any meanes conſente vnto it?
+
+[1.431] ¶ The childe.
+Yea verely: for this is certayne,
+that al wanton thoughtes and mocions of euyll, doe proceade and ſprynge oute of the orygynall ſynne which contynueth ſtyll in vs by nature: wherof I conclude that luſtes or mocions whiche doe kendle or ſtyrre vp mans heart to do amyſſe, though he neuer purpoſe or conſente to dooe the thyng, be neuertheleſſe directly agaynſte this commaundemente.
+
+[1.432] ¶ The minister.
+This is then bryefely thy ſayinge, that euen as luſtes or deſyres of euyll, whiche haue ſo farre preuayled, that the wyll is conſentynge & fully agreed vpon the ſame, are reproued as ſynne in the former commaundementes: euen ſo by this commaundement God requireth of vs
+ſuche an vpryghte clearenes of cōſcyence that there maye not ſo muche as one euyll mocion or deſyre, once enter into oure heartes, the whiche myght enclyne or prouoke vs to doe amyſſe.
+
+[1.433] ¶ The childe.
+Ye haue ſayde all.
+
+[1.434] ¶ The miniſter.
+Maye we not nowe make a briefe ſome and gatheringe of the whole lawe?
+
+[1.435] ¶ The childe.
+Yes verely,
+the whole lawe is comprehended in theſe.ii. poyntes: the one is, that we loue God with all our hearte, with all our mynde, and with oure whole myghte. The other is that we loue our neighboure as our ſelfe.
+
+[1.436] ¶ The miniſter.
+What is included in the loue of God?
+
+[1.437] ¶ The childe.
+It requireth of vs this duetye, that we loue hym as oure God: that we acknowledge and take hym for oure ſoueraine lorde, maſter, ſauiour & father: ſo that hereby our duetye is to feare hym, to honoure hym, to put oure whole truſt in him, 〈◊〉 obeye him and loue hym.
+
+[1.438] ¶ The miniſter.
+What doeſt thou meane by theſe woordes: with all oure hearte, all oure mynde, and oure whole ſtrength.
+
+[1.439] ¶ The childe.
+It is no more to ſay, but that we muſt loue God with ſuche a zeale and feruente affection, that there maye be in vs, no deſyre, no will, no thought, no endeuour, no maner of inclynacion, contrarye vnto this loue.
+
+[1.440] ¶ The miniſter.
+What is the meaning of the ſeconde point?
+
+[1.441] ¶ The childe.
+We are taught therby, that as we be naturally inclyned to loue our ſelues, and as this affection is moſte vehemente & doth paſſe al the reſt, euen ſo our loue towardes our neighbours, oughte in ſuche ſorte to beare rule in our hartes: that it ſhoulde rule and guyde vs altogether, and ſhoulde be a lyne and rule, therby to order all oure thoughtes and deedes.
+
+[1.442] ¶ The miniſter.
+And whome meaneſt thou, whan thou ſayeſt oure neyghbours.
+
+[1.443] ¶ The childe.
+I doe not onely ſygnyfye by the word
+our kindred, frendes, and ſuche other as be of oure familier acquaintance: but ſuch alſo as be ſtraungers vnto vs, and more then that, oure verye enemyes.
+
+[1.444] ¶ The miniſter.
+In what bande or alliance are we in with them?
+
+[1.445] ¶ The childe
+There is a knot of frendſhyp the which God hymſelfe hath faſtened, which cannot be looſed by any mans malyce, or wickednes.
+
+[1.446] ¶ The miniſter.
+Then thou wylte ſaye, yf any man beare any malycious hatred vnto vs, that euyll affection cōmeth of himſelfe: and yet in the meāe time, by the very ordre whych God himſelfe hathe appoynted, he ceaſſeth not to continue ſtil our neighboure, and we are bounde euen ſo to take hym.
+
+[1.447] ¶ The childe.
+Yea verely.
+
+[1.448] ¶ The miniſter.
+Seing the law requireth ſuch a perfect vpright maner of ſeruing God, is not euery chriſten man bound to frame hys lyfe and conuerſacyon after the ſame?
+
+[1.449] ¶ The childe.
+Yes truely, but we haue in vs ſo much
+weakenes,
+that there is no man whiche fully doth perfourme all that the lawe requireth.
+
+[1.450] ¶ The miniſter.
+Why doth God therefore require of vs ſuche an exquiſite perfection as we be not hable to reache vnto?
+
+[1.451] ¶ The childe.
+God requireth nothyng of vs but that whiche we are bound to do, and our own conſciences witnes that we are charged with already: And agayn if we bend our ſelues, and geue diligence to frame our lyues to this rule ſet furth in the law, than albeit we be farre from being able to attayne vnto the perfection therof, yet the lorde wil not lay to our charge that defaut or lacke of dooyng the ſame as our duetie requireth.
+
+[1.452] ¶ The miniſter.
+Speakeſt thou generally of al men: either elles meaneſt thou the faythful onely?
+
+[1.453] ¶ The childe.
+I ſpeake not of ſuch as beleue not, for no man is able to begyn to frame hymſelfe to doe the leaſte poyncte that the lawe requireth, vntyll he be regenerate and faſhyoned agayne throughe the ſpirite of God. Moreouer, if it were poſsiblé
+to fynde our anye manne who were able to perfourme ſome part of that,
+that the law demaundeth, it ſhould not be enough to dyſcharge hym before god: for the lorde pronounceth openly thys ſentence, that whoſoeuer doth not throughly accompliſhe euerye poynte conteyned in the lawe, is accurſed.
+
+[1.454] ¶ The miniſter.
+Hereof we muſt needes gather that the law hath two diſtinct offices,
+accordyng as there be two ſortes of menne.
+
+[1.455] ¶ The childe.
+What elles?
+for as touchynge them that beleue not, it ſerueth to no other purpoſe but to reproue & condemne them, and to take from them al maner occaſion to excuſe themſelues before god: & thys is that part of the office of the law, which. S. Paule ſpeaketh, of, namyng it the inſtrumente of death and damnaciō: but as touchyng the faythfull, it ſerueth to an other vſe.
+
+[1.456] ¶ The miniſter.
+What profite doeth the lawe bring to the faythful?
+
+[1.457] ¶ The childe,
+Fyrſt the lawe maketh it knowen vnto them,
+that they cannot beiuſtified by their
+woorkes: & ſo by humbling them through the knowledge of their miſerable ſtate, it doth ſtirre them to ſearch their health & ſaluaciō in our ſauiour Chriſt. Secondarily wheras it requireth more then is poſſible for any man to do, it warneth them to pray vnto God, that he wil vouchſafe to geue them ſuffyciente ſtrength that they may at leaſt haue a ready willing minde to obey hys will, and therby they haue alſo occaſion to knowledge their daylye fautes, and ſo to thynke lowely of them ſelues: Thyrdelye it ſerueth them in ſteade of a bridle, to repreſſe theyr carnal affections, and to holde them faſte in the feare of God.
+
+[1.458] ¶ The miniſter.
+We may then finally conclude, as touching thys matter, that albeit for the time of this tranſitory lyfe, we neuer attaine to be able to render perfect obedience vnto the law, yet it is not to be thought a vayne thyng, and to no putpoſe, that it requireth of vs ſuche a precyſe and exquiſite perfection: for thereby it ſetteth vp a marke vnto vs, to the ēd, that we euery one, according to the grace wherwith God hath endued vs, might continually with ſo muche more feruente affection, walke towardes it and ſtudy dayly more and more
+to come vnto it.
+
+[1.459] ¶ The childe.
+Ye haue vttered the thing euen as I ment it.
+
+[1.460] ¶ The miniſter.
+Haue we not a perfect rule of all rigthtuouſnes ſet out in the law?
+
+[1.461] ¶ The childe.
+Yes verelye:
+ſo that God demaundeth no other thynge of vs, then to frame and ordre al our doinges by it: and contrary wiſe God diſaloweth and refuſeth whatſoeuer man taketh in hand to doe beſydes, For obedience is the onelye ſacrifice and ſeruice, which he requireth.
+
+[1.462] ¶ The miniſter.
+To what purpoſe then doth al thoſe monicions, declarations, exhortations, & commaundementes ſerue, whiche the Prophetes make & the apoſtles?
+
+[1.463] ¶ The childe.
+The doctrine of the prophetes & Apoſtles be nothing els but expoſicions of the ſelfe ſame law more at large, the ende of which doctrine is ſo farre of from the leadyng of vs from the obedience due vnto God, that it is rather in ſteade of a ſure gyde to conduct vs, and bryng vs vnto it.
+
+[1.464] ¶ The miniſter.
+Yet it femeth that the law doth not ſette out euery mans particular vocation and office.
+
+[1.465] ¶ The childe.
+Where as the law of God preſcrybeth that we ought to render vnto euerye man that, that is his due, we maye ryght well gather thereof, what euerye mans duety is in his ſtate and calling: further (as we haue already ſayde) the reſidue of the ſcripture maketh a more particular and playne declaration of the ſame: for the ſelfe ſame thinges which God hath in few wordes comprehended in theſe tables of his commaundementes, other partes of the ſcripture doe entreate here and there more at large.
+
+[1.466] ¶ The miniſter.
+Seing we haue now commoned ſufficiently, of the right ſeruyng of God (that is to ſaye of obedience to his wil) which is the ſecond parte of the honour due vnto hym:
+lette vs ſpeake now alſo of the third point touching the honour which he demaundeth of vs.
+
+[1.467] ¶ The childe.
+We haue ſaied here before that the thyrd maner of honor which he demaaundeth of
+vs, is to cal vpon him and to ſeke for helpe at hys hand in al our nedes.
+
+[1.468] ¶ The miniſter,
+Doeſt thou meane, that this honor, to calle vpon God for help in our neceſſities, is due vnto him alone?
+
+[1.469] ¶ The childe.
+Yea, for he chalengeth this as a peculiar honour due vnto hys hyghe and diuine maieſtie onely.
+
+[1.470] ¶ The minister.
+Since it is ſo: after what ſorte is it lawefull for vs to require ſuccor at mans hāde?
+
+[1.471] ¶ The childe.
+There is great dyfference betwene thoſe two thynges: for we call vpon the name of God, to proteſt and ſignifye, that we looke for no helpe nor benefite but at hys hande, hauynge oure whole affyance in him, as a ſure rocke, and in none elles: yet in the meane tyme we procure & vſe the helpe of men & other creatures, ſo farre furth as God geueth vs leaue, & as he hath lente thē ablenes and meanes to ſuccour vs.
+
+[1.472] ¶ The miniſter.
+Thou meaneſt then, that to demaund ſuccor of man, is no whit contrary to thys that we are boūde to make our inuocaciō & prayer onely vnto God for helpe: for ſomuch
+as we put not our truſt in them, neither ſeke their ſuccour, but ſo farre forthe as God hathe ordeyned them minyſters, & beſtowers of hys goodes to oure neceſſitie, and comfort.
+
+[1.473] ¶ The childe.
+Ye ſay verye well: ād in very dede, what ſoeuer benefite or frendſhyp we receyue at anye mans hande, we are bounde ſo to take it, as if God hymſelfe did deliuer it vnto vs: for the trueth is that it is he, who ſendeth all ſuche benefites by the handes of hys creatures.
+
+[1.474] ¶ The miniſter
+Is it not then our duetye to geue thankes vnto menne for theyr benefites, and to acknowledge gentilye theyr frēdelye helpe; ſeinge the lawe of nature ſo teacheth?
+
+[1.475] ¶ The childe.
+Yes verely, and it were for no more but for that it hath pleaſed God to cal them to ſuch honour, as to be the dealers, and diſtributers of hys benefites: for God in ſo doīg, doth bind vs vnto them, and wil that we take the ſame thankefullye at theyr handes, but yet alwayes ſo, that we muſt acknoweldge that they are but his miniſters and almes dealers, and that he alone is the prouyder of all.
+
+[1.476] ¶ The miniſter
+It appeareth by thys that we maye not call vpon Angelles or Saintes departed for helpe.
+
+[1.477] ¶ The childe.
+You ſaye trueth: for touching ſainctes departed,
+God hathe not appoynted vnto them any ſuch office, as to help vs, or geuen them any ſuch charge as to miniſtre vnto our needes. And as concerning hys angels, although he haue ordeined thē as miniſters to ſerue for oure healthe, yet is it nothīg leſſe then his will that we ſhoulde call vpon them for helpe, eyther haue our recourſe and refuge vnto them in time of neede.
+
+[1.478] ¶ The miniſter.
+Thou ſuppoſeſt thē, that whatſoeuer is not agreable to the ordre which God hath ſet furth vnto vs, is repugnaunte vnto his will.
+
+[1.479] ¶ The childe
+I meane euē ſo: for if ſo be that we will become ſo curious, as not to content our ſelues with that ordre and maner of doing which God hath by his woorde ſet furth vnto vs:
+that is a token moſte certayne of infidelitie. Moreouer, if in ſteade of ſeeking vpon God alone for help in al our nedes, we ſhall haue recourſe vnto Angels or anye other creatures, puttinge anye
+parte of oure confydēce or truſte in them: we commytte therein dānable Idolatrie, by attributyng vnto thē, that thynge whiche ought to be peculiarelye reſerued vnto God.
+
+[1.480] ¶ The miniſter.
+Let us come now to the right maner of makyng our prayer unto God is it inough to pray with the tongue,
+eyther is a feruēt minde, and earneſt affectiō of the hart alſo neceſſarily required?
+
+[1.481] ¶ The childe
+As for the ſpeakyng with the tong is one of the leaſt pointes, neither is it alwaies neceſſary to vſe the tong in praying: but an attentife minde, and earneſt affection is alwaies neceſſaryly required.
+
+[1.482] ¶ The miniſter.
+Howe proue you that?
+
+[1.483] ¶ The childe.
+For ſomuche as God is a ſpirituall ſubſtance, he requireth alwaies the ſpirite,
+& the heart: & as at al other tymes, ſo ſpecially in time of prayer, when we ſhewe our ſelues in hys preſence,
+and enter into communication wih hym: and therevpon he maketh a reſtrainte of his promiſe, ſeing that he will be at hāde, to heare only all them which cal vpon hym in trueth: cōtrarywiſe he pronūceth all thē accurſed whiche praye hipocritically or without
+an earneſt affection.
+
+[1.484] ¶ The minister
+I ſee then therby that al ſuche prayers as be made only with the mouth, be vnprofitable and to no vſe.
+
+[1.485] ¶ The childe
+They be not onely vnprofitable, but they are ſuperfluous & prouoke God to dipleaſure.
+
+[1.486] ¶ The miniſter.
+What maner of affection is required to make the prayer acceptable?
+
+[1.487] ¶ The childe.
+We muſt firſt of al haue ſuch a feeling of oure pouertie and wretchednes, that we maye perceaue an earneſt vexacion & griefe of minde, through the lothſommes of ſynne, or lacke of ſome grace expedient for vs: we muſt alſo haue a feruente deſire & longynge to obtayne the ſame at gods hand, which deſire muſt kendle our hartes, and engēder in vs a feruēte prayer.
+
+[1.488] ¶ The minister.
+Doe theſe thynges procede of our nature, either are they geuē vnto vs by the ſpeciall goodnes of God?
+
+[1.489] ¶ The childe.
+It is God that playeth the workeman: for we are of oure ſelues dul, and without al luſt to prayer: but the ſpirite of God
+doth ſtyre vp in oure heartes ſuch ſyghes as no tonge is able to expreſſe,
+& endueth oure mīdes with ſuch a zeale, and feruente affection, as God requireth in prayer.
+
+[1.490] ¶ The miniſter.
+Dothe this doctrine teache vs that we ought not to diſpoſe, and ſtirre vp our ſelues to prayer?
+
+[1.491] ¶ The childe.
+Nothyng leſſe: but rather contrarywyſe, ſo ofte as we do not feele in our ſelues ſuch a deuocion, or diſpoſition to prayer, we ought to make our ſupplication vnto the lorde, that it wyl pleaſe hym to geue vs of hys grace, wherby we may be framed to prayer with ſuch affection of mynde as we oughte to doe.
+
+[1.492] ¶ The miniſter.
+As touchyng the vſe of the tounge,
+thou doeſt not counte it vtterly vnprofitable in making of prayers?
+
+[1.493] ¶ The childe
+No verely: for the wordes whiche the tōge vttereth doe many times helpe to cōfort, and to ſtyrre vp the affectiōs of the mind: yea they do ſtrengthen, and holde in the mynde of man, wherby his thoughte doth not wander ſo ſodaynely from GOD, as otherwyſe it would: moreouer,
+for ſomuche as the tounge is a creature of GOD, ordeined of him to praiſe and ſet forth hys glory, aboue al other membres of the bodye, it is reaſon and duetye, that the tongue be employed by all meanes to that vſe: fynally the very feruente affectiō of the heart doth many times through a vehement mocion, enforce the tounge to ſpeake, though a man did not purpoſe ſo to do.
+
+[1.494] ¶ The miniſter,
+Since it is as thou ſayeſt, to what purpoſe is it to praye in a langage that a manne doth not vnderſtande?
+
+[1.495] ¶ The childe.
+It is to mocke God withal, and a ſuperſticious hypocriſie.
+
+[1.496] ¶ The minister.
+When we make our prayers vnto God, do we it at al auētures,
+without ſure knowlege whether we ſhal obtayne any profyt or not? either ought we to be ſurely perſwaded that our prayers ſhalbe heard?
+
+[1.497] ¶ The childe.
+We muſt haue this euermore as a ſure foundation & ground in all oure prayers,
+that they ſhalbe accepted of God, & that we ſhal obtaine our requeſt ſo
+farforth as it ſhalbe expedient and neceſſarye for vs: where vpon. Sainct Paule ſayeth, that the right inuocatiō and prayinge vnto God, procedeth of faith: for if we haue not a ſure affiance and truſt in the bountyfull mercy of God, it is vnpoſſible to make oure prayer vnto hym aryghte.
+
+[1.498] ¶ The miniſter.
+What ſaieſt thou then of them which be in doubt and vncertaine whether God wil heare them or not?
+
+[1.499] ¶ The childe
+Theyr prayers are vtterlye voide and nothing worth: neither hath God made any promyſe to any ſuche prayers, for he ſaieth: what ſoeuer we ſhal aſke, if we belieue, he will graunt it vnto vs.
+
+[1.500] ¶ The miniſter.
+There is nothinge nowe behynde but to knowe by what meanes, & in whoſe name we maye come by thys ſure confidence to preſente oure ſelues before God conſideryng that we are vyle ſynners,
+and farre vnworthy ſo to do.
+
+[1.501] ¶ The childe.
+Fyrſt of al we haue promiſes of God wherupō we muſt ſtaye oure mīdes, withoute hauynge any regarde of oure owne worthynes: Secondaryly then,
+(if we be the children of GOD) he doeth induce vs,
+and puſſhe vs forward with his holy ſpirite, to the entente to allure vs to be familier with hym as with our louynge father: and fynally to the ende that we ſhould not be afrayde to come before hys glorious maieſtye,
+although we be but as poore woormes of the earth, and moſte wretched ſynners, he hath geuen vnto vs oure Lorde IESVS to be our peacemaker and interceſſoure, to thintent that we by meanes of hys merites hauyng recourſe vnto God our father, myght haue an aſſured truſte to fynde grace at hys hande.
+
+[1.502] ¶ The miniſter
+Doeſt thou meane it thus, that we may not cal vpon God by prayer, onleſſe it be done in the name of oure ſauioure Chriſt?
+
+[1.503] ¶ The childe
+Yea,
+I meane it euen ſo: for we haue an expreſſe commaundement ſo to do: and in ſo doynge we haue a ſure promyſe, that throughe hys merytes and interceſſion, al our requeſtes ſhall be graunted vnto vs.
+
+[1.504] ¶ The miniſter.
+Is it not then to be taken as a poynte of raſhe boldenes or folyſhe preſumpcion,
+to come forth hardely, and to preſente our ſelues before God himſelf, aſſuryng oure ſelues that we haue our ſauioure Chriſte for our aduocate, and to ſet him before vs, to the ende that God maye for hysſake accept both vs and our prayers?
+
+[1.505] ¶ The childe.
+No verely:
+for we make oure prayers as it wer by hys own mouth, for ſomuch as he himſelfe openeth the waye for vs, and maketh our prayers to be hearde, yea and entreateth alſo continually for vs.
+
+[1.506] ¶ The miniſter.
+Let vs comon now of the ſubſtance of oure prayers: is it lawefull for vs to praye for all thynges that we fanſye: either is there a certaine rule to appoynt what thinges ought to be prayed for?
+
+[1.507] ¶ The childe.
+If we ſhoold folowe oure owne wil and fantaſye in making our prayers, they ſhould be very vnhanſomlye framed. For we are ſo blynde that we are not able to iudge what is good ād meete to be prayed for: moreouer, al oure deſyres are ſo inordinate, and repugnaunte to Gods wil, that it is expediente for vs to brydle them, and kepe them vnder.
+
+[1.508] ¶ The miniſter
+What is then to be done?
+
+[1.509] ¶ The childe.
+We muſte learne of God what is mete to be praied for, ſeing he alone knoweth what is neceſſarye for vs: and that he leadeth vs as it were by the hande, ſo that we our own ſelues do nothynge but folow.
+
+[1.510] ¶ The miniſter
+What inſtruction hath he geuen vs for prayer?
+
+[1.511] ¶ The childe.
+He hath taught vs ſufficiently how and wherfore to pray, throughoute the whole ſcripture, but to the intente to bring vs to one certayne and ſure marke, he hath ſet forth vnto vs one maner of prayer, wherin he hath brieflye comprehended all ſuche poyntes as be meete or lawfull for vs to demaunde.
+
+[1.512] ¶ The miniſter.
+Rehearſe that forme of prayer.
+
+[1.513] It is the very ſame that oure Lorde Ieſus taughte his diſcyples to praye:
+for whā they aſked of hym how they ſhould pray, he anſwered that they ſhulde ſay on this wyſe.
+
+[1.514] OVre father whych art in heauen halowed be thy name,
+thy kyngdome come, thy will be done in earthe as it is in heauen, geue vs this daye oure daylye breade, forgeue vs our treſpaces, as we for
+geue them, that treſpaſſe againſt vs: and leade vs not into temptacion, but delyuer vs from euyl. For thine is the kingdom, the power and the glory worlde withoute ende. So be it.
+
+[1.515] ¶ The miniſter.
+For the more eaſie vnderſtandyng hereof, tell me how manye articles or particuler requeſtes be conteined herein?
+
+[1.516] ¶ The childe.
+Syxe, of whiche the.iii.
+firſte do concerne the glory of God, withoute any reſpecte or conſideration of our ſelues: the other, iii. touche vs properlye, and concerne our wealth and profyte.
+
+[1.517] ¶ The miniſter.
+Why then, ought we to deſyre any thing of God, that bringeth no maner of commoditie vnto our ſelues?
+
+[1.518] ¶ The childe
+This is true, that God of his infinite goodnes doth diſpoſe and ordre all thinges in ſuche ſorte, that nothyng can turne to the glory of hys name which is not alſo profytable vnto vs: ſo that when hys name is ſaynctyfyed & honored, he maketh it redounde to oure ſanctyfycacion: and whē hys kingdome cōmeth, we are after a ſort partakers therof: yet notwithſtadinge, oure duetye is at ſuche tyme as we aſke
+and deſyre theſe thynges, to haue onely regarde to hys honour, without any conſideration to our ſelues, or to our owne commoditie and profit.
+
+[1.519] ¶ The minister
+By thy ſaying then, though theſe. iii. firſt peticions are greatly profitable to vs, yet we may not make them for anye other purpoſe, but onely to deſyre to haue God glorifyed & honored.
+
+[1.520] ¶ The childe
+It is euen ſo: and likewyſe, albeit the three firſt requeſtes be ordeyned to praye for thynges expedient and neceſſary for vs: yet euen in them alſo we ought moſt earneſtly to ſeeke goddes honor, ſo that it muſt be the chief ende and marke wherunto all our wiſſ hinges and deſyres be dyrrected.
+
+[1.521] ¶ The miniſter.
+Let vs come now to the expoſicion of it:
+and before that we proceade any farther, wherfore is god named here our father, rather thenby ſome other name?
+
+[1.522] ¶ The childe.
+Since in time of prayer ſpeciallye we oughte to haue a ſtrong confydence and a ſtedfaſte aſſureaunce of Goddes fauour in our conſciences:
+it pleaſeth God to be called of vs by a name whiche ſoundeth nothing but al ſwetenes, boūtye, and
+mercifulnes, thereby to dryue away all doubtfulnes, and feare, and to make vs conceyue a bolde courage to come family are lye into hys preſence.
+
+[1.523] ¶ The miniſter.
+Maye we then come boldlye and familiarely vnto god, euen as a childe may vnto hys father?
+
+[1.524] ¶ The childe.
+Yea, and with a great deale more aſſured confidence to obteyne whatſoeuer we ſhall deſyer: for if we being euyll,
+cannot choſe but geue vnto our children bread & meate whē they aſke it: howe muche leſſe can our heauenlye father refuſe to geue vs ſuch thinges as we haue neede of, ſince he is not alonelye good, but the very ſoucrain goodnes it ſelfe?
+
+[1.525] ¶ The miniſter.
+May we not proue ſufficientlye by thys that God is named our father, the ſame thing which we affyrmed touchyng Chriſte, that our prayer ought to be grounded vpon ſure truſt in his merites & interceſſion?
+
+[1.526] ¶ The childe.
+Yes certainely, for god doth acknowledge vs no otherwyſe to be hys chyldren, but onelye inſomuch as we be the membres of hys deare ſonne.
+
+[1.527] ¶ The miniſter.
+Wherefore doeſt thou not rather call God thy father, than our father, as it were in comon?
+
+[1.528] ¶ The childe,
+Euery faythful mā may right wel call God hys father particularelye:
+but in thys forme of prayer our ſauiour Chriſt doth teache vs to pray in common, that we myght remembre therby the duety & charitie whiche we owe to oure neyghboures in our prayers, and to moniſhe vs, not to care oneſye for oure ſelues.
+
+[1.529] ¶ The miniſter.
+What meaneth thys clauſe? which art in heauen.
+
+[1.530] ¶ The childe.
+It is aſmuche to ſaye, as to name hym hygh, myghtye, and of a maieſtye incomprehenſible.
+
+[1.531] ¶ The miniſter.
+To what purpoſe ſerueth that?
+
+[1.532] ¶ The childe.
+It ſerueth to thys ende, that when we cal vpon him by prayer, we myghte learne to lyfte vp our mindes, & to withdraw our imaginacyon from thynking any thyng of hym wordly or earthly, & that we ſhoulde not meaſure hym by our fleſh ly iudgement, and ſo make hym ſubiect or
+appliable to our wil or appetyte, but rather that we myght, with all humblenes of mynde honour hys excellēte maieſtye, and alſo that we myght haue occaſion to putte ſo much the more our truſt aſſuredlye in hym, conſideryng that he is Lorde and maiſter of all.
+
+[1.533] ¶ The miniſter.
+Make an expoſicion of the fyrſt peticion.
+
+[1.534] ¶ The childe.
+The name of god is hys honor & renoume,
+wherby he is ſanctified and pray ſed amongeſt men: therfore we deſyre that his glory may be auaunced aboue al thinges, & euery where.
+
+[1.535] ¶ The miniſter.
+Doeſt thou meane that thys hys glory may eyther increaſe or dymynyſ he?
+
+[1.536] ¶ The childe.
+No verelye, in it ſelfe:
+but the meanynge hereof is: that it may be knowen as it ought to be, and that all the woorkes whiche God doeth, maye appeare vnto menne to be gloryous and worthy of high praiſe, euen as they be in very deede, ſo that he myght by al meanes be magnifyed.
+
+[1.537] ¶ The miniſter.
+What doeſt thou meane in the ſeconde
+requeſte by the kyngdome of God?
+
+[1.538] ¶ The childe.
+Thys kyngdome conſyſteth pryncypallye in two poyntes:
+that is to ſaye, fyrſte in that he guydeth and gouerneth hys elect through hys holye ſpiryte. And agayn in that he deſtroyeth & brvngeth to vtter ſha me & confuſion the wicked whiche wil not become ſubiectes to his kyngdome, to the ende that it maye euidentlye appeare that there is no power hable to withſtande hys incomparable myghte.
+
+[1.539] ¶ The miniſter.
+What vnderſtandeſt thou in praying that thys kyngdome may come?
+
+[1.540] ¶ The childe.
+The meanyng is, that it wil pleaſe god from daye to day to encreaſe the number of his faithful flocke,
+that he wil continually more and more ſhew furth hysfauour in beſtowyng the gyftes of his holy ſpirite emong them, vntil the time come, in whiche they ſhalbe fullye repleniſhed: that it may alſo pleaſe hym to cauſe the lyghte of hys trueth more & more to ſhine amongeſt vs: that he will in ſuche wyſe make hys iuſtice to be knowen, that the deuyll and hys kyngdome of darkenes maye come to vtter confuſion, and that all
+wickedneſſe may be cleane aboliſhed, & rooted out.
+
+[1.541] ¶ The miniſter.
+Is not thys requeſte perfourmed in thys worlde?
+
+[1.542] ¶ The childe.
+It is partly fulfylled already:
+yet our duety is to deſyre that it may be continually increaſed, and that the wil auaunce ſtyll and further hys kingdome, vnto ſuch tyme as it ſhall come at lengthe to full perfectyon the whiche thynge ſhalbe at the day of iudgement, what tyme God alone ſhalbe magnifyed, and all creatures ſhall appeare lowe, being ſubiecte vnto hys maieſtye,
+yea when he ſhall be euydentlye ſeene to be all in all thynges.
+
+[1.543] ¶ The miniſter.
+In what ſence prayeſt thou that Goddes wyll maye be doone?
+
+[1.544] ¶ The childe.
+I deſyre that al creatures may be readye and willyng to obey hym, in ſuche ſorre,
+that what ſoeuer, is done may be pleaſant to hym.
+
+[1.545] ¶ The miniſter.
+Doeſt thou meane then, that nothyng maye be done contrarye vnto hys wil and appoyntemente?
+
+[1.546] ¶ The childe.
+Oure requeſt is not only that he wil bring al thinges to paſſe as he hath appoynted by hys vnſearcheable counſell and prouydence: but that it may pleaſe hym alſo to beate downe all rebellion, that euerye man maye with a cherefull courage applye hymſelfe to hys will onelye.
+
+[1.547] ¶ The miniſter.
+In ſo doyng, doe we not renounce and vtterly refuſe our owne willes?
+
+[1.548] ¶ The childe.
+Yes forſooth: and we pray not onelye that it maye pleaſe him to ouerturne, make voide, and bryng to naught ſuche deſyres as be in vs repugnyng vnto hys pleaſure:
+but that he wyll alſo in ſuche ſort faſhion oure myndes a newe, and ſo frame the affections or luſtes of our heartes, that the worke of our owne wyll beyng ſet a parte, his ſpirite may worke ſuche a will in vs, as may be in all poyntes agreable vnto hym.
+
+[1.549] ¶ The miniſter.
+Wherfore putteſt thou vnto it, In earth as it is in heauen?
+
+[1.550] ¶ The childe.
+Becauſe the Angels which be hys heauenly
+creatures, ſtudy nothyng,
+but quietly to pleaſe hym, without anye mocion or thought to the contrary: we deſyre that the lyke may be done in the earthe, and that al men may be framed vnto a lyke willyng obedience.
+
+[1.551] ¶ The miniſter.
+Come now to the ſecond part: what doeſt thou meane by the dayly bread which thou aſkeſt?
+
+[1.552] ¶ The childe.
+That word conteineth al thinges whereof we haue neede in this preſent life,
+not onely as touchīng meate, drīke, & clothes, but all maner of thynges that god knoweth to be expedient for vs in thys worlde, wherby we maye haue the fruicion of hys benefites in quietnes.
+
+[1.553] ¶ The miniſter.
+Why beggeſt thou of god thy daylye nouryſhement, ſince he hath geuen a charge vnto al men to gette theyr liuing with the labour of theyr handes?
+
+[1.554] ¶ The childe.
+Albeit we are commaunded to trauaile and doe our endeuor, yet the trueth is ſo, that al our labour, diligence, and prouiſiō, that we can make, is not able to procure vs a liuynge: but the onely bleſſynge of God vpon our handes and trauayle,
+whych proſpereth the thinges we goe aboute in hys name: moreouer thys is to be conſydered, that it is not meate or drynke that nouryſheth vs,
+(notwithſtandyng we be commaunded to make prouiſion for thoſe thinges) but the power of god mayntayneth our lyfe, and we vſe them onelye as inſtrumentes.
+
+[1.555] ¶ The miniſter.
+Why calleſt thou it, our bread, ſince we deſyre that it maye be geuen vs?
+
+[1.556] ¶ The childe.
+That cummeth of the onelye bountifulnes of God, whoſe pleaſure it was to name it oures, albeit it is nothynge at al due vnto vs: and agayn by thys woorde we are put in remembraunce not to deſyre the bread that an other man hath trauailed for: but to wyſhe that ōly whiche we ſhal come by, by honeſt & lawful meanes, agreeable to gods ordinaunce.
+
+[1.557] ¶ The miniſter.
+Why ſaieſt thou, this daye: calling it our dayly breade?
+
+[1.558] ¶ The childe.
+Thoſe wordes do geue vs monicion to be contented,
+and not to wyſhe more then ſuffyſeth for our neceſsitie.
+
+[1.559] ¶ The miniſter.
+Seeyng thys is a common prayer belongyng indifferently to all men: howe is it that the ryche (who haue prouided aboundaunce of goodes for a longe tyme) maye make thys petycyon for one daye?
+
+[1.560] ¶ The childe.
+All men both ryche and poore muſte vnderſtande, that what goodes ſoeuer they haue, they can nothyng profyt them, but ſo far forth as it pleaſeth God to geue thē the vſe thereof, ād the enioyinge of them: ſo that whan we haue plentye yet we haue nothyng, onles he of hys goodnes geue vs alſo the fruicion and vſe of the ſame.
+
+[1.561] ¶ The miniſter.
+What is conteyned in the fyfth requeſte?
+
+[1.562] ¶ The childe.
+That it wyll pleaſe God to forgeue vs our treſpaſſes.
+
+[1.563] ¶ The miniſter.
+Is there any man lyuyng ſo iuſte, that nedeth not to make this requeſte?
+
+[1.564] ¶ The childe.
+No ſurely: for our Lorde Ieſus preſcrybed thys forme of prayer to hys Apoſtels for the behofe of hys whole churche:
+ſo then whoſoeuer woulde exempte or priuilege hymſelfe from the ſayinge of this praier, in ſo doing he refuſeth to be of the company and felowſhip of Chriſtes flocke: & in very dede the ſcripture doth playnly teſtifie, that the moſte perfecte manne that is,
+if he woulde allege one poynte to iuſtifye himſelfe thereby before God, ſhoulde be founde fautye in a thouſande: it is mete therfore that euery man haue a recourſe cōtinuallye vnto the wel of Gods mercy.
+
+[1.565] ¶ The miniſter.
+After what ſort thinkeſt thou that our ſynnes be pardoned vs?
+
+[1.566] ¶ The childe.
+Euen as the very wordes of Chriſte doe ſounde:
+for ſomuch as our ſinnes be as debtes by whiche we are holden faſt bond vnder the daunger of euerlaſting damnacion, we make ſupplycacyon vnto GOD that he wyll of hys mere goodneſſe pardon them.
+
+[1.567] ¶ The miniſter.
+Thou meaneſte then, that we obteyne forgeuenes of our ſynnes by the free mercye of God onely.
+
+[1.568] ¶ The childe.
+It is euen ſo for we can by no meanes make amendes for the leſte faute that we
+haue commytted, if God dyd not vſe his bountifull lyberalytie towardes vs, by for geuynge them frely euery one.
+
+[1.569] ¶ The miniſter.
+What profyte commeth to vs by that that we are pardoned of our ſinnes?
+
+[1.570] ¶ The childe.
+Beſydes that, that we are delyuered therby from the paynes of hell, we become as acceptable vnto God, as if we were innocent, and without al ſpot of vnryghte ouſneſſe, and alſo our conſciences be ſurely perſwaded that he beareth a tender fatherlye affection towardes vs, whereby we attayne to euerlaſtynge healthe and felycytye.
+
+[1.571] ¶ The miniſter.
+When thou makeſt thy praier, that he wyl pardon vs our offences, euen as we pardon them which treſpaſſe agaynſt vs: doeſt thou meane hereby that we mertye or deſerue to haue oure ſynnes forgeuen in that, that we forgeue other men theyr fautes?
+
+[1.572] ¶ The childe.
+No verely:
+for by that meanes we ſhoulde not haue pardon of oure ſynnes freelye and for naught, neither ſhould the remyſſyon of them be ſuffycientlye
+grounded vpon the ſatysfaction which was made in the death of Chriſte, as it oughte to be: but in that that we forgette the wronges and damnages done vnto vs, we folowe hys exaumple in gentlenes and meekenes. And nowe to declare that we are his chyldren, he hath geuen vs this as a marke or badge to be knowen by, and to certyfye oure ſelues that we are ſo: on the other parte alſo, he doth vs to were, that we may loke for nothing at his iudgemente, but extreme & rigorouſe handlynge, if we wyll not, as his chyldren ſhewe our ſelues ready to pardon, and ſhew fauoure vnto them whiche be in debte, daunger, and faute towardes vs.
+
+[1.573] ¶ The miniſter.
+Thou meaneſt then,
+that GOD here refuſeth to take them for hys chyldren, whiche cannot forget wronges and treſpaſſes commytred againſt them: to the entente they ſhoulde not thynke themſelues to be partakers of that mercye and fauour whiche the faythfull doe loke for.
+
+[1.574] ¶ The childe.
+Yea verely: and alſo to the ende that all men myght haue knoweledge that the
+ſelfe ſame meaſure whiche they meate vnto other, ſhalbe payed vnto them agayne.
+
+[1.575] ¶ The miniſter.
+What is the nexte peticion?
+
+[1.576] ¶ The childe.
+Leade vs not into temptacion,
+but delyuer vs from euyll.
+
+[1.577] ¶ The minister.
+Makeſt thou but one requeſt of thys?
+
+[1.578] ¶ The childe.
+No, for the ſeconde parte doth expounde the fyrſt.
+
+[1.579] ¶ The miniſter.
+What is the pyth and ſubſtaunce of this peticion?
+
+[1.580] ¶ The childe.
+We deſyre that God doe not ſuffer vs to fall to wickednes,
+neyther permyt vs to be ouercome of the deuyll, nor to be lead with the naughtye luſtes of oure fleſhe, which continually warre againſte vs: but that he wyll geue vnto vs power to withſtande them, holdynge vs vp with hys hande, and kepynge vs al wayes in hys ſauegarde, to be our protectour and guyde.
+
+[1.581] ¶ The miniſter.
+By what meanes is thys brought to paſſe?
+
+[1.582] ¶ The childe.
+What tyme God doeth guyde vs by hys holy ſpyryte, therby cauſynge vs to loue goodnes, and to hate euyll, to ſeke after ryghteouſnes, and to flie from ſynne: for he maketh vs by hys holy ſpyrite, able to ouercome the deuyl, ſynne, and the fleſhe.
+
+[1.583] ¶ The miniſter.
+Hath euery man nede thus to be guyded?
+
+[1.584] ¶ The childe.
+Yea euery man:
+for the deuyll watcheth continuallye for vs, euen as a roaringe Lion, ready to deuoure vs: and we on the other parte be ſo feble and frayle, that he woulde oute of hande ouercome vs, if God dyd not bothe ſtrengthen vs and geue vs the victoire.
+
+[1.585] ¶ The miniſter.
+What ſignifieth this woorde, temptacyon?
+
+[1.586] ¶ The childe.
+The wilye guiles and ſubtyll aſſaultes of the deuyll,
+wherewith he aſſaulteth vs and goeth aboute to entrap vs: who knoweth full wel, that we are naturally apte to be deceiued, yea ready to deceyue our
+ſelues: and our wyl is wholy bente to doe euyll, and no whitte to doe good.
+
+[1.587] ¶ The miniſter.
+But wherfore requireſte thou of God that he doe not induce and lead vs into euyl: ſince that is an offyce belongynge peculiarly to the deuyll?
+
+[1.588] ¶ The childe.
+Euen as God of his infinite mercye doeth preſerue hys faythful, not ſufferyng the deuyll to leade them oute of the waye, neyther permyttynge that ſinne haue the vpper hande of them: ſo lykewiſe he doeth not onely geue vp, caſte of, and withdraw his grace from ſuche as his pleaſure is to puniſhe: but alſo he delyuereth them to the deuyll, commyttyng them vnto hys tyranny: he ſtrikethe theymwith blindnes and giueth theym vp into reprobate myndes that they be come vtterly ſlaues vnto ſynne and ſubiect to all temptacions.
+
+[1.589] ¶ The miniſter.
+What meaneth the clauſe whiche foloweth? for vnto thee belongeth the kingdom, power and glorye, worlde without ende.
+
+[1.590] ¶ The childe.
+It putteth vs agayne in remembraunce,
+that oure prayers be grounded vpon God, and vpon hys almyghtye power and goodnes, and not in any thynge that is in vs: ſince we of our ſelues be vnworthy once to open our mouthes to call vpon hym: agayne we are taughte hereby to conclude or ende all oure prayers in the laudynge and prayſyng of hys power and goodnes.
+
+[1.591] ¶ The miniſter.
+Is it not lawefull for vs to aſke any other petycyon or thyng then is here rehearſed?
+
+[1.592] ¶ The childe
+Albeit we are not forbydden to vſe other woordes and to frame them alſo after another ſort, yet there can no praier be acceptable vnto God, vnleſſe it be in effecte and ſence framed after this, which is vnto vs (as it were) a perfect rule wherby to praye as we oughte to doe.
+
+[1.593] ¶ The miniſter.
+It ſemeth nowe conuenyente tyme to come to the fourth poynte touchinge the honoure due vnto God.
+
+[1.594] ¶ The childe.
+We haue ſayde already, that it conſyſteth in acknowledgyng with the hearte, and
+in confeſſyng with the mouth, that God is the authour of all goodnes that thereby we maye mayntayne his glory.
+
+[1.595] ¶ The miniſter.
+Hath God ſet forth no rule to teache vs howe we ſhoulde do thys?
+
+[1.596] ¶ The childe.
+All the exemples in the ſcripture, of lauding, prayſyng and thākeſgeuynge, ought to be as rules and inſtructions vnto vs.
+
+[1.597] ¶ The miniſter.
+Is there nothyng contayned in the Lordes prayer touching thys matter?
+
+[1.598] ¶ The childe.
+Yes verelye: for in that we praye that his name maye be glorifyed, we deſire alſo that all hys workes maye be ſene (according as they be in dede) excellente and prayſe worthy: ī ſuch ſorte, that if he puniſ ſhe vs, we may therby prayſe the vprightnes of his iudgement: if he pardon oure fautes, we maye therby haue occaſiō to magnifye his mercy: when he performeth his promyſe, we maye acknoweledge him to be the infallyble trueth: bryefelye we require that there be nothynge at all done wherein the bryghtnes of hys glorye be not ſhewed foorth vnto vs: and this is to geue vnto hym the laude and prayſe of al goodnes.
+
+[1.599] ¶ The miniſter.
+What concluſion may we gather of al that we haue hitherto ſpoken?
+
+[1.600] ¶ The childe.
+Verelye we may well conclude of thys, the ſaying of Chriſt (whiche is the trueth it ſelfe:) that this is life euerlaſtig, to know the verye liuing God,
+and him whome he hath ſent, our ſauiour Chriſte: to know him (I ſay) to the end to rendre due honor vnto him,
+that therby he may become vnto vs, not onelye a Lorde and maiſter, but alſo a father and ſauiour: wherby alſo we on the other parte may be his ſeruauntes, his children, and a people wholy conſecrated to his glory.
+
+[1.601] ¶ The miniſter.
+What is the meanes to come by a ſtate ſo excellent?
+
+[1.602] ¶ The childe
+He hath for the ſame purpoſe left with vs hys holy woorde,
+which is vnto vs (as it were) an entree into the kyngdome of heauen.
+
+[1.603] ¶ The miniſter
+Where ſhall we ſeeke for thys hys woorde?
+
+[1.604] ¶ The childe
+It is conteyned in the holye ſcripture.
+
+[1.605] ¶ The miniſter.
+How muſt we vſe thys woorde, to haue thys profit by it?
+
+[1.606] ¶ The childe
+We muſt receyue it, beyng perfitly perſwaded therof in oure conſcience, as of an vndoubted trueth ſent down from heauē, ſubmittyng our ſelues vnto it with due obedience, louing it hartely with a feruent ād vnfeyned affectiō, hauing it ſo imprinted in our hartes, that we may folowe it and conforme our liues wholy vnto it.
+
+[1.607] ¶ The miniſter.
+Doe all theſe thynges lye in our power?
+
+[1.608] ¶ The childe.
+No verely, not one of theym all: but God woorketh them in oure heartes, in rhys wiſe by hys holy ſpirite.
+
+[1.609] ¶ The miniſter.
+Is it not required of our part, that we take payne, & doe oure diligence both to heare and to reade thys doctrine whiche is ſet furth vnto vs?
+
+[1.610] ¶ The childe.
+Yes forſoth: & firſte it is requiſite,
+that euerve man priuatly in his own houſe geue himſelfe to the ſtudye of this word: but principally euery man is bound to haunt duely al ſuch ſermons as be made in the congregation of Chriſt, for the better vnderſtandyng of this his doctrine.
+
+[1.611] ¶ The miniſter
+Thinkeſt thou then that it is not inough that euerye manne dooe geue diligence to reade gods worde in his owne houſe, onleſſe they come alſo together to heare it preached openly?
+
+[1.612] ¶ The childe.
+I thynke ſo: at the leaſt waye if God of his goodnes doe prouyde ſuche meanes that we may heare it.
+
+[1.613] ¶ The miniſter.
+What is the reaſon?
+
+[1.614] ¶ The childe.
+Becauſe oure ſauior hath ſet & eſtabliſhed thys ordre in hys church,
+not to the ende that. ii. or three onely ſhoulde obſerue it, but as a generall ordre for all men: & he hath like wiſe declared that this is the onely way to build hys church & to preſerue the ſame: let vs therfore euery one be content to haue recourſe to this rule, & not become wyſer then our maiſter.
+
+[1.615] ¶ The miniſter.
+Is it then a thing neceſſary to haue paſtoures and miniſters in the congregaciō?
+
+[1.616] ¶ The childe.
+Yea very neceſſary: & at theyr mouthes men are bound to receyue the woorde of the Lorde with all humble obedience: ſo that whoſoeuer doeth ſet light of thē,
+and regard not to heare theyr ſayinges, they
+contemne alſo Ieſus Chriſte, and deuyde themſelues from the felowſhip of hys flocke.
+
+[1.617] ¶ The miniſter.
+Is it ſufficiente that we haue bene once inſtructed by theyr meanes: eithe elles muſt we heare their doctrine continually?
+
+[1.618] ¶ The childe
+It is nothyng if a man begyn well, vnleſſe he continue ſtyll in the ſame: for we muſt keepe vs in Chriſtes ſchole, and continue ſtil his ſcholers vnto the end: and for that cauſe he hath ordayned Miniſters in the churche to teache vs continually in hys name
+
+[1.619] ¶ The miniſter.
+Is there no other meane beſides hys word,
+by whiche God ſheweth hymſelfe vnto vs?
+
+[1.620] ¶ The childe.
+God hath ordeined and coupled the ſacramentes with the preachyng of hys woorde.
+
+[1.621] ¶ The minister.
+What thing is a ſacramente?
+
+[1.622] ¶ The childe.
+A ſacramente is an outwarde token of gods fauor,
+which by a viſible ſigne dothe repreſent vnto vs ſpirituall thīgs, to the ēd that gods promiſes myght take the more deepe roote in oure heartes: and that we myghte ſo muche the more ſurely geue
+credite vnto them?
+
+[1.623] ¶ The minister.
+What? is this poſſyble that a viſible and a material ſygne ſhould haue ſuch vertue to certifye oure conſcience?
+
+[1.624] ¶ The childe.
+No, not of it ſelfe, but God hath ordained it forſuch an end.
+
+[1.625] ¶ The miniſter.
+Since it is the proper office of Goddes holy ſpirite, to ſeale & imprinte the promiſes of God in our heartes, how can thou attribute or geue this propertie vnto the ſacramentes?
+
+[1.626] ¶ The childe.
+There is a great difference betwene the one and the other: for goddes ſpirite is he alone, who in very deede is hable to touche and moue our heartes, to illuminate our mindes, and to aſſure oure conſciences, in ſuche ſorte that all theſe ought to be accounted and reputed hys only workes, ſo that the whole prayſe and glory hereof ought to be geuē vnto hym onelye: yet this notwithſtandyng, it hath pleaſed our Lorde to vſe hys ſacramentes as certaine meane aydes or inſtrumētes therof, according as it ſeemed good vnto hym, without diminiſſhinge (in the meane tyme) any poynt of the vertue and woorking of his ſpirite.
+
+[1.627] ¶ The miniſter
+Thou meaneſte then that the efficacy or vertue of the ſacramentes doth not confyſt in the outwarde elemente or viſible ſigne, but ſo farre furth as it pleaſeth God to moue the conſcience therwithall by the working of hys ſpirite.
+
+[1.628] ¶ The childe
+I meane euen ſo: according as it is gods pleaſure to woorke by meanes by him ordeined without any derogacion therby to his gloryous power.
+
+[1.629] ¶ The miniſter.
+What moued God to inſtitute ſuch inſtrumentes or meanes?
+
+[1.630] ¶ The childe.
+He ordeyned them to helpe and counforte oure weake nature:
+for if we were wholye of a ſpiritual nature, as the angelles are: then we were apt to conſider both God & hys manifolde graces or bene fites, after a ſpiritual maner alſo: but forſomuch as we are clogged, withe earthely bodyes, it was needefull for vs that God did inſtitute ſenſible ſygnes, to repreſente vnto vs ſpirituall and heauenly thynges: for otherwyſe we coulde not ſo wel comprehende them. Moreouer it is neceſſarye for vs that al our ſenſes be exerciſed in his holy promiſes, that we might be the better ſtablyſhed in the ſame.
+
+[1.631] ¶ The miniſter.
+Since God hath ordeined his ſacramentes for our neceſſitie: it were a point of arrogancye and preſumpcion to thinke that they myghte be as well left of, as vſed.
+
+[1.632] ¶ The childe.
+Ye ſaye trueth: ſo that whoſoeuer doth willingly forbeare the vſe of them,
+eſtemyng them as thynges more then nedeth, & of no importance, he diſhonoreth Ieſus Chriſt, he refuſeth his gracious benefites, and doeth willingly quenche hys holy ſpirite.
+
+[1.633] ¶ The childe
+But what ſure certitude of gods grace be the ſacramentes hable to geue: ſeing bothe the godlye and wicked doe receiue them?
+
+[1.634] ¶ The minister.
+Albeit the infideles & wicked doe make the grace (which is offered & preſented vnto them by the ſacramentes) voyde, and to ſtand them in none effect: yet it foloweth not that theyr office and property is ſuch for al that.
+
+[1.635] ¶ The childe
+How is it then, and when is it, that the ſacramentes doe produce or bryng furth theyr operacion and effect?
+
+[1.636] ¶ The childe.
+When a man receyueth them in faith,
+leaning onely vnto our ſauior Chriſt & his merites, ſeking nothing els but him in thē.
+
+[1.637] ¶ The minister.
+What meaneſt thou by ſaying that we may ſeke nothyng els but Chriſt in them?
+
+[1.638] ¶ The childe.
+I ſignify therby,
+that we may not occupye oure myndes in conſidering the outwarde or earthly ſygnes, as though we would ſeke our health & ſaluacion in thē: neither may we ymagine that there is anie peculiare vertue incloſed or hidde in thē: but contrariwiſe we do take the ſigne for an ayde or helpe to leade & to directe our mindes ſtraight into heauen, to the intent that we maye there ſeeke our ſauiour Chriſt, & al health and goodnes in him alone.
+
+[1.639] ¶ The miniſter.
+If faith then be required in the miniſtracion of them, how may it be that they are ordeined & geuen vnto vs to ſtrengthen & ſtabliſhe vs in the faith, and to aſſure vs of gods promiſes?
+
+[1.640] ¶ The childe
+It is not inough that faith be once begonne in vs for a tyme,
+but we muſt ſtyll nouriſhe it, & mayntaine it, ſo that it may grow daily, & be encreaſed in vs. For the nouriſhement, ſtrength & encreaſe therefore
+of our faythe, God hath geuen vs the ſacramentes conteining hys merciful promiſes, the which thing Sainct Paule declareth,
+ſayng that the vſe of thē is to ſeale or-print the promiſes of God in our hartes.
+
+[1.641] ¶ The minister
+But tell me: is not thys a token of infidelitie, whan the promyſes of God be not ſufficient of themſelues, to geue vs certayne aſſurance, onleſſe there be ſome viſible ſygne as an ayde ioyned vnto them?
+
+[1.642] ¶ The childe.
+Verely as ye ſay, it is a token of a litle ſlender & weake fayth, & yet of that ſort the fayth of the moſt part of al the childrē of God is:
+& notwithſtandyng they ceaſſe not therfore to be called faythfull, albeit they haue not as yet attayned vnto the perfection thereof. For ſo longe as we lyue in thys worlde, there abydeth cōtinually certayn remnauntes of vnbeliefe in oure fleſhe: & therfore we muſt endeuour by al meanes continually to profit & encreaſe in fayth:
+
+[1.643] ¶ The miniſter.
+Howe many ſacramentes be there in the churche of Chriſte?
+
+[1.644] ¶ The childe.
+Ther be but.ii.
+which be commune vnto all menne, and whyche Chriſt hymſelfe ordayned for hys whole faythfull flocke.
+
+[1.645] ¶ The miniſter.
+What be they?
+
+[1.646] ¶ The childe.
+The ſacrament of Baptiſme, and the holy Supper.
+
+[1.647] ¶ The miniſter.
+In what poyntes doe they agree, and wherin dyffer they, the one frō the other?
+
+[1.648] ¶ The childe.
+Baptyſme is as it were an entree into the felowſhippe or congregation of God:
+for it witneſſeth certaynly vnto vs, that wheras we were before ſtraungers from God, he doth now receiue vs into his family and houſhoulde. The Supper of the Lorde is a ſure witneſſe or teſtymonye vnto vs, that God wvll nouryſhe, and refreſhe vs with foode: euen as a good maſter of a houſe, ſtudieth with paynefull dilygence to ſuſtayne & feede ſuche as be of hys houſhoulde.
+
+[1.649] ¶ The miniſter.
+To the ende that we maye vnderſtande them both ſo much the better,
+let vs conſider them a parte one after another: fyrſte what is the ryghte ſygnificacyon of Baptiſme?
+
+[1.650] ¶ The childe.
+The ſignificacion thereof ſtandeth in. ii. poyntes: fyrſt our lord repreſenteth vnto vs herin, the remiſſyon of our ſynnes:
+ſecondarely,
+oure regeneration or newe byrth in ſpirite.
+
+[1.651] ¶ The miniſter.
+What ſimilitude or agreablenes is there betwene water and thoſe thynges,
+whereby it maye be thoughte meete to repreſente them?
+
+[1.652] ¶ The childe.
+Fyrſte the remiſſion of ſynnes is a maner of waſhing,
+wherby oure ſoules are clenſed from theyr fylthynes: euen as the vnclenly fylthe of our body, is waſhed a waye with water.
+
+[1.653] ¶ The miniſter,
+What ſaieſt thou concerning the other poynt of regeneration?
+
+[1.654] ¶ The childe.
+Becauſe the beginning of our regeneration ſtandeth in the mortyfvcation of our nature, that is to ſay, in the killyng of our affections: and the ful accompliſhynge of the ſame conſiſteth in that, that we become newe creatures as touchinge our cōuerſaciō through the ſpirite of God therfore the water is powred vpon the head, to ſignifye that we are dead or buryed:
+& that in ſuche ſorte, that our riſyng againe into a new life, is therwithall fygured, in that that the powring of the water is but a thing of a very ſhorte continuance and
+not ordeined that we ſhoulde be drouned herby.
+
+[1.655] ¶ The minister.
+Thou meaneſt not that the water is the thyng wher with oure ſoules be waſhed?
+
+[1.656] ¶ The childe.
+No:
+for that belongeth to the bloude of oure ſauioure Chriſt alone, which was ſhed to the ēde that al oure fylthe & vnclē
+nes myght be cleane wipt away: & that we myghte be counted pure and withoute ſpotte euen before God: the whiche thinge then taketh effecte in vs, what tyme oure conſciences be ſprinkled therwith by Goddes holy ſpirite: but the ſacramente doth teſtifye and declare it vnto vs.
+
+[1.657] ¶ The miniſter.
+Why then, meaneſt thou that the water ſtandeth in no other ſtead vnto vs but as a figure?
+
+[1.658] ¶ The childe.
+It is ſuche a figure as hath the veritie & ſubſtāce of that thing which it ſignifieth,
+ioyned vnto it: for God is a true keper of hys promiſe & deceaueth no man, wherfore it is certaine that remiſſion of ſynnes, and newnes of lyfe is offered vnto vs in baptyſme, & that we receiue the ſame there.
+
+[1.659] ¶ The miniſter.
+Is this grace receyued indifferently of all men?
+
+[1.660] ¶ The childe
+No, for dyuers through theyr peruerſe minde and vnbeliefe, do refuſe this free offer, wherby it ſtandeth thē in no ſteade: neuertheles the ſacrament loſeth not hys propertye, for it offereth thys gyfte vnto them alſo: albeit that none feele the comfort therof, but onely the faithfull.
+
+[1.661] ¶ The miniſter.
+What thynge is that wherby our regeneracion is wrought in vs?
+
+[1.662] ¶ The childe
+By the death and reſurrection of oure ſauioure Chriſte:
+for hys death ſtandeth in this ſteade vnto vs, that by it our olde Adam is crucified, and our ſynnefull nature is (as it were) buried, ſo that the affections and deſires therof beare no more rule in vs. As touchynge the other part (which is the newnes of lyfe) to vſe a newe conuerſacion in obeying Goddes wyll and folowyng hys ryghteouſnes, that we obtayne by hys reſurrection.
+
+[1.663] ¶ The minister.
+Howe is it that we obtayne thys grace in baptyſme?
+
+[1.664] ¶ The childe
+It is geuen vnto vs in that that Chriſt doth there garniſh and decke our ſoules with the garmente of hys holy ſpirite if
+if ſo be that we make not our ſelues vnworthy of hys promyſes whiche be there geuen vnto vs.
+
+[1.665] ¶ The miniſter.
+As touchyng our parte, what is the ryghte vſynge or receauyng of baptyſme?
+
+[1.666] ¶ The childe.
+The ryght vſe therof ſtandeth in theſe two: faith and repentaūce, that is,
+in that we be ſure that we haue oure conſciences cleanſed in the bloude of Chriſte. And in that we both feele in oure ſelues, and make it knowen to others by oure woorkes, that hys ſpirite abydeth in vs, to mortyfye oure affections and deſyres, and ſo to make vs ready to doe the wyll of God.
+
+[1.667] ¶ The miniſter.
+Seyng al thys is required in the ryght vſynge of baptiſme,
+how is it that lytle children be baptyſed?
+
+[1.668] ¶ The childe.
+I dyd not meane that fayth & repentaunce oughte alwayes to goe before the miniſtracion of this ſacrament,
+for that is only requiſite in them that be of age, and diſcretion: ſo that it is ſufficienre if the lytle children ſhew forth the fruites of baptyſme when they are come to ſufficient age to knowe it.
+
+[1.669] ¶ The minister.
+How wylt thou proue, that there is
+no inconuenience in thys doyng?
+
+[1.670] ¶ The childe.
+For in lyke maner circumciſyon was a ſacrament of repentaunce,
+as Moſes & the Prophetes doe wyttnes: ād alſo a ſacramente of fayth, (as ſainct Paul teacheth) and yet God dyd not debarre and exclude lytle chyldren from the receyuyng of the ſame.
+
+[1.671] ¶ The miniſter
+No, but arte thou able to proue ſufficiently, that there is as good reaſon they ſhould be receiued to baptiſme, as that the other ſhould be circumciſed?
+
+[1.672] ¶ The childe.
+Yea,
+for the reaſon is largely as ſufficienente: for the ſame promyſes whiche God dyd make in tyme paſt to hys choſen people of Iſraell, are now extended with muche more euydente declaration into all coaſtes of the worlde.
+
+[1.673] ¶ The miniſter.
+And foloweth it therefor, that we muſte vſe alſo the ſigne?
+
+[1.674] ¶ The childe.
+Yea, if we wyll conſyder the thynge effectually: For Chriſt hath not made vs partakers of that grace, which belonged in time paſte to the children of Iſrael, to the intente he woulde in vs dimyniſhe
+it and deale it more ſparyngly, or that he woulde make it nowe more doubteful or leſſe knowen than it was before: but rather to the ende, he would ſhew forth his goodnes, not onely more euidentely, but alſo more plenteouſlye.
+
+[1.675] ¶ The miniſter.
+Doeſt thou coumpt then, that if we dyd denye baptyſme to lytle chyldren, the grace and goodnes of God ſhould be dymyniſhed and darkened hy the commynge of Chriſt?
+
+[1.676] ¶ The childe.
+Yea ſurely: for we ſhoulde be by that meanes deſtytute of the expreſſe ſigne of Goddes bountyfull mercye towardes our children, the which thing, they that were vnder the lawe had: & in very dede this thing ſerueth highly to our comfort, as to the ſtably ſhynge of the promes which hath bene made vnto vs from the begynning.
+
+[1.677] ¶ The miniſter.
+Thy minde is then, that forſomuche as it pleaſed GOD in olde tyme to declare hymſelfe to be the ſauyoure, yea of lytle children, and that he thoughte it alſo good to ſeale hys fauorable promiſe in theyr bodyes by an outwarde ſacramente and marke:
+that therfore it is very good reaſon, that ther be no leſſe tokens of aſſuraunce after Chriſtes comming, ſince the ſelf ſame promyſe cōtinuynge ſtyll is reiterate, and more openly vttered, as wel by worde as dede.
+
+[1.678] ¶ The childe.
+Yea: and moreouer it ſemeth a thyng worthy of notable reprehencyon, if menne woulde doe ſo muche wronge vnto chyldren, as to denye them the ſigne, whiche is a thynge of leſſe price, ſince the vertue and ſubſtance of baptyſme belongeth vnto them, whiche is of muche hygher eſtimacion.
+
+[1.679] ¶ The miniſter.
+For what conſideration, ought we to baptiſe lytle children?
+
+[1.680] ¶ The childe.
+They are chriſtened in token and wytnes that they are enherytours of the bleſſynge of God,
+which is promiſed to the lynage of the faythfull: to this ende, that when they come to age, they ſhoulde be inſtructed what the ſubſtaunce and meaning of baptiſme is, to profite them ſelues therby.
+
+[1.681] ¶ The miniſter.
+Let vs now ſpeake of the Supper: and firſte what is the ſignyfycacion therof?
+
+[1.682] ¶ The childe.
+Our lord did ordaine it to put vs in aſſuraunce,
+that by the diſtribuciō of his body & bloud, oure ſoules are nouryſhed in the hope of lyfe euerlaſtynge.
+
+[1.683] ¶ The miniſter.
+Why is it that our Lorde repreſenteth vnto vs hys bodye by the breade, and hys bloude by the wyne?
+
+[1.684] ¶ The childe.
+To ſygnyfye vnto vs,
+that euen what propertie the bread hath towardes our bodies, to were, to feede & ſuſtayne them in this tranſytorye lyfe: the ſelfe ſame proper tye alſo his body hath touchīg our ſoules, that is, to nouriſhe and refreſh them ſpirytually. And in lyke maner as the wine dothe ſtrengthen, comfort, and quicken the body of man: euen ſo hys bloude, is our ful ioye, our comforth, and ſpiritual, ſtrength.
+
+[1.685] ¶ The miniſter.
+Doeſte thou meane that we muſt be in dede partakers of the bodye and bloude of the Lorde?
+
+[1.686] ¶ The childe.
+Yea verely, I meane ſo:
+for ſince the whole truſte and aſſuraunce of our health and ſaluacion doth conſiſt in the obedience which he hath perfourmed vnto god
+hys father: (in that that God doth accept it, & take it as if it were oures in deede) we muſt fyrſte needes poſſeſſe him, ſeeing that hys benefites doe not belong vnto vs, vntill he haue firſte geuen hymſelfe vnto vs.
+
+[1.687] ¶ The miniſter.
+Why? did not Chriſt geue himſelfe vnto vs what tyme he gaue himſelfe to be crucified, to the intēt that thereby we myght be brought into the fauour of God hys father, and be deliuered from damnacion?
+
+[1.688] ¶ The childe.
+Yes, but that doth not ſuffyce, vnleſſe we doe receiue hym withal, in ſuch ſorte as we may feele in our conſciences the fruicte and efficacye of his death and paſſion.
+
+[1.689] ¶ The miniſter.
+Is not faith the ready meanes to receyue Chriſt by?
+
+[1.690] ¶ The childe.
+Yes forſoth: not onely by that that we belieue that he dyed & roſe again to delyuer vs from euerlaſting death, and to procure vs alſo euerlaſtyng lyfe: but alſo by that that we feele by fayth, that he dwelleth in vs, and is ioyned with his membres, to the end to make vs partakets of al
+his graces and benefites becauſe we are vnto hym vnited and made all one.
+
+[1.691] ¶ The miniſter.
+Haue we not Chriſte ioyned vnto vs,
+ſo that we become partakers of hys benefytes, by no other meanes than by hys Supper?
+
+[1.692] ¶ The childe.
+Yes verelye:
+for we receyue Chriſt with the fruicion of his benefites, at the preaching of the goſpel, (as. S. Paule witneſſeth) in that that our lord Ieſu doeth promiſe and certifye vs therein, that we are bone of his bones, and fleſhe of his fleſhe:
+& agayn that he is the bread of life whiche came downe from heauen to nouriſh our ſoules: and in an other place,
+that we are one with hym,
+euen as he hymſelfe is one with hys father, and ſuche lyke.
+
+[1.693] ¶ The miniſter.
+What is there more to be had in the ſacramente? or to what vſe doth it ſerue vs beſydes?
+
+[1.694] ¶ The childe.
+This is the difference, that Chriſte & his benefites be more euidently, liuely, and plenteouſlye, ſet furth vnto vs: for albeit that our ſauiour Chriſt be in very deede exhibited vnto vs, and is made oures by
+baptiſme alſo, and by the preachyng of hys word, that is but in a parte as it were, and not fully.
+
+[1.695] ¶ The miniſter.
+What is it than briefelye, that we haue by this ſygne of bread?
+
+[1.696] ¶ The childe
+That the bodye of our Lord Ieſus,
+for ſo muche as it was once offered vp for vs in ſacrifice, to bryng vs in to gods fauour, is now geuen vnto vs, to aſſure vs that we are partakers of thys ioyfull reconciliacion.
+
+[1.697] ¶ The miniſter.
+And what haue we by the ſigne of wyne?
+
+[1.698] ¶ The childe.
+It aſſureth vs,
+that as oure lord Ieſus dyd ſhed his bloud once on the croſſe for a full pryce & recompence of al our ſinnes: euen ſo he now geueth it vnto our ſoule to drinke, wherby we ſhould not doubt to receiue the fruite & benefite therof.
+
+[1.699] ¶ The miniſter.
+By theſe thy aunſweres, I gather that the lordes ſupper doth direct, and as it were conduite vs, to the death and paſſyon of our ſauiour Chriſte: to the entent we may be partakers of the vertue ād profite therof.
+
+[1.700] ¶ The childe.
+It doeth euen ſo: for euen then when he ſuffered, the onelye and euerlaſtynge ſacrifice was offered vp for our redempciō. Wherefore there remayneth nowe nothynge elles, but that we ſhould haue the fruites therof.
+
+[1.701] ¶ The minister.
+The ſupper then was it not ordeyned to offer vp the bodye & bloud of our ſauiour to God hys father?
+
+[1.702] ¶ The childe.
+No:
+for there is none but he alone vnto whō that office belongeth, for ſo much as he is the euerlaſtynge ſacrificer: but the charge that he hath geuē vnto vs is, that we doe receyue hys bodye, ād not offre it.
+
+[1.703] ¶ The miniſter.
+Wherefore be there.ii.
+ſygnes inſtitute?
+
+[1.704] ¶ The childe.
+Our Lorde dyd that to helpe thereby our infyrmite:
+ſignifying that he is as wel the drinke as the meate of ourſoule: to the end we might be content to ſeke our nouriſhment fully and wholy in hym, and no where elles.
+
+[1.705] ¶ The miniſter.
+Doth the ſecond ſigne (which is) the cup, belong indifferentely vnto al men?
+
+[1.706] ¶ The childe.
+Yea, and that by the commaundement of our ſauiour Chriſt, contrary whereunto we mayein no wyſe doe.
+
+[1.707] ¶ The miniſter.
+Receiue we in the ſupper onely the tokens of the thinges afore rehearſed? eyther are they effectually in dede there geuen vnto vs?
+
+[1.708] ¶ The childe.
+Forſomuche as our Sauiour Chriſt is the truth it ſelfe, it is nothyng to be doubted, that the promiſes whiche he made at his ſupper, be not there in dede accompliſhed, and that which is figured by the ſygnes is truely perfourmed: ſo then according as he there maye promes, and as the ſignes do repreſent, theris no doute, but he maketh vs partakers of hys verye ſubſtaunce, to make vs alſo one with hym, and in one lyfe with hym.
+
+[1.709] ¶ The miniſter.
+But tel me how thys may be done,
+ſeyng the body of our ſauiour Chriſt is in heauen, and we are here as pilgrimes on the earth.
+
+[1.710] ¶ The childe.
+Verely it cummeth to paſſe by the woonderous and vnſearcheable workynge of hys ſpirite who ioyneth eaſelye together
+thynges beynge farre a ſundre in place.
+
+[1.711] ¶ The miniſter.
+Thy mind is then, that his body is not preſently included in the bread, neither his bloud conteyned within the cup.
+
+[1.712] ¶ The childe.
+No not a whit:
+but cleane contrary wiſe, if we wil haue the ſubſtaunce of the ſacrament, & the very thing which is ſignified therby: we muſt at the receiuing therof lift vp our heartes into heauen, where oure ſauioure Chriſt is in the glory of his father, from whence we haue ſure hope that he wil come for oure redempcion: & therfore we maye not ſearche hym in theſe corruptible elementes, as if he were preſently there.
+
+[1.713] ¶ The miniſter.
+So then thy iudgemente is, that there be two thynges in thys Sacramente: the ſubſtaunce of breade and wyne, whyche we ſee wyth the eye, touche with our hād ād feele, or ſauoure with oure taſte: & alſo our ſauiour Chriſt by whome oure ſoules are inwardlye nouryſhed
+
+[1.714] ¶ The childe.
+You ſay truth:
+and in ſuch ſort that we haue therewith alſo a ſure token, and (as
+it were) an earneſt penye of the ryſyng agayn of our bodies, in ſomuch as they are already made partakers of the ſigne of lyfe.
+
+[1.715] ¶ The miniſter.
+How ought thys ſacrament to be vſed?
+
+[1.716] ¶ The childe.
+Saincte Paule teacheth the right maner of the vſyng therof:
+(which is,) that euery man examine hymſelfe before that he come vnto it.
+
+[1.717] ¶ The miniſter.
+Wherein ought a man to trye and examyne hymſelfe?
+
+[1.718] ¶ The childe.
+He muſte conſidre whether he be a true membre of Chriſt our Sauioure.
+
+[1.719] ¶ The miniſter.
+Wherby may a man haue ſure knowledge thereof?
+
+[1.720] ¶ The childe.
+If he haue a faythe or ryghte confidence in Goddes promiſes,
+being inwardlye ſorye for hys ſynnes, and doe loue hys neyghboure with an vnfeyned charitie, not keping in his hearte anye rancoure, hatred, or debate.
+
+[1.721] ¶ The miniſter.
+But is it requiſite to haue a perfecte faythe, and perfecte charitie?
+
+[1.722] ¶ The childe.
+We muſt nedes haue both the one & the other, ſound, right, & not counterfaited: but to ſpeake of ſuche a perfection, as vnto which nothing can be added, a man ſhal not be able to finde it in the whole multitude of men: ſo then thys ſupper had bene a thing ordeined in vaine, if none were mete to come to it, vnleſſe he were throughly perfect.
+
+[1.723] ¶ The miniſter.
+By this ſaying, our imperfection doth no whit hynder vs from cumming therunto?
+
+[1.724] ¶ The childe.
+No verely: but rather contrariwyſe, it ſhoulde ſtande vs in no ſteade, if we wer not vnperfecte, for it is as an helpe and ſuccour, agaynſte oure infyrmitye.
+
+[1.725] ¶ The miniſter.
+Doe theſe two ſacramentes ſerue to no other ende, but to ſupporte and beare vp our imperfection?
+
+[1.726] ¶ The childe.
+Yes, they are alſo very ſignes and badges of our profeſſion: that is to ſay, by them we proteſt openly that we are the people of God, and make open profeſſion of our chriſten relygyon.
+
+[1.727] ¶ The miniſter.
+What ſhall we then iudge of him that refuſeth to vſe them?
+
+[1.728] ¶ The childe.
+We ought not to count hym a chriſten mane: for in ſo doing he refuſeth to confeſſe or knowledge hymſelfe to be a chriſtian, and what is that els, but as it were couertly to refuſe Chriſte?
+
+[1.729] ¶ The miniſter.
+Is it inough to receyue them bothe, once onelye in oure lyfe tyme?
+
+[1.730] ¶ The childe.
+Baptiſme was ordeyned to be receiued but once, wherefore it is not lawfull to be chriſtened again: but it is other wiſe to be thought of the ſupper.
+
+[1.731] ¶ The miniſter.
+What is the reaſon therof?
+
+[1.732] ¶ The childe.
+This:
+by baptyſme God doethe brynge, and receyue vs into his churche: and when he hath once receyued vs, he declareth alſo to vs by the ſupper, that he wyll feede vs continually.
+
+[1.733] ¶ The miniſter.
+To whome belongeth the minyſtracion of baptiſme,
+and of the Lordes ſupper?
+
+[1.734] ¶ The childe.
+Vnto them who haue taken charge to preach openly in the churche:
+for the preachyng of Goddes worde and the miniſtracion of the ſacramentes be thynges ioynctely belongyng to one kynde of office.
+
+[1.735] ¶ The miniſter.
+Is there not a ſubſtancyal profe to be brought for thys?
+
+[1.736] ¶ The childe.
+Yes verely:
+for our Lorde geueth ſpeciall charge to hys Apoſtles, as well to baptyſe as to preach: and as touchyng the ſupper, he geueth them iniunction to folowe hys exaumple: nowe he did the parte of a minyſter, in that he gaue and diſtributed it to others.
+
+[1.737] ¶ The childe.
+The paſtours, who be the mynyſters of the ſacramentes, ought they to receyue indifferently euery perſon that commeth?
+
+[1.738] ¶ The childe.
+As touchyng baptiſme,
+forſomuche as there be none in our tyme baptyſed but lytle chyldren, there oughte to be no choiſe vſed: but as cōcerning the ſupper, the miniſter muſte haue ſo muche dyſcrecyon as to refuſe to geue it to them that be vtterly vnworthy.
+
+[1.739] ¶ The miniſter.
+Wherfore?
+
+[1.740] ¶ The childe.
+Becauſe that otherwyſe the ſupper of the Lorde ſhould be defyled and diſhonored
+
+[1.741] ¶ The miniſter.
+But yet our Lorde admytted Iudas to the holy ſupper, notwithſtanding his wickednes.
+
+[1.742] ¶ The childe.
+Yea,
+for his wickednes was hytherto hyd. ād albeit oure Lorde knewe it ryghte well, yet was it not notoryous and knowen vnto men.
+
+[1.743] ¶ The miniſter.
+What waye is to be vſed then towardes the hipocrites?
+
+[1.744] ¶ The childe.
+The miniſter ought not to exclude ādſhut oute them, as vnworthy: but he muſt tary vntill it ſhall pleaſe GOD to make their cloſe wyckedneſſe knowen.
+
+[1.745] ¶ The miniſter
+What if he hymſelfe knowe, or if he be prieuely aduertiſed of any ſuche?
+
+[1.746] ¶ The childe.
+That is not a ſufficiente cauſe for him to denie them the ſupper, vnleſſe he haue the thinge tryed by ſuffyciente profe: and ther
+with the iudgement of the congregacion.
+
+[1.747] ¶ The miniſter.
+Is it then meete to haue a polytyke order touchynge thys matter?
+
+[1.748] ¶ The childe.
+What els? if the congregacion be wel ordered: there muſte be certayne appoynted to watche, and take dyligente heede for ſuche opē crimes as may be committed: and they hauynge auctorytye, ought in the name of the whole congregation, to inhibite ſuch as be by no meanes mete, neither can be partakers therof withoute the dyſhonoure of God, and the offence of the fayth full.
+
+[1.749] The ende of the inſtruction of children in the fayth.
+
+## THE MANER TO EXAmine chyldren before they be admitted to the Supper of the lord.
+
+[2.1] ¶ Fyrſt the Miniſter aſketh.
+IN whome doeſt thow beleue?
+
+[2.2] ¶ The childe anſwereth.
+I beleue in god the father, and in Ieſus Chriſt his ſonne, and in the holy ghoſte:
+and loke to be ſaued by non other meanes.
+
+[2.3] ¶ The miniſter.
+The father, the ſonne, and the holy ghoſt, be they any more then one god?
+
+[2.4] ¶ The childe,
+No, although they be diſtinct in perſone.
+
+[2.5] ¶ The miniſter.
+What is the effect of thy fayth?
+
+[2.6] ¶ The childe.
+That god the father of our lord Ieſus Chriſt, (and ſo by hym of vs all) is the beginnynge ād principall cauſe of all thīges: the which he gouerneth in ſuch ſorte, that nothinge can be done with owte his ordinance, and prouidence. Next, that Ieſus Chriſt his ſonne, came downe into this world, ād accompliſhed all thinges which were neceſſary for our ſaluation. And aſcē
+ded into heauen, where he ſitteth at the right hād of the father, that is, that he hath all power in heauen ād in earth. And ſhall come agayne frome thence to iudge the whole world. Forthermore that the holy ghoſte is very god, becawſe he is the vertue ād power of god, ād imprīteth ī our hartes the ꝓmeſſes made vnto vs in Ieſus Chriſt. And fynally that the churche is ſanctified, and delyuered from their ſynnes through the mercies of god, and ſhall after this life
+riſe againe to lyfe euerlaſtinge.
+
+[2.7] ¶ The miniſter.
+Muſt we ſerue God accordinge as he hath commaunded, or elles as mens traditions teache vs?
+
+[2.8] ¶ The childe.
+We moſt ſerue hym as he hath taught vs bi his word and cōmanndementes, and not accordinge to the commaundementes of men.
+
+[2.9] ¶ The miniſter.
+Canſt thow kepe gods commaundements of thy ſelfe?
+
+[2.10] ¶ The childe
+No verely.
+
+[2.11] ¶ The miniſter
+Who then doth kepe and fulfill theym in thee?
+
+[2.12] ¶ The childe
+The holy ghoſte.
+
+[2.13] ¶ The miniſter.
+When God then geuethe thee his holy ghoſte cāſt thou parfytely obſerue theym?
+
+[2.14] ¶ The childe
+No, not ſo.
+
+[2.15] ¶ The miniſter.
+Why? God doth curſe and reiect all ſuch as do not in euery point fulfyll his commaundements.
+
+[2.16] ¶ The childe.
+It is true.
+
+[2.17] ¶ The miniſter.
+By what meanes then, ſhalt thow be ſaued, ād deliuered frome the curſe of God?
+
+[2.18] ¶ The childe.
+By the death and paſsion of our lord Ieſus Chriſt.
+
+[2.19] ¶ The miniſter
+How ſo?
+
+[2.20] ¶ The childe.
+Forbecawſe that by his death, he hath reſtored vs to lyfe, and recōciled vs to God his father.
+
+[2.21] ¶ The miniſter
+To whome doeſt thow make thy prayers?
+
+[2.22] ¶ The childe
+I pray to God in the name of our lord Ieſus Chriſt our aduocat and mediator, referring all my prayers to that ſcope, which Chriſt our ſauiour hath left vs as a moſte ſufficient and abſolute rule.
+
+[2.23] ¶ The miniſter.
+How many Sacraments are there in Chriſts Church?
+
+[2.24] ¶ The childe.
+Two, Baptiſme, and the lords Supper.
+
+[2.25] ¶ The miniſter.
+What is ment by Baptiſme?
+
+[2.26] ¶ The childe.
+Firſt it ſignifieth that we haue forgiuenes
+our ſynnes by the blood of Chriſt. Secondly it ſetteth before our eyes our regeneration or newe ſpirituall birth.
+
+[2.27] ¶ The miniſter.
+What ſignifieth the Supper of the lord?
+
+[2.28] ¶ The childe.
+That by the ſpirituall eatinge and drinkinge, of the body and bloude, of our lord Ieſus Chriſt, our ſowles are noriſhed vnto lyfe euerlaſtinge.
+
+[2.29] ¶ The miniſter.
+What do the bread and wyne repreſent, in the lordes Supper?
+
+[2.30] ¶ The childe.
+This, that as our bodies are noriſhed therwith: ſo our ſowles are ſuſteyned, and noriſhed with the vertue of Chriſts body ād bloode, not that they are incloſed in the breade and wyne, but we muſte ſeeke Chriſt in heauen in the glorie of God his father.
+
+[2.31] ¶ The miniſter.
+By what meanes may we attayne vnto hym there?
+
+[2.32] ¶ The childe.
+By faith, which gods ſpirite worketh in our hartes, aſſuringe vs of Gods promiſſes made to vs in his holy ghoſpell.
+
+[2.33] Thend.

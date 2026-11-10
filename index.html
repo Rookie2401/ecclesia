@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ecclesia Texts</title>
-<meta name="description" content="Download any text of the Ecclesia theological library, or the whole library as one database.">
+<meta name="description" content="Download any text of the Ecclesia theological library, or the whole library as two databases.">
 <style>
 :root { --bg: #f7f3ea; --panel: #fffdf8; --ink: #2a2118; --muted: #6f6253; --line: #ddd2bf; --accent: #7a4a12; }
 @media (prefers-color-scheme: dark) { :root { --bg: #17120d; --panel: #211a13; --ink: #efe6d6; --muted: #ab9d89; --line: #3b3025; --accent: #dca95f; } }
@@ -40,9 +40,9 @@ input, select { font: inherit; font-size: .95rem; padding: 8px 10px; background:
   <p class="note" id="summary">Loading the list…</p>
 
   <section class="panel">
-    <h2>The whole library as one database</h2>
-    <p class="note">A SQLite file with every edition, chapter and numbered passage, and each edition's credit and licence. Unpack it with gzip or 7-Zip, then open it with any SQLite tool. The <a href="README.md">README</a> shows how to query it.</p>
-    <a class="download" id="database" href="ecclesia-texts.sqlite.gz" download>Download the database</a>
+    <h2>The whole library as two databases</h2>
+    <p class="note">The library comes in two SQLite files, each complete on its own, with every edition, chapter and numbered passage of its part and each edition's credit and licence. Unpack them with gzip or 7-Zip, then open them with any SQLite tool. The <a href="README.md">README</a> shows how to query them.</p>
+    <span id="databases"><a class="download" href="ecclesia-texts-early.sqlite.gz" download>Scripture to the Middle Ages</a> <a class="download" href="ecclesia-texts-reformation.sqlite.gz" download>The Reformation and after</a></span>
     <a class="download" href="catalogue.json" download>Catalogue (JSON)</a>
   </section>
 
@@ -88,9 +88,13 @@ function renderWork(work, editions) {
 }
 
 fetch("catalogue.json").then((response) => { if (!response.ok) throw new Error(response.status); return response.json() }).then((data) => {
-  const { counts, database, works } = data
+  const { counts, databases, works } = data
   document.getElementById("summary").textContent = `${counts.editions} editions of ${counts.works} works. ${counts.withoutText} further catalogue entries have no text here: they are collections, or their rights are not yet verified.`
-  document.getElementById("database").textContent = `Download the database (${size(database.bytes)}, ${size(database.unpackedBytes)} unpacked)`
+  document.getElementById("databases").replaceChildren(...databases.map((item) => {
+    const link = document.createElement("a")
+    Object.assign(link, { className: "download", href: item.path, download: "", textContent: `${item.title} (${item.editions} editions, ${size(item.bytes)}, ${size(item.unpackedBytes)} unpacked)` })
+    return link
+  }))
   const all = works.flatMap((work) => work.editions)
   const fill = (id, values) => { const box = document.getElementById(id); for (const item of [...new Set(values)].sort()) box.append(new Option(capital(licenceName(item)), item)) }
   fill("language", all.map((edition) => edition.language))
@@ -117,7 +121,7 @@ fetch("catalogue.json").then((response) => { if (!response.ok) throw new Error(r
   language.addEventListener("change", draw)
   licence.addEventListener("change", draw)
   draw()
-}).catch((error) => { document.getElementById("summary").textContent = `The list could not be loaded (${error.message}). Reload the page, or use the database link below.` })
+}).catch((error) => { document.getElementById("summary").textContent = `The list could not be loaded (${error.message}). Reload the page, or use the database links below.` })
 </script>
 </body>
 </html>

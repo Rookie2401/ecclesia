@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_First_Ecumenical_Council/The_Nicene_Creed
 Retrieved: 2026-11-05 (source file 3964 bytes, SHA-256 26256e439c6ae7e8611a24b58e1e67a0f6040f3fd7477f74f975436636adc8a8)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":3}
-Ecclesia library, source 8489976a.
+Ecclesia library, source 6700fbc4.
 
 ========================================================================
 
