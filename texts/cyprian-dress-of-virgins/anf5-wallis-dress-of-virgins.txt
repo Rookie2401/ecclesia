@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Dress_of_Virgins
 Retrieved: 2026-11-05 (source file 39724 bytes, SHA-256 3bf75a9d288456cad9bb94a7770a1a0ccee6e880c6ae6b50eb0d03bdb4602255)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":41}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

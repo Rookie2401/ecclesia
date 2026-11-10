@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/The_Chaplet,_or_De_Corona
 Retrieved: 2026-11-05 (source file 58250 bytes, SHA-256 0db91c0aca544b30e1bc43be1c9d63a079c9d0c219024500be058e25966730a8)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":61}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

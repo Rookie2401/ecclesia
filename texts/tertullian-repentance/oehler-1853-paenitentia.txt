@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0275/stoa021/stoa0275.stoa021.opp-lat1.xml
 Retrieved: 2026-11-05 (source file 34429 bytes, SHA-256 045e70b5c48d9eadd19484dd6b930c643b912f50403a31c84680b29c2f464317)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":22,"bibl":13}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

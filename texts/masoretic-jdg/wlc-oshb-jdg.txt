@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Judg.xml
 Retrieved: 2026-11-05 (source file 904347 bytes, SHA-256 3b3a909f04041dbd52dc6b7293a96ce75d94db8a90fdeda878943db7b8fac57f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":100}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

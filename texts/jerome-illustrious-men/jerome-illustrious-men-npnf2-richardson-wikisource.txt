@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_III/Lives_of_Illustrious_Men
 Retrieved: 2026-11-05 (source file 262543 bytes, SHA-256 c6101e9e6b41d4080e8d7cda26a065f977f4928087f986d82d51ed56a7531c17)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":251,"unclosedTemplate":1}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

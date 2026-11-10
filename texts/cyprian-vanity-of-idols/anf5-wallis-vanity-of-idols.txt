@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Vanity_of_Idols
 Retrieved: 2026-11-05 (source file 20302 bytes, SHA-256 82c67f38c844f3723ce7df0c051b9458331ec985adc0db26c1d6bd096547be46)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":19}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

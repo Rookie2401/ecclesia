@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Galatians_and_Ephesians/On_Ephesians
 Retrieved: 2026-11-05 (source file 741758 bytes, SHA-256 e514dc7b89c367df0cbf5b964e3cbe357a62248a7123cdae7dd55b02a5d5a4de)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":340}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

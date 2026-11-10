@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Fragments_of_Papias
 Retrieved: 2026-11-05 (source file 15481 bytes, SHA-256 ddc215a0eba8c9b64d80823b4571d2541deca181dde99b31db41bd00b6ac1ee8)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":31}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

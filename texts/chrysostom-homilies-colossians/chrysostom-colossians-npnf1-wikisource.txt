@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Philippians,_Colossians,_and_Thessalonians/On_Colossians
 Retrieved: 2026-11-05 (source file 374045 bytes, SHA-256 641c28af7738440704b1d0d2cad149224585bbdb49505f3ed4dff337d8d5e7f9)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":238}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

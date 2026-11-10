@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Ethical/On_Repentance
 Retrieved: 2026-11-05 (source file 63545 bytes, SHA-256 20508cc49b597b5d228e3026f94d0d483565cf97f5dad95a3e98b3a5fe5e2c6b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":122}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

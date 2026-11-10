@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Nah.xml
 Retrieved: 2026-11-05 (source file 69823 bytes, SHA-256 5993b28bdbee3c922e3e93002d343a655493e8bd45e3472f3b62d77beadcb62c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":18}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

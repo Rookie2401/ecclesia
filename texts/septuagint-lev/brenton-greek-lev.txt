@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://ebible.org/Scriptures/grcbrent_usfx.zip
 Retrieved: 2026-11-05 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":52,"toc":108,"s":1}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

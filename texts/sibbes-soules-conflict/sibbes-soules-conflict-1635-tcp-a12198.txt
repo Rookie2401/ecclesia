@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/textcreationpartnership/A12198/master/A12198.xml
 Retrieved: 2026-11-05 (source file 1113873 bytes, SHA-256 7924af466b176ab11947f7a5d3dede60d2f765d27d19722b9c3242fa00ea6d33)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":597,"note":1106,"unread":1710}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

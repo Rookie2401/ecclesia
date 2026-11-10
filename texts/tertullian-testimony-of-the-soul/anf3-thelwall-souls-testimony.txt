@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/The_Soul%27s_Testimony
 Retrieved: 2026-11-05 (source file 22723 bytes, SHA-256 b06ea36b236e2524c2adc02d8475eee5ee25620ddfdcce30900ae67ff52d3789)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":11}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 

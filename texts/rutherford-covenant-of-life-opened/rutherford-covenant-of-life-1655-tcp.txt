@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/textcreationpartnership/A57966/master/A57966.xml
 Retrieved: 2026-11-05 (source file 1341085 bytes, SHA-256 47eae1c4578755e14ab36f7329cba21cf143ec3c40c37c244901763d4d1d10e8)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":380,"unread":589,"note":752,"milestone":5}
-Ecclesia library, source a94a88da.
+Ecclesia library, source 50c45725.
 
 ========================================================================
 
