@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Zeph.xml
 Retrieved: 2026-11-05 (source file 87313 bytes, SHA-256 eb5bd2a745fba1ffeed31dfafd834ce7c290929c992390be1a2b9451d22dea2e)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":8}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

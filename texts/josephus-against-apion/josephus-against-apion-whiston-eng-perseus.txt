@@ -6,9 +6,10 @@ Credit: Against Apion, in The Works of Flavius Josephus, trans. William Whiston 
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg003/tlg0526.tlg003.perseus-eng2.xml
-Retrieved: 2026-11-09 (source file 265527 bytes, SHA-256 8152ee3c0f5706c2f1f1903b97a354a51ec63cd72cc56dcd0a70ae162428d640)
+Retrieved: 2026-11-10 (source file 265527 bytes, SHA-256 8152ee3c0f5706c2f1f1903b97a354a51ec63cd72cc56dcd0a70ae162428d640)
 Changes from the source: cut into numbered segments; these elements were not stored: {"milestone":77,"note":55}
-Ecclesia library, source aa96e3e2.
+Incomplete: The Greek text covers Books I–II in Greek, except II.51 (end)–113 and lacks the Greek of II.51 (end)–113. The Greek of these sections is lost in the manuscripts; Niese prints in their place the old Latin version (made for Cassiodorus, 6th century), and the store keeps it as he prints it, so those sections are Latin, not Greek.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

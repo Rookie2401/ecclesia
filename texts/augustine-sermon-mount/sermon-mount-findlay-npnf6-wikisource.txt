@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VI/Our_Lord's_Sermon_on_the_Mount
 Retrieved: 2026-11-05 (source file 409796 bytes, SHA-256 e4a00beb6543050438cd4e427568f0515f713ef334a12d9cc0d4b1002c4b3c3c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":490}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

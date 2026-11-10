@@ -6,9 +6,9 @@ Credit: Ἰουδαϊκὴ ἀρχαιολογία, in Flavii Iosephi opera, ed.
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg001/tlg0526.tlg001.perseus-grc2.xml
-Retrieved: 2026-11-09 (source file 5344228 bytes, SHA-256 982de49721b1ef7df4e6967895cab75359da6aada0ffc673b044f533c5cdc406)
+Retrieved: 2026-11-10 (source file 5344228 bytes, SHA-256 982de49721b1ef7df4e6967895cab75359da6aada0ffc673b044f533c5cdc406)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":1473,"milestone":1702,"bracketed":222}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

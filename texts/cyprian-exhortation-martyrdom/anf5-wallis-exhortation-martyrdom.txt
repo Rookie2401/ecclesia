@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/Exhortation_to_Martyrdom
 Retrieved: 2026-11-05 (source file 64738 bytes, SHA-256 182fea78d19963f12d5c8b5e523203b2cb86e1cdc2de0c5ab7e2a655a0bd234f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":119}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

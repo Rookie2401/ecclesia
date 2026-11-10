@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XI/On_the_Epistle_to_the_Romans
 Retrieved: 2026-11-05 (source file 1296165 bytes, SHA-256 d628d8a7bab1ab533140e39b9563e47ac815206e28f5ba726821d93706d7f864)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":528}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

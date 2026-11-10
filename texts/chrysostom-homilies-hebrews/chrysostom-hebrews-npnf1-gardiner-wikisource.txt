@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIV/On_the_Epistle_to_the_Hebrews
 Retrieved: 2026-11-05 (source file 1041511 bytes, SHA-256 73aa8d4db70bfbf176f57dc2cd95c6222c7ba3c779b3053e877191a16a464add)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":881,"unclosedTemplate":2}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

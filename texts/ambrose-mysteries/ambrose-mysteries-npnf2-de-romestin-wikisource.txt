@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/On_the_Mysteries
 Retrieved: 2026-11-05 (source file 51358 bytes, SHA-256 9da5b8caea34db91c4fe4f77aa5cf5bd721fcada2c26cb0fd105c1db575876c7)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":81}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

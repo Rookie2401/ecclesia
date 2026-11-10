@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/The_Recognitions_of_Clement
 Retrieved: 2026-11-10 (source file 726562 bytes, SHA-256 a8e6db34eaa8b93314c1916ec04ce866fb819d4b6aa5bfb85a97421faf9c3232)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":359,"templates":{"anon":11}}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 
@@ -171,10 +171,6 @@ Ecclesia library, source aa96e3e2.
 [1.73] Chapter XXXVI.—Allowance of Sacrifice for a Time.
 
 [1.74] “When meantime Moses, that faithful and wise steward, perceived that the vice of sacrificing to idols had been deeply ingrained into the people from their association with the Egyptians, and that the root of this evil could not be extracted from them, he allowed them indeed to sacrifice, but permitted it to be done only to God, that by any means he might cut off one half of the deeply ingrained evil, leaving the other half to be corrected by another, and at a future time; by Him, namely, concerning whom he said himself, ‘A prophet shall the Lord your God raise unto you, whom ye shall hear even as myself, according to all things which He shall say to you. Whosoever shall not hear that prophet, his soul shall be cut off from his people.
-
-[1.75] Chapter XXXVI.—Allowance of Sacrifice for a Time.
-
-[1.76] “When meantime Moses, that faithful and wise steward, perceived that the vice of sacrificing to idols had been deeply ingrained into the people from their association with the Egyptians, and that the root of this evil could not be extracted from them, he allowed them indeed to sacrifice, but permitted it to be done only to God, that by any means he might cut off one half of the deeply ingrained evil, leaving the other half to be corrected by another, and at a future time; by Him, namely, concerning whom he said himself, ‘A prophet shall the Lord your God raise unto you, whom ye shall hear even as myself, according to all things which He shall say to you. Whosoever shall not hear that prophet, his soul shall be cut off from his people.
 
 [1.77] Chapter XXXVII.—The Holy Place.
 
@@ -1919,6 +1915,10 @@ Ecclesia library, source aa96e3e2.
 [10.48] Chapter XXIV.—Folly of Polytheism.
 
 [10.49] “But also the sepulchres of his sons, who are regarded amongst these the Gentiles as gods, are openly pointed out, one in one place, and another in another: that of Mercury at Hermopolis; that of the Cyprian Venus at Cyprus; that of Mars in Thrace; that of Bacchus at Thebes, where he is said to have been torn in pieces; that of Hercules at Tyre, where he was burnt with fire; that of Æsculapius in Epidaurus. And all these are spoken of, not only as men who have died, but as wicked men who have been punished for their crimes; and yet they are adored as gods by foolish men.
+
+[10.49a] Chapter XXV.—Dead Men Deified.
+
+[10.49b] “But if they choose to argue, and affirm that these are rather the places of their birth than of their burial or death, the former and ancient doings shall be convicted from those at hand and still recent, since we have shown that they worship those whom they themselves confess to have been men, and to have died, or rather to have been punished; as the Syrians worship Adonis, and the Egyptians Osiris; the Trojans, Hector; Achilles is worshipped at Leuconesus, Patroclus at Pontus, Alexander the Macedonian at Rhodes; and many others are worshipped, one in one place and another in another, whom they do not doubt to have been dead men. Whence it follows that their predecessors also, falling into a like error, conferred divine honour upon dead men, who perhaps had had some power or some skill, and especially if they had stupefied stolid men by magical phantasies.
 
 [10.50] Chapter XXVI.—Metamorphoses.
 

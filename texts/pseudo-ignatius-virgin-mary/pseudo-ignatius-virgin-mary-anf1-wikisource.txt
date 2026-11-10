@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_Mary_the_Virgin
 Retrieved: 2026-11-10 (source file 1391 bytes, SHA-256 0f8ae9bb1a22383e1812cb2341be1d197f1187ef630bb733ee064bea46bca779)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

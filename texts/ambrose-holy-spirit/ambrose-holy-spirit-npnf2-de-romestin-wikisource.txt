@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/On_the_Holy_Spirit
 Retrieved: 2026-11-05 (source file 387698 bytes, SHA-256 6f281b87aeff970775dbe2f098478f6512664d4d74e0908fdaffb2bb9bd4428c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":673}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

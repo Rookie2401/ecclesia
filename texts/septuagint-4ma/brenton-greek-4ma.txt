@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/grcbrent_usfx.zip
-Retrieved: 2026-11-05 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
+Retrieved: 2026-11-10 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":52,"toc":108,"s":1}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 
@@ -564,6 +564,8 @@ Ecclesia library, source aa96e3e2.
 
 [4MA.10.3] Οὐκ ἐξόμνυμαι τὴν εὐγενῆ τῆς ἀδελφότητος συγγένειαν.
 
+[4MA.10.4] Πρὸς ταῦτα εἴ τι ἔχετε κολαστήριον προσαγάγετε τῷ σώματί μου· τῆς γὰρ ψυχῆς μου, οὐδʼ ἂν θέλητε, ἅψασθαι δύνασθε.
+
 [4MA.10.NaN] Πρὸς ταῦτα εἴ τι ἔχετε κολαστήριον προσαγάγετε τῷ σώματί μου· τῆς γὰρ ψυχῆς μου, οὐδʼ ἂν θέλητε, ἅψασθαι δύνασθε.
 
 [4MA.10.5] Οἱ δὲ πίκρῶς ἐνέγκαντες τὴν παῤῥησίαν τοῦ ἀνδρὸς, ἀρθρεμβόλοις ὀργάνοις τὰς χεῖρας αὐτοῦ καὶ τοὺς πόδας ἐξήρθρουν, καὶ ἐξ ἁρμῶν ἀναμοχλεύοντες ἐξεμέλιζον·
@@ -613,6 +615,10 @@ Ecclesia library, source aa96e3e2.
 [4MA.11.5] Ἢ κακόν σοι δοκεῖ, ὅτι τὸν πάντων κτιστὴν εὐσεβοῦμεν, καὶ κατὰ τὸν ἐνάρετον αὐτοῦ ζῶμεν νόμον;
 
 [4MA.11.6] Ἀλλὰ ταῦτα τιμῶν, οὐ βασάνων ἐστὶν ἄξια.
+
+[4MA.11.7] Εἴπερ ᾐσθάνου ἀνθρώπου πόθων, καὶ ἐλπίδα εἶχες παρὰ Θεῷ σωτηρίου·
+
+[4MA.11.8] νῦν ἰδὲ ἀλλότριος ὢν Θεοῦ, πολεμεῖς τοὺς εὐσεβοῦντας εἰς τὸν Θεόν.
 
 [4MA.11.NaN] Εἴπερ ᾐσθάνου ἀνθρώπου πόθων, καὶ ἐλπίδα εἶχες παρὰ Θεῷ σωτηρίου·
 

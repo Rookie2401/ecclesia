@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml
 Retrieved: 2026-11-05 (source file 4652377 bytes, SHA-256 5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf)
 Changes from the source: cut into numbered segments; these elements were not stored: {}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

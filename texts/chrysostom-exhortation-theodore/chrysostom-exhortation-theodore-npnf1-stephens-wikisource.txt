@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IX/Exhortation_to_Theodore
 Retrieved: 2026-11-05 (source file 140673 bytes, SHA-256 c9435d8d37a95f403cf2f4d990bac7dec6327e52a2ffa37d5ad47874f0d4664f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":114}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

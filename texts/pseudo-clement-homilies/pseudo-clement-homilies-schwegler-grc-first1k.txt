@@ -9,7 +9,7 @@ Source: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/
 Retrieved: 2026-11-10 (source file 883319 bytes, SHA-256 3b99aba1bf2312d865da0977398acf0f04e3283a2778210fcee5defe1a2d4adc)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":216}
 Incomplete: The Greek text covers Homilies I–XIX.14 and lacks Homily XIX.15–25 and Homily XX. Schwegler (1847) printed the Paris manuscript, which breaks off in Homily XIX.14; the rest was first printed by Dressel (1853) from a Vatican manuscript, and no open transcription of Dressel's text was found.
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 

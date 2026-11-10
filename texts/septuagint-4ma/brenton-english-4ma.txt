@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-10 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 
@@ -564,6 +564,8 @@ Ecclesia library, source aa96e3e2.
 
 [4MA.10.3] I abjure not the noble relationship of my brethren.
 
+[4MA.10.4] Now then, whatever instrument of vengeance ye have, apply it to my body, for ye are not able to touch, even if ye wish it, my soul.
+
 [4MA.10.NaN] Now then, whatever instrument of vengeance ye have, apply it to my body, for ye are not able to touch, even if ye wish it, my soul.
 
 [4MA.10.5] But they, highly incensed at his boldness of speech, dislocated his hands and feet with racking engines, and wrenching them from their sockets, dismembered him.
@@ -613,6 +615,10 @@ Ecclesia library, source aa96e3e2.
 [4MA.11.5] Does it seem evil to thee that we worship the Founder of all things, and live according to his surpassing law?
 
 [4MA.11.6] But this is worthy of honours, not of torments;
+
+[4MA.11.7] hadst thou been capable of the higher feelings of men, and possessed the hope of salvation from God.
+
+[4MA.11.8] Behold, now, being alien from God, thou makest war against those who are religious toward God.
 
 [4MA.11.NaN] hadst thou been capable of the higher feelings of men, and possessed the hope of salvation from God.
 

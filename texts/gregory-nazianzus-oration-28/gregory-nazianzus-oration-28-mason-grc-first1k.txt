@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2022/tlg008/tlg2022.tlg008.1st1K-grc1.xml
 Retrieved: 2026-11-05 (source file 209893 bytes, SHA-256 79b956726dc1aab5136467c0682241e6b1dd435f956c498b224647cb904a7ea9)
 Changes from the source: cut into numbered segments; these elements were not stored: {"lb":152,"note":560,"pb":51}
-Ecclesia library, source aa96e3e2.
+Ecclesia library, source ef5f7592.
 
 ========================================================================
 
