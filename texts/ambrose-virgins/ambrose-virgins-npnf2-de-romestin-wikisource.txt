@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/Concerning_Virgins
 Retrieved: 2026-11-05 (source file 144322 bytes, SHA-256 040cb23e7f29d500b6e60d3f2758a24f075b67e360334a142bba734b91f03853)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":140}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Mal.xml
 Retrieved: 2026-11-05 (source file 95722 bytes, SHA-256 1583e6a701406dce7b8c2bf85e3522ec31383756de130685fc7c2eb6df8964b2)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":10}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

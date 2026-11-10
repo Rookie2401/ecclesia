@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Sixth_Ecumenical_Council
 Retrieved: 2026-11-05 (source file 33638 bytes, SHA-256 e8590d35cdb0151bc504b3bbc1c090583f667fec377f73ece4b88d1baed4d037)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

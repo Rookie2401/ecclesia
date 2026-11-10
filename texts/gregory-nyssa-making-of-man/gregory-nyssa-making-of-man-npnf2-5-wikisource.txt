@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Philosophical_Works/The_Making_of_Man
 Retrieved: 2026-11-05 (source file 258652 bytes, SHA-256 cc8651347496910da2fb0748c42e32b0f9dafedfef3643314a5aa2a9702e9145)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":160}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

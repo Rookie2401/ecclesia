@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Mic.xml
 Retrieved: 2026-11-05 (source file 145482 bytes, SHA-256 267e111adc1b941e32444816af07aa136ecde02cb315cd42597f78b393e67a01)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":31}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

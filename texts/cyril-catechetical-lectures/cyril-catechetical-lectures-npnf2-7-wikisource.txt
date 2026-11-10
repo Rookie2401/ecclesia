@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VII/S._Cyril
 Retrieved: 2026-11-05 (source file 912491 bytes, SHA-256 168cd89e3375b237fb896ff858fa53e4cac2dfa16acdd88d3d9de43099903cdb)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1963,"unclosedTemplate":2}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

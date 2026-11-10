@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Against_the_Heathen/Contra_Gentes._(Against_the_Heathen.)
 Retrieved: 2026-11-05 (source file 188903 bytes, SHA-256 8385bda0e3de34249c399df7de1044972bba6eb89dfcfcbdcb90dda81cca8d9b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":90}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

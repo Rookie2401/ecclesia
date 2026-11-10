@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml
 Retrieved: 2026-11-05 (source file 1859928 bytes, SHA-256 0526e5c9a5fb4d907847645f954ed3d1268fa69decbd872056cedd2668d86449)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":118}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

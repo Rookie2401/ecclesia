@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_IV/Origen/Origen_Against_Celsus
 Retrieved: 2026-11-05 (source file 1894566 bytes, SHA-256 33cf84c29bbc45add26452f11020379db190c171d0dc99da0bb3b41403fa1b81)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1911}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

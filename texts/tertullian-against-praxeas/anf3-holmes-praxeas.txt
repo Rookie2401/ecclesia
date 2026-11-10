@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/Against_Praxeas
 Retrieved: 2026-11-05 (source file 195221 bytes, SHA-256 cf1232fcae8fb6e55f1c2ad102ec1806ac7c1bf63c88c1b2b08a180a6eda75e4)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":449}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

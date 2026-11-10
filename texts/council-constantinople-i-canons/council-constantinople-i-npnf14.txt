@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Second_Ecumenical_Council
 Retrieved: 2026-11-05 (source file 93443 bytes, SHA-256 864864b995da11db21f093cf7a45bef9aac11700b69673edf2b958139f3510e9)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":12}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

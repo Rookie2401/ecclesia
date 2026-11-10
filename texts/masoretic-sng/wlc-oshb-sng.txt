@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Song.xml
 Retrieved: 2026-11-05 (source file 138554 bytes, SHA-256 5cd6ae36d32c059aaf794af5a5eaed914ac643486db3e412eb0b969760db82ca)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":49}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

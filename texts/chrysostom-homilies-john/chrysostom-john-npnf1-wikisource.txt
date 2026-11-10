@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIV/On_the_Gospel_of_John
 Retrieved: 2026-11-05 (source file 1897251 bytes, SHA-256 886e1ce5b649c2bb28d25024ceedd0f52db973635e0ad04e388b91141df59dc3)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":2645}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

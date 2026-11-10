@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_Grace_and_Free_Will
 Retrieved: 2026-11-05 (source file 182573 bytes, SHA-256 0ee075c2b357109801ddd754dce7697d8976b25d0cc0f8a269b51e3d7f05ab54)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":320}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

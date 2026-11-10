@@ -1,0 +1,35 @@
+Title: Epistle of Peter to James
+Work: Epistle of Peter to James
+Author: Pseudo-Clement (the Clementine literature) (writings ascribed to Clement of Rome, 3rd–4th century)
+Language: english
+Credit: Epistle of Peter to James, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith; Peter Peterson; James Donaldson (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies/Epistle_of_Peter_to_James
+Retrieved: 2026-11-10 (source file 5438 bytes, SHA-256 f25a2d9b4d7ff2013a5b9793bdf96477ae362b91958f8704b30706f0ac2c9ebc)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":3,"templates":{"anon":3}}
+Ecclesia library, source b784de2b.
+
+========================================================================
+
+## Chapter 1
+
+[1.1] Epistle of Peter to James.
+
+[1.2] Peter to James, the lord and bishop of the holy Church, under the Father of all, through Jesus Christ, wishes peace always.
+
+[1.3] Chapter I.—Doctrine of Reserve.
+
+[1.4] Knowing, my brother, your eager desire after that which is for the advantage of us all, I beg and beseech you not to communicate to any one of the Gentiles the books of my preachings which I sent to you, nor to any one of our own tribe before trial; but if any one has been proved and found worthy, then to commit them to him, after the manner in which Moses delivered his books to the Seventy who succeeded to his chair. Wherefore also the fruit of that caution appears even till now. For his countrymen keep the same rule of monarchy and polity everywhere, being unable in any way to think otherwise, or to be led out of the way of the much-indicating Scriptures. For, according to the rule delivered to them, they endeavour to correct the discordances of the Scriptures, if any one, haply not knowing the traditions, is confounded at the various utterances of the prophets. Wherefore they charge no one to teach, unless he has first learned how the Scriptures must be used. And thus they have amongst them one God, one law, one hope.
+
+## Chapter 2
+
+[2.1] Chapter II.—Misrepresentation of Peter’s Doctrine.
+
+[2.2] In order, therefore, that the like may also happen to those among us as to these Seventy, give the books of my preachings to our brethren, with the like mystery of initiation, that they may indoctrinate those who wish to take part in teaching; for if it be not so done, our word of truth will be rent into many opinions. And this I know, not as being a prophet, but as already seeing the beginning of this very evil. For some from among the Gentiles have rejected my legal preaching, attaching themselves to certain lawless and trifling preaching of the man who is my enemy. And these things some have attempted while I am still alive, to transform my words by certain various interpretations, in order to the dissolution of the law; as though I also myself were of such a mind, but did not freely proclaim it, which God forbid! For such a thing were to act in opposition to the law of God which was spoken by Moses, and was borne witness to by our Lord in respect of its eternal continuance; for thus he spoke: “The heavens and the earth shall pass away, but one jot or one tittle shall in no wise pass from the law.” And this He has said, that all things might come to pass. But these men, professing, I know not how, to know my mind, undertake to explain my words, which they have heard of me, more intelligently than I who spoke them, telling their catechumens that this is my meaning, which indeed I never thought of. But if, while I am still alive, they dare thus to misrepresent me, how much more will those who shall come after me dare to do so!
+
+## Chapter 3
+
+[3.1] Chapter III.—Initiation.
+
+[3.2] Therefore, that no such thing may happen, for this end I have prayed and besought you not to communicate the books of my preaching which I have sent you to any one, whether of our own nation or of another nation, before trial; but if any one, having been tested, has been found worthy, then to hand them over to him, according to the initiation of Moses, by which he delivered his books to the Seventy who succeeded to his chair; in order that thus they may keep the faith, and everywhere deliver the rule of truth, explaining all things after our tradition; lest being themselves dragged down by ignorance, being drawn into error by conjectures after their mind, they bring others into the like pit of destruction. Now the things that seemed good to me, I have fairly pointed out to you; and what seems good to you, do you, my lord, becomingly perform. Farewell.

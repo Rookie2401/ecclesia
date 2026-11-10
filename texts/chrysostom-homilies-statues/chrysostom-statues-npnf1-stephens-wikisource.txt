@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IX/The_Homilies_on_the_Statues_to_the_People_of_Antioch
 Retrieved: 2026-11-05 (source file 930597 bytes, SHA-256 ddc7b5fc0093a25d71352df426b405c8879cbd611b5303ec35b7d8b32d5f268b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":906,"unclosedTemplate":1}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

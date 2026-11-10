@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/Title_Page/De_Synodis_or_On_the_Councils/De_Synodis_or_On_the_Councils
 Retrieved: 2026-11-05 (source file 136028 bytes, SHA-256 2caef75ef990ebe6e87dfd240de6b3cc10b14f74d2689a9f714f898f7d7a7147)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":55}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

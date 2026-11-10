@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Predestination_of_the_Saints/Book_I
 Retrieved: 2026-11-05 (source file 150998 bytes, SHA-256 b536cd5af2bc2bf3fa6bdc33cccb0c0034537c177fe09f13356e802fa13059e2)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":146}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

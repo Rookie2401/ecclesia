@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XI/John_Cassian/The_Twelve_Books
 Retrieved: 2026-11-05 (source file 704579 bytes, SHA-256 8049f09268a344562bcc3063939618414a8d27d8bfb0484cd10078b6f577c98d)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":453}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

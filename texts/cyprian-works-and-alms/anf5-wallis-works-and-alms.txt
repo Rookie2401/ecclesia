@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_Works_and_Alms
 Retrieved: 2026-11-05 (source file 46858 bytes, SHA-256 079f053b447f83cf6a2558099a8e51fae111835b6ebbcce995c144784b6aa610)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":65}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

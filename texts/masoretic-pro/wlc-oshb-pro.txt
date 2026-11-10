@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Prov.xml
 Retrieved: 2026-11-05 (source file 678669 bytes, SHA-256 964f99c00239b53b854c4686c99490c8d1ac7664784a30afdfc23781a3abb161)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":142}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

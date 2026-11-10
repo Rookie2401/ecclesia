@@ -1,0 +1,41 @@
+Title: An Adjuration concerning the Receivers of the Book
+Work: Contestatio (The Adjuration concerning the Receivers of the Book)
+Author: Pseudo-Clement (the Clementine literature) (writings ascribed to Clement of Rome, 3rd–4th century)
+Language: english
+Credit: An Adjuration concerning the Receivers of the Book, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith; Peter Peterson; James Donaldson (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
+Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies/Epistle_of_Peter_to_James
+Retrieved: 2026-11-10 (source file 6794 bytes, SHA-256 8d303488813fec606c3d297ce40af1d4fb5af879c6053a6a39147ac4b9f4efbd)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":3,"templates":{"anon":2}}
+Ecclesia library, source b784de2b.
+
+========================================================================
+
+## 4.front
+
+[4.front.1] Chapter IV.—An Adjuration Concerning the Receivers of the Book.
+
+## 1
+
+[4.1.1] 1. Therefore James, having read the epistle, sent for the elders; and having read it to them, said: “Our Peter has strictly and becomingly charged us concerning the establishing of the truth, that we should not communicate the books of his preachings, which have been sent to us, to any one at random, but to one who is good and religious, and who wishes to teach, and who is circumcised, and faithful. And these are not all to be committed to him at once; that, if he be found injudicious in the first, the others may not be entrusted to him. Wherefore let him be proved not less than six years. And then according to the initiation of Moses, he that is to deliver the books should bring him to a river or a fountain, which is living water, where the regeneration of the righteous takes place, and should make him, not swear—for that is not lawful—but to stand by the water and adjure, as we ourselves, when we were re-generated, were made to do for the sake of not sinning.
+
+## 2
+
+[4.2.1] 2. “And let him say: ‘I take to witness heaven, earth, water, in which all things are comprehended, and in addition to all these, that air also which pervades all things, and without which I cannot breathe, that I shall always be obedient to him who gives me the books of the preachings; and those same books which he may give me, I shall not communicate to any one in any way, either by writing them, or giving them in writing, or giving them to a writer, either myself or by another, or through any other initiation, or trick, or method, or by keeping them carelessly, or placing them before any one, or granting him permission to see them, or in any way or manner whatsoever communicating them to another; unless I shall ascertain one to be worthy, as I myself have been judged, or even more so, and that after a probation of not less than six years; but to one who is religious and good, chosen to teach, as I have received them, so I will commit them, doing these things also according to the will of my bishop.
+
+## 3
+
+[4.3.1] 3. “‘But otherwise, though he were my son or my brother, or my friend, or otherwise in any way pertaining to me by kindred, if he be unworthy, that I will not vouchsafe the favour to him, as is not meet; and I shall neither be terrified by plot nor mollified by gifts. But if even it should ever seem to me that the books of the preachings given to me are not true, I shall not so communicate them, but shall give them back. And when I go abroad, I shall carry them with me, whatever of them I happen to possess. But if I be not minded to carry them about with me, I shall not suffer them to be in my house, but shall deposit them with my bishop, having the same faith, and setting out from the same persons as myself. But if it befall me to be sick, and in expectation of death, and if I be childless, I shall act in the same manner. But if I die having a son who is not worthy, or not yet capable, I shall act in the same manner. For I shall deposit them with my bishop, in order that if my son, when he grows up, be worthy of the trust, he may give them to him as his father’s bequest, according to the terms of this engagement.
+
+## 4
+
+[4.4.1] 4. “‘And that I shall thus do, I again call to witness heaven, earth, water, in which all things are enveloped, and in addition to all these, the all-pervading air, without which I cannot breathe, that I shall always be obedient to him who giveth me these books of the preachings, and shall observe in all things as I have engaged, or even something more. To me, therefore, keeping this covenant, there shall be a part with the holy ones; but to me doing anything contrary to what I have covenanted, may the universe be hostile to me, and the all-pervading ether, and the God who is over all, to whom none is superior, than whom none is greater. But if even I should come to the acknowledgment of another God, I now swear by him also, be he or be he not, that I shall not do otherwise. And in addition to all these things, if I shall lie, I shall be accursed living and dying, and shall be punished with everlasting punishment.
+
+[4.4.2] “And after this, let him partake of bread and salt with him who commits them to him.”
+
+## Chapter 5
+
+[5.1] Chapter V.—The Adjuration Accepted.
+
+[5.2] James having thus spoken, the elders were in an agony of terror. Therefore James, perceiving that they were greatly afraid, said: “Hear me, brethren and fellow-servants. If we should give the books to all indiscriminately, and they should be corrupted by any daring men, or be perverted by interpretations, as you have heard that some have already done, it will remain even for those who really seek the truth, always to wander in error. Wherefore it is better that they should be with us, and that we should communicate them with all the fore-mentioned care to those who wish to live piously, and to save others. But if any one, after taking this adjuration, shall act otherwise, he shall with good reason incur eternal punishment. For why should not he who is the cause of the destruction of others not be destroyed himself?” The elders, therefore, being pleased with the sentiments of James exclaimed, “Blessed be He who, as foreseeing all things, has graciously appointed thee as our bishop;” and when they had said this, we all rose up, and prayed to the Father and God of all, to whom be glory for ever. Amen.

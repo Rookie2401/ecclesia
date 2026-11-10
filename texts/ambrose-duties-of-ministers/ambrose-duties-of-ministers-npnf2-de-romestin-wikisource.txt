@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/On_the_Duties_of_the_Clergy
 Retrieved: 2026-11-05 (source file 536589 bytes, SHA-256 3f17d83809c3a12c9101ec288a159cc34f63dfd1504996fcb6fb2f1480c1a91a)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":756}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Arian_History/Arian_History
 Retrieved: 2026-11-05 (source file 190438 bytes, SHA-256 d9e563cd2260a7b37b30584e60307d6b672a96156cb873f5e375fb8698526acd)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":306}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

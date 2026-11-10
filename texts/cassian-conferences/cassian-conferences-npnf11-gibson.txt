@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XI/John_Cassian/Conferences_of_John_Cassian,_Part_I
 Retrieved: 2026-11-05 (source file 1710347 bytes, SHA-256 d65097c9f3d307b03292759ed7063b59fc6f6e2f13eb9f8892296cab048a74dc)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1275}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Unity_of_the_Church
 Retrieved: 2026-11-05 (source file 51263 bytes, SHA-256 fa0d5d43514a2c01e112eb14d23f8d714b0cc7604fb5a8d3693e88ace61de9e4)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":73}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 

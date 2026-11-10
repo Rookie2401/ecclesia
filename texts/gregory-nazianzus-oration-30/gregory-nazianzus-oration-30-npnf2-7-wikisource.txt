@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VII/Orations_of_Gregory_Nazianzen/Oration_30
 Retrieved: 2026-11-05 (source file 48332 bytes, SHA-256 7b68f84ba173a013167ef09f7757d5966f7aa972cbb8151a1256c66ebf873e28)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":99}
-Ecclesia library, source 50c45725.
+Ecclesia library, source b784de2b.
 
 ========================================================================
 
