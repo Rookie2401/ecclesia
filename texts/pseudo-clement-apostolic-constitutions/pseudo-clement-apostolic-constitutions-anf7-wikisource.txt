@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/Constitutions_of_the_Holy_Apostles
 Retrieved: 2026-11-10 (source file 636800 bytes, SHA-256 70b8216c7a14d79dbeb75cf2dc3a70831dc58f5e9cc1c36cc36b32408c460f77)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1285}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

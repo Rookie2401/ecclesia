@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies/Epistle_of_Peter_to_James
 Retrieved: 2026-11-10 (source file 6794 bytes, SHA-256 8d303488813fec606c3d297ce40af1d4fb5af879c6053a6a39147ac4b9f4efbd)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":3,"templates":{"anon":2}}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

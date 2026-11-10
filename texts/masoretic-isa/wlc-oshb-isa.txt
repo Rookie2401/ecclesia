@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Isa.xml
 Retrieved: 2026-11-05 (source file 1548674 bytes, SHA-256 0807678de609bdef284bed5400b94ddab570d101b593c7f59ae1939015572fa2)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":120}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

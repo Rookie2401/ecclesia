@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/Title_Page/De_Trinitate_or_On_the_Trinity/De_Trinitate_or_On_the_Trinity
 Retrieved: 2026-11-05 (source file 1008333 bytes, SHA-256 015152b48cebbf5345270c0ee06f358deadba7778c027c1ca362e9969fb47f15)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":850}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

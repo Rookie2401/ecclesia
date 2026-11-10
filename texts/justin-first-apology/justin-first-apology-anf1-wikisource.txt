@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/The_First_Apology
 Retrieved: 2026-11-05 (source file 147767 bytes, SHA-256 c88167de71417b4d9562dd32ef49f56812f0a5c02c958c26358c5927ed152b3b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":154}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

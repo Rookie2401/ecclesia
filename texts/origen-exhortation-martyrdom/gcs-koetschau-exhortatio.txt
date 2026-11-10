@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2042/tlg007/tlg2042.tlg007.perseus-grc1.xml
 Retrieved: 2026-11-05 (source file 167196 bytes, SHA-256 dedb6ae89519545a0ab274061c858a0549760bb3ac97223a5f744130c13fb83b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"milestone":37,"pb":44}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

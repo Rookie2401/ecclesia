@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IX/Letters_to_Olympias
 Retrieved: 2026-11-05 (source file 91188 bytes, SHA-256 d702573ab30f526ca35ecff97aa241337a588dadb8a7aa7fe4259e6cc4ca5254)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":50}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

@@ -1,0 +1,178 @@
+Title: The Fragments of Papias (Greek, and Latin where only the Latin survives)
+Work: Exposition of the Sayings of the Lord (fragments)
+Author: Papias of Hierapolis (c. 60–c. 130)
+Language: greek
+Credit: The Fragments of Papias (Greek, and Latin where only the Latin survives), in The Apostolic Fathers: revised texts, ed. J. B. Lightfoot; J. R. Harmer (London: Macmillan and Co., 1891). Transcription: the coordinator (Claude Opus 5.5, an AI), from the page images of the 1891 printing, proofread against them (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
+Source: https://archive.org/details/a590752000clemuoft
+Retrieved: 2026-11-10 (source file 38396 bytes, SHA-256 885e5b663f4844638125090e32bb2e263086171307561d06fa34a6efeeb7583d)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Incomplete: The Greek text covers the texts of the twenty fragments and testimonies that Lightfoot and Harmer collect (pp. 515–524) and lacks the five books of the Exposition of the Oracles of the Lord themselves. Papias's work is lost; only quotations and reports by later writers survive, and nothing is reconstructed here. The English text covers the translations of the twenty fragments and testimonies that Lightfoot and Harmer collect (pp. 527–535) and lacks the five books of the Exposition of the Oracles of the Lord themselves. Papias's work is lost; only quotations and reports by later writers survive, and nothing is reconstructed here.
+Ecclesia library, source 8489976a.
+
+========================================================================
+
+## Fragment I. Eusebius, Chronicle
+
+[1.1] Ἰωάννην τὸν θεολόγον καὶ ἀπόστολον Εἰρηναῖος καὶ ἄλλοι ἱστοροῦσι παραμεῖναι τῷ βίῳ ἕως τῶν χρόνων Τραϊανοῦ· μεθʼ ὃν Παπίας Ἱεραπολίτης καὶ Πολύκαρπος Σμύρνης ἐπίσκοπος ἀκουσταὶ αὐτοῦ ἐγνωρίζοντο.
+
+[1.witness] Eusebius, Chronicon (Syncell. 655, 14) for Olymp. 220, ed. A. Schoene (1866) II. p. 162.
+
+## Fragment II. Eusebius, Church History iii. 36
+
+[2.1] Διέπρεπέ γε μὴν κατὰ τούτους ἐπὶ τῆς Ἀσίας τῶν ἀποστόλων ὁμιλητὴς Πολύκαρπος, τῆς κατὰ Σμύρναν ἐκκλησίας πρὸς τῶν αὐτοπτῶν καὶ ὑπηρετῶν τοῦ Κυρίου τήν ἐπισκοπὴν ἐγκεχειρισμένος. καθʼ ὃν ἐγνωρίζετο Παπίας τῆς ἐν Ἱεραπόλει παροικίας καὶ αὐτὸς ἐπίσκοπος.
+
+[2.witness] Eusebius, Hist. Eccl. iii. 36. 1, 2, ed. Heinichen (1868) I. p. 141.
+
+## Fragment III. Eusebius, Church History iii. 39
+
+[3.1] Τοῦ δὲ Παπία συγγράμματα πέντε τὸν ἀριθμὸν φέρεται, ἃ καὶ ἐπιγέγραπται λογίων κυριακῶν ἐξηγήσεις. τούτων καὶ Εἰρηναῖος ὡς μόνων αὐτῷ γραφέντων μνημονεύει, ὧδέ πως λέγων· Ταῦτα δὲ καὶ Παπίας ὁ Ἰωάννου μὲν ἀκουστής, Πολυκάρπου δὲ ἑταῖρος γεγονώς, ἀρχαῖος ἀνήρ, ἐγγράφως ἐπιμαρτυρεῖ ἐν τῇ τετάρτῃ τῶν ἑαυτοῦ βιβλίων· ἔστι γὰρ αὐτῷ πέντε βιβλία συντεταγμένα.
+
+[3.2] Καὶ ὁ μὲν Εἰρηναῖος ταῦτα. Αὐτός γε μὴν ὁ Παπίας κατὰ τὸ προοίμιον τῶν αὐτοῦ λόγων ἀκροατὴν μὲν καὶ αὐτόπτην οὐδαμῶς ἑαυτὸν γενέσθαι τῶν ἱερῶν ἀποστόλων ἐμφαίνει, παρειληφέναι δὲ τὰ τῆς πίστεως παρὰ τῶν ἐκείνοις γνωρίμων διδάσκει διʼ ὧν φησι λέξεων·
+
+[3.3] Οὐκ ὀκνήσω δέ σοι καὶ ὅσα ποτὲ παρὰ τῶν πρεσβυτέρων καλῶς ἔμαθον καὶ καλῶς ἐμνημόνευσα, συγκατατάξαι ταῖς ἑρμηνείαις, διαβεβαιούμενος ὑπὲρ αὐτῶν ἀλήθειαν. οὐ γὰρ τοῖς τὰ πολλὰ λέγουσιν ἔχαιρον ὥσπερ οἱ πολλοί, ἀλλὰ τοῖς τἀληθῆ διδάσκουσιν, οὐδὲ τοῖς τὰς ἀλλοτρίας ἐντολὰς μνημονεύουσιν, ἀλλὰ τοῖς τὰς παρὰ τοῦ Κυρίου τῇ πίστει δεδομένας καὶ ἀπʼ αὐτῆς παραγινομένοις τῆς ἀληθείας.
+
+[3.4] Εἰ δέ που καὶ παρηκολουθηκώς τις τοῖς πρεσβυτέροις ἔλθοι, τοὺς τῶν πρεσβυτέρων ἀνέκρινον λόγους· τί Ἀνδρέας ἢ τί Πέτρος εἶπεν ἢ τί Φίλιππος ἢ τί Θωμᾶς ἢ Ἰάκωβος ἢ τί Ἰωάννης ἢ Ματθαῖος ἤ τις ἕτερος τῶν τοῦ Κυρίου μαθητῶν, ἅ τε Ἀριστίων καὶ ὁ πρεσβύτερος Ἰωάννης, οἱ τοῦ Κυρίου μαθηταί, λέγουσιν. οὐ γὰρ τὰ ἐκ τῶν βιβλίων τοσοῦτόν με ὠφελεῖν ὑπελάμβανον, ὅσον τὰ παρὰ ζώσης φωνῆς καὶ μενούσης.
+
+[3.5] Ἔνθα καὶ ἐπιστῆσαι ἄξιον δὶς καταριθμοῦντι αὐτῷ τὸ Ἰωάννου ὄνομα, ὧν τὸν μὲν πρότερον Πέτρῳ καὶ Ἰακώβῳ καὶ Ματθαίῳ καὶ τοῖς λοιποῖς ἀποστόλοις συγκαταλέγει, σαφῶς δηλῶν τὸν εὐαγγελιστήν, τὸν δʼ ἕτερον Ἰωάννην διαστείλας τὸν λόγον ἑτέροις παρὰ τὸν τῶν ἀποστόλων ἀριθμὸν κατατάσσει, προτάξας αὐτοῦ τὸν Ἀριστίωνα,
+
+[3.6] σαφῶς τε αὐτὸν πρεσβύτερον ὀνομάζει· ὡς καὶ διὰ τούτων ἀποδείκνυσθαι τὴν ἱστορίαν ἀληθῆ τῶν δύο κατὰ τὴν Ἀσίαν ὁμωνυμίᾳ κεχρῆσθαι εἰρηκότων, δύο τε ἐν Ἐφέσῳ γενέσθαι μνήματα καὶ ἑκάτερον Ἰωάννου ἔτι νῦν λέγεσθαι. Οἷς καὶ ἀναγκαῖον προσέχειν τὸν νοῦν· εἰκὸς γὰρ τὸν δεύτερον, εἰ μή τις ἐθέλοι τὸν πρῶτον, τὴν ἐπʼ ὀνόματος φερομένην Ἰωάννου ἀποκάλυψιν ἑωρακέναι.
+
+[3.7] Καὶ ὁ νῦν δὲ ἡμῖν δηλούμενος Παπίας τοὺς μὲν τῶν ἀποστόλων λόγους παρὰ τῶν αὐτοῖς παρηκολουθηκότων ὁμολογεῖ παρειληφέναι, Ἀριστίωνος δὲ καὶ τοῦ πρεσβυτέρου Ἰωάννου αὐτήκοον ἑαυτόν φησι γενέσθαι. Ὀνομαστὶ γοῦν πολλάκις αὐτῶν μνημονεύσας, ἐν τοῖς αὐτοῦ συγγράμμασι τίθησιν αὐτῶν καὶ παραδόσεις. Καὶ ταῦτα δʼ ἡμῖν οὐκ εἰς τὸ ἄχρηστον εἰρήσθω.
+
+[3.8] Ἄξιον δὲ ταῖς ἀποδοθείσαις τοῦ Παπία φωναῖς προσάψαι λέξεις ἑτέρας αὐτοῦ, διʼ ὧν παράδοξά τινα ἱστορεῖ καὶ ἄλλα, ὡσὰν ἐκ παραδόσεως εἰς αὐτὸν ἐλθόντα.
+
+[3.9] Τὸ μὲν οὖν κατὰ τὴν Ἱεράπολιν Φίλιππον τὸν ἀπόστολον ἅμα ταῖς θυγατράσι διατρῖψαι, διὰ τῶν πρόσθεν δεδήλωται, ὡς δὲ κατὰ τοὺς αὐτοὺς ὁ Παπίας γενόμενος διήγησιν παρειληφέναι θαυμασίαν ὑπὸ τῶν τοῦ Φιλίππου θυγατέρων μνημονεύει, τὰ νῦν σημειωτέον. Νεκροῦ γὰρ ἀνάστασιν κατʼ αὐτὸν γεγονυῖαν ἱστορεῖ, καὶ αὖ πάλιν ἕτερον παράδοξον περὶ Ἰοῦστον τὸν ἐπικληθέντα Βαρσαββᾶν γεγονός, ὡς δηλητήριον φάρμακον ἐμπιόντος καὶ μηδὲν ἀηδὲς διὰ τὴν τοῦ Κυρίου χάριν ὑπομείναντος.
+
+[3.10] Τοῦτον δὲ τὸν Ἰοῦστον μετὰ τὴν τοῦ Σωτῆρος ἀνάληψιν τοὺς ἱεροὺς ἀποστόλους μετὰ Ματθία στῆσαί τε καὶ ἐπεύξασθαι ἀντὶ τοῦ προδότου Ἰούδα ἐπὶ τὸν κλῆρον τῆς ἀναπληρώσεως τοῦ αὐτῶν ἀριθμοῦ, ἡ τῶν πράξεων ὧδέ πως ἱστορεῖ γραφή· Καὶ ἔστησαν δύο, Ἰωσὴφ τὸν καλούμενον Βαρσαββᾶν, ὃς ἐπεκλήθη Ἰοῦστος, καὶ Ματθίαν· καὶ προσευξάμενοι εἶπαν.
+
+[3.11] Καὶ ἄλλα δὲ ὁ αὐτὸς ὡσὰν ἐκ παραδόσεως ἀγράφου εἰς αὐτὸν ἥκοντα παρατέθειται, ξένας τέ τινας παραβολὰς τοῦ Σωτῆρος καὶ διδασκαλίας αὐτοῦ, καί τινα ἄλλα μυθικώτερα.
+
+[3.12] Ἐν οἷς καὶ χιλιάδα τινά φησιν ἐτῶν ἔσεσθαι μετὰ τὴν ἐκ νεκρῶν ἀνάστασιν, σωματικῶς τῆς Χριστοῦ βασιλείας ἐπὶ ταυτησὶ τῆς γῆς ὑποστησομένης. Ἃ καὶ ἡγοῦμαι τὰς ἀποστολικὰς παρεκδεξάμενον διηγήσεις ὑπολαβεῖν, τὰ ἐν ὑποδείγμασι πρὸς αὐτῶν μυστικῶς εἰρημένα μὴ συνεωρακότα.
+
+[3.13] Σφόδρα γάρ τοι σμικρὸς ὢν τὸν νοῦν, ὡσὰν ἐκ τῶν αὐτοῦ λόγων τεκμηράμενον εἰπεῖν, φαίνεται· πλὴν καὶ τοῖς μετʼ αὐτὸν πλείστοις ὅσοις τῶν ἐκκλησιαστικῶν τῆς ὁμοίας αὐτῷ δόξης παραίτιος γέγονε, τὴν ἀρχαιότητα τἀνδρὸς προβεβλημένοις, ὥσπερ οὖν Εἰρηναίῳ, καὶ εἴ τις ἄλλος τὰ ὅμοια φρονῶν ἀναπέφηνεν.
+
+[3.14] Καὶ ἄλλας δὲ τῇ ἑαυτοῦ γραφῇ παραδίδωσιν Ἀριστίωνος τοῦ πρόσθεν δεδηλωμένου τῶν τοῦ Κυρίου λόγων διηγήσεις καὶ τοῦ πρεσβυτέρου Ἰωάννου παραδόσεις, ἐφʼ ἃς τοὺς φιλομαθεῖς ἀναπέμψαντες, ἀναγκαίως νῦν προσθήσομεν ταῖς προεκτεθείσαις αὐτοῦ φωναῖς παράδοσιν, ἣν περὶ Μάρκου τοῦ τὸ εὐαγγέλιον γεγραφότος ἐκτέθειται διὰ τούτων·
+
+[3.15] Καὶ τοῦτο ὁ πρεσβύτερος ἔλεγε· Μάρκος μὲν ἑρμηνευτὴς Πέτρου γενόμενος, ὅσα ἐμνημόνευσεν, ἀκριβῶς ἔγραψεν, οὐ μέντοι τάξει, τὰ ὑπὸ τοῦ Χριστοῦ ἢ λεχθέντα ἢ πραχθέντα. οὔτε γὰρ ἤκουσε τοῦ Κυρίου, οὔτε παρηκολούθησεν αὐτῷ, ὕστερον δέ, ὡς ἔφην, Πέτρῳ, ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλʼ οὐχ ὥσπερ σύνταξιν τῶν κυριακῶν ποιούμενος λογίων, ὥστε οὐδὲν ἥμαρτε Μάρκος, οὕτως ἔνια γράψας ὡς ἀπεμνημόνευσεν. ἑνὸς γὰρ ἐποιήσατο πρόνοιαν, τοῦ μηδὲν ὧν ἤκουσε παραλιπεῖν ἢ ψεύσασθαί τι ἐν αὐτοῖς.
+Ταῦτα μὲν οὖν ἱστόρηται τῷ Παπίᾳ περὶ τοῦ Μάρκου.
+
+[3.16] Περὶ δὲ τοῦ Ματθαίου ταῦτʼ εἴρηται·
+Ματθαῖος μὲν οὖν Ἑβραΐδι διαλέκτῳ τὰ λόγια συνεγράψατο, ἡρμήνευσε δʼ αὐτὰ ὡς ἦν δυνατὸς ἕκαστος.
+Κέχρηται δʼ αὐτὸς μαρτυρίαις ἀπὸ τῆς Ἰωάννου προτέρας ἐπιστολῆς καὶ ἀπὸ τῆς Πέτρου ὁμοίως. ἐκτέθειται δὲ καὶ ἄλλην ἱστορίαν περὶ γυναικὸς ἐπὶ πολλαῖς ἁμαρτίαις διαβληθείσης ἐπὶ τοῦ Κυρίου, ἣν τὸ κατʼ Ἑβραίους εὐαγγέλιον περιέχει. Καὶ ταῦτα δʼ ἡμῖν ἀναγκαίως πρὸς τοῖς ἐκτεθεῖσιν ἐπιτετηρήσθω.
+
+[3.witness] Eusebius, Hist. Eccl. iii. 39 (Heinichen I. p. 147 sq.).
+
+## Fragment IV. The pericope of the adulteress (John vii. 53–viii. 11)
+
+[4.1] Καὶ ἐπορεύθησαν ἕκαστος εἰς τὸν οἶκον αὐτοῦ, Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ Ὄρος τῶν Ἐλαιῶν. ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερόν, [καὶ πᾶς ὁ λαὸς ἤρχετο πρὸς αὐτόν, καὶ καθίσας ἐδίδασκεν αὐτούς]. ἄγουσιν δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι γυναῖκα ἐπὶ μοιχείᾳ κατειλημμένην, καὶ στήσαντες αὐτὴν ἐν μέσῳ λέγουσιν αὐτῷ Διδάσκαλε, αὕτη ἡ γυνὴ κατείληπται ἐπʼ αὐτοφώρῳ μοιχευομένη· ἐν δὲ τῷ νόμῳ [ἡμῖν] Μωυσῆς ἐνετείλατο τὰς τοιαύτας λιθάζειν· σὺ οὖν τί λέγεις; [τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ.] ὁ δὲ Ἰησοῦς κάτω κύψας τῷ δακτύλῳ κατέγραφεν εἰς τὴν γῆν. ὡς δὲ ἐπέμενον ἐρωτῶντες [αὐτόν], ἀνέκυψεν καὶ εἶπεν [αὐτοῖς] Ὁ ἀναμάρτητος ὑμῶν πρῶτος ἐπʼ αὐτὴν βαλέτω λίθον· καὶ πάλιν κατακύψας ἔγραφεν εἰς τὴν γῆν. οἱ δὲ ἀκούσαντες ἐξήρχοντο εἷς καθʼ εἷς ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων, καὶ κατελείφθη μόνος, καὶ ἡ γυνὴ ἐν μέσῳ οὖσα. ἀνακύψας δὲ ὁ Ἰησοῦς εἶπεν αὐτῇ Γύναι, ποῦ εἰσίν; οὐδείς σε κατέκρινεν; ἡ δὲ εἶπεν Οὐδείς, κύριε. εἶπεν δὲ ὁ Ἰησοῦς Οὐδὲ ἐγώ σε κατακρίνω· πορεύου, ἀπὸ τοῦ νῦν μηκέτι ἁμάρτανε.
+
+[4.witness] Pericope Adulterae; see Westcott and Hort, The New Testament in the original Greek I. p. 241, II. pp. 82 sq, 91; Lightfoot, Essays on Supernatural Religion p. 203 sq.
+
+## Fragment V. Philip of Side (?), Christian History
+
+[5.1] Παπίας Ἱεροπόλεως ἐπίσκοπος ἀκουστὴς τοῦ θεολόγου Ἰωάννου γενόμενος, Πολυκάρπου δὲ ἑταῖρος, πέντε λόγους κυριακῶν λογίων ἔγραψεν, ἐν οἷς ἀπαρίθμησιν ἀποστόλων ποιούμενος μετὰ Πέτρον καὶ Ἰωάννην, Φίλιππον καὶ Θωμᾶν καὶ Ματθαῖον εἰς μαθητὰς τοῦ Κυρίου ἀνέγραψεν Ἀριστίωνα καὶ Ἰωάννην ἕτερον, ὃν καὶ πρεσβύτερον ἐκάλεσεν. ὥς τινας οἴεσθαι, ὅτι [ins. τούτου] τοῦ Ἰωάννου εἰσὶν αἱ δύο ἐπιστολαὶ αἱ μικραὶ καὶ καθολικαί, αἱ ἐξ ὀνόματος Ἰωάννου φερόμεναι, διὰ τὸ τοὺς ἀρχαίους τὴν πρώτην μόνην ἐγκρίνειν· τινὲς δὲ καὶ τὴν ἀποκάλυψιν τούτου πλανηθέντες ἐνόμισαν. καὶ Παπίας δὲ περὶ τὴν χιλιονταετηρίδα σφάλλεται, ἐξ οὗ καὶ ὁ Εἰρηναῖος. Παπίας ἐν τῷ δευτέρῳ λόγῳ λέγει, ὅτι Ἰωάννης ὁ θεολόγος καὶ Ἰάκωβος ὁ ἀδελφὸς αὐτοῦ ὑπὸ Ἰουδαίων ἀνῃρέθησαν. Παπίας ὁ εἰρημένος ἱστόρησεν ὡς παραλαβὼν ἀπὸ τῶν θυγατέρων Φιλίππου, ὅτι Βαρσαβᾶς ὁ καὶ Ἰοῦστος δοκιμαζόμενος ὑπὸ τῶν ἀπίστων ἰὸν ἐχίδνης πιὼν ἐν ὀνόματι τοῦ Χριστοῦ ἀπαθὴς διεφυλάχθη. ἱστορεῖ δὲ καὶ ἄλλα θαύματα καὶ μάλιστα τὸ κατὰ τὴν μητέρα Μαναΐμου τὴν ἐκ νεκρῶν ἀναστᾶσαν· περὶ τῶν ὑπὸ τοῦ Χριστοῦ ἐκ νεκρῶν ἀναστάντων, ὅτι ἕως Ἀδριανοῦ ἔζων.
+
+[5.witness] Philippus Sidetes (?), Hist. Christ. (published by De Boor, Texte und Untersuchungen V. 2 p. 170 from cod. Baroccianus 142 in the Bodleian Library).
+
+## Fragment VI. George Hamartolus, Chronicle
+
+[6.1] Μετὰ δὲ Δομετιανὸν ἐβασίλευσε Νερούας ἔτος ἕν, ὃς ἀνακαλεσάμενος Ἰωάννην ἐκ τῆς νήσου ἀπέλυσεν οἰκεῖν ἐν Ἐφέσῳ. μόνος τότε περιὼν τῷ βίῳ ἐκ τῶν δώδεκα μαθητῶν καὶ συγγραψάμενος τὸ κατʼ αὐτὸν εὐαγγέλιον μαρτυρίου κατηξίωται. Παπίας γὰρ ὁ Ἱεραπόλεως ἐπίσκοπος, αὐτόπτης τούτου γενόμενος, ἐν τῷ δευτέρῳ λόγῳ τῶν κυριακῶν λογίων φάσκει, ὅτι ὑπὸ Ἰουδαίων ἀνῃρέθη· πληρώσας δηλαδὴ μετὰ τοῦ ἀδελφοῦ τὴν τοῦ Χριστοῦ περὶ αὐτῶν πρόρρησιν καὶ τὴν ἑαυτῶν ὁμολογίαν περὶ τούτου καὶ συγκατάθεσιν· εἰπὼν γὰρ ὁ Κύριος πρὸς αὐτούς· Δύνασθε πιεῖν τὸ ποτήριον ὃ ἐγὼ πίνω; καὶ κατανευσάντων προθύμως καὶ συνθεμένων· Τὸ ποτήριόν μου, φησίν, πίεσθε καὶ τὸ βάπτισμα ὃ ἐγὼ βαπτίζομαι βαπτισθήσεσθε. καὶ εἰκότως. ἀδύνατον γὰρ Θεὸν ψεύσασθαι. οὕτω δὲ καὶ ὁ πολυμαθὴς Ὠριγένης ἐν τῇ κατὰ Ματθαῖον ἑρμηνείᾳ διαβεβαιοῦται, ὡς ὅτι μεμαρτύρηκεν Ἰωάννης, ἐκ τῶν διαδόχων τῶν ἀποστόλων ὑποσημαινάμενος τοῦτο μεμαθηκέναι. καὶ μὲν δὴ καὶ ὁ πολυΐστωρ Εὐσέβιος ἐν τῇ ἐκκλησιαστικῇ ἱστορίᾳ φησί· Θωμᾶς μὲν τὴν Παρθίαν εἴληχεν, Ἰωάννης δὲ τὴν Ἀσίαν, πρὸς οὓς καὶ διατρίψας ἐτελεύτησεν ἐν Ἐφέσῳ.
+
+[6.witness] Georgius Hamartolus, Chronicon (published by Nolte, Tüb. Theol. Quartalschr. 1862 p. 466 sq. from cod. Coisl.); see Lightfoot, Essays on Supernatural Religion p. 211 sq.
+
+## Fragment VII. Jerome, Lives of Illustrious Men 18
+
+[7.1] Papias, Iohannis auditor, Hierapolitanus in Asia episcopus, quinque tantum scripsit volumina, quae praenotavit Explanatio Sermonum Domini. In quibus quum se in praefatione asserat non varias opiniones sequi, sed apostolos habere auctores, ait: Considerabam, quid Andreas, quid Petrus dixissent, quid Philippus, quid Thomas, quid Iacobus, quid Iohannes, quid Matthaeus, vel alius quilibet discipulorum Domini: quid etiam Aristion et senior Iohannes, discipuli Domini, loquebantur. Non enim tantum mihi libri ad legendum prosunt, quantum viva vox usque hodie in suis auctoribus personans.
+
+[7.2] Ex quo apparet in ipso catalogo nominum, alium esse Iohannem, qui inter apostolos ponitur, et alium seniorem Iohannem, quem post Aristionem enumerat. Hoc autem diximus propter superiorem opinionem, quam a plerisque retulimus traditam, duas posteriores epistulas Iohannis non apostoli esse, sed presbyteri. Hic dicitur mille annorum Iudaicam edidisse δευτέρωσιν, quem secuti sunt Irenaeus et Apollinarius et caeteri, qui post resurrectionem aiunt in carne cum sanctis Dominum regnaturum.
+
+[7.witness] Hieronymus, de vir. illust. 18, ed. Vallarsi II. p. 845.
+
+## Fragment VIII. Jerome, Letter 71 to Lucinius
+
+[8.1] Porro Iosephi libros et sanctorum Papiae et Polycarpi volumina falsus ad te rumor pertulit a me esse translata: quia nec otii mei nec virium est tantas res eadem in alteram linguam exprimere venustate.
+
+[8.witness] Hieronymus, ad Lucinium Ep. 71 (28) c. 5 (Vallarsi I. p. 432).
+
+## Fragment IX. Jerome, Letter 75 to Theodora
+
+[9.1] Refert Irenaeus..... Papiae auditoris evangelistae Iohannis discipulus.....
+
+[9.witness] Hieronymus, ad Theodoram Ep. 75 (29) c. 3 (Vallarsi I. p. 450).
+
+## Fragment X. Andrew of Caesarea, preface to the Apocalypse
+
+[10.1] Περὶ μέντοι τοῦ θεοπνεύστου τῆς βίβλου (sc. τῆς ἀποκαλύψεως Ἰωάννου) περιττὸν μηκύνειν τὸν λόγον ἡγούμεθα, τῶν μακαρίων Γρηγορίου φημὶ τοῦ θεολόγου καὶ Κυρίλλου, προσέτι δὲ καὶ τῶν ἀρχαιοτέρων Παπίου, Εἰρηναίου, Μεθοδίου καὶ Ἱππολύτου ταύτῃ προσμαρτυρούντων τὸ ἀξιόπιστον.
+
+[10.witness] Andreas Caesariensis, praef. in Apocalypsin (in Morel's edition of S. Chrysostom, p. 2).
+
+## Fragment XI. Andrew of Caesarea, on the Apocalypse c. 34
+
+[11.1] Παπίας δὲ οὕτως ἐπὶ λέξεως· Ἐνίοις δὲ αὐτῶν, δηλαδὴ τῶν πάλαι θείων ἀγγέλων, καὶ τῆς περὶ τὴν γῆν διακοσμήσεως ἔδωκεν ἄρχειν καὶ καλῶς ἄρχειν παρηγγύησε. καὶ ἑξῆς φησίν· Εἰς οὐδὲν δέον συνέβη τελευτῆσαι τὴν τάξιν αὐτῶν. Καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος ὁ καλούμενος διάβολος καὶ ὁ Σατανᾶς, ὁ πλανῶν τὴν οἰκουμένην ὅλην· ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ.
+
+[11.witness] Andreas Caesariensis, in Apocalypsin c. 34, serm. 12 (Morel l.c. p. 52).
+
+## Fragment XII. Anastasius of Sinai, Anagogical Contemplations i
+
+[12.1] Λαβόντες τὰς ἀφορμὰς ἐκ Παπίου τοῦ πάνυ τοῦ Ἱεραπολίτου, τοῦ ἐν τῷ ἐπιστηθίῳ φοιτήσαντος, καὶ Κλήμεντος, Πανταίνου τῆς Ἀλεξανδρέων ἱερέως καὶ Ἀμμωνίου σοφωτάτου, τῶν ἀρχαίων καὶ πρώτων συνῳδῶν ἐξηγητῶν, εἰς Χριστὸν καὶ τὴν ἐκκλησίαν πᾶσαν τὴν ἑξαήμερον νοησάντων.
+
+[12.witness] Anastasius Sinaita, Contempl. Anagog. in Hexaëm. i (Migne P. G. LXXXIX. p. 860); the Greek was given first by Halloix, Ill. Eccl. Orient. II. p. 851.
+
+## Fragment XIII. Anastasius of Sinai, Anagogical Contemplations vii
+
+[13.1] Οἱ μὲν οὖν ἀρχαιότεροι τῶν ἐκκλησιῶν ἐξηγητῶν, λέγω δὴ Φίλων ὁ φιλόσοφος καὶ τῶν ἀποστόλων ὁμόχρονος καὶ Παπίας ὁ πολὺς ὁ Ἰωάννου τοῦ εὐαγγελιστοῦ φοιτητὴς ὁ Ἱεραπολίτης.... καὶ οἱ ἀμφʼ αὐτοὺς πνευματικῶς τὰ περὶ παραδείσου ἐθεώρησαν εἰς τὴν Χριστοῦ ἐκκλησίαν ἀναφερόμενοι.
+
+[13.witness] Anastasius Sinaita, l.c. vii (Migne P. G. LXXXIX. p. 961); the Greek was given first by Nolte, Tüb. Theol. Quartalschr. (1867) p. 56.
+
+## Fragment XIV. Irenaeus, Against Heresies v. 33. 3–4
+
+[14.1] Praedicta itaque benedictio ad tempora regni sine contradictione pertinet, quando regnabunt iusti surgentes a mortuis; quando et creatura renovata et liberata multitudinem fructificabit universae escae, ex rore caeli et ex fertilitate terrae: quemadmodum presbyteri meminerunt, qui Iohannem discipulum Domini viderunt, audisse se ab eo, quemadmodum de temporibus illis docebat Dominus et dicebat:
+Venient dies, in quibus vineae nascentur, singulae decem millia palmitum habentes, et in uno palmite dena millia brachiorum, et in uno vero palmite [l. brachio] dena millia flagellorum, et in unoquoque flagello dena millia botruum, et in unoquoque botro dena millia acinorum, et unumquodque acinum expressum dabit vigintiquinque metretas vini. Et cum eorum apprehenderit aliquis sanctorum botrum, alius clamabit: Botrus ego melior sum, me sume, per me Dominum benedic. Similiter et granum tritici decem millia spicarum generaturum, et unamquamque spicam habituram decem millia granorum, et unumquodque granum quinque bilibres similae clarae mundae: et reliqua autem poma et semina et herbam secundum congruentiam iis consequentem: et omnia animalia iis cibis utentia, quae a terra accipiuntur, pacifica et consentanea invicem fieri, subiecta hominibus cum omni subiectione.
+
+[14.2] Haec autem et Papias Iohannis auditor, Polycarpi autem contubernalis, vetus homo, per scripturam testimonium perhibet in quarto librorum suorum: sunt enim illi quinque libri conscripti.
+Ταῦτα δὲ καὶ Παπίας ὁ Ἰωάννου μὲν ἀκουστής, Πολυκάρπου δὲ ἑταῖρος γεγονώς, ἀρχαῖος ἀνήρ, ἐγγράφως ἐπιμαρτυρεῖ ἐν τῇ τετάρτῃ τῶν ἑαυτοῦ βιβλίων· ἔστι γὰρ αὐτῷ πέντε βιβλία συντεταγμένα (see above, No. III.).
+
+[14.3] Et adiecit dicens:
+Haec autem credibilia sunt credentibus. Et Iuda, inquit, proditore non credente et interrogante: Quomodo ergo tales geniturae a Domino perficientur? dixisse Dominum: Videbunt qui venient in illa.
+
+[14.witness] Irenaeus, Haer. v. 33. 3, 4, ed. Stieren (1853) I. p. 809 sq.
+
+## Fragment XV. Maximus the Confessor, scholia on Dionysius c. 2
+
+[15.1] Τοὺς κατὰ θεὸν ἀκακίαν ἀσκοῦντας παῖδας ἐκάλουν, ὡς καὶ Παπίας δηλοῖ βιβλίῳ πρώτῳ τῶν κυριακῶν ἐξηγήσεων καὶ Κλήμης ὁ Ἀλεξανδρεὺς ἐν τῷ Παιδαγωγῷ.
+
+[15.witness] Maximus Confessor, Schol. in libr. Dionys. Areopag. de eccl. hierarch. c. 2, ed. Corder. (1755) I. p. 32.
+
+## Fragment XVI. Maximus the Confessor, scholia on Dionysius c. 7
+
+[16.1] Ταῦτά φησιν αἰνιττόμενος οἶμαι Παπίαν τὸν Ἱεραπόλεως τῆς κατʼ Ἀσίαν τότε γενόμενον ἐπίσκοπον καὶ συνακμάσαντα τῷ θείῳ εὐαγγελιστῇ Ἰωάννῃ. οὗτος γὰρ ὁ Παπίας ἐν τῷ τετάρτῳ αὐτοῦ βιβλίῳ τῶν κυριακῶν ἐξηγήσεων τὰς διὰ βρωμάτων εἶπεν ἐν τῇ ἀναστάσει ἀπολαύσεις.... καὶ Εἰρηναῖος δὲ ὁ Λουγδούνου ἐν τῷ κατὰ αἱρέσεων πέμπτῳ λόγῳ τὸ αὐτό φησι καὶ παράγει μάρτυρα τῶν ὑπʼ αὐτοῦ εἰρημένων τὸν λεχθέντα Παπίαν.
+
+[16.witness] Maximus Confessor, l. c. (Corder. I. p. 422 de eccl. hierarch. c. 7).
+
+## Fragment XVII. Photius, Library 232 (on Stephanus Gobarus)
+
+[17.1] Οὐ μὴν ἀλλʼ οὐδὲ Παπίαν τὸν Ἱεραπόλεως ἐπίσκοπον καὶ μάρτυρα, οὐδὲ Εἰρηναῖον τὸν ὅσιον ἐπίσκοπον Λουγδούνων (sc. ἀποδέχεται Στέφανος), ἐν οἷς λέγουσιν αἰσθητῶν τινῶν βρωμάτων ἀπόλαυσιν εἶναι τὴν τῶν οὐρανῶν βασιλείαν.
+
+[17.witness] Photius, Biblioth. 232, speaking of Stephanus Gobarus, ed. Bekker (1824) p. 291.
+
+## Fragment XVIII. Apollinarius, from the catena on Acts
+
+[18.1] Ἀπολιναρίου· Οὐκ ἀπέθανε τῇ ἀγχόνῃ Ἰούδας, ἀλλʼ ἐπεβίω καθαιρεθεὶς πρὸ τοῦ ἀποπνιγῆναι. καὶ τοῦτο δηλοῦσιν αἱ τῶν ἀποστόλων πράξεις, ὅτι πρηνὴς γενόμενος ἐλάκησε μέσος, καὶ ἐξεχύθη τὰ σπλάγχνα αὐτοῦ. τοῦτο δὲ σαφέστερον ἱστορεῖ Παπίας ὁ Ἰωάννου μαθητὴς λέγων οὕτως ἐν τῷ τετάρτῳ τῆς ἐξηγήσεως τῶν κυριακῶν λόγων·
+Μέγα δὲ ἀσεβείας ὑπόδειγμα ἐν τούτῳ τῷ κόσμῳ περιεπάτησεν ὁ Ἰούδας πρησθεὶς ἐπὶ τοσοῦτον τὴν σάρκα, ὥστε μηδὲ ὁπόθεν ἅμαξα ῥᾳδίως διέρχεται ἐκεῖνον δύνασθαι διελθεῖν, ἀλλὰ μηδὲ αὐτὸν μόνον τὸν τῆς κεφαλῆς ὄγκον αὐτοῦ. τὰ μὲν γὰρ βλέφαρα τῶν ὀφθαλμῶν αὐτοῦ φασὶ τοσοῦτον ἐξοιδῆσαι, ὡς αὐτὸν μὲν καθόλου τὸ φῶς μὴ βλέπειν, τοὺς ὀφθαλμοὺς δὲ αὐτοῦ μηδὲ ὑπὸ ἰατροῦ [διὰ] διόπτρας ὀφθῆναι δύνασθαι· τοσοῦτον βάθος εἶχον ἀπὸ τῆς ἔξωθεν ἐπιφανείας· τὸ δὲ αἰδοῖον αὐτοῦ πάσης μὲν ἀσχημοσύνης ἀηδέστερον καὶ μεῖζον φαίνεσθαι, φέρεσθαι δὲ διʼ αὐτοῦ ἐκ παντὸς τοῦ σώματος συρρέοντας ἰχῶράς τε καὶ σκώληκας εἰς ὕβριν διʼ αὐτῶν μόνων τῶν ἀναγκαίων. μετὰ πολλὰς δὲ βασάνους καὶ τιμωρίας ἐν ἰδίῳ, φασί, χωρίῳ τελευτήσαντος, ἀπὸ τῆς ὀδμῆς ἔρημον καὶ ἀοίκητον τὸ χωρίον μέχρι τῆς νῦν γενέσθαι, ἀλλʼ οὐδὲ μέχρι τῆς σήμερον δύνασθαί τινα ἐκεῖνον τὸν τόπον παρελθεῖν, ἐὰν μὴ τὰς ῥῖνας ταῖς χερσὶν ἐπιφράξῃ. τοσαύτη διὰ τῆς σαρκὸς αὐτοῦ καὶ ἐπὶ τῆς γῆς ἔκρυσις ἐχώρησεν.
+
+[18.witness] Compiled from Cramer, Catena ad Acta SS. Apost. (1838) p. 12 sq. and other sources given in Gebhardt, Harnack and Zahn, 1877, p. 73.
+
+## Fragment XIX. Argument to the Gospel of John (Vatican MS, 9th century)
+
+[19.1] Incipit argumentum secundum Iohannem.
+Evangelium Iohannis manifestatum et datum est ecclesiis ab Iohanne adhuc in corpore constituto; sicut Papias nomine Hierapolitanus, discipulus Iohannis carus, in exotericis (l. exegeticis)—id est in extremis (l. externis)—quinque libris retulit. Descripsit vero evangelium dictante Iohanne recte.
+
+[19.witness] Codex Vatic. Alex. Nr. 14 Bibl. Lat. (Evv.) [IX], ed. I. M. Thomasius Cardinalis (Opp. I. p. 344 Romae 1747); see Lightfoot, Essays on Supernatural Religion p. 210.
+
+## Fragment XX. Catena on John, proem
+
+[20.1] Ὕστατος γὰρ τούτων Ἰωάννης ὁ τῆς βροντῆς υἱὸς μετακληθείς, πάνυ γηραλέου αὐτοῦ γενομένου, ὡς παρέδοσαν ἡμῖν ὅ τε Εἰρηναῖος καὶ Εὐσέβιος καὶ ἄλλοι πιστοὶ κατὰ διαδοχὴν γεγονότες ἱστορικοί, κατʼ ἐκεῖνο καιροῦ αἱρέσεων ἀναφυεισῶν δεινῶν ὑπηγόρευσε τὸ εὐαγγέλιον τῷ ἑαυτοῦ μαθητῇ Παπίᾳ εὐβιώτῳ (l. εὐβιότῳ) τῷ Ἱεραπολίτῃ, πρὸς ἀναπλήρωσιν τῶν πρὸ αὐτοῦ κηρυξάντων τὸν λόγον τοῖς ἀνὰ πᾶσαν τὴν οἰκουμένην ἔθνεσιν.
+
+[20.witness] Catena Patr. Graec. in S. Joan. Proœm., first published by B. Corder (Antwerp 1630).

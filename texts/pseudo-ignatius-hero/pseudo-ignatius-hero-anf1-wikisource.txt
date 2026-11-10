@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_Hero,_a_Deacon_of_Antioch
 Retrieved: 2026-11-10 (source file 10896 bytes, SHA-256 5cb9e78d8c0643d83b1bae77ed9f284ed2989f7f747a0736a48ae19adb3f3264)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":31}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

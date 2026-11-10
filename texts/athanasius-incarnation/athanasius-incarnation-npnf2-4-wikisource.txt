@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Incarnation_of_the_Word/On_the_Incarnation_of_the_Word
 Retrieved: 2026-11-05 (source file 218769 bytes, SHA-256 318ab38da4cd278fa92c3c998d00bc43d047b28425c9ee47cc4e89c4c04165e0)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":160}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

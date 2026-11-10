@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_II/The_Instructor
 Retrieved: 2026-11-05 (source file 511581 bytes, SHA-256 d8b70693d59eb190cf2770264f14d4620ab43679ad5c9d7ea6e360deeee14636)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":763}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

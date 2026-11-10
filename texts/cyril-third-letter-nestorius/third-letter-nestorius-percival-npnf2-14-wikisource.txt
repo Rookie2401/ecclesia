@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Third_Ecumenical_Council/The_Epistle_of_Cyril_to_Nestorius
 Retrieved: 2026-11-05 (source file 86678 bytes, SHA-256 e4e980287518e6a3b7fc1bccb5249f24003c451ad7d2324bcc6349adcb5570a6)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":16}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

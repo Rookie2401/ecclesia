@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Defence_of_His_Flight/Apologia_de_Fuga
 Retrieved: 2026-11-05 (source file 76840 bytes, SHA-256 3ad4d58c7a1df2cf67d87b25b6b3b7a2a0d6534db4e23d5a6af04e987de3a234)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":122}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

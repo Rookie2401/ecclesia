@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Fifth_Ecumenical_Council
 Retrieved: 2026-11-05 (source file 53462 bytes, SHA-256 29251e68e36139700b5a16bd0ab3c3ab2f157fcafa4db5e820c2a3a3f21fa1f3)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":5}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

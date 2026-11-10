@@ -10,7 +10,7 @@ Retrieved: 2026-11-05 (source file 46708 bytes, SHA-256 3e4115e6c7026136ccede52e
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":59,"pb":9}
 Passages left out: 10 segments, 450 words, each marked […]. Where the Greek is lost the printed edition gives the Latin version; the source copy encodes that Latin in Greek letters, which cannot be restored reliably. Those passages are left out of the Greek text and marked […].
 Incomplete: original: 450 words in 12 sections left out — Where the Greek is lost the printed edition gives the Latin version; the source copy encodes that Latin in Greek letters, which cannot be restored reliably. Those passages are left out of the Greek text and marked […].
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

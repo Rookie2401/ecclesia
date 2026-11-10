@@ -9,7 +9,7 @@ Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/da
 Retrieved: 2026-11-05 (source file 286243 bytes, SHA-256 41f600080c08beb244271c724140dead1590aebead57d2d4e6aa90bd1b9644b3)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":191,"pb":149}
 Incomplete: original: 1263 words in 32 sections left out — Where the Greek is lost the printed edition gives the Latin version; the source copy encodes that Latin in Greek letters, which cannot be restored reliably. Those passages are left out of the Greek text and marked […].
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Defence_Against_the_Arians/Apologia_Contra_Arianos
 Retrieved: 2026-11-05 (source file 269388 bytes, SHA-256 447d2a6cd0540e702c251d3e9507155e635f82cb9b2b24d2ffd41e7265f41f4c)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":274}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

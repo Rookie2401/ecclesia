@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/2Sam.xml
 Retrieved: 2026-11-05 (source file 1013552 bytes, SHA-256 e7793e141ed94eadbd2dfb23936abbb4062e81a7dcd41114a6e36644f50b8333)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":159}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

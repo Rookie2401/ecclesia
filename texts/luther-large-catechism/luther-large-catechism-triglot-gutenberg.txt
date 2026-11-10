@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://www.gutenberg.org/cache/epub/1722/pg1722.txt
 Retrieved: 2026-11-05 (source file 288690 bytes, SHA-256 a1f3497a3e9a6a3024be1419fd588098d0949db9b966108f86750ae04eefd09f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"gutenbergLine":3}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

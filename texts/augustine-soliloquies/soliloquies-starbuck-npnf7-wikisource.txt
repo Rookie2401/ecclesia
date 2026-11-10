@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VII/Two_Books_of_Soliloquies
 Retrieved: 2026-11-05 (source file 126709 bytes, SHA-256 7f42dc739b0f3b6943393bdc0bb1b897110179bfb1f9a97bb4f408010037f783)
 Changes from the source: cut into numbered segments; these elements were not stored: {}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

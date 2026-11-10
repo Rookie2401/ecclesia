@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Mortality
 Retrieved: 2026-11-05 (source file 39453 bytes, SHA-256 d1c6704682ff5de7f3fe245330c30179ea8a7272cc971b680b5a56936c625a76)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":51}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

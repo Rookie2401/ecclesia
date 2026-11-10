@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_II/Exhortation_to_the_Heathen
 Retrieved: 2026-11-05 (source file 202394 bytes, SHA-256 4477a3fb207ead13482f99af6f7670962ee5accf3cbc0108831ccaa60359a6fe)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":177}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

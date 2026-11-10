@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/textcreationpartnership/N04635/master/N04635.xml
 Retrieved: 2026-11-05 (source file 1359687 bytes, SHA-256 238dbbe338902d11dd1f514be5fe570d22c606892e511c7f044d2cda38086924)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":349,"unread":1285,"note":100}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

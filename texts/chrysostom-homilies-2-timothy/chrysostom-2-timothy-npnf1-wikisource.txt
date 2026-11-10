@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Timothy,_Titus,_and_Philemon/On_2_Timothy
 Retrieved: 2026-11-05 (source file 243698 bytes, SHA-256 02631e168ac390ab6474d97e9f0537fe45c46a7ac6ceacc13a620a204c4541af)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":130}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

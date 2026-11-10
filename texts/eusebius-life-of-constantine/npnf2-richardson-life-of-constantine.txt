@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Constantine/The_Life_of_Constantine
 Retrieved: 2026-11-05 (source file 655996 bytes, SHA-256 6bf6358487c4d9ece2e5be6bfb89e374ac7d5ecb7b9004eb0d46e962fe10d76d)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":317}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 

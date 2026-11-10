@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VII/Orations_of_Gregory_Nazianzen/Oration_28
 Retrieved: 2026-11-05 (source file 69405 bytes, SHA-256 7fac46e981f668e963070c488bb6a7d395bb13e9c2ea010d498569f11138701a)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":92}
-Ecclesia library, source ef5f7592.
+Ecclesia library, source 8489976a.
 
 ========================================================================
 
