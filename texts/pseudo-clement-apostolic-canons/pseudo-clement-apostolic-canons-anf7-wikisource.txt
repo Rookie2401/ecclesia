@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/Constitutions_of_the_Holy_Apostles/Book_VIII/The_Ecclesiastical_Canons_of_the_Same_Holy_Apostles
 Retrieved: 2026-11-10 (source file 33562 bytes, SHA-256 45880d40277a933ab1f9546515785fd291aaf9a146e5c0311bdb710c69b93980)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":58}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

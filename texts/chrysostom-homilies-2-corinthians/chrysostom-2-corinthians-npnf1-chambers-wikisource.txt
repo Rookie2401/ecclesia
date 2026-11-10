@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XII/Homilies_on_Second_Corinthians
 Retrieved: 2026-11-05 (source file 848101 bytes, SHA-256 8de26e9509dee6dbefd57e2d3a88b7736454f68dc99b77026eede084f5be3994)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":703}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

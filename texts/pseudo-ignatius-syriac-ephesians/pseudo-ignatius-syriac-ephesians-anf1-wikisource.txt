@@ -1,0 +1,53 @@
+Title: To the Ephesians: Syriac version
+Work: To the Ephesians (short Syriac recension)
+Author: Pseudo-Ignatius (the Ignatian recensions and spurious letters) (long recension and Greek spurious letters c. 360–380; Latin letters 12th century)
+Language: english
+Credit: To the Ephesians: Syriac version, in The Ante-Nicene Fathers, vol. 1 (American edition, ed. A. Cleveland Coxe), trans. Alexander Roberts; James Donaldson (as printed in ANF vol. 1) (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Ephesians:_Syriac_Version
+Retrieved: 2026-11-10 (source file 6816 bytes, SHA-256 738cdefbed5c0dea664a9cfdb2556ad6b6d614d9e6b5855d3c14dac56e37c678)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":14}
+Ecclesia library, source aa96e3e2.
+
+========================================================================
+
+## The Second Epistle of Ignatius to the Ephesians
+
+[s1.1] Ignatius, who is [also called] Theophorus, to the Church which is blessed in the greatness of God the Father, and perfected; to her who was selected from eternity, that she might be at all times for glory, which abideth, and is unchangeable, and is perfected and chosen in the purpose of truth by the will of the Father of Jesus Christ our God; to her who is worthy of happiness; to her who is at Ephesus, in Jesus Christ, in joy which is unblameable: [wishes] abundance of happiness.
+
+## Chapter I.
+
+[1.1] Inasmuch as your name, which is greatly beloved, is acceptable to me in God, [your name] which ye have acquired by nature, through a right and just will, and also by the faith and love of Jesus Christ our Saviour, and ye are imitators of God, and are fervent in the blood of God, and have speedily completed a work congenial to you; [for] when ye heard that I was bound, so as to be able to do nothing for the sake of the common name and hope (and I hope, through your prayers, that I may be devoured by beasts at Rome, so that by means of this of which I have been accounted worthy, I may be endowed with strength to be a disciple of God), ye were diligent to come and see me. Seeing, then, that we have become acquainted with your multitude in the name of God, by Onesimus, who is your bishop, in love which is unutterable, whom I pray that ye love in Jesus Christ our Lord, and that all of you imitate his example, for blessed is He who has given you such a bishop, even as ye deserve [to have].
+
+## Chapter III.
+
+[3.1] But inasmuch as love does not permit me to be silent in regard to you, on this account I have been forward to entreat of you that ye would be diligent in the will of God.
+
+## Chapter VIII.
+
+[8.1] For, so long as there is not implanted in you any one lust which is able to torment you, behold, ye live in God. I rejoice in you, and offer supplication on account of you, Ephesians, a Church which is renowned in all ages. For those who are carnal are not able to do spiritual things, nor those that are spiritual carnal things; in like manner as neither can faith [do] those things which are foreign to faith, nor want of faith [do] what belongs to faith. For those things which ye have done in the flesh, even these are spiritual, because ye have done everything in Jesus Christ.
+
+## Chapter IX.
+
+[9.1] And ye are prepared for the building of God the Father, and ye are raised up on high by the instrument of Jesus Christ, which is the cross; and ye are drawn by the rope, which is the Holy Spirit; and your pulley is your faith, and your love is the way which leadeth up on high to God.
+
+## Chapter X.
+
+[10.1] Pray for all men; for there is hope of repentance for them, that they may be counted worthy of God. By your works especially let them be instructed. Against their harsh words be ye conciliatory, by meekness of mind and gentleness. Against their blasphemies do ye give yourselves to prayer; and against their error be ye armed with faith. Against their fierceness be ye peaceful and quiet, and be ye not astounded by them. Let us, then, be imitators of our Lord in meekness, and strive who shall more especially be injured, and oppressed, and defrauded.
+
+## Chapter XIV.
+
+[14.1] The work is not of promise, unless a man be found in the power of faith, even to the end.
+
+## Chapter XV.
+
+[15.1] It is better that a man should be silent while he is something, than that he should be talking when he is not; that by those things which be speaks he should act, and by those things of which he is silent he should be known.
+
+## Chapter XVIII.
+
+[18.1] My spirit bows in adoration to the cross, which is a stumbling-block to those who do not believe, but is to you for salvation and eternal life.
+
+## Chapter XIX.
+
+[19.1] There was concealed from the ruler of this world the virginity of Mary and the birth of our Lord, and the three renowned mysteries which were done in the tranquillity of God from the star. And here, at the manifestation of the Son, magic began to be destroyed, and all bonds were loosed; and the ancient kingdom and the error of evil was destroyed. Henceforward all things were moved together, and the destruction of death was devised, and there was the commencement of that which was perfected in God.

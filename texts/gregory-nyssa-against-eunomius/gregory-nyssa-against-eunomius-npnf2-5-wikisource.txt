@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Dogmatic_Treatises/Against_Eunomius
 Retrieved: 2026-11-05 (source file 1716865 bytes, SHA-256 a02cda3bd9b7933d40a96773efd4273251fe7a6811ddd03916fd0a0d9324aa16)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1165}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

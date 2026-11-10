@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Against_the_Arians/Against_the_Arians/Discourse_III
 Retrieved: 2026-11-05 (source file 276895 bytes, SHA-256 64d88e83b30987ac473ce939d2213720caab0858a400140c94c61486311cb6f3)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":487}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

@@ -1,0 +1,17 @@
+Title: Second Epistle to St John
+Work: Second Epistle to St John
+Author: Pseudo-Ignatius (the Ignatian recensions and spurious letters) (long recension and Greek spurious letters c. 360–380; Latin letters 12th century)
+Language: english
+Credit: Second Epistle to St John, in The Ante-Nicene Fathers, vol. 1 (American edition, ed. A. Cleveland Coxe), trans. Alexander Roberts; James Donaldson (as printed in ANF vol. 1) (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).
+Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
+Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Second_Epistle_to_St_John
+Retrieved: 2026-11-10 (source file 1646 bytes, SHA-256 dfb039bff0e12fd9704c641476aeaea611051a00cd97daee1a2090cab029439d)
+Changes from the source: cut into numbered segments; these elements were not stored: {"note":5}
+Ecclesia library, source aa96e3e2.
+
+========================================================================
+
+## His friend Ignatius to John the holy presbyter.
+
+[s2.1] If thou wilt give me leave, I desire to go up to Jerusalem, and see the faithful saints who are there, especially Mary the mother, whom they report to be an object of admiration and of affection to all. For who would not rejoice to behold and to address her who bore the true God from her own womb, provided he is a friend of our faith and religion? And in like manner [I desire to see] the venerable James, who is surnamed Just, whom they relate to be very like Christ Jesus in appearance, in life, and in method of conduct, as if he were a twin-brother of the same womb. They say that, if I see him, I see also Jesus Himself, as to all the features and aspect of His body. Moreover, [I desire to see] the other saints, both male and female. Alas! why do I delay? Why am I kept back? Kind teacher, bid me hasten [to fulfil my wish], and fare thou well. Amen.

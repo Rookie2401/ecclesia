@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://www.gutenberg.org/cache/epub/59743/pg59743.txt
 Retrieved: 2026-11-05 (source file 2078687 bytes, SHA-256 3e7d8e657af47f0be2963b54cfaf531715e1c212d6d0cef280ad1612a7ca1153)
 Changes from the source: cut into numbered segments; these elements were not stored: {"transcriberNote":1,"noteMark":182,"note":1}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

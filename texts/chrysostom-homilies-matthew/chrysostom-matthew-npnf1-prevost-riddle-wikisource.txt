@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_X/The_Homilies_of_St._John_Chrysostom
 Retrieved: 2026-11-05 (source file 2695203 bytes, SHA-256 bad0dbbade4b07bc10dccd38adffa59f48af839e1a2569ec6706b6d1c152ae45)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":3184}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

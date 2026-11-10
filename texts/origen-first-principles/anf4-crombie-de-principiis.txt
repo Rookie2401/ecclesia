@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_IV/Origen/Origen_De_Principiis
 Retrieved: 2026-11-05 (source file 861368 bytes, SHA-256 9d8516ce23476bbac84aa8e6f4ea4db03a853eec29bc202f142bdaae2e5c0508)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1111}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

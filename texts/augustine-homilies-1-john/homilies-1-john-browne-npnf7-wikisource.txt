@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VII/First_Epistle_of_John
 Retrieved: 2026-11-05 (source file 407809 bytes, SHA-256 5224219f7bbe0eb64169df24a8e9130744abcae979161d5f721185b5ba8de8e1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":583,"unclosedTemplate":1}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

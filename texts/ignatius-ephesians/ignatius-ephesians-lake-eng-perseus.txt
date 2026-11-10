@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml
 Retrieved: 2026-11-05 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":37,"pb":8}
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

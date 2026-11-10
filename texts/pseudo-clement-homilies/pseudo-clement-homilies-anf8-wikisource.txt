@@ -9,7 +9,7 @@ Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Cl
 Retrieved: 2026-11-10 (source file 851987 bytes, SHA-256 9ab2081a1c296ec0e5235616981c9bb6718aa9aca074d8cdc6e18e50b8aed8f5)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":648,"templates":{"anon":539}}
 Incomplete: The Greek text covers Homilies I–XIX.14 and lacks Homily XIX.15–25 and Homily XX. Schwegler (1847) printed the Paris manuscript, which breaks off in Homily XIX.14; the rest was first printed by Dressel (1853) from a Vatican manuscript, and no open transcription of Dressel's text was found.
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 

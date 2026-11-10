@@ -9,7 +9,7 @@ Source: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/
 Retrieved: 2026-11-10 (source file 51968 bytes, SHA-256 8899acb6655200df7890dba9ad30b785ffd120011e1913c60cb7050024e32439)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":20}
 Incomplete: The Greek text covers the Greek fragments of the first letter, as Funk and Diekamp print them, from chapters 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 of their numbering and lacks the rest of the letter, which survives whole only in a Syriac translation. The Greek original is lost apart from quotations (chiefly in Antiochus of Saba's Pandect); the whole letter survives in Syriac (ed. J. T. Beelen, 1856), of which no open transcription was found.
-Ecclesia library, source b784de2b.
+Ecclesia library, source aa96e3e2.
 
 ========================================================================
 
