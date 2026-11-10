@@ -4,6 +4,7 @@ Every text stored in the [Ecclesia](https://rookie2401.github.io/) theological l
 
 - **735 editions of 483 works**: Greek, Latin, Hebrew (with the Aramaic of the Hebrew Bible), English and Dutch.
 - **Browse and download:** [the download page](https://rookie2401.github.io/ecclesia/).
+- **Modern theology acquisition research:** [1900–1930 and CC-licensed 1931–2026 catalogue](https://rookie2401.github.io/ecclesia/twentieth-century.html), backed by [`twentieth-century-catalogue.json`](twentieth-century-catalogue.json). This is not yet imported into the text database.
 - **One text:** `texts/<work>/<edition>.txt`. Plain UTF-8, with its credit, licence and source at the top.
 - **Everything:** `ecclesia-texts.sqlite.gz`, a SQLite database (90 MB to download, 425 MB unpacked).
 - **The list:** `catalogue.json`, with each file's size and SHA-256.
