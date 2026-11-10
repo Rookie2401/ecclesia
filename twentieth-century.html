@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Twentieth-Century & Contemporary Theology · Ecclesia Texts</title>
+<meta name="description" content="Edition-aware acquisition registry for 1900–1930 public-domain theology and CC-licensed contemporary scholarship.">
+<style>
+:root {color-scheme:light dark;--bg:#f7f3ea;--paper:#fffdf8;--ink:#2a2118;--sub:#6f6253;--line:#ddd2bf;--accent:#7a4a12;--muted:#f2ecdf}
+@media(prefers-color-scheme:dark){:root{--bg:#17120d;--paper:#211a13;--ink:#efe6d6;--sub:#ab9d89;--line:#3b3025;--accent:#dca95f;--muted:#30271f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Georgia,"Times New Roman",serif}
+main{max-width:1100px;margin:auto;padding:30px 20px 72px}
+a{color:var(--accent)}
+h1{font-weight:500;font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.16;margin:12px 0}
+h2{font-size:1.25rem;margin:0 0 8px}
+p{margin:8px 0}
+.kicker, .mono, button, input, select, .pill, .meta{font-family:system-ui,-apple-system,BlinkMacSystemFont,Arial,sans-serif}
+.kicker{letter-spacing:.1em;text-transform:uppercase;font-size:.72rem;color:var(--sub)}
+.intro{color:var(--sub);max-width:780px}
+.panel{border:1px solid var(--line);border-radius:8px;background:var(--paper);padding:18px;margin:20px 0}
+.warning{border-left:3px solid var(--accent)}
+.controls{display:grid;grid-template-columns:minmax(230px,2fr) repeat(3,minmax(145px,1fr));gap:10px;margin:26px 0 12px}
+input,select{border:1px solid var(--line);background:var(--paper);color:var(--ink);padding:10px;width:100%;font-size:.92rem;min-width:0;border-radius:5px}
+#summary{color:var(--sub);font-family:system-ui,sans-serif;font-size:.9rem;margin:10px 0 18px}
+.section-title{border-bottom:1px solid var(--line);padding-bottom:9px;margin-top:32px}
+.card{border-bottom:1px solid var(--line);padding:15px 0 19px}
+.card h3{font-size:1.07rem;font-weight:600;margin:0 0 4px}
+.card .by{font-size:.91rem;color:var(--sub)}
+.meta{font-size:.82rem;color:var(--sub);margin-top:5px;display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+.pill{font-size:.73rem;border:1px solid var(--line);padding:2px 7px;border-radius:9px;white-space:nowrap}
+.note{font-size:.87rem;color:var(--sub);margin-top:8px}
+.card a.source{display:inline-block;margin-top:8px;font:600 .85rem system-ui,sans-serif;text-underline-offset:2px}
+.resource{font-size:.83rem;color:var(--sub)}
+.count-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.stat{border:1px solid var(--line);border-radius:6px;padding:12px;background:var(--paper)}
+.stat strong{font:500 1.65rem Georgia,serif;display:block}
+.stat span{font:.8rem system-ui,sans-serif;color:var(--sub)}
+footer{margin-top:32px;border-top:1px solid var(--line);padding-top:20px;color:var(--sub);font-size:.82rem}
+@media(max-width:850px){.controls{grid-template-columns:1fr 1fr}.controls input{grid-column:1/-1}}
+@media(max-width:540px){main{padding:22px 14px 55px}.controls{grid-template-columns:1fr}.controls input{grid-column:auto}.count-grid{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<main>
+<p class="kicker"><a href="./">Ecclesia Texts</a> / Acquisition research</p>
+<h1>Twentieth-Century &amp; Contemporary Theology</h1>
+<p class="intro">A source-linked research catalogue for modern theological literature. The historical division collects original works first published 1900–1930; the contemporary division tracks individual, explicitly licensed articles published 1931–2026.</p>
+<div class="panel warning" role="note">
+<strong>This is an acquisition registry, not a text collection.</strong>
+<p>No entry on this page is a claim that the book or article has been ingested into Ecclesia, proofread, cleared internationally, or made available for in-app reading. The main <a href="./">Ecclesia Texts catalogue</a> is the authoritative list of downloadable editions. A bibliography link does not establish a digitized source.</p>
+<p>Works first published by 1930 are generally public domain in the <strong>United States</strong>. Later editions, translations, editorial apparatus and local laws need their own review. Each contemporary article has an independently identified publication license; recheck it at import. <a href="https://guides.library.cornell.edu/copyright/publicdomain">Copyright guidance (Cornell)</a>.</p>
+</div>
+<div class="count-grid">
+ <div class="stat"><strong id="total">—</strong><span>Research records</span></div>
+ <div class="stat"><strong id="historical">—</strong><span>1900–1930 editions</span></div>
+ <div class="stat"><strong id="modern">—</strong><span>Contemporary articles</span></div>
+</div>
+<div class="controls">
+<input id="q" type="search" placeholder="Search author, title or notes…" aria-label="Search works">
+<select id="era" aria-label="Collection"><option value="">Both collections</option><option value="1900–1930">1900–1930 · Original editions</option><option value="1931–2026">1931–2026 · Contemporary Theology</option></select>
+<select id="tradition" aria-label="Tradition"><option value="">All traditions</option></select>
+<select id="source" aria-label="Source availability"><option value="">All source types</option><option value="transcription">Transcription located</option><option value="scan">Digitization located</option><option value="publisher_article">Publisher article</option><option value="bibliography">Bibliography only</option></select>
+</div>
+<p id="summary" role="status">Loading catalogued works…</p>
+<section aria-label="Catalogued works" id="results"></section>
+<footer>
+<p>Metadata: <a href="twentieth-century-catalogue.json">JSON catalogue</a>. Source types indicate research progress, not editorial approval. A scan does not imply the OCR is accurate; a CC license does not automatically cover every embedded image.</p>
+<p>Research batch: 10 November 2026. This is an intentionally incomplete initial acquisition list—not a comprehensive author bibliography. All records require an edition-level import audit.</p>
+</footer>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const fold=s=>String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+const label={transcription:"Text transcription found",scan:"Digitized edition found",publisher_article:"Licensed publisher article",bibliography:"Bibliography only"};
+const el=(tag,cls,content)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(content!==undefined)n.textContent=content;return n;};
+function card(w) {
+ const article=el("article","card");
+ article.append(el("h3","",w.title));
+ article.append(el("div","by",w.author+" · "+w.publicationYear));
+ const meta=el("div","meta");
+ for(const s of [w.tradition,w.originalLanguage,label[w.sourceClass],w.collection==="1900–1930"?"US public-domain original edition":"CC BY (recheck at ingest)"]) meta.append(el("span","pill",s));
+ article.append(meta);
+ if(w.notes)article.append(el("div","note",w.notes));
+ const link=el("a","source",w.sourceClass==="bibliography"?"View bibliography / search":"View edition / article source");
+ link.href=w.sourceUrl;link.target="_blank";link.rel="noopener noreferrer";article.append(link);
+ return article;
+}
+fetch("twentieth-century-catalogue.json").then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(data=>{
+ const all=data.entries;
+ $("total").textContent=all.length;
+ $("historical").textContent=all.filter(w=>w.collection==="1900–1930").length;
+ $("modern").textContent=all.filter(w=>w.collection!=="1900–1930").length;
+ [...new Set(all.map(w=>w.tradition))].sort().forEach(t=>{const o=new Option(t,t);$("tradition").add(o)});
+ const draw=()=>{
+  const words=fold($("q").value).split(/\s+/).filter(Boolean);
+  const era=$("era").value, tradition=$("tradition").value, source=$("source").value;
+  const filtered=all.filter(w=> (!era || w.collection.startsWith(era)) && (!tradition||w.tradition===tradition) && (!source||w.sourceClass===source) && words.every(x=>fold([w.author,w.title,w.notes,w.originalLanguage].join(" ")).includes(x)));
+  filtered.sort((a,b)=>a.author.localeCompare(b.author)||a.publicationYear-b.publicationYear||a.title.localeCompare(b.title));
+  const wrap=document.createDocumentFragment();
+  for(const [name,heading] of [["1900–1930","Original editions · 1900–1930"],["1931–2026","Contemporary Theology · licensed articles"]]){
+   const subset=filtered.filter(w=>w.collection.startsWith(name));
+   if(!subset.length)continue;
+   wrap.append(el("h2","section-title",heading));
+   for(const w of subset)wrap.append(card(w));
+  }
+  $("results").replaceChildren(wrap);
+  $("summary").textContent=filtered.length?"Showing "+filtered.length+" of "+all.length+" records.":"No matching records; try clearing filters.";
+ };
+ for(const id of ["q","era","tradition","source"])$(id).addEventListener(id==="q"?"input":"change",draw);
+ draw();
+}).catch(e=>$("summary").textContent="Could not load the research catalogue ("+e.message+"). Open the JSON link below instead.");
+</script>
+</body>
+</html>
