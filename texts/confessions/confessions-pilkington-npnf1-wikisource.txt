@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/The_Confessions_of_Saint_Augustine_(Pilkington)
 Retrieved: 2026-11-05 (source file 1182861 bytes, SHA-256 bcf1ce6ff4c5d5b8db16a67908c9229146859b8505a80ca0d2403eb0ae6e1e11)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1360}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -1398,7 +1398,7 @@ Ecclesia library, source 6700fbc4.
 
 [EXO.25.5] and rams' skins dyed red, and blue skins, and incorruptible wood,
 
-[EXO.25.NaN] and oil for the light, incense for anointing oil, and for the composition of incense,
+[EXO.25.6] and oil for the light, incense for anointing oil, and for the composition of incense,
 
 [EXO.25.7] and sardius stones, and stones for the carved work of the breast-plate, and the full-length robe.
 
@@ -1636,7 +1636,7 @@ Ecclesia library, source 6700fbc4.
 
 [EXO.28.29] And Aaron shall take the names of the children of Israel, on the oracle of judgment on his breast; a memorial before God for him as he goes into the sanctuary.
 
-[EXO.28.NaN] And thou shalt put the fringes on the oracle of judgment; thou shalt put the wreaths on both sides of the oracle,
+[EXO.28.29a] And thou shalt put the fringes on the oracle of judgment; thou shalt put the wreaths on both sides of the oracle,
 
 [EXO.28.30] and thou shalt put the two circlets on both the shoulders of the ephod in front. And thou shalt put the Manifestation and the Truth on the oracle of judgment; and it shall be on the breast of Aaron, when he goes into the holy place before the Lord; and Aaron shall bear the judgments of the children of Israel on his breast before the Lord continually.
 
@@ -2090,7 +2090,7 @@ Ecclesia library, source 6700fbc4.
 
 [EXO.35.12] and the ark of the testimony, and its staves, and its propitiatory, and the veil,
 
-[EXO.35.NaN] and the curtains of the court, and its posts, and the emerald stones, and the incense, and the anointing oil,
+[EXO.35.12a] and the curtains of the court, and its posts, and the emerald stones, and the incense, and the anointing oil,
 
 [EXO.35.13] and the table and all its furniture,
 

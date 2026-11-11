@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Num.xml
 Retrieved: 2026-11-05 (source file 1496830 bytes, SHA-256 02e4febfcc027d10b3e35e4f091eae67a40d26f37b6254faac6b4af053fe4896)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":88}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -192,33 +192,33 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.2.35] And the king appointed Banæas son of Jodae in his place over the host; and the kingdom was established in Jerusalem; and as for Sadoc the priest, the king appointed him to be high priest in the room of Abiathar. And Solomon son of David reigned over Israel and Juda in Jerusalem:
 
-[1KI.2.NaN] and the Lord gave understanding to Solomon, and very much wisdom, and largeness of heart, as the sand by the sea-shore.
+[1KI.2.35a] and the Lord gave understanding to Solomon, and very much wisdom, and largeness of heart, as the sand by the sea-shore.
 
-[1KI.2.NaNb] And the wisdom of Solomon abounded exceedingly beyond the wisdom of all the ancients, and beyond all the wise men of Egypt;
+[1KI.2.35b] And the wisdom of Solomon abounded exceedingly beyond the wisdom of all the ancients, and beyond all the wise men of Egypt;
 
-[1KI.2.NaNbb] and he took the daughter of Pharao, and brought her into the city of David, until he had finished building his own house, and the house of the Lord first, and the wall of Jerusalem round about. In seven years he made and finished them.
+[1KI.2.35c] and he took the daughter of Pharao, and brought her into the city of David, until he had finished building his own house, and the house of the Lord first, and the wall of Jerusalem round about. In seven years he made and finished them.
 
-[1KI.2.NaNbbb] And Solomon had seventy thousand bearers of burdens, and eighty thousand hewers of stone in the mountain:
+[1KI.2.35d] And Solomon had seventy thousand bearers of burdens, and eighty thousand hewers of stone in the mountain:
 
-[1KI.2.NaNbbbb] and Solomon made the sea, and the bases, and the great lavers, and the pillars, and the fountain of the court, and the brazen sea— and he built the citadel as a defence above it, he made a breach in the wall of the city of David;
+[1KI.2.35e] and Solomon made the sea, and the bases, and the great lavers, and the pillars, and the fountain of the court, and the brazen sea— and he built the citadel as a defence above it, he made a breach in the wall of the city of David;
 
-[1KI.2.NaNbbbbb] thus the daughter of Pharao went up out of the city of David to her house which he built for her. Then he built the citadel;
+[1KI.2.35f] thus the daughter of Pharao went up out of the city of David to her house which he built for her. Then he built the citadel;
 
-[1KI.2.NaNbbbbbb] and Solomon offered up three whole-burnt-offerings in the year, and peace-offerings on the altar which he built to the Lord, and he burnt incense before the Lord, and finished the house.
+[1KI.2.35g] and Solomon offered up three whole-burnt-offerings in the year, and peace-offerings on the altar which he built to the Lord, and he burnt incense before the Lord, and finished the house.
 
-[1KI.2.NaNbbbbbbb] And these are the chief persons who presided over the works of Solomon; three thousand and six hundred masters of the people that wrought the works.
+[1KI.2.35h] And these are the chief persons who presided over the works of Solomon; three thousand and six hundred masters of the people that wrought the works.
 
-[1KI.2.NaNbbbbbbbb] And he built Assur, and Magdo, and Gazer, and upper Bæthoron, and Ballath:
+[1KI.2.35i] And he built Assur, and Magdo, and Gazer, and upper Bæthoron, and Ballath:
 
-[1KI.2.NaNbbbbbbbbb] only after he had built the house of the Lord, and the wall of Jerusalem round about, afterwards he built these cities.
+[1KI.2.35k] only after he had built the house of the Lord, and the wall of Jerusalem round about, afterwards he built these cities.
 
-[1KI.2.NaNbbbbbbbbbb] And when David was yet living, he charged Solomon, saying, Behold, there is with thee Semei the son of Gera, of the seed of Benjamin out of Chebron:
+[1KI.2.35l] And when David was yet living, he charged Solomon, saying, Behold, there is with thee Semei the son of Gera, of the seed of Benjamin out of Chebron:
 
-[1KI.2.NaNbbbbbbbbbbb] he cursed me with a grievous curse in the day when I went into the camp;
+[1KI.2.35m] he cursed me with a grievous curse in the day when I went into the camp;
 
-[1KI.2.NaNbbbbbbbbbbbb] and he came down to meet me at Jordan, and I swore to him by the Lord, saying, He shall not be slain with the sword.
+[1KI.2.35n] and he came down to meet me at Jordan, and I swore to him by the Lord, saying, He shall not be slain with the sword.
 
-[1KI.2.NaNbbbbbbbbbbbbb] But now do not thou hold him guiltless, for thou art a man of understanding, and thou wilt know what thou shalt do to him, and thou shalt bring down his grey hairs with blood to the grave.
+[1KI.2.35o] But now do not thou hold him guiltless, for thou art a man of understanding, and thou wilt know what thou shalt do to him, and thou shalt bring down his grey hairs with blood to the grave.
 
 [1KI.2.36] And the king called Semei, and said to him, Build thee a house in Jerusalem, and dwell there, and thou shalt not go out thence any whither.
 
@@ -242,27 +242,27 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.2.46] And Solomon commanded Banæas the son of Jodae, and he went forth and slew him.
 
-[1KI.2.NaNbbbbbbbbbbbbbb] And king Solomon was very prudent and wise: and Juda and Israel were very many, as the sand which is by the sea for multitude, eating, and drinking, and rejoicing:
+[1KI.2.46a] And king Solomon was very prudent and wise: and Juda and Israel were very many, as the sand which is by the sea for multitude, eating, and drinking, and rejoicing:
 
-[1KI.2.NaNbbbbbbbbbbbbbbb] and Solomon was chief in all the kingdoms, and they brought gifts, and served Solomon all the days of his life.
+[1KI.2.46b] and Solomon was chief in all the kingdoms, and they brought gifts, and served Solomon all the days of his life.
 
-[1KI.2.NaNbbbbbbbbbbbbbbbb] And Solomon began to open the domains of Libanus,
+[1KI.2.46c] And Solomon began to open the domains of Libanus,
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbb] and he built Thermæ in the wilderness.
+[1KI.2.46d] and he built Thermæ in the wilderness.
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbb] And this was the daily provision of Solomon, thirty measures of fine flour, and sixty measures of ground meal, ten choice calves, and twenty oxen from the pastures, and a hundred sheep, besides stags, and does, and choice fed birds.
+[1KI.2.46e] And this was the daily provision of Solomon, thirty measures of fine flour, and sixty measures of ground meal, ten choice calves, and twenty oxen from the pastures, and a hundred sheep, besides stags, and does, and choice fed birds.
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbbb] For he ruled in all the country on this side the river, from Raphi unto Gaza, over all the kings on this side the river:
+[1KI.2.46f] For he ruled in all the country on this side the river, from Raphi unto Gaza, over all the kings on this side the river:
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbbbb] and he was at peace on all sides round about; and Juda and Israel dwelt safely, every one under his vine and under his fig tree, eating and drinking, and feasting, from Dan even to Bersabee, all the days of Solomon.
+[1KI.2.46g] and he was at peace on all sides round about; and Juda and Israel dwelt safely, every one under his vine and under his fig tree, eating and drinking, and feasting, from Dan even to Bersabee, all the days of Solomon.
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbbbbb] And these were the princes of Solomon; Azariu son of Sadoc the priest, and Orniu son of Nathan chief of the officers, and he went to his house; and Suba the scribe, and Basa son of Achithalam recorder, and Abi son of Joab commander-in-chief, and Achire son of Edrai was over the levies, and Banæas son of Jodae over the household and over the brickwork, and Cachur the son of Nathan was counsellor.
+[1KI.2.46h] And these were the princes of Solomon; Azariu son of Sadoc the priest, and Orniu son of Nathan chief of the officers, and he went to his house; and Suba the scribe, and Basa son of Achithalam recorder, and Abi son of Joab commander-in-chief, and Achire son of Edrai was over the levies, and Banæas son of Jodae over the household and over the brickwork, and Cachur the son of Nathan was counsellor.
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbbbbbb] And Solomon had forty thousand brood mares for his chariots, and twelve thousand horses.
+[1KI.2.46i] And Solomon had forty thousand brood mares for his chariots, and twelve thousand horses.
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbbbbbbb] And he reigned over all the kings from the river and to the land of the Philistines, and to the borders of Egypt:
+[1KI.2.46k] And he reigned over all the kings from the river and to the land of the Philistines, and to the borders of Egypt:
 
-[1KI.2.NaNbbbbbbbbbbbbbbbbbbbbbbbb] so Solomon the son of David reigned over Israel and Juda in Jerusalem.
+[1KI.2.46l] so Solomon the son of David reigned over Israel and Juda in Jerusalem.
 
 ## 1 Kings 3
 
@@ -382,9 +382,9 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.5.14] And all the nations came to hear the wisdom of Solomon, and ambassadors from all the kings of the earth, as many as heard of his wisdom.
 
-[1KI.5.NaN] And Solomon took to himself the daughter of Pharao to wife, and brought her into the city of David until he had finished the house of the Lord, and his own house, and the wall of Jerusalem.
+[1KI.5.14a] And Solomon took to himself the daughter of Pharao to wife, and brought her into the city of David until he had finished the house of the Lord, and his own house, and the wall of Jerusalem.
 
-[1KI.5.NaNb] Then went up Pharao the king of Egypt, and took Gazer, and burnt it and the Chananite dwelling in Mergab; and Pharao gave them as a dowry to his daughter the wife of Solomon: and Solomon rebuilt Gazer.
+[1KI.5.14b] Then went up Pharao the king of Egypt, and took Gazer, and burnt it and the Chananite dwelling in Mergab; and Pharao gave them as a dowry to his daughter the wife of Solomon: and Solomon rebuilt Gazer.
 
 [1KI.5.15] And Chiram king of Tyre sent his servants to anoint Solomon in the room of David his father, because Chiram always loved David.
 
@@ -424,13 +424,13 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.6.1] And it came to pass in the four hundred and fortieth year after the departure of the children of Israel out of Egypt, in the fourth year and second month of the reign of king Solomon over Israel,
 
-[1KI.6.NaN] that the king commanded that they should take great and costly stones for the foundation of the house, and hewn stones.
+[1KI.6.1a] that the king commanded that they should take great and costly stones for the foundation of the house, and hewn stones.
 
-[1KI.6.NaNb] And the men of Solomon, and the men of Chiram hewed the stones, and laid them for a foundation.
+[1KI.6.1b] And the men of Solomon, and the men of Chiram hewed the stones, and laid them for a foundation.
 
-[1KI.6.NaNbb] In the fourth year he laid the foundation of the house of the Lord, in the month Ziu, even in the second month.
+[1KI.6.1c] In the fourth year he laid the foundation of the house of the Lord, in the month Ziu, even in the second month.
 
-[1KI.6.NaNbbb] In the eleventh year, in the month Baal, this is the eighth month, the house was completed according to all its plan, and according to all its arrangement.
+[1KI.6.1d] In the eleventh year, in the month Baal, this is the eighth month, the house was completed according to all its plan, and according to all its arrangement.
 
 [1KI.6.2] And the house which the king built to the Lord was forty cubits in length, and twenty cubits in breadth, and its height five and twenty cubits.
 
@@ -488,7 +488,7 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.6.36] And he built the inner court, three rows of hewn stones, and a row of wrought cedar round about,
 
-[1KI.6.NaNbbbb] and he made the curtain of the court of the porch of the house that was in front of the temple.
+[1KI.6.36a] and he made the curtain of the court of the porch of the house that was in front of the temple.
 
 ## 1 Kings 7
 
@@ -696,7 +696,7 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.8.53] Because thou hast set them apart for an inheritance to thyself out of all the nations of the earth, as thou spokest by the hand of thy servant Moses, when thou broughtest our fathers out of the land of Egypt, O Lord God.—
 
-[1KI.8.NaN] Then spoke Solomon concerning the house, when he had finished building it—He manifested the sun in the heaven: the Lord said he would dwell in darkness: build thou my house, a beautiful house for thyself to dwell in anew. Behold, is not this written in the book of the song?
+[1KI.8.53a] Then spoke Solomon concerning the house, when he had finished building it—He manifested the sun in the heaven: the Lord said he would dwell in darkness: build thou my house, a beautiful house for thyself to dwell in anew. Behold, is not this written in the book of the song?
 
 [1KI.8.54] And it came to pass when Solomon had finished praying to the Lord all this prayer and supplication, that he rose up from before the altar of the Lord, after having knelt upon his knees, and his hands were spread out towards heaven.
 
@@ -744,7 +744,7 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.9.9] And men shall say, Because they forsook the Lord their God, who brought out their fathers from Egypt, out of the house of bondage, and they attached themselves to strange gods, and worshipped them, and served them: therefore the Lord has brought this evil upon them.
 
-[1KI.9.NaN] Then Solomon brought up the daughter of Pharao out of the city of David into his house which he built for himself in those days.
+[1KI.9.9a] Then Solomon brought up the daughter of Pharao out of the city of David into his house which he built for himself in those days.
 
 [1KI.9.10] During twenty years in which Solomon was building the two houses, the house of the Lord, and the house of the king,
 
@@ -808,11 +808,11 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.10.22] For Solomon had a ship of Tharsis in the sea with the ships of Chiram: one ship came to the king every three years out of Tharsis, laden with gold and silver, and wrought stones, and hewn stones.
 
-[1KI.10.NaN] This was the arrangement of the provision which king Solomon fetched to build the house of the Lord, and the house of the king, and the wall of Jerusalem, and the citadel; to fortify the city of David, and Assur, and Magdal, and Gazer, and Bæthoron the upper, and Jethermath, and all the cities of the chariots, and all the cities of the horsemen, and the fortification of Solomon which he purposed to build in Jerusalem and in all the land,
+[1KI.10.22a] This was the arrangement of the provision which king Solomon fetched to build the house of the Lord, and the house of the king, and the wall of Jerusalem, and the citadel; to fortify the city of David, and Assur, and Magdal, and Gazer, and Bæthoron the upper, and Jethermath, and all the cities of the chariots, and all the cities of the horsemen, and the fortification of Solomon which he purposed to build in Jerusalem and in all the land,
 
-[1KI.10.NaNb] so that none of the people should rule over him that was left of the Chettite and the Amorite, and the Pherezite, and the Chananite, and the Evite, and the Jebusite, and the Gergesite, who were not of the children of Israel, their descendants who had been left with him in the land, whom the children of Israel could not utterly destroy; and Solomon made them tributaries until this day.
+[1KI.10.22b] so that none of the people should rule over him that was left of the Chettite and the Amorite, and the Pherezite, and the Chananite, and the Evite, and the Jebusite, and the Gergesite, who were not of the children of Israel, their descendants who had been left with him in the land, whom the children of Israel could not utterly destroy; and Solomon made them tributaries until this day.
 
-[1KI.10.NaNbb] But of the children of Israel Solomon made nothing; for they were the warriors, and his servants and rulers, and captains of the third order, and the captains of his chariots, and his horsemen.
+[1KI.10.22c] But of the children of Israel Solomon made nothing; for they were the warriors, and his servants and rulers, and captains of the third order, and the captains of his chariots, and his horsemen.
 
 [1KI.10.23] And Solomon increased beyond all the kings of the earth in wealth and wisdom.
 
@@ -822,7 +822,7 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.10.26] And Solomon had four thousand mares for his chariots, and twelve thousand horsemen: and he put them in the cities of his chariots, and with the king in Jerusalem:
 
-[1KI.10.NaNbbb] and he ruled over all the kings from the river to the land of the Philistines, and to the borders of Egypt.
+[1KI.10.26a] and he ruled over all the kings from the river to the land of the Philistines, and to the borders of Egypt.
 
 [1KI.10.27] And the king made gold and silver in Jerusalem as stones, and he made cedars as the sycamores in the plain for multitude.
 
@@ -956,51 +956,51 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.12.24] Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
-[1KI.12.NaN] So king Solomon sleeps with his fathers, and is buried with his fathers in the city of David; and Roboam his son reigned in his stead in Jerusalem, being sixteen years old when he began to reign, and he reigned twelve years in Jerusalem: and his mother's name was Naanan, daughter of Ana son of Naas king of the children of Ammon. And he did that which was evil in the sight of the Lord, and walked not in the way of David his father.
+[1KI.12.24a] So king Solomon sleeps with his fathers, and is buried with his fathers in the city of David; and Roboam his son reigned in his stead in Jerusalem, being sixteen years old when he began to reign, and he reigned twelve years in Jerusalem: and his mother's name was Naanan, daughter of Ana son of Naas king of the children of Ammon. And he did that which was evil in the sight of the Lord, and walked not in the way of David his father.
 
-[1KI.12.NaNb] And there was a man of mount Ephraim, a servant to Solomon, and his name was Jeroboam; and the name of his mother was Sarira, a harlot; and Solomon made him head of the levies of the house of Joseph: and he built for Solomon Sarira in mount Ephraim; and he had three hundred chariots of horses: he built the citadel with the levies of the house of Ephraim; he fortified the city of David, and aspired to the kingdom.
+[1KI.12.24b] And there was a man of mount Ephraim, a servant to Solomon, and his name was Jeroboam; and the name of his mother was Sarira, a harlot; and Solomon made him head of the levies of the house of Joseph: and he built for Solomon Sarira in mount Ephraim; and he had three hundred chariots of horses: he built the citadel with the levies of the house of Ephraim; he fortified the city of David, and aspired to the kingdom.
 
-[1KI.12.NaNbb] And Solomon sought to kill him; and he was afraid, and escaped to Susakim king of Egypt, and was with him until Solomon died.
+[1KI.12.24c] And Solomon sought to kill him; and he was afraid, and escaped to Susakim king of Egypt, and was with him until Solomon died.
 
-[1KI.12.NaNbbb] And Jeroboam heard in Egypt that Solomon was dead; and he spoke in the ears of Susakim king of Egypt, saying, Let me go, and I will depart into my land; and Susakim said to him, Ask any request, and I will grant it thee.
+[1KI.12.24d] And Jeroboam heard in Egypt that Solomon was dead; and he spoke in the ears of Susakim king of Egypt, saying, Let me go, and I will depart into my land; and Susakim said to him, Ask any request, and I will grant it thee.
 
-[1KI.12.NaNbbbb] And Susakim gave to Jeroboam Ano the eldest sister of Thekemina his wife, to be his wife: she was great among the daughters of the king, and she bore to Jeroboam Abia his son:
+[1KI.12.24e] And Susakim gave to Jeroboam Ano the eldest sister of Thekemina his wife, to be his wife: she was great among the daughters of the king, and she bore to Jeroboam Abia his son:
 
-[1KI.12.NaNbbbbb] and Jeroboam said to Susakim, Let me indeed go, and I will depart. And Jeroboam departed out of Egypt, and came into the land of Sarira that was in mount Ephraim, and thither the whole tribe of Ephraim assembles, and Jeroboam built a fortress there.
+[1KI.12.24f] and Jeroboam said to Susakim, Let me indeed go, and I will depart. And Jeroboam departed out of Egypt, and came into the land of Sarira that was in mount Ephraim, and thither the whole tribe of Ephraim assembles, and Jeroboam built a fortress there.
 
-[1KI.12.NaNbbbbbb] And his young child was sick with a very severe sickness; and Jeroboam went to enquire concerning the child: and he said to Ano his wife, Arise, go, enquire of God concerning the child, whether he shall recover from his sickness.
+[1KI.12.24g] And his young child was sick with a very severe sickness; and Jeroboam went to enquire concerning the child: and he said to Ano his wife, Arise, go, enquire of God concerning the child, whether he shall recover from his sickness.
 
-[1KI.12.NaNbbbbbbb] Now there was a man in Selom, and his name was Achia: and he was sixty years old, and the word of the Lord was with him. And Jeroboam said to his wife, Arise, and take in thine hand loaves for the man of God, and cakes for his children, and grapes, and a pot of honey.
+[1KI.12.24h] Now there was a man in Selom, and his name was Achia: and he was sixty years old, and the word of the Lord was with him. And Jeroboam said to his wife, Arise, and take in thine hand loaves for the man of God, and cakes for his children, and grapes, and a pot of honey.
 
-[1KI.12.NaNbbbbbbbb] And the woman arose, and took in her hand bread, and two cakes, and grapes, and a pot of honey, for Achia: and the man was old, and his eyes were dim, so that he could not see.
+[1KI.12.24i] And the woman arose, and took in her hand bread, and two cakes, and grapes, and a pot of honey, for Achia: and the man was old, and his eyes were dim, so that he could not see.
 
-[1KI.12.NaNbbbbbbbbb] And she arose up from Sarira and went; and it came to pass when she had come into the city to Achia the Selonite, that Achia said to his servant, Go out now to meet Ano the wife of Jeroboam, and thou shalt say to her, Come in, and stand not still: for thus saith the Lord, I send grievous tidings to thee.
+[1KI.12.24k] And she arose up from Sarira and went; and it came to pass when she had come into the city to Achia the Selonite, that Achia said to his servant, Go out now to meet Ano the wife of Jeroboam, and thou shalt say to her, Come in, and stand not still: for thus saith the Lord, I send grievous tidings to thee.
 
-[1KI.12.NaNbbbbbbbbbb] And Ano went in to the man of God; and Achia said to her, Why hast thou brought me bread and grapes, and cakes, and a pot of honey? Thus saith the Lord, Behold, thou shalt depart from me, and it shall come to pass when thou hast entered into the city, even into Sarira, that thy maidens shall come out to meet thee, and shall say to thee, The child is dead:
+[1KI.12.24l] And Ano went in to the man of God; and Achia said to her, Why hast thou brought me bread and grapes, and cakes, and a pot of honey? Thus saith the Lord, Behold, thou shalt depart from me, and it shall come to pass when thou hast entered into the city, even into Sarira, that thy maidens shall come out to meet thee, and shall say to thee, The child is dead:
 
-[1KI.12.NaNbbbbbbbbbbb] for thus saith the Lord, Behold, I will destroy every male of Jeroboam, and there shall be the dead of Jeroboam in the city, them the dogs shall eat, and him that has died in the field shall the birds of the air eat, and he shall lament for the child, saying, Woe is me, Lord! for there has been found in him some good thing touching the Lord.
+[1KI.12.24m] for thus saith the Lord, Behold, I will destroy every male of Jeroboam, and there shall be the dead of Jeroboam in the city, them the dogs shall eat, and him that has died in the field shall the birds of the air eat, and he shall lament for the child, saying, Woe is me, Lord! for there has been found in him some good thing touching the Lord.
 
-[1KI.12.NaNbbbbbbbbbbbb] And the woman departed, when she heard this: and it came to pass as she entered into Sarira, that the child died; and there came forth a wailing to meet her. And Jeroboam went to Sikima in mount Ephraim, and assembled there the tribes of Israel; and Roboam the son of Solomon went up thither.
+[1KI.12.24n] And the woman departed, when she heard this: and it came to pass as she entered into Sarira, that the child died; and there came forth a wailing to meet her. And Jeroboam went to Sikima in mount Ephraim, and assembled there the tribes of Israel; and Roboam the son of Solomon went up thither.
 
-[1KI.12.NaNbbbbbbbbbbbbb] And the word of the Lord came to Samaias son of Enlami, saying, Take to thyself a new garment which has not gone into the water, and rend it into twelve pieces; and thou shalt give some to Jeroboam, and shalt say to him, Thus saith the Lord, Take to thyself ten pieces to cover thee: and Jeroboam took them: and Samaias said, Thus saith the Lord concerning the ten tribes of Israel.
+[1KI.12.24o] And the word of the Lord came to Samaias son of Enlami, saying, Take to thyself a new garment which has not gone into the water, and rend it into twelve pieces; and thou shalt give some to Jeroboam, and shalt say to him, Thus saith the Lord, Take to thyself ten pieces to cover thee: and Jeroboam took them: and Samaias said, Thus saith the Lord concerning the ten tribes of Israel.
 
-[1KI.12.NaNbbbbbbbbbbbbbb] And the people said to Roboam the son of Solomon, Thy father made his yoke heavy upon us, and made the meat of his table heavy; and now thou shalt lighten them upon us, and we will serve thee.
+[1KI.12.24p] And the people said to Roboam the son of Solomon, Thy father made his yoke heavy upon us, and made the meat of his table heavy; and now thou shalt lighten them upon us, and we will serve thee.
 
-[1KI.12.NaNbbbbbbbbbbbbbbb] And Roboam said to the people, Wait three days, and I will return you an answer: and Roboam said, Bring in to me the elders, and I will take counsel with them what I shall answer to the people on the third day. So Roboam spoke in their ears, as the people sent to him to say: and the elders of the people said, Thus the people have spoken to thee.
+[1KI.12.24q] And Roboam said to the people, Wait three days, and I will return you an answer: and Roboam said, Bring in to me the elders, and I will take counsel with them what I shall answer to the people on the third day. So Roboam spoke in their ears, as the people sent to him to say: and the elders of the people said, Thus the people have spoken to thee.
 
-[1KI.12.NaNbbbbbbbbbbbbbbbb] And Roboam rejected their counsel, and it pleased him not: and he sent and brought in those who had been brought up with him; and he said to them, Thus and thus has the people sent to me to say: and they that had been brought up with him said, Thus shalt thou speak to the people, saying, My little finger shall be thicker than my father's loins; my father scourged you with whips, but I will rule you with scorpions.
+[1KI.12.24r] And Roboam rejected their counsel, and it pleased him not: and he sent and brought in those who had been brought up with him; and he said to them, Thus and thus has the people sent to me to say: and they that had been brought up with him said, Thus shalt thou speak to the people, saying, My little finger shall be thicker than my father's loins; my father scourged you with whips, but I will rule you with scorpions.
 
-[1KI.12.NaNbbbbbbbbbbbbbbbbb] And the saying pleased Roboam, and he answered the people as the young men, they that were brought up with him, counselled him:
+[1KI.12.24s] And the saying pleased Roboam, and he answered the people as the young men, they that were brought up with him, counselled him:
 
-[1KI.12.NaNbbbbbbbbbbbbbbbbbb] and all the people spoke as one man, every one to his neighbour, and they cried out all together, saying, We have no part in David, nor inheritance in the son of Jessæ: to thy tents, O Israel, every one; for this man is not for a prince or a ruler over us.
+[1KI.12.24t] and all the people spoke as one man, every one to his neighbour, and they cried out all together, saying, We have no part in David, nor inheritance in the son of Jessæ: to thy tents, O Israel, every one; for this man is not for a prince or a ruler over us.
 
-[1KI.12.NaNbbbbbbbbbbbbbbbbbbb] And all the people was dispersed from Sikima, and they departed every one to his tent: and Roboam strengthened himself and departed, and mounted his chariot, and entered into Jerusalem: and there follow him the whole tribe of Juda, and the whole tribe of Benjamin.
+[1KI.12.24u] And all the people was dispersed from Sikima, and they departed every one to his tent: and Roboam strengthened himself and departed, and mounted his chariot, and entered into Jerusalem: and there follow him the whole tribe of Juda, and the whole tribe of Benjamin.
 
-[1KI.12.NaNbbbbbbbbbbbbbbbbbbbb] And it came to pass at the beginning of the year, that Roboam gathered all the men of Juda and Benjamin, and went up to fight with Jeroboam at Sikima.
+[1KI.12.24x] And it came to pass at the beginning of the year, that Roboam gathered all the men of Juda and Benjamin, and went up to fight with Jeroboam at Sikima.
 
-[1KI.12.NaNbbbbbbbbbbbbbbbbbbbbb] And the word of the Lord came to Samæas the man of God, saying, Speak to Roboam king of Juda, and to all the house of Juda and Benjamin, and to the remnant of the people, saying, Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return every man to his house, for this thing is from me.
+[1KI.12.24y] And the word of the Lord came to Samæas the man of God, saying, Speak to Roboam king of Juda, and to all the house of Juda and Benjamin, and to the remnant of the people, saying, Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return every man to his house, for this thing is from me.
 
-[1KI.12.NaNbbbbbbbbbbbbbbbbbbbbbb] And they hearkened to the word of the Lord, and forbore to go up, according to the word of the Lord.
+[1KI.12.24z] And they hearkened to the word of the Lord, and forbore to go up, according to the word of the Lord.
 
 [1KI.12.25] And Jeroboam built Sikima in mount Ephraim and dwelt in it, and went forth thence and built Phanuel.
 
@@ -1236,21 +1236,21 @@ Ecclesia library, source 6700fbc4.
 
 [1KI.16.28] And Ambri slept with his fathers, and is buried in Samaria; and Achaab his son reigns in his stead.
 
-[1KI.16.NaN] And in the eleventh year of Ambri Josaphat the son of Asa reigns, being thirty-five years old in the beginning of his reign, and he reigned twenty-five years in Jerusalem: and his mother's name was Gazuba, daughter of Seli.
+[1KI.16.28a] And in the eleventh year of Ambri Josaphat the son of Asa reigns, being thirty-five years old in the beginning of his reign, and he reigned twenty-five years in Jerusalem: and his mother's name was Gazuba, daughter of Seli.
 
-[1KI.16.NaNb] And he walked in the way of Asa his father, and turned not from it, even from doing right in the eyes of the Lord: only they removed not any of the high places; they sacrificed and burnt incense on the high places.
+[1KI.16.28b] And he walked in the way of Asa his father, and turned not from it, even from doing right in the eyes of the Lord: only they removed not any of the high places; they sacrificed and burnt incense on the high places.
 
-[1KI.16.NaNbb] Now the engagements which Josaphat made with the king of Israel, and all his mighty deeds which he performed, and the enemies whom he fought against, behold, are not these written in the book of the chronicles of the kings of Juda?
+[1KI.16.28c] Now the engagements which Josaphat made with the king of Israel, and all his mighty deeds which he performed, and the enemies whom he fought against, behold, are not these written in the book of the chronicles of the kings of Juda?
 
-[1KI.16.NaNbbb] and the remains of the prostitution which they practised in the days of Asa his father, he removed out of the land:
+[1KI.16.28d] and the remains of the prostitution which they practised in the days of Asa his father, he removed out of the land:
 
-[1KI.16.NaNbbbb] and there was no king in Syria, but a deputy.
+[1KI.16.28e] and there was no king in Syria, but a deputy.
 
-[1KI.16.NaNbbbbb] And king Josaphat made a ship at Tharsis to go to Sophir for gold; but it went not, for the ship was broken at Gasion Gaber.
+[1KI.16.28f] And king Josaphat made a ship at Tharsis to go to Sophir for gold; but it went not, for the ship was broken at Gasion Gaber.
 
-[1KI.16.NaNbbbbbb] Then the king of Israel said to Josaphat, I will send forth thy servants and my servants in the ship: but Josaphat would not.
+[1KI.16.28g] Then the king of Israel said to Josaphat, I will send forth thy servants and my servants in the ship: but Josaphat would not.
 
-[1KI.16.NaNbbbbbbb] And Josaphat slept with his fathers, and is buried with his fathers in the city of David: and Joram his son reigned in his stead.
+[1KI.16.28h] And Josaphat slept with his fathers, and is buried with his fathers in the city of David: and Joram his son reigned in his stead.
 
 [1KI.16.29] In the second year of Josaphat king of Juda, Achaab son of Ambri reigned over Israel in Samaria twenty-two years.
 

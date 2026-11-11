@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -140,27 +140,27 @@ Ecclesia library, source 6700fbc4.
 
 [TOB.4.7] Give alms of thy substance; and when thou givest alms, let not thine eye be envious, neither turn thy face from any poor, and the face of God shall not be turned away from thee.
 
-[TOB.4.NaN] If thou hast abundance, give alms accordingly: if thou have but a little, be not afraid to give according to that little:
+[TOB.4.8] If thou hast abundance, give alms accordingly: if thou have but a little, be not afraid to give according to that little:
 
-[TOB.4.NaNb] for thou layest up a good treasure for thyself against the day of necessity.
+[TOB.4.9] for thou layest up a good treasure for thyself against the day of necessity.
 
-[TOB.4.NaNbb] Because that alms do deliver from death, and suffereth not to come into darkness.
+[TOB.4.10] Because that alms do deliver from death, and suffereth not to come into darkness.
 
-[TOB.4.NaNbbb] For alms is a good gift unto all that give it in the sight of the most High.
+[TOB.4.11] For alms is a good gift unto all that give it in the sight of the most High.
 
-[TOB.4.NaNbbbb] Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father's tribe: for we are the children of the prophets, Noe, Abraham, Isaac, and Jacob. Remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred, and were blessed in their children, and their seed shall inherit the land.
+[TOB.4.12] Beware of all whoredom, my son, and chiefly take a wife of the seed of thy fathers, and take not a strange woman to wife, which is not of thy father's tribe: for we are the children of the prophets, Noe, Abraham, Isaac, and Jacob. Remember, my son, that our fathers from the beginning, even that they all married wives of their own kindred, and were blessed in their children, and their seed shall inherit the land.
 
-[TOB.4.NaNbbbbb] Now therefore, my son, love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble, and in lewdness is decay and great want: for lewdness is the mother of famine.
+[TOB.4.13] Now therefore, my son, love thy brethren, and despise not in thy heart thy brethren, the sons and daughters of thy people, in not taking a wife of them: for in pride is destruction and much trouble, and in lewdness is decay and great want: for lewdness is the mother of famine.
 
-[TOB.4.NaNbbbbbb] Let not the wages of any man, which hath wrought for thee, tarry with thee, but give him it out of hand: for if thou serve God, he will also repay thee: be circumspect, my son, in all things thou doest, and be wise in all thy conversation.
+[TOB.4.14] Let not the wages of any man, which hath wrought for thee, tarry with thee, but give him it out of hand: for if thou serve God, he will also repay thee: be circumspect, my son, in all things thou doest, and be wise in all thy conversation.
 
-[TOB.4.NaNbbbbbbb] Do that to no man which thou hatest: drink not wine to make thee drunken: neither let drunkenness go with thee in thy journey.
+[TOB.4.15] Do that to no man which thou hatest: drink not wine to make thee drunken: neither let drunkenness go with thee in thy journey.
 
-[TOB.4.NaNbbbbbbbb] Give of thy bread to the hungry, and of thy garments to them that are naked; and according to thine abundance give alms; and let not thine eye be envious, when thou givest alms.
+[TOB.4.16] Give of thy bread to the hungry, and of thy garments to them that are naked; and according to thine abundance give alms; and let not thine eye be envious, when thou givest alms.
 
-[TOB.4.NaNbbbbbbbbb] Pour out thy bread on the burial of the just, but give nothing to the wicked.
+[TOB.4.17] Pour out thy bread on the burial of the just, but give nothing to the wicked.
 
-[TOB.4.NaNbbbbbbbbbb] Ask counsel of all that are wise, and despise not any counsel that is profitable.
+[TOB.4.18] Ask counsel of all that are wise, and despise not any counsel that is profitable.
 
 [TOB.4.19] Bless the Lord thy God alway, and desire of him that thy ways may be directed, and that all thy paths and counsels may prosper: for every nation hath not counsel; but the Lord himself giveth all good things, and he humbleth whom he will, as he will; now therefore, my son, remember my commandments, neither let them be put out of thy mind.
 
@@ -476,11 +476,11 @@ Ecclesia library, source 6700fbc4.
 
 [TOB.13.7] I will extol my God, and my soul shall praise the King of heaven, and shall rejoice in his greatness.
 
-[TOB.13.NaN] Let all men speak, and let all praise him for his righteousness.
+[TOB.13.8] Let all men speak, and let all praise him for his righteousness.
 
-[TOB.13.NaNb] O Jerusalem, the holy city, he will scourge thee for thy children's works, and will have mercy again on the sons of the righteous.
+[TOB.13.9] O Jerusalem, the holy city, he will scourge thee for thy children's works, and will have mercy again on the sons of the righteous.
 
-[TOB.13.NaNbb] Give praise to the Lord, for he is good: and praise the everlasting King, that his tabernacle may be builded in thee again with joy, and let him make joyful there in thee those that are captives, and love in thee for ever those that are miserable.
+[TOB.13.10] Give praise to the Lord, for he is good: and praise the everlasting King, that his tabernacle may be builded in thee again with joy, and let him make joyful there in thee those that are captives, and love in thee for ever those that are miserable.
 
 [TOB.13.11] Many nations shall come from far to the name of the Lord God with gifts in their hands, even gifts to the King of heaven; all generations shall praise thee with great joy.
 

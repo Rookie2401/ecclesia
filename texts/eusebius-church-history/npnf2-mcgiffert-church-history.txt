@@ -6,13 +6,13 @@ Credit: The Church History of Eusebius, in A Select Library of the Nicene and Po
 Licence: CC BY-SA 4.0 (https://en.wikisource.org/wiki/Wikisource:Copyright_policy)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Church_History_of_Eusebius
-Retrieved: 2026-11-05 (source file 3085323 bytes, SHA-256 cc27da32fb3b21d1603726236fdf8596807e5d39afd8415a0f1b7f4279cf61b1)
+Retrieved: 2026-11-10 (source file 3085323 bytes, SHA-256 cc27da32fb3b21d1603726236fdf8596807e5d39afd8415a0f1b7f4279cf61b1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":2985,"unclosedTemplate":1}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
-## p1
+## Title Page
 
 [p1.1] the church history of eusebius.
 
@@ -24,7 +24,7 @@ Ecclesia library, source 6700fbc4.
 
 [p1.5] professor of church history in lane theological seminary, cincinnati
 
-## p2
+## Preface
 
 [p2.1] Preface.
 
@@ -42,7 +42,7 @@ Ecclesia library, source 6700fbc4.
 
 [p2.8] April 15, 1890.
 
-## p3
+## Testimonies of the Ancients in Favor of Eusebius
 
 [p3.1] Testimonies of the Ancients in Favor of Eusebius.
 
@@ -270,7 +270,7 @@ Ecclesia library, source 6700fbc4.
 
 [p3.113] “Eusebius Pamphili was also a Palestinian by birth, but as he himself says, he sojourned for quite a long time in Egypt. He was a very learned man, and it is evident indeed that he published many books, and that he used language thus.”
 
-## p4
+## Testimonies of the Ancients Against Eusebius
 
 [p4.1] Testimonies of the Ancients Against Eusebius.
 
@@ -1096,7 +1096,7 @@ Ecclesia library, source 6700fbc4.
 
 [1.13.20.2] I have inserted them here in their proper place, translated from the Syriac literally, and I hope to good purpose.
 
-## 2.p1
+## Introduction
 
 [2.p1.1] Book II.
 
@@ -1210,7 +1210,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.3.4.1] 4. And Agabus, one of the prophets who was with them, uttered a prophecy concerning the famine which was about to take place, and Paul and Barnabas were sent to relieve the necessities of the brethren.
 
-## 2.4
+## Chapter 4
 
 [2.4.1] Chapter IV.—After the Death of Tiberius, Caius appointed Agrippa King of the Jews, having punished Herod with Perpetual Exile.
 
@@ -1286,13 +1286,13 @@ Ecclesia library, source 6700fbc4.
 
 [2.6.8.1] 8. In addition to these the same author records many other tumults which were stirred up in Jerusalem itself, and shows that from that time seditions and wars and mischievous plots followed each other in quick succession, and never ceased in the city and in all Judea until finally the siege of Vespasian overwhelmed them. Thus the divine vengeance overtook the Jews for the crimes which they dared to commit against Christ.
 
-## 2.7
+## Chapter 7
 
 [2.7.1] Chapter VII.—Pilate’s Suicide.
 
 [2.7.2] It is worthy of note that Pilate himself, who was governor in the time of our Saviour, is reported to have fallen into such misfortunes under Caius, whose times we are recording, that he was forced to become his own murderer and executioner; and thus divine vengeance, as it seems, was not long in overtaking him. This is stated by those Greek historians who have recorded the Olympiads, together with the respective events which have taken place in each period.
 
-## 2.8
+## Chapter 8
 
 [2.8.1] Chapter VIII.—The Famine which took Place in the Reign of Claudius.
 
@@ -1460,7 +1460,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.14.6.1] 6. But this did not last long. For immediately, during the reign of Claudius, the all-good and gracious Providence, which watches over all things, led Peter, that strongest and greatest of the apostles, and the one who on account of his virtue was the speaker for all the others, to Rome against this great corrupter of life. He like a noble commander of God, clad in divine armor, carried the costly merchandise of the light of the understanding from the East to those who dwelt in the West, proclaiming the light itself, and the word which brings salvation to souls, and preaching the kingdom of heaven.
 
-## 2.15
+## Chapter 15
 
 [2.15.1] Chapter XV.—The Gospel according to Mark.
 
@@ -1468,7 +1468,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.15.3] 2. And they say that Peter when he had learned, through a revelation of the Spirit, of that which had been done, was pleased with the zeal of the men, and that the work obtained the sanction of his authority for the purpose of being used in the churches. Clement in the eighth book of his Hypotyposes gives this account, and with him agrees the bishop of Hierapolis named Papias. And Peter makes mention of Mark in his first epistle which they say that he wrote in Rome itself, as is indicated by him, when he calls the city, by a figure, Babylon, as he does in the following words: “The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.”
 
-## 2.16
+## Chapter 16
 
 [2.16.1] Chapter XVI.—Mark first proclaimed Christianity to the Inhabitants of Egypt.
 
@@ -1618,7 +1618,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.18.9.1] 9. At this time, while Paul was completing his journey “from Jerusalem and round about unto Illyricum,” Claudius drove the Jews out of Rome; and Aquila and Priscilla, leaving Rome with the other Jews, came to Asia, and there abode with the apostle Paul, who was confirming the churches of that region whose foundations he had newly laid. The sacred book of the Acts informs us also of these things.
 
-## 2.19
+## Chapter 19
 
 [2.19.1] Chapter XIX.—The Calamity which befell the Jews in Jerusalem on the Day of the Passover.
 
@@ -1810,7 +1810,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.23.25.1] 25. These things are recorded in regard to James, who is said to be the author of the first of the so-called catholic epistles. But it is to be observed that it is disputed; at least, not many of the ancients have mentioned it, as is the case likewise with the epistle that bears the name of Jude, which is also one of the seven so-called catholic epistles. Nevertheless we know that these also, with the rest, have been read publicly in very many churches.
 
-## 2.24
+## Chapter 24
 
 [2.24.1] Chapter XXIV.—Annianus the First Bishop of the Church of Alexandria after Mark.
 
@@ -1852,7 +1852,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.25.8.1] 8. And that they both suffered martyrdom at the same time is stated by Dionysius, bishop of Corinth, in his epistle to the Romans, in the following words: “You have thus by such an admonition bound together the planting of Peter and of Paul at Rome and Corinth. For both of them planted and likewise taught us in our Corinth. And they taught together in like manner in Italy, and suffered martyrdom at the same time.” I have quoted these things in order that the truth of the history might be still more confirmed.
 
-## 2.26
+## Chapter 26
 
 [2.26.1] Chapter XXVI.—The Jews, afflicted with Innumerable Evils, commenced the Last War Against the Romans.
 
@@ -1860,7 +1860,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.26.3] 2. Josephus says that at that time a terrible commotion was stirred up throughout all Syria in consequence of the revolt of the Jews, and that everywhere the latter were destroyed without mercy, like enemies, by the inhabitants of the cities, “so that one could see cities filled with unburied corpses, and the dead bodies of the aged scattered about with the bodies of infants, and women without even a covering for their nakedness, and the whole province full of indescribable calamities, while the dread of those things that were threatened was greater than the sufferings themselves which they anywhere endured.” Such is the account of Josephus; and such was the condition of the Jews at that time.
 
-## 3.1
+## Chapter 1
 
 [3.1.1] Book III.
 
@@ -1870,7 +1870,7 @@ Ecclesia library, source 6700fbc4.
 
 [3.1.4] 2. Peter appears to have preached in Pontus, Galatia, Bithynia, Cappadocia, and Asia to the Jews of the dispersion. And at last, having come to Rome, he was crucified head-downwards; for he had requested that he might suffer in this way. What do we need to say concerning Paul, who preached the Gospel of Christ from Jerusalem to Illyricum, and afterwards suffered martyrdom in Rome under Nero? These facts are related by Origen in the third volume of his Commentary on Genesis.
 
-## 3.2
+## Chapter 2
 
 [3.2.1] Chapter II.—The First Ruler of the Church of Rome.
 
@@ -2290,7 +2290,7 @@ Ecclesia library, source 6700fbc4.
 
 [3.10.11.1] 11. For the Emperor Titus desired so much that the knowledge of the events should be communicated to men by my history alone, that he indorsed the books with his own hand and commanded that they should be published. And King Agrippa wrote sixty-two epistles testifying to the truthfulness of my account.” Of these epistles Josephus subjoins two. But this will suffice in regard to him. Let us now proceed with our history.
 
-## 3.11
+## Chapter 11
 
 [3.11.1] Chapter XI.—Symeon rules the Church of Jerusalem after James.
 
@@ -2298,37 +2298,37 @@ Ecclesia library, source 6700fbc4.
 
 [3.11.3] 2. They all with one consent pronounced Symeon, the son of Clopas, of whom the Gospel also makes mention; to be worthy of the episcopal throne of that parish. He was a cousin, as they say, of the Saviour. For Hegesippus records that Clopas was a brother of Joseph.
 
-## 3.12
+## Chapter 12
 
 [3.12.1] Chapter XII.—Vespasian commands the Descendants of David to be sought.
 
 [3.12.2] He also relates that Vespasian after the conquest of Jerusalem gave orders that all that belonged to the lineage of David should be sought out, in order that none of the royal race might be left among the Jews; and in consequence of this a most terrible persecution again hung over the Jews.
 
-## 3.13
+## Chapter 13
 
 [3.13.1] Chapter XIII.—Anencletus, the Second Bishop of Rome.
 
 [3.13.2] After Vespasian had reigned ten years Titus, his son, succeeded him. In the second year of his reign, Linus, who had been bishop of the church of Rome for twelve years, delivered his office to Anencletus. But Titus was succeeded by his brother Domitian after he had reigned two years and the same number of months.
 
-## 3.14
+## Chapter 14
 
 [3.14.1] Chapter XIV.—Abilius, the Second Bishop of Alexandria.
 
 [3.14.2] In the fourth year of Domitian, Annianus, the first bishop of the parish of Alexandria, died after holding office twenty-two years, and was succeeded by Abilius, the second bishop.
 
-## 3.15
+## Chapter 15
 
 [3.15.1] Chapter XV.—Clement, the Third Bishop of Rome.
 
 [3.15.2] In the twelfth year of the same reign Clement succeeded Anencletus after the latter had been bishop of the church of Rome for twelve years. The apostle in his Epistle to the Philippians informs us that this Clement was his fellow-worker. His words are as follows: “With Clement and the rest of my fellow-laborers whose names are in the book of life.”
 
-## 3.16
+## Chapter 16
 
 [3.16.1] Chapter XVI.—The Epistle of Clement.
 
 [3.16.2] There is extant an epistle of this Clement which is acknowledged to be genuine and is of considerable length and of remarkable merit. He wrote it in the name of the church of Rome to the church of Corinth, when a sedition had arisen in the latter church. We know that this epistle also has been publicly used in a great many churches both in former times and in our own. And of the fact that a sedition did take place in the church of Corinth at the time referred to Hegesippus is a trustworthy witness.
 
-## 3.17
+## Chapter 17
 
 [3.17.1] Chapter XVII.—The Persecution under Domitian.
 
@@ -2358,7 +2358,7 @@ Ecclesia library, source 6700fbc4.
 
 [3.18.5.1] 5. And they, indeed, accurately indicated the time. For they recorded that in the fifteenth year of Domitian Flavia Domitilla, daughter of a sister of Flavius Clement, who at that time was one of the consuls of Rome, was exiled with many others to the island of Pontia in consequence of testimony borne to Christ.
 
-## 3.19
+## Chapter 19
 
 [3.19.1] Chapter XIX.—Domitian commands the Descendants of David to be slain.
 
@@ -2424,7 +2424,7 @@ Ecclesia library, source 6700fbc4.
 
 [3.21.3.1] 3. Linus was the first, and after him came Anencletus.
 
-## 3.22
+## Chapter 22
 
 [3.22.1] Chapter XXII.—Ignatius, the Second Bishop of Antioch.
 
@@ -2716,7 +2716,7 @@ Ecclesia library, source 6700fbc4.
 
 [3.29.4.1] 4. But they say that Matthias also taught in the same manner that we ought to fight against and abuse the flesh, and not give way to it for the sake of pleasure, but strengthen the soul by faith and knowledge.” So much concerning those who then attempted to pervert the truth, but in less time than it has taken to tell it became entirely extinct.
 
-## 3.30
+## Chapter 30
 
 [3.30.1] Chapter XXX.—The Apostles that were Married.
 
@@ -2808,13 +2808,13 @@ Ecclesia library, source 6700fbc4.
 
 [3.33.4.1] 4. And he reported this also, that the Christians arose early in the morning and sang hymns unto Christ as a God, and for the purpose of preserving their discipline forbade murder, adultery, avarice, robbery, and the like. In reply to this Trajan wrote that the race of Christians should not be sought after, but when found should be punished.” Such were the events which took place at that time.
 
-## 3.34
+## Chapter 34
 
 [3.34.1] Chapter XXXIV.—Evarestus, the Fourth Bishop of the Church of Rome.
 
 [3.34.2] 1. In the third year of the reign of the emperor mentioned above, Clement committed the episcopal government of the church of Rome to Evarestus, and departed this life after he had superintended the teaching of the divine word nine years in all.
 
-## 3.35
+## Chapter 35
 
 [3.35.1] Chapter XXXV.—Justus, the Third Bishop of Jerusalem.
 
@@ -2996,7 +2996,7 @@ Ecclesia library, source 6700fbc4.
 
 [3.39.16.1] 16. But concerning Matthew he writes as follows: “So then Matthew wrote the oracles in the Hebrew language, and every one interpreted them as he was able.” And the same writer uses testimonies from the first Epistle of John and from that of Peter likewise. And he relates another story of a woman, who was accused of many sins before the Lord, which is contained in the Gospel according to the Hebrews. These things we have thought it necessary to observe in addition to what has been already stated.
 
-## 4.1
+## Chapter 1
 
 [4.1.1] Book IV.
 
@@ -3046,7 +3046,7 @@ Ecclesia library, source 6700fbc4.
 
 [4.3.3.1] 3. Aristides also, a believer earnestly devoted to our religion, left, like Quadratus, an apology for the faith, addressed to Adrian. His work, too, has been preserved even to the present day by a great many persons.
 
-## 4.4
+## Chapter 4
 
 [4.4.1] Chapter IV.—The Bishops of Rome and of Alexandria under the Same Emperor.
 
@@ -3214,7 +3214,7 @@ Ecclesia library, source 6700fbc4.
 
 [4.9.3.2] Such are the contents of Adrian’s rescript.
 
-## 4.10
+## Chapter 10
 
 [4.10.1] Chapter X.—The Bishops of Rome and of Alexandria during the Reign of Antoninus.
 
@@ -3268,7 +3268,7 @@ Ecclesia library, source 6700fbc4.
 
 [4.11.11.1] 11. But this same Justin contended most successfully against the Greeks, and addressed discourses containing an apology for our faith to the Emperor Antoninus, called Pius, and to the Roman senate. For he lived at Rome. But who and whence he was he shows in his Apology in the following words.
 
-## 4.12
+## Chapter 12
 
 [4.12.1] Chapter XII.—The Apology of Justin addressed to Antoninus.
 
@@ -3694,19 +3694,19 @@ Ecclesia library, source 6700fbc4.
 
 [4.18.10.1] 10. These things I have deemed it necessary to say for the sake of stimulating the studious to peruse his works with diligence. So much concerning him.
 
-## 4.19
+## Chapter 19
 
 [4.19.1] Chapter XIX.—The Rulers of the Churches of Rome and Alexandria during the Reign of Verus.
 
 [4.19.2] 1. In the eighth year of the above-mentioned reign Soter succeeded Anicetus as bishop of the church of Rome, after the latter had held office eleven years in all. But when Celadion had presided over the church of Alexandria for fourteen years he was succeeded by Agrippinus.
 
-## 4.20
+## Chapter 20
 
 [4.20.1] Chapter XX.—The Rulers of the Church of Antioch.
 
 [4.20.2] 1. At that time also in the church of Antioch, Theophilus was well known as the sixth from the apostles. For Cornelius, who succeeded Hero, was the fourth, and after him Eros, the fifth in order, had held the office of bishop.
 
-## 4.21
+## Chapter 21
 
 [4.21.1] Chapter XXI.—The Ecclesiastical Writers that flourished in Those Days.
 
@@ -3822,7 +3822,7 @@ Ecclesia library, source 6700fbc4.
 
 [4.24.3.2] Maximinus, the seventh from the apostles, succeeded him as bishop of the church of Antioch.
 
-## 4.25
+## Chapter 25
 
 [4.25.1] Chapter XXV.—Philip and Modestus.
 
@@ -3888,13 +3888,13 @@ Ecclesia library, source 6700fbc4.
 
 [4.26.14.1] 14. Accordingly when I went East and came to the place where these things were preached and done, I learned accurately the books of the Old Testament, and send them to thee as written below. Their names are as follows: Of Moses, five books: Genesis, Exodus, Numbers, Leviticus, Deuteronomy; Jesus Nave, Judges, Ruth; of Kings, four books; of Chronicles, two; the Psalms of David, the Proverbs of Solomon, Wisdom also, Ecclesiastes, Song of Songs, Job; of Prophets, Isaiah, Jeremiah; of the twelve prophets, one book; Daniel, Ezekiel, Esdras. From which also I have made the extracts, dividing them into six books.” Such are the words of Melito.
 
-## 4.27
+## Chapter 27
 
 [4.27.1] Chapter XXVII.—Apolinarius, Bishop of the Church of Hierapolis.
 
 [4.27.2] A number of works of Apolinarius have been preserved by many, and the following have reached us: the Discourse addressed to the above-mentioned emperor, five books Against the Greeks, On Truth, a first and second book, and those which he subsequently wrote against the heresy of the Phrygians, which not long afterwards came out with its innovations, but at that time was, as it were, in its incipiency, since Montanus, with his false prophetesses, was then laying the foundations of his error.
 
-## 4.28
+## Chapter 28
 
 [4.28.1] Chapter XXVIII.—Musanus and His Writings.
 
@@ -4486,7 +4486,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.8.15.2] Such are the words of Irenæus.
 
-## 5.9
+## Chapter 9
 
 [5.9.1] Chapter IX.—The Bishops under Commodus.
 
@@ -4536,7 +4536,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.11.5.1] 5. These men, preserving the true tradition of the blessed doctrine, directly from the holy apostles, Peter and James and John and Paul, the son receiving it from the father (but few were like the fathers), have come by God’s will even to us to deposit those ancestral and apostolic seeds.”
 
-## 5.12
+## Chapter 12
 
 [5.12.1] Chapter XII.—The Bishops in Jerusalem.
 
@@ -4592,13 +4592,13 @@ Ecclesia library, source 6700fbc4.
 
 [5.13.9.2] So much concerning these.
 
-## 5.14
+## Chapter 14
 
 [5.14.1] Chapter XIV.—The False Prophets of the Phrygians.
 
 [5.14.2] The enemy of God’s Church, who is emphatically a hater of good and a lover of evil, and leaves untried no manner of craft against men, was again active in causing strange heresies to spring up against the Church. For some persons, like venomous reptiles, crawled over Asia and Phrygia, boasting that Montanus was the Paraclete, and that the women that followed him, Priscilla and Maximilla, were prophetesses of Montanus.
 
-## 5.15
+## Chapter 15
 
 [5.15.1] Chapter XV.—The Schism of Blastus at Rome.
 
@@ -4888,7 +4888,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.21.4.1] 4. But the martyr, highly beloved of God, being earnestly entreated and requested by the judge to give an account of himself before the Senate, made in the presence of all an eloquent defense of the faith for which he was witnessing. And as if by decree of the Senate he was put to death by decapitation; an ancient law requiring that those who were brought to the judgment seat and refused to recant should not be liberated. Whoever desires to know his arguments before the judge and his answers to the questions of Perennius, and his entire defense before the Senate will find them in the records of the ancient martyrdoms which we have collected.
 
-## 5.22
+## Chapter 22
 
 [5.22.1] Chapter XXII.—The Bishops that were well known at this Time.
 
@@ -4990,7 +4990,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.24.18.1] 18. Thus Irenæus, who truly was well named, became a peacemaker in this matter, exhorting and negotiating in this way in behalf of the peace of the churches. And he conferred by letter about this mooted question, not only with Victor, but also with most of the other rulers of the churches.
 
-## 5.25
+## Chapter 25
 
 [5.25.1] Chapter XXV.—How All came to an Agreement respecting the Passover.
 
@@ -4998,7 +4998,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.25.3] 2. “Endeavor to send copies of our letter to every church, that we may not furnish occasion to those who easily deceive their souls. We show you indeed that also in Alexandria they keep it on the same day that we do. For letters are carried from us to them and from them to us, so that in the same manner and at the same time we keep the sacred day.”
 
-## 5.26
+## Chapter 26
 
 [5.26.1] Chapter XXVI.—The Elegant Works of Irenæus which have come down to us.
 
@@ -5006,7 +5006,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.26.3] Commodus having ended his reign after thirteen years, Severus became emperor in less than six months after his death, Pertinax having reigned during the intervening time.
 
-## 5.27
+## Chapter 27
 
 [5.27.1] Chapter XXVII.—The Works of Others that flourished at that Time.
 
@@ -5096,7 +5096,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.28.19.2] Let this suffice for these things.
 
-## 6.1
+## Chapter 1
 
 [6.1.1] Book VI.
 
@@ -5270,13 +5270,13 @@ Ecclesia library, source 6700fbc4.
 
 [6.5.7.1] 7. For Potamiæna appeared to them in their dreams and exhorted them. But let this suffice in regard to this matter.
 
-## 6.6
+## Chapter 6
 
 [6.6.1] Chapter VI.—Clement of Alexandria.
 
 [6.6.2] Clement having succeeded Pantænus, had charge at that time of the catechetical instruction in Alexandria, so that Origen also, while still a boy, was one of his pupils. In the first book of the work called Stromata, which Clement wrote, he gives a chronological table, bringing events down to the death of Commodus. So it is evident that that work was written during the reign of Severus, whose times we are now recording.
 
-## 6.7
+## Chapter 7
 
 [6.7.1] Chapter VII.—The Writer, Judas.
 
@@ -5350,7 +5350,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.9.8.1] 8. But the third, perceiving what had happened to the others, and fearing the inevitable judgment of God, the ruler of all, confessed publicly what they had plotted together. And in his repentance he became so wasted by his great lamentations, and continued weeping to such an extent, that both his eyes were destroyed. Such were the punishments which these men received for their falsehood.
 
-## 6.10
+## Chapter 10
 
 [6.10.1] Chapter X.—The Bishops of Jerusalem.
 
@@ -5506,7 +5506,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.14.11.1] 11. After a short stay there he returned to Alexandria. And he performed the duties of catechetical instruction there with great zeal; Demetrius, who was bishop there at that time, urging and even entreating him to work diligently for the benefit of the brethren.
 
-## 6.15
+## Chapter 15
 
 [6.15.1] Chapter XV.—Heraclas.
 
@@ -5532,7 +5532,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.16.4.1] 4. Having collected all of these, he divided them into sections, and placed them opposite each other, with the Hebrew text itself. He thus left us the copies of the so-called Hexapla. He arranged also separately an edition of Aquila and Symmachus and Theodotion with the Septuagint, in the Tetrapla.
 
-## 6.17
+## Chapter 17
 
 [6.17.1] Chapter XVII.—The Translator Symmachus.
 
@@ -5680,7 +5680,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.21.4.1] 4. Staying for a time in Antioch, she sent for him with a military escort. Having remained with her a while and shown her many things which were for the glory of the Lord and of the excellence of the divine teaching, he hastened back to his accustomed work.
 
-## 6.22
+## Chapter 22
 
 [6.22.1] Chapter XXII.—The Works of Hippolytus which have reached us.
 
@@ -5786,19 +5786,19 @@ Ecclesia library, source 6700fbc4.
 
 [6.25.14.1] 14. But who wrote the epistle, in truth, God knows. The statement of some who have gone before us is that Clement, bishop of the Romans, wrote the epistle, and of others that Luke, the author of the Gospel and the Acts, wrote it.” But let this suffice on these matters.
 
-## 6.26
+## Chapter 26
 
 [6.26.1] Chapter XXVI.—Heraclas becomes Bishop of Alexandria.
 
 [6.26.2] It was in the tenth year of the above-mentioned reign that Origen removed from Alexandria to Cæsarea, leaving the charge of the catechetical school in that city to Heraclas. Not long afterward Demetrius, bishop of the church of Alexandria, died, having held the office for forty-three full years, and Heraclas succeeded him. At this time Firmilianus, bishop of Cæsarea in Cappadocia, was conspicuous.
 
-## 6.27
+## Chapter 27
 
 [6.27.1] Chapter XXVII.—How the Bishops regarded Origen.
 
 [6.27.2] He was so earnestly affected toward Origen, that he urged him to come to that country for the benefit of the churches, and moreover he visited him in Judea, remaining with him for some time, for the sake of improvement in divine things. And Alexander, bishop of Jerusalem, and Theoctistus, bishop of Cæsarea, attended on him constantly, as their only teacher, and allowed him to expound the Divine Scriptures, and to perform the other duties pertaining to ecclesiastical discourse.
 
-## 6.28
+## Chapter 28
 
 [6.28.1] Chapter XXVIII.—The Persecution under Maximinus.
 
@@ -5828,7 +5828,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.29.5.1] 5. About that time Zebinus, bishop of Antioch died, and Babylas succeeded him. And in Alexandria Heraclas, having received the episcopal office after Demetrius, was succeeded in the charge of the catechetical school by Dionysius, who had also been one of Origen’s pupils.
 
-## 6.30
+## Chapter 30
 
 [6.30.1] Chapter XXX.—The Pupils of Origen.
 
@@ -5886,13 +5886,13 @@ Ecclesia library, source 6700fbc4.
 
 [6.33.4.1] 4. The elder brethren among us have handed down many other facts respecting Origen which I think proper to omit, as not pertaining to this work. But whatever it has seemed necessary to record about him can be found in the Apology in his behalf written by us and Pamphilus, the holy martyr of our day. We prepared this carefully and did the work jointly on account of faultfinders.
 
-## 6.34
+## Chapter 34
 
 [6.34.1] Chapter XXXIV.—Philip Cæsar.
 
 [6.34.2] Gordianus had been Roman emperor for six years when Philip, with his son Philip, succeeded him. It is reported that he, being a Christian, desired, on the day of the last paschal vigil, to share with the multitude in the prayers of the Church, but that he was not permitted to enter, by him who then presided, until he had made confession and had numbered himself among those who were reckoned as transgressors and who occupied the place of penance. For if he had not done this, he would never have been received by him, on account of the many crimes which he had committed. It is said that he obeyed readily, manifesting in his conduct a genuine and pious fear of God.
 
-## 6.35
+## Chapter 35
 
 [6.35.1] Chapter XXXV.—Dionysius succeeds Heraclas in the Episcopate.
 
@@ -5918,13 +5918,13 @@ Ecclesia library, source 6700fbc4.
 
 [6.36.4.1] 4. He wrote also to Fabianus, bishop of Rome, and to many other rulers of the churches concerning his orthodoxy. You have examples of these in the eighth book of the Apology which we have written in his behalf.
 
-## 6.37
+## Chapter 37
 
 [6.37.1] Chapter XXXVII.—The Dissension of the Arabians.
 
 [6.37.2] About the same time others arose in Arabia, putting forward a doctrine foreign to the truth. They said that during the present time the human soul dies and perishes with the body, but that at the time of the resurrection they will be renewed together. And at that time also a synod of considerable size assembled, and Origen, being again invited thither, spoke publicly on the question with such effect that the opinions of those who had formerly fallen were changed.
 
-## 6.38
+## Chapter 38
 
 [6.38.1] Chapter XXXVIII.—The Heresy of the Elkesites.
 
@@ -6256,7 +6256,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.44.6.2] Dionysius relates these things.
 
-## 6.45
+## Chapter 45
 
 [6.45.1] Chapter XLV.—An Epistle of Dionysius to Novatus.
 
@@ -6288,7 +6288,7 @@ Ecclesia library, source 6700fbc4.
 
 [6.46.5.1] 5. In addition to this there is extant also a certain other diaconal epistle of Dionysius, sent to those in Rome through Hippolytus. And he wrote another to them on Peace, and likewise on Repentance; and yet another to the confessors there who still held to the opinion of Novatus. He sent two more to the same persons after they had returned to the Church. And he communicated with many others by letters, which he has left behind him as a benefit in various ways to those who now diligently study his writings.
 
-## 7.p1
+## Introduction
 
 [7.p1.1] Book VII.
 
@@ -6296,7 +6296,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.p1.3] In this seventh book of the Church History, the great bishop of Alexandria, Dionysius, shall again assist us by his own words; relating the several affairs of his time in the epistles which he has left. I will begin with them.
 
-## 7.1
+## Chapter 1
 
 [7.1.1] Chapter I.—The Wickedness of Decius and Gallus.
 
@@ -6304,19 +6304,19 @@ Ecclesia library, source 6700fbc4.
 
 [7.1.3] “Gallus neither recognized the wickedness of Decius, nor considered what had destroyed him; but stumbled on the same stone, though it lay before his eyes. For when his reign was prosperous and affairs were proceeding according to his mind, he attacked the holy men who were interceding with God for his peace and welfare. Therefore with them he persecuted also their prayers in his behalf.” So much concerning him.
 
-## 7.2
+## Chapter 2
 
 [7.2.1] Chapter II.—The Bishops of Rome in those Times.
 
 [7.2.2] Cornelius, having held the episcopate in the city of Rome about three years, was succeeded by Lucius. He died in less than eight months, and transmitted his office to Stephen. Dionysius wrote to him the first of his letters on baptism, as no small controversy had arisen as to whether those who had turned from any heresy should be purified by baptism. For the ancient custom prevailed in regard to such, that they should receive only the laying on of hands with prayers.
 
-## 7.3
+## Chapter 3
 
 [7.3.1] Chapter III.—Cyprian, and the Bishops with him, first taught that it was necessary to purify by Baptism those converted from Heresy.
 
 [7.3.2] First of all, Cyprian, pastor of the parish of Carthage, maintained that they should not be received except they had been purified from their error by baptism. But Stephen considering it unnecessary to add any innovation contrary to the tradition which had been held from the beginning, was very indignant at this.
 
-## 7.4
+## Chapter 4
 
 [7.4.1] Chapter IV.—The Epistles which Dionysius wrote on this Subject.
 
@@ -6350,7 +6350,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.5.6.1] 6. “I wrote also, at first in few words, recently in many, to our beloved fellow-presbyters, Dionysius and Philemon, who formerly had held the same opinion as Stephen, and had written to me on the same matters.” So much in regard to the above-mentioned controversy.
 
-## 7.6
+## Chapter 6
 
 [7.6.1] Chapter VI.—The Heresy of Sabellius.
 
@@ -6386,7 +6386,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.7.6.1] 6. His fourth epistle on baptism was written to Dionysius of Rome, who was then a presbyter, but not long after received the episcopate of that church. It is evident from what is stated of him by Dionysius of Alexandria, that he also was a learned and admirable man. Among other things he writes to him as follows concerning Novatus:
 
-## 7.8
+## Chapter 8
 
 [7.8.1] Chapter VIII.—The Heterodoxy of Novatus.
 
@@ -6572,7 +6572,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.11.26.1] 26. Thus far Dionysius. But it should be known that Eusebius, whom he calls a deacon, shortly afterward became bishop of the church of Laodicea in Syria; and Maximus, of whom he speaks as being then a presbyter, succeeded Dionysius himself as bishop of Alexandria. But the Faustus who was with him, and who at that time was distinguished for his confession, was preserved until the persecution in our day, when being very old and full of days, he closed his life by martyrdom, being beheaded. But such are the things which happened at that time to Dionysius.
 
-## 7.12
+## Chapter 12
 
 [7.12.1] Chapter XII.—The Martyrs in Cæsarea in Palestine.
 
@@ -6594,7 +6594,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.13.3.1] 3. I have given this in a translation from the Latin, that it may be more readily understood. Another decree of his is extant addressed to other bishops, permitting them to take possession again of the so-called cemeteries.
 
-## 7.14
+## Chapter 14
 
 [7.14.1] Chapter XIV.—The Bishops that flourished at that Time.
 
@@ -6624,13 +6624,13 @@ Ecclesia library, source 6700fbc4.
 
 [7.15.5.1] 5. Immediately on his return the herald cried out calling him to the tribunal, for the appointed time was already completed. And standing before the tribunal, and manifesting greater zeal for the faith, immediately, as he was, he was led away and finished his course by death.
 
-## 7.16
+## Chapter 16
 
 [7.16.1] Chapter XVI.—Story in Regard to Astyrius.
 
 [7.16.2] Astyrius also is commemorated on account of his pious boldness in connection with this affair. He was a Roman of senatorial rank, and in favor with the emperors, and well known to all on account of his noble birth and wealth. Being present at the martyr’s death, he took his body away on his shoulder, and arraying him in a splendid and costly garment, prepared him for the grave in a magnificent manner, and gave him fitting burial. The friends of this man, that remain to our day, relate many other facts concerning him.
 
-## 7.17
+## Chapter 17
 
 [7.17.1] Chapter XVII.—The Signs at Paneas of the Great Might of our Saviour.
 
@@ -6656,13 +6656,13 @@ Ecclesia library, source 6700fbc4.
 
 [7.18.4.1] 4. Nor is it strange that those of the Gentiles who, of old, were benefited by our Saviour, should have done such things, since we have learned also that the likenesses of his apostles Paul and Peter, and of Christ himself, are preserved in paintings, the ancients being accustomed, as it is likely, according to a habit of the Gentiles, to pay this kind of honor indiscriminately to those regarded by them as deliverers.
 
-## 7.19
+## Chapter 19
 
 [7.19.1] Chapter XIX.—The Episcopal Chair of James.
 
 [7.19.2] The chair of James, who first received the episcopate of the church at Jerusalem from the Saviour himself and the apostles, and who, as the divine records show, was called a brother of Christ, has been preserved until now, the brethren who have followed him in succession there exhibiting clearly to all the reverence which both those of old times and those of our own day maintained and do maintain for holy men on account of their piety. So much as to this matter.
 
-## 7.20
+## Chapter 20
 
 [7.20.1] Chapter XX.—The Festal Epistles of Dionysius, in which he also gives a Paschal Canon.
 
@@ -6968,7 +6968,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.26.3.2] But our account of these matters being now completed, permit us to show to posterity the character of our own age.
 
-## 7.27
+## Chapter 27
 
 [7.27.1] Chapter XXVII.—Paul of Samosata, and the Heresy introduced by him at Antioch.
 
@@ -6996,7 +6996,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.28.4.1] 4. Gallienus after a reign of fifteen years was succeeded by Claudius, who in two years delivered the government to Aurelian.
 
-## 7.29
+## Chapter 29
 
 [7.29.1] Chapter XXIX.—Paul, having been refuted by Malchion, a Presbyter from the Sophists, was excommunicated.
 
@@ -7102,7 +7102,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.30.23.1] 23. Shortly before this, Dionysius, bishop of Rome, after holding office for nine years, died, and was succeeded by Felix.
 
-## 7.31
+## Chapter 31
 
 [7.31.1] Chapter XXXI.—The Perversive Heresy of the Manicheans which began at this Time.
 
@@ -7242,7 +7242,7 @@ Ecclesia library, source 6700fbc4.
 
 [7.32.32.1] 32. Having written out in these books the account of the successions from the birth of our Saviour to the destruction of the places of worship,—a period of three hundred and five years,—permit me to pass on to the contests of those who, in our day, have heroically fought for religion, and to leave in writing, for the information of posterity, the extent and the magnitude of those conflicts.
 
-## 8.p1
+## Introduction
 
 [8.p1.1] Book VIII.
 
@@ -7358,7 +7358,7 @@ Ecclesia library, source 6700fbc4.
 
 [8.4.5.1] 5. But when he made the attack more boldly, it is impossible to relate how many and what sort of martyrs of God could be seen, among the inhabitants of all the cities and countries.
 
-## 8.5
+## Chapter 5
 
 [8.5.1] Chapter V.—Those in Nicomedia.
 
@@ -7438,7 +7438,7 @@ Ecclesia library, source 6700fbc4.
 
 [8.7.6.1] 6. Finally, after these terrible and various attacks upon them, they were all slain with the sword; and instead of being buried in the earth they were committed to the waves of the sea.
 
-## 8.8
+## Chapter 8
 
 [8.8.1] Chapter VIII.—Those in Egypt.
 
@@ -7534,7 +7534,7 @@ Ecclesia library, source 6700fbc4.
 
 [8.10.12.1] 12. But why need we dwell upon these things, and continue to add fresh instances of the conflicts of the divine martyrs throughout the world, especially since they were dealt with no longer by common law, but attacked like enemies of war?
 
-## 8.11
+## Chapter 11
 
 [8.11.1] Chapter XI.—Those in Phrygia.
 
@@ -7736,7 +7736,7 @@ Ecclesia library, source 6700fbc4.
 
 [8.14.18.1] 18. Such was the career of wickedness which was carried forward at one and the same time by the two tyrants who held the East and the West. Who is there that would hesitate, after careful examination, to pronounce the persecution against us the cause of such evils? Especially since this extreme confusion of affairs did not cease until the Christians had obtained liberty.
 
-## 8.15
+## Chapter 15
 
 [8.15.1] Chapter XV.—The Events which happened to the Heathen.
 
@@ -7768,7 +7768,7 @@ Ecclesia library, source 6700fbc4.
 
 [8.16.5.1] 5. Some of the physicians, being wholly unable to endure the exceeding offensiveness of the odor, were slain; others, as the entire mass had swollen and passed beyond hope of restoration, and they were unable to render any help, were put to death without mercy.
 
-## 8.17
+## Chapter 17
 
 [8.17.1] Chapter XVII.—The Revocation of the Rulers.
 
@@ -7808,7 +7808,7 @@ Ecclesia library, source 6700fbc4.
 
 [8.17.19] 6. Of these, moreover, only the one referred to a little above by us, with those who afterward shared in the government, finally published openly to all the above-mentioned confession, in the written edict which he issued.
 
-## p5.p1
+## Introduction
 
 [p5.p1.1] Martyrs of Palestine.
 
@@ -8160,7 +8160,7 @@ Ecclesia library, source 6700fbc4.
 
 [p5.9.12.1] 12. After these things had continued for many days, a wonderful event occurred. The air was clear and bright and the appearance of the sky most serene. When suddenly throughout the city from the pillars which supported the public porches many drops fell like tears; and the market places and streets, though there was no mist in the air, were moistened with sprinkled water, whence I know not. Then immediately it was reported everywhere that the earth, unable to endure the abomination of these things, had shed tears in a mysterious manner; and that as a rebuke to the relentless and unfeeling nature of men, stones and lifeless wood had wept for what had happened. I know well that this account may perhaps appear idle and fabulous to those who come after us, but not to those to whom the truth was confirmed at the time.
 
-## p5.10
+## Chapter X
 
 [p5.10.1] Chapter X.
 
@@ -8298,7 +8298,7 @@ Ecclesia library, source 6700fbc4.
 
 [p5.11.31.1] 31. It is proper also to relate here, how in a short time the heavenly Providence came upon the impious rulers, together with the tyrants themselves. For that very Firmilianus, who had thus abused the martyrs of Christ, after suffering with the others the severest punishment, was put to death by the sword. Such were the martyrdoms which took place at Cæsarea during the entire period of the persecution.
 
-## p5.12
+## Chapter XII
 
 [p5.12.1] Chapter XII.
 
@@ -8416,7 +8416,7 @@ Ecclesia library, source 6700fbc4.
 
 [9.1.11.1] 11. Great crowds of men pursued their journey along the highways and through the market-places, praising God with hymns and psalms. And you might have seen those who a little while before had been driven in bonds from their native countries under a most cruel sentence, returning with bright and joyful faces to their own firesides; so that even they who had formerly thirsted for our blood, when they saw the unexpected wonder, congratulated us on what had taken place.
 
-## 9.2
+## Chapter 2
 
 [9.2.1] Chapter II.—The Subsequent Reverse.
 
@@ -8424,7 +8424,7 @@ Ecclesia library, source 6700fbc4.
 
 [9.2.3] 2. Then through the agency of some wicked men he sent an embassy to himself against us, inciting the citizens of Antioch to ask from him as a very great favor that he would by no means permit any of the Christians to dwell in their country; and others were secretly induced to do the same thing. The author of all this in Antioch was Theotecnus, a violent and wicked man, who was an impostor, and whose character was foreign to his name. He appears to have been the curator of the city.
 
-## 9.3
+## Chapter 3
 
 [9.3.1] Chapter III.—The Newly Erected Statue at Antioch.
 
@@ -8436,7 +8436,7 @@ Ecclesia library, source 6700fbc4.
 
 ## 1
 
-[9.4.1.1] 1. Thefact that this man, who took the lead in this matter, had succeeded in his purpose was an incitement to all the other officials in the cities under the same government to prepare a similar memorial. And the governors of the provinces perceiving that this was agreeable to the emperor suggested to their subjects that they should do the same.
+[9.4.1.1] 1. The fact that this man, who took the lead in this matter, had succeeded in his purpose was an incitement to all the other officials in the cities under the same government to prepare a similar memorial. And the governors of the provinces perceiving that this was agreeable to the emperor suggested to their subjects that they should do the same.
 
 ## 2
 
@@ -8446,7 +8446,7 @@ Ecclesia library, source 6700fbc4.
 
 [9.4.3.1] 3. Indeed, the extraordinary superstition of the emperor, to speak in brief, led all his subjects, both rulers and private citizens, for the sake of gratifying him, to do everything against us, supposing that they could best show their gratitude to him for the benefits which they had received from him, by plotting murder against us and exhibiting toward us any new signs of malignity.
 
-## 9.5
+## Chapter 5
 
 [9.5.1] Chapter V.—The Forged Acts.
 
@@ -8864,7 +8864,7 @@ Ecclesia library, source 6700fbc4.
 
 [10.1.8.1] 8. And finally a bright and splendid day, overshadowed by no cloud, illuminated with beams of heavenly light the churches of Christ throughout the entire world. And not even those without our communion were prevented from sharing in the same blessings, or at least from coming under their influence and enjoying a part of the benefits bestowed upon us by God.
 
-## 10.2
+## Chapter 2
 
 [10.2.1] Chapter II.—The Restoration of the Churches.
 
@@ -9314,7 +9314,7 @@ Ecclesia library, source 6700fbc4.
 
 [10.6.4.1] 4. And since I have learned that some men of unsettled mind wish to turn the people from the most holy and catholic Church by a certain method of shameful corruption, do thou know that I gave command to Anulinus, the proconsul, and also to Patricius, vicar of the prefects, when they were present, that they should give proper attention not only to other matters but also above all to this, and that they should not overlook such a thing when it happened. Wherefore if thou shouldst see any such men continuing in this madness, do thou without delay go to the above-mentioned judges and report the matter to them; that they may correct them as I commanded them when they were present. The divinity of the great God preserve thee for many years.”
 
-## 10.7
+## Chapter 7
 
 [10.7.1] Chapter VII.—The Exemption of the Clergy.
 
@@ -9446,25 +9446,25 @@ Ecclesia library, source 6700fbc4.
 
 [10.9.9.2] The end, with God’s help, of the Tenth Book of the Church History of Eusebius Pamphili.
 
-## p6.p1
+## Note 1
 
 [p6.p1.1] On Bk. III. chap. 3, § 5 (note 17, continued).
 
 [p6.p1.2] Since this note was in type Dr. Gardiner’s admirable and exhaustive essay on the authorship of the Epistle to the Hebrews (in the Nicene and Post-Nicene Fathers, First Series, Vol. XIV. p. 341 sq.) has come to hand, and I have been much pleased to see that the theory that Barnabas wrote the epistle is accepted and defended with vigor.
 
-## p6.p2
+## Note 2
 
 [p6.p2.1] On Bk. III. chap. 3, § 6 (note 22, continued).
 
 [p6.p2.2] Upon the last chapter of Romans and its relation to the remainder of the epistle, see especially Farrar’s Life and Work of St. Paul, p. 450 sq., Weiss’ Einleitung in das N. T. p. 245 sq., Pfleiderer’s Urchristenthum, p. 145 , Renan’s Saint Paul, p. 461 sq. (maintaining that an editor has combined four copies of the one encyclical letter of Paul, addressed severally to as many different churches), Lightfoot’s Commentary on Philippians, p. 172 sq., and Schaff, Ch. History, I. p. 765.
 
-## p6.p3
+## Note 3
 
 [p6.p3.1] On Bk. III. chap. 24, § 17 (note 18 continued).
 
 [p6.p3.2] In three places in the Church History (Bk. III. chap. 24, § 17, chap. 25, § 2, and chap. 39, § 16) John’s “former” epistle is referred to, as if he had written only two. In the last passage the use of προτέρα instead of πρώτη might be explained as Westcott suggests (Canon of the New Testament, p. 77, note 2), by supposing Eusebius to be reproducing the words of Papias; but in the other passages this explanation will not do, for the words are certainly Eusebius’ own. In the Muratorian Canon only two epistles of John are mentioned, and in Irenæus the second epistle is quoted as if it were the first (see Westcott, ibid. p. 384, note 1). These facts lead Westcott to ask: “Is it possible that the second epistle was looked upon as an appendix to the first? and may we thus explain the references to two epistles of John?” He continues: “The first epistle, as is well known, was called ad Parthos by Augustine and some other Latin authorities; and the same title πρὸς Π€ρθους is given to the second epistle in one Greek manuscript (62 Scholz). The Latin translation of Clement’s Outlines (IV. 66) says: Secunda Johannis epistola quæ ad virgines (παρθένους) scripta simplissima est. Jerome, it may be added, quotes names from the third epistle as from the second (De nom. Hebr.).” On the other hand, in Bk. V. chap. 8, § 7, Eusebius speaks of the “first” (πρώτη) epistle of John, and in Bk. III. chap. 25, § 3, he expressly mentions a second and third epistle of John. It is evident, therefore, that whatever the use of προτέρα instead of πρώτη in connection with John’s first epistle may mean as used by others, it does not indicate a knowledge of only a first and second as used by him. It is by no means impossible, however, that Westcott’s suggestion may be correct, and that the first and second epistles were sometimes looked upon as but one, and it is possible that such use of them by some of his predecessors may account for Eusebius’ employment of the word προτέρα in three separate passages.
 
-## p6.p4
+## Note 4
 
 [p6.p4.1] On Bk. III. chap. 25, § 4 (note 18 continued).
 
@@ -9472,55 +9472,55 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p4.3] A considerable portion of my translation was in type before I had observed this distinction between the two words, which is commonly quite overlooked, and as a consequence in a few cases my rendering of the word φερομένη is inaccurate. All such cases I have endeavored to call attention to in these supplementary notes.
 
-## p6.p5
+## Note 5
 
 [p6.p5.1] On Bk. III. chap. 28, § 1.
 
 [p6.p5.2] For the Disputation which is ascribed to him, read his extant Disputation.
 
-## p6.p6
+## Note 6
 
 [p6.p6.1] On Bk. III. chap. 32, § 6 (note 14a).
 
 [p6.p6.2] The Greek reads π€σης ἐκκλησίας (without the article), and so, two lines below, ἐν π€σῃ ἐκκλησί& 139·. All the translators (with the exception of Pratten in the Ante-Nicene Fathers, Vol. VIII., who reads, “the churches”) render “the whole church,” as if reading πᾶς with the article. We have not, it is true, enough of Hegesippus’ writings to be able to ascertain positively his use of πᾶς, and it is possible that he carelessly employed it indifferently with or without the article to signify the definite “all” or “the whole.” In the absence of positive testimony, however, that he failed to draw the proper distinction between its use with and its use without the article, and in view of the fact that Eusebius himself (as well as other early Fathers so far as I am able to recall) is very consistent in making the distinction, I have not felt at liberty in my translation to depart from a strict grammatical interpretation of the phrases in question. Moreover, upon second thought, it seems quite as possible that Hegesippus meant to say “every” not “all”; for he can hardly have supposed these relatives of the Lord to have presided literally over the whole Church, while he might very well say that they presided each over the church in the city in which he lived, which is all that the words necessarily imply. The phrase just below, “in every church,” is perhaps as natural as “in the whole church.”
 
-## p6.p7
+## Note 7
 
 [p6.p7.1] On Bk. III. chap. 36 § 13.
 
 [p6.p7.2] For the Epistle to the Philippians which is ascribed to him, read his extant Epistle to the Philippians.
 
-## p6.p8
+## Note 8
 
 [p6.p8.1] On Bk. III. chap. 39, § 1 (note 1, continued).
 
 [p6.p8.2] Since the above note was in type Resch’s important work on the Agrapha(von Gebhardt and Harnack’s Texte und Untersuchungen, Bd. V. Heft 4) has come to hand. On p. 27 sq. he discusses at considerable length the sources of the Synoptic Gospels. He accepts the theory which is most widely adopted by New-Testament critics, that the synoptic tradition as contained in our Synoptic Gospels rests upon an original Gospel of Mark (nearly if not quite identical with our present Gospel of Mark) and a pre-canonical Hebrew Gospel. In agreement with such critics he draws a sharp distinction between this original Hebrew Gospel and our canonical Greek Matthew, while at the same time recognizing that the latter reproduces that original more fully than either of the other Gospels does. This original Hebrew he then identifies with the λόγια referred to by Papias as composed by Matthew in the Hebrew tongue (see Bk. III. chap. 39, § 16); that is, with the traditional Hebrew Gospel of Matthew (see ibid. chap. 24, note 5). The arguments which he urges in support of this position are very strong. Handmann regards the Gospel according to the Hebrews as the second original source of the synoptic tradition, alongside of the Ur-Marcus, and even suggests its identification with the λόγια of Papias, and yet denies its identity with the Hebrew Matthew. On the other hand, Resch regards the Hebrew Matthew, which he identifies with the λόγια of Papias, as the second original source of the synoptic tradition, alongside of Mark or the Ur-Marcus, and yet, like Handmann, though on entirely different grounds, denies the identity of the Gospel according to the Hebrews with the Hebrew Matthew. Their positions certainly tend to confirm my suggestion that the Hebrew Matthew and the Gospel according to the Hebrews were originally identical (see above, Bk. III. chap. 27, note 8).
 
-## p6.p9
+## Note 9
 
 [p6.p9.1] On Bk. III. chap. 39, § 6.
 
 [p6.p9.2] For ascribed by name to John, read extant under the name of John.
 
-## p6.p10
+## Note 10
 
 [p6.p10.1] On Bk. III. chap. 39, § 16.
 
 [p6.p10.2] For from the first epistle of John and from that of Peter likewise, read from the former epistle of John and from the epistle of Peter likewise. See p. 388.
 
-## p6.p11
+## Note 11
 
 [p6.p11.1] On Bk. IV. chap. 10.
 
 [p6.p11.2] For the Pious, read Pius.
 
-## p6.p12
+## Note 12
 
 [p6.p12.1] On Bk. IV. chap. 18, § 2.
 
 [p6.p12.2] For the Pious, read Pius.
 
-## p6.p13
+## Note 13
 
 [p6.p13.1] On Bk. V. Introd. § I (note 3, continued). The Successors of Antoninus Pius.
 
@@ -9530,13 +9530,13 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p13.4] That Eusebius in accepting such a lame theory showed himself altogether too much under the influence of traditional views cannot be denied; but when we remember that the tradition that Marcus Aurelius was not a persecutor was supported by writers whose honesty and accuracy he could never have thought of questioning, as well as by the very nature of the case, we must, while we smile at the result, at least admire his effort to solve the contradiction which he, as an historian, felt more keenly than a less learned man, unacquainted with the facts on the other side, would have done.
 
-## p6.p14
+## Note 14
 
 [p6.p14.1] On Bk. V. chap. 1, § 27 (note 26, continued).
 
 [p6.p14.2] See also Bk. VIII. chap. 10, note 5.
 
-## p6.p15
+## Note 15
 
 [p6.p15.1] On Bk. VI. chap. 2 (note 1, continued). Origen’s Life and Writings.
 
@@ -9560,19 +9560,19 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p15.11] The principal edition of Origen’s works is that of the Benedictine Delarue in 4 vols. fol.; reprinted by Migne in 8 vols. 8vo. A convenient edition is that of Lommatzsch, in 25 vols. small 8vo., a revision of Delarue’s. Only his De principiis, Contra Cels., and the epistles to Africanus and to Gregory have been translated into English, and are given in the Ante-Nicene Fathers, Vol. IV. p. 221 sqq. Of lives of Origen must be mentioned that of Huetius: Origeniana (Paris, 1679, in 2 vols.; reprinted in Delarue and Lommatzsch); also Redepenning’s Origenes. Eine Darstellung seines Lebens und seiner Lehre (Bonn, 1841 and 1846, in 2 vols.). The respective sections in Lardner and Tillemont should be compared, and the thorough article of Westcott in the Dict. of Christ. Biog. IV. 96–142. For a good list of the literature on Origen, see Schaff, Ch. Hist. II. p. 785.
 
-## p6.p16
+## Note 16
 
 [p6.p16.1] On Bk. VI. chap. 8, § 5 (note 4). Origen and Demetrius.
 
 [p6.p16.2] The friendship of Demetrius for Origen began early and continued, apparently without interruption, for many years. In 203 he committed to him the charge of the catechetical school (chap. 3); in the present chapter we find him encouraging him after learning of his rash deed; some years afterward, upon Origen’s return from a visit to Rome, where his fame as a teacher had already become very great, Demetrius still showed the very best spirit toward him (chap. 14); and a little later sent him into Arabia to give instruction to an officer in that country (chap. 19). It is soon after this that the first sign of a difference between the two men appears, upon the occasion of Origen’s preaching in Cæsarea (ibid.). There seems, however, to have been no lasting quarrel, if there was any quarrel at all; for in 231 we find Demetrius giving Origen letters of recommendation upon the occasion of his visit to Achaia (see below, p. 396). The fact that he gives him these letters, thus recognizing him as a member of his church in good standing, and sending him upon his important mission with his official approval, shows that no open break between himself and Origen can as yet have taken place. But in his commentary on John (Tom. VI. præf.) Origen shows us that his last years in Alexandria were by no means pleasant ones. He compares his troubles there to the waves of a stormy sea, and his final departure to the exodus of the children of Israel. We know that he had been engaged for some time in writing commentaries, and that the first five books of his commentary on John—epoch-making in their significance, and sure to cause a sensation in orthodox, conservative circles—had recently appeared. We know that his reputation for heterodoxy was already quite widespread and that the majority of the Egyptian clergy were by no means upon his side. The trials to which he refers, therefore, may well have been a result of this hostility to his teachings existing among the clergy about him, and Demetrius may have shared to an extent in the common feeling. At the same time his disapproval cannot have been very pronounced, or he could not have given his official sanction to Origen’s important visit to Achaia. But now, things being in this condition, Origen set out upon his mission, leaving Heraclas in charge of his school, and undoubtedly with the expectation of returning again, for he left the unfinished sixth book of his commentary on John behind him (see preface to the sixth book). He stopped in Palestine on his way to Athens, and there was ordained a presbyter by the bishops of that country (upon the motives which prompted him in the matter, see below, p. 397). The result was a complete break between Demetrius and himself, and his condemnation by an Alexandrian synod. To understand Demetrius’ action in the matter, we must remember that both Eusebius and Jerome attribute the change in his attitude to jealousy of Origen. They may be too harsh in their judgment, and yet it is certainly not at all unnatural that the growing power and fame of his young catechumen should in time affect, all unconsciously, his attitude toward him. But we must not do Demetrius an injustice. There is no sign that his jealousy led him to attack Origen, or to seek to undermine his influence, and we have no right to accuse him, without ground, of such unchristian conduct. At the same time, while he remained, as he supposed, an honest friend of Origen’s, the least feeling of jealousy (and it would have been remarkable had he never felt the least) would make him more suspicious of the latter’s conduct, and more prone to notice in his actions anything which might be interpreted as an infringement of his own prerogatives, or a disregard of the full respect due him. We seem to see a sign of this over-sensitiveness (most natural under the circumstances) in his severe disapproval of Origen’s preaching in Cæsarea, which surprised the Palestinian bishops, but which is not surprising when we realize that Demetrius might so easily construe it as a token of growing disrespect for his authority on the part of his rising young school principal. It is plain enough, if he was in this state of mind, that he might in all sincerity have given letters of recommendation to Origen and have wished him God speed upon his mission, and yet that the news of his ordination to the presbyterate by foreign bishops, without his own approval or consent, and indeed in opposition to his own principles and to ecclesiastical law, should at once arouse his ire, and, by giving occasion for what seemed righteous indignation, open the floodgates for all the smothered jealousy of years. In such a temper of mind he could not do otherwise than listen willingly to all the accusations of heresy against Origen, which were no doubt busily circulated in his absence, and it was inevitable that he should believe it his duty to take decided steps against a man who was a heretic, and at the same time showed complete disregard of the rules and customs of the Church, and of the rights of his bishop. The result was the definitive and final exclusion of Origen from communion with the Alexandrian church, and his degradation from the office of presbyter by decree of the Alexandrian synods described above, p. 392 sq. The two grounds of the sentence passed by these synods were plainly his irregular ordination to the priesthood when constitutionally unfit for it (cf. what Eusebius says in this chapter), and his heterodoxy (cf. e.g. the synodical epistle of the Egyptian bishops given in Mansi’s Collect. Concil. IX. col. 524, and also Jerome’s epistle ad Pammachium et Oceanum, § 10, and Rufinus’ Apologi in Hieron. II. 21). That the ordination to the priesthood of one who had mutilated himself was not universally considered uncanonical in the time of Origen is proved by the fact that the Palestinian bishops (whom Origen cannot have allowed to remain ignorant of his condition) all united in ordaining him. But the very fact that they all united (which has perplexed some scholars) leads us to think that they realized that their action was somewhat irregular, and hence wished to give it sanction by the participation of a number of bishops. The first canon of the Council of Nicæa forbids such ordination, and the canon is doubtless but the repetition of an older one (cf. Apost. Canons, 21 to 24, and see Hefele, Conciliengesch. I. p. 377), and yet Origen’s consent to his ordination makes it improbable that there was in force in his time, even in Alexandria, a canon placing absolute and unconditional clerical disabilities upon such as he. That the action, however, was considered at least irregular in Alexandria, is proved by the position taken in the matter by Demetrius; and the fact that he made so much of it leads us to believe that the synod, called by him, may now have made canon law of what was before only custom, and may have condemned Origen for violating that custom which they considered as binding as law. Certainly had there been no such custom, and had it not seemed to Demetrius absolutely binding, he would have ordained Origen to the priesthood long before. His ordination in Palestine was in violation of what was known to be Demetrius’ own principle, and the principle of the Alexandrian church, even if the principle was not, until this time or later, formulated into a canon.
 
-## p6.p17
+## Note 17
 
 [p6.p17.1] On Bk. VI. chap. 12, § 6.
 
 [p6.p17.2] Since this passage was printed, I have seen Westcott’s translation of this fragment of Serapion’s epistle in his Canon of the New Testament, 5th ed. p. 390 sq. (cf. especially p. 391, note), and am glad to note that his rendering of the words καταρξαμένων αὐτοῦ is the same as my own. His interpretation of one or two other points I am unable to adopt.
 
-## p6.p18
+## Note 18
 
 [p6.p18.1] On Bk. VI. chap. 23, § 4 (note 6). Origen’s Visit to Achaia.
 
@@ -9580,19 +9580,19 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p18.3] As to the cause of Origen’s ordination, it is quite possible, as Redepenning suggests, that when he went a second time to Palestine, his old friends, the bishops of Cæsarea, of Jerusalem, and of other cities, wished to hear him preach again, but that remembering the reproof of the bishop Demetrius, called forth by his preaching on the former occasion (see chap. 19), he refused, and that then the Palestinian bishops, in order to obviate that difficulty, insisted on ordaining him. It is not impossible that Origen, who seems never to have been a stickler for the exact observance of minor ecclesiastical rules and formalities, supposed that Demetrius, who had shown himself friendly in the past, and not hostile to him because of his youthful imprudence (see chap. 8), would concur willingly in an ordination performed by such eminent bishops, and an ordination which would prove of such assistance to Origen in the accomplishment of the work in Achaia which he was undertaking with the approval of Demetrius himself, even though the latter could not bring himself to violate what he considered an ecclesiastical canon against the ordination of eunuchs. We can thus best explain Origen’s consent to the step which, when we consider his general character, it is difficult to suppose he would have taken in conscious opposition to the will of his bishop. (On Demetrius’ view of the matter, see above, p. 394 sq.) He was ordained, according to Jerome’s de vir. ill. c. 54 (cf. also chap. 8, above), by Theoctistus, bishop of Cæsarea, and Alexander, bishop of Jerusalem, together with “the most distinguished bishops of Palestine” (as Eusebius says in chap. 8).
 
-## p6.p19
+## Note 19
 
 [p6.p19.1] On Bk. VII. chap. 25, § 11.
 
 [p6.p19.2] For in the reputed second or third Epistle of John, read in the extant second and third Epistles of John (ἐν τῇ δευτέρᾳ φερομένῃ ᾽Ιω€ννου καὶ τρίτῃ).
 
-## p6.p20
+## Note 20
 
 [p6.p20.1] On Bk. VII. chap. 26, § 1 (note 4, continued).
 
 [p6.p20.2] On Dionysius’ attitude toward Sabellianism and the occasion of the Apology (žλεγχος καὶ ἀπολογία) in four books, which he addressed to Dionysius of Rome, see Bk. VI. chap. 40, note 1. This work is no longer extant, but brief fragments of it have been preserved by Athanasius (in his De Sent. Dionysii) and by Basil ( in his De Spir. Sancto). English translation in the Ante-Nicene Fathers, Vol. VI. p. 92 sq. The longer work was preceded by a shorter one, now lost, to which reference is made in one of the fragments of the longer work. We do not know the exact date of the work, but may assign it with considerable probability to the earlier part of the episcopate of Dionysius of Rome; that is, soon after 259. Upon this work and upon Dionysius’ attitude toward Sabellianism, see especially Dittrich, Dionysius der Grosse, p. 91. sq.
 
-## p6.p21
+## Note 21
 
 [p6.p21.1] On Bk. VIII. chap. 2, § 4 (note 3, continued). The Causes of the Diocletian Persecution.
 
@@ -9602,13 +9602,13 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p21.4] The course of events after the publication of the First Edict is not difficult to follow. Fire broke out twice in the imperial palace. Lactantius ascribes it to Galerius, who was supposed to have desired to implicate the Christians; but, as Burckhardt remarks, Diocletian was not the man to be deceived in that way, and we may dismiss the suspicion as groundless. That the fires were accidental is possible, but extremely improbable. Diocletian at least believed that they were kindled by Christians, and it must be confessed that he had some ground for his belief. At any rate, whether true or not, the result was the torture (for the sake of extorting evidence) and the execution of some of his most faithful servants (see Bk. VIII. chap. 6). It had become an earnest matter with Diocletian, and he was beginning to feel—as he had never had occasion to feel before—that a society within the empire whose claims were looked upon as higher than those of the state itself, and duty to which demanded, in case of a disagreement between it and the state, insubordination, and even treason, toward the latter, was too dangerous an institution to tolerate longer, however harmless it might be under ordinary circumstances. It was at about this time that there occurred rebellions in Melitene and Syria, perhaps in consequence of the publication of the First Edict; at any rate, the Christians, who were regarded with ever increasing suspicion, were believed to be in part at least responsible for the outbreaks, and the result was that a second edict was issued, commanding that all the rulers of the churches should be thrown into prison (see above, Bk. VIII. chap. 6). Here Diocletian took the same step taken by Decius and Valerian, and instituted thereby a genuine religious persecution. It was now Christians as Christians whom he attacked; no longer Christian officials as traitors. The vital difference between the first and second edicts is very clear. All that followed was but the legitimate carrying out of the principle adopted in the Second Edict,—the destruction of the Church as such, the extermination of Christianity.
 
-## p6.p22
+## Note 22
 
 [p6.p22.1] On Bk. X. chap. 8, § 4 (note I, a).
 
 [p6.p22.2] After Constantine’s victory over Maxentius, his half-sister Constantia, daughter of Constantius Chlorus by his second wife, Theodora, was married to Licinius, and thus the alliance of the two emperors was cemented by family ties. Constantius Chlorus was a grandson of Crispus, brother of the Emperor Claudius II., and hence could claim to be, in a sense, of imperial extraction; a fact which gave him a dignity beyond that of his colleagues, who were all of comparatively low birth. Constantine himself and his panegyrists always made much of his illustrious descent.
 
-## p6.p23
+## Roman Emperors
 
 [p6.p23.1] Table of Roman Emperors.
 
@@ -9718,7 +9718,7 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p23.54] Maximin II.
 
-## p6.p24
+## The Bishops of Rome, Alexandria, Antioch, and Jerusalem, mentioned by Eusebius
 
 [p6.p24.1] mentioned by Eusebius.
 
@@ -9788,7 +9788,7 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p24.34] Urbanus, 8 years; 222–230 (May 19?).
 
-## p6.p25
+## Bishops of Alexandria
 
 [p6.p25.1] Alexandria.
 
@@ -9824,7 +9824,7 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p25.17] Peter.
 
-## p6.p26
+## Bishops of Antioch
 
 [p6.p26.1] Antioch.
 
@@ -9868,7 +9868,7 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p26.21] Philetus, died not long before 229–231.
 
-## p6.p27
+## Bishops of Jerusalem
 
 [p6.p27.1] Jerusalem.
 
@@ -9950,7 +9950,7 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p27.40] Narcissus.
 
-## p6.p28
+## The Roman Method of counting the Days of the Month
 
 [p6.p28.1] Roman Method of counting the Days of the Month.
 
@@ -10036,7 +10036,7 @@ Ecclesia library, source 6700fbc4.
 
 [p6.p28.42] “In the months of March, May, July, and October, the Ides fell on the 15th day, and the Nones consequently on the 7th: so that each of these months had six days named from the Nones. In all the other months the Ides were on the 13th and the Nones were on the 5th; consequently there were only four days named from the Nones. Every month had eight days named from the Ides. The number of days receiving their denomination from the Kalends depended on the number of days in the month and the day on which the Ides fell. For example, if the month contained 31 days, and the Ides fell on the 13th as was the case in January, August, and December, there would remain 18 days after the Ides, which, added to the first of the following month, made 19 days of Kalends. In January, therefore, the 14th day of the month was called the nineteenth before the Kalends of February (counting inclusively), the 15th was the 18th before the Kalends, and so on to the 30th, which was called the third before the Kalends (tertio Kalendas), the last being the second of the Kalends, or the day before the Kalends (pridie Kalendas).”
 
-## p6.p29
+## Macedonian Months
 
 [p6.p29.1] Table of Macedonian Months
 

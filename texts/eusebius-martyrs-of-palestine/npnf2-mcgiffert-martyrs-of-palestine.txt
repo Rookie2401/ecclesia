@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Church_History_of_Eusebius/Martyrs_of_Palestine
 Retrieved: 2026-11-05 (source file 108236 bytes, SHA-256 c8f2b3160d0983700e6e58daea0a2aa35a4b2144943513e62907c88cd6e39ff9)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":97}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

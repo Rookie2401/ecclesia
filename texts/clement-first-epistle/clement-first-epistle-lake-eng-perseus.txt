@@ -6,9 +6,9 @@ Credit: The First Epistle of Clement to the Corinthians, in The Apostolic Father
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1271/tlg001/tlg1271.tlg001.perseus-eng1.xml
-Retrieved: 2026-11-05 (source file 118068 bytes, SHA-256 167848168110d321054d619575e712c499cb766a2ed2a17de503292154406d6b)
+Retrieved: 2026-11-11 (source file 118068 bytes, SHA-256 167848168110d321054d619575e712c499cb766a2ed2a17de503292154406d6b)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":118,"pb":45}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -90,7 +90,7 @@ Ecclesia library, source 6700fbc4.
 
 [5.4] Peter, who because of unrighteous jealousy suffered not one or two but many trials, and having thus given his testimony went to the glorious place which was his due.
 
-[5.5] Through jealousy and strife Paul showred the way to the prize of endurance;
+[5.5] Through jealousy and strife Paul showed the way to the prize of endurance;
 
 [5.6] seven times he was in bonds, he was exiled, he was stoned, he was a herald both in the East and in the West, he gained the noble fame of his faith,
 
@@ -188,7 +188,7 @@ Ecclesia library, source 6700fbc4.
 
 [13.1] Let us, therefore, be humble-minded, brethren, putting aside all arrogance and conceit and foolishness and wrath, and let us do that which is written (for the Holy Spirit says, Let not the wise man boast himself in his wisdom, nor the strong man in his strength, nor the rich man in his riches, but he that boasteth let him boast in the Lord, to seek him out and to do judgment and righteousness), especially remembering the words of the Lord Jesus which he spoke when he was teaching gentleness and longsuffering.
 
-[13.2] For lie spoke thus: Be merciful, that ye may obtain mercy. Forgive, that ye may be forgiven. As ye do, so shall it be done unto you. As ye give, so shall it be given unto you. As ye judge, so shall ye be judged. As ye are kind, so shall kindness be shewn you. With wliat measure ye mete, it shall be measured to you.
+[13.2] For lie spoke thus: Be merciful, that ye may obtain mercy. Forgive, that ye may be forgiven. As ye do, so shall it be done unto you. As ye give, so shall it be given unto you. As ye judge, so shall ye be judged. As ye are kind, so shall kindness be shewn you. With what measure ye mete, it shall be measured to you.
 
 [13.3] With this commandment and with these injunctions let us strengthen ourselves to walk in obedience to his hallowed words and let us be humble-minded, for the holy word says,
 
@@ -268,7 +268,7 @@ Ecclesia library, source 6700fbc4.
 
 [17.4] But he accuses himself, saying, No man is clean from defilement, not even if his life be but for a single day.
 
-[17.5] Moses was called Faithful with all his house, and through his ministry God judged Egypt with their scourges and tormen ts; but he, though he was given great glory, did not use great words, but, when an oracle was given to him from the bush, said:—Who am I that thou sendest me? Nay, I am a man of feeble speech, and a slow tongue.
+[17.5] Moses was called Faithful with all his house, and through his ministry God judged Egypt with their scourges and torments; but he, though he was given great glory, did not use great words, but, when an oracle was given to him from the bush, said:—Who am I that thou sendest me? Nay, I am a man of feeble speech, and a slow tongue.
 
 [17.6] And again he says, But I am as smoke from a pot.
 
@@ -286,7 +286,7 @@ Ecclesia library, source 6700fbc4.
 
 [18.6] For, behold, thou hast loved truth, thou didst make plain to me the secret and hidden things of thy wisdom.
 
-[18.7] Thou shalt sprinkle me with hyssop, and I shall be cleansed; tliou shalt wash me, and I shall be whiter than snow.
+[18.7] Thou shalt sprinkle me with hyssop, and I shall be cleansed; thou shalt wash me, and I shall be whiter than snow.
 
 [18.8] Thou shalt make me hear joy and gladness; the bones which have been humbled shall rejoice.
 
@@ -348,7 +348,7 @@ Ecclesia library, source 6700fbc4.
 
 [21.2] For he says in one place:—The Spirit of the Lord is a lamp searching the inward parts.
 
-[21.3] Let us observe how near he is, and that nothing escapes him of oui thoughts or of the devices which we make.
+[21.3] Let us observe how near he is, and that nothing escapes him of our thoughts or of the devices which we make.
 
 [21.4] It is right, therefore, that we should not be deserters from his will.
 
@@ -358,7 +358,7 @@ Ecclesia library, source 6700fbc4.
 
 [21.7] Let them exhibit the lovely habit of purity, let them show forth the innocent will of meekness, let them make the gentleness of their tongue manifest by their silence, let them not give their affection by factious preference, but in holiness to all equally who fear God.
 
-[21.8] Let our children share in the instruction which is in Christ, let them learn the strength of humility before God, the powTer of pure love before God, how beautiful and great is his fear and how it gives salvation to all who live holily in it with a pure mind.
+[21.8] Let our children share in the instruction which is in Christ, let them learn the strength of humility before God, the power of pure love before God, how beautiful and great is his fear and how it gives salvation to all who live holily in it with a pure mind.
 
 [21.9] For he is a searcher of thoughts and desires; his breath is in us, and when he will he shall take it away.
 
@@ -410,7 +410,7 @@ Ecclesia library, source 6700fbc4.
 
 [25.2] There is a bird which is called the Phoenix. This is the only one of its kind, and lives 500 years; and when the time of its dissolution in death is at hand, it makes itself a sepulchre of frankincense and myrrh and other spices, and when the time is fulfilled it enters into it and dies.
 
-[25.3] Now, from the corruption of its flesh there springs a worm, which is nourished by the juices of the dead bird, and puts forth wings. Then, wrhen it has become strong, it takes up that sepulchre, in which are the bones of its predecessor, and carries them from the country of Arabia as far as Egypt until it reaches the city called Heliopolis,
+[25.3] Now, from the corruption of its flesh there springs a worm, which is nourished by the juices of the dead bird, and puts forth wings. Then, when it has become strong, it takes up that sepulchre, in which are the bones of its predecessor, and carries them from the country of Arabia as far as Egypt until it reaches the city called Heliopolis,
 
 [25.4] and in the daylight in the sight of all it flies to the altar of the Sun, places them there, and then starts back to its former home.
 
@@ -582,7 +582,7 @@ Ecclesia library, source 6700fbc4.
 
 [37.4] The great cannot exist without the small, nor the small without the great; there is a certain mixture among all, and herein lies the advantage.
 
-[37.5] Let us take our body; the head is nothing without the feet, likewise the feet are nothing withr out the head; the smallest members of our body are necessary and valuable to the whole body, but all work together and are united in a common subjection to preserve the whole body.
+[37.5] Let us take our body; the head is nothing without the feet, likewise the feet are nothing without the head; the smallest members of our body are necessary and valuable to the whole body, but all work together and are united in a common subjection to preserve the whole body.
 
 ## 38
 
@@ -658,7 +658,7 @@ Ecclesia library, source 6700fbc4.
 
 [43.4] and he said to them, Brethren, of whichsoever tribe the rod shall bud, this has God chosen for his priesthood and ministry.
 
-[43.5] And when it was daylight he called together all Israel, six hundred thousand men, and showed the seals- to the rulers of the tribes, and opened the Tabernacle of Testimony, and took forth the rods, and the rod of Aaron was found not only to have budded, but also to be bearing fruit.
+[43.5] And when it was daylight he called together all Israel, six hundred thousand men, and showed the seals to the rulers of the tribes, and opened the Tabernacle of Testimony, and took forth the rods, and the rod of Aaron was found not only to have budded, but also to be bearing fruit.
 
 [43.6] What do you think, beloved? That Moses did not know beforehand that this was going to happen? Assuredly he knew, but he acted thus that there should be no disorder in Israel, to glorify the name of the true and only God, to whom be the glory for ever and ever. Amen.
 
@@ -670,9 +670,9 @@ Ecclesia library, source 6700fbc4.
 
 [44.3] We consider therefore that it is not just to remove from their ministry those who were appointed by them, or later on by other eminent men, with the consent of the whole Church, and have ministered to the flock of Christ without blame, humbly, peaceably, and disinterestedly, and for many years have received a universally favourable testimony.
 
-[44.4] For our sin is not small, if we eject from the episcopate those who have blamelessly and liolily offered its sacrifices.
+[44.4] For our sin is not small, if we eject from the episcopate those who have blamelessly and holily offered its sacrifices.
 
-[44.5] Blessed are those Presbyters who finished their course before now, and have obtained a fruitful and perfect release in the ripeness of completed work, for they have now no fear that any shall move them from the place appointed \o them.
+[44.5] Blessed are those Presbyters who finished their course before now, and have obtained a fruitful and perfect release in the ripeness of completed work, for they have now no fear that any shall move them from the place appointed to them.
 
 [44.6] For we see that in spite of their good service you have removed some from the ministry which they fulfilled blamelessly.
 

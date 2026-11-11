@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -1660,13 +1660,13 @@ Ecclesia library, source 6700fbc4.
 
 [2CH.35.19] In the eighteenth year of the reign of Josias this passover was kept, after all these things that Josias did in the house.
 
-[2CH.35.NaN] And king Josias burnt those who had in them a divining spirit, and the wizards, and the images, and the idols, and the sodomites which were in the land of Juda and in Jerusalem, that he might confirm the words of the law that were written in the book which Chelcias the priest found in the house of the Lord.
+[2CH.35.19a] And king Josias burnt those who had in them a divining spirit, and the wizards, and the images, and the idols, and the sodomites which were in the land of Juda and in Jerusalem, that he might confirm the words of the law that were written in the book which Chelcias the priest found in the house of the Lord.
 
-[2CH.35.NaNb] There was no king like him before him, who turned to the Lord with all his heart, and all his soul, and all his strength, according to all the law of Moses, and after him there rose up none like him.
+[2CH.35.19b] There was no king like him before him, who turned to the Lord with all his heart, and all his soul, and all his strength, according to all the law of Moses, and after him there rose up none like him.
 
-[2CH.35.NaNbb] Nevertheless the Lord turned not from the anger of his fierce wrath, wherewith the Lord was greatly angry against Juda, for all the provocations wherewith Manasses provoked him:
+[2CH.35.19c] Nevertheless the Lord turned not from the anger of his fierce wrath, wherewith the Lord was greatly angry against Juda, for all the provocations wherewith Manasses provoked him:
 
-[2CH.35.NaNbbb] and the Lord said, I will even remove Juda also from my presence, as I have removed Israel, and I have rejected the city which I chose, even Jerusalem, and the house of which I said, My name shall be there.
+[2CH.35.19d] and the Lord said, I will even remove Juda also from my presence, as I have removed Israel, and I have rejected the city which I chose, even Jerusalem, and the house of which I said, My name shall be there.
 
 [2CH.35.20] And Pharao Nechao king of Egypt went up against the king of the Assyrians to the river Euphrates, and king Josias went to meet him.
 
@@ -1690,27 +1690,27 @@ Ecclesia library, source 6700fbc4.
 
 [2CH.36.2] Joachaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem:
 
-[2CH.36.NaN] and his mother's name was Amital, daughter of Jeremias of Lobna.
+[2CH.36.2a] and his mother's name was Amital, daughter of Jeremias of Lobna.
 
-[2CH.36.NaNb] And he did that which was evil in the sight of the Lord, according to all that his fathers had done.
+[2CH.36.2b] And he did that which was evil in the sight of the Lord, according to all that his fathers had done.
 
-[2CH.36.NaNbb] And Pharao Nechao bound him in Deblatha in the land of Æmath, that he might not reign in Jerusalem.
+[2CH.36.2c] And Pharao Nechao bound him in Deblatha in the land of Æmath, that he might not reign in Jerusalem.
 
 [2CH.36.3] And the king brought him over to Egypt; and imposed a tribute on the land, a hundred talents of silver and a talent of gold.
 
 [2CH.36.4] And Pharao Nechao made Eliakim the son of Josias king over Juda in the room of his father Josias, and changed his name to Joakim. And Pharao Nechao took his brother Joachaz and brought him into Egypt, and he died there:
 
-[2CH.36.NaNbbb] but he had given the silver and the gold to Pharao. At that time the land began to be taxed to give the money at the command of Pharao; and every one as he could borrowed the silver and the gold of the people of the land, to give to Pharao Nechao.
+[2CH.36.4a] but he had given the silver and the gold to Pharao. At that time the land began to be taxed to give the money at the command of Pharao; and every one as he could borrowed the silver and the gold of the people of the land, to give to Pharao Nechao.
 
 [2CH.36.5] Joachim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem: and his mother's name was Zechora, daughter of Nerias of Rama. And he did that which was evil in the sight of the Lord, according to all that his fathers did.
 
-[2CH.36.NaNbbbb] In his days came Nabuchodonosor king of Babylon into the land, and he served him three years, and then revolted from him.
+[2CH.36.5a] In his days came Nabuchodonosor king of Babylon into the land, and he served him three years, and then revolted from him.
 
-[2CH.36.NaNbbbbb] And the Lord sent against them the Chaldeans, and plundering parties of Syrians, and plundering parties of the Moabites, and of the children of Ammon, and of Samaria; but after this they departed, according to the word of the Lord by the hand of his servants the prophets.
+[2CH.36.5b] And the Lord sent against them the Chaldeans, and plundering parties of Syrians, and plundering parties of the Moabites, and of the children of Ammon, and of Samaria; but after this they departed, according to the word of the Lord by the hand of his servants the prophets.
 
-[2CH.36.NaNbbbbbb] Nevertheless the wrath of the Lord was upon Juda, so that they should be removed from his presence, because of the sins of Manasses in all that he did,
+[2CH.36.5c] Nevertheless the wrath of the Lord was upon Juda, so that they should be removed from his presence, because of the sins of Manasses in all that he did,
 
-[2CH.36.NaNbbbbbbb] and for the innocent blood which Joakim shed, for he had filled Jerusalem with innocent blood; yet the Lord would not utterly destroy them.
+[2CH.36.5d] and for the innocent blood which Joakim shed, for he had filled Jerusalem with innocent blood; yet the Lord would not utterly destroy them.
 
 [2CH.36.6] And Nabuchodonosor king of Babylon came up against him, and bound him with brazen fetters, and carried him away to Babylon.
 

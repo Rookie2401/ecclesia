@@ -6,9 +6,9 @@ Credit: The Second Epistle of Clement to the Corinthians, in The Apostolic Fathe
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1271/tlg002/tlg1271.tlg002.perseus-eng1.xml
-Retrieved: 2026-11-05 (source file 38501 bytes, SHA-256 9950613219c4096169158c2905a9bf81287541d243f3ef66aff12413de271521)
+Retrieved: 2026-11-11 (source file 38501 bytes, SHA-256 9950613219c4096169158c2905a9bf81287541d243f3ef66aff12413de271521)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":40,"pb":14}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -34,7 +34,7 @@ Ecclesia library, source 6700fbc4.
 
 [2.1] Rejoice thou barren that barest not; break forth and cry thou that travailest not; for the children of the deserted are many more than hers that hath a husband. In saying, Rejoice thou barren that barest not, he meant us, for our church was barren before children were given her.
 
-[2.2] And in saying, Cry thou that travailest not, he means this,—that we should offer our prayers in sincerity to God, and not grow wreary as women that give birth.
+[2.2] And in saying, Cry thou that travailest not, he means this,—that we should offer our prayers in sincerity to God, and not grow weary as women that give birth.
 
 [2.3] And in saying, For the children of the deserted are many more than hers that hath a husband, he meant that our people seemed to be deserted by God, but that now we who have believed have become many more than those who seemed to have God.
 

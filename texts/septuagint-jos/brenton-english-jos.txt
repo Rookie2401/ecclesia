@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -388,17 +388,17 @@ Ecclesia library, source 6700fbc4.
 
 [JOS.9.2] they came all together at the same time to make war against Joshua and Israel.
 
-[JOS.9.NaN] Then Joshua built an altar to the Lord God of Israel in mount Gæbal,
+[JOS.9.2a] Then Joshua built an altar to the Lord God of Israel in mount Gæbal,
 
-[JOS.9.NaNb] as Moses the servant of the Lord commanded the children of Israel, as it is written in the law of Moses, an altar of unhewn stones, on which iron had not been lifted up; and he offered there whole-burnt-offerings to the Lord, and a peace-offering.
+[JOS.9.2b] as Moses the servant of the Lord commanded the children of Israel, as it is written in the law of Moses, an altar of unhewn stones, on which iron had not been lifted up; and he offered there whole-burnt-offerings to the Lord, and a peace-offering.
 
-[JOS.9.NaNbb] And Joshua wrote upon the stones a copy of the law, even the law of Moses, before the children of Israel.
+[JOS.9.2c] And Joshua wrote upon the stones a copy of the law, even the law of Moses, before the children of Israel.
 
-[JOS.9.NaNbbb] And all Israel, and their elders, and their judges, and their scribes, passed on one side and on the other before the ark; and the priests and the Levites took up the ark of the covenant of the Lord; and the stranger and the native were there, who were half of them near mount Garizin, and half near mount Gæbal, as Moses the servant of the Lord commanded at first, to bless the people.
+[JOS.9.2d] And all Israel, and their elders, and their judges, and their scribes, passed on one side and on the other before the ark; and the priests and the Levites took up the ark of the covenant of the Lord; and the stranger and the native were there, who were half of them near mount Garizin, and half near mount Gæbal, as Moses the servant of the Lord commanded at first, to bless the people.
 
-[JOS.9.NaNbbbb] And afterwards Joshua read accordingly all the words of this law, the blessings and the curses, according to all things written in the law of Moses.
+[JOS.9.2e] And afterwards Joshua read accordingly all the words of this law, the blessings and the curses, according to all things written in the law of Moses.
 
-[JOS.9.NaNbbbbb] There was not a word of all that Moses charged Joshua, which Joshua read not in the ears of all the assembly of the children of Israel, the men, and the women, and the children, and the strangers that joined themselves to Israel.
+[JOS.9.2f] There was not a word of all that Moses charged Joshua, which Joshua read not in the ears of all the assembly of the children of Israel, the men, and the women, and the children, and the strangers that joined themselves to Israel.
 
 [JOS.9.3] And the inhabitants of Gabaon heard of all that the Lord did to Jericho and Gai.
 
@@ -850,7 +850,7 @@ Ecclesia library, source 6700fbc4.
 
 [JOS.15.59] and Magaroth, and Bæthanam, and Thecum; six cities, and their villages;
 
-[JOS.15.NaN] Theco, and Ephratha, this is Bæthleem, and Phagor, and Ætan, and Culon, and Tatam, and Thobes, and Carem, and Galem, and Thether, and Manocho: eleven cities, and their villages,
+[JOS.15.59a] Theco, and Ephratha, this is Bæthleem, and Phagor, and Ætan, and Culon, and Tatam, and Thobes, and Carem, and Galem, and Thether, and Manocho: eleven cities, and their villages,
 
 [JOS.15.60] Cariathbaal, this is the city of Jarim, and Sotheba: two cities, and their villages:
 
@@ -1074,11 +1074,11 @@ Ecclesia library, source 6700fbc4.
 
 [JOS.19.47] This is the inheritance of the tribe of the children of Dan, according to their families, these are their cities and their villages:
 
-[JOS.19.NaN] and the children of Dan did not drive out the Amorite who afflicted them in the mountain; and the Amorite would not suffer them to come down into the valley, but they forcibly took from them the border of their portion.
+[JOS.19.47a] and the children of Dan did not drive out the Amorite who afflicted them in the mountain; and the Amorite would not suffer them to come down into the valley, but they forcibly took from them the border of their portion.
 
 [JOS.19.48] And the sons of Dan went and fought against Lachis, and took it, and smote it with the edge of the sword; and they dwelt in it, and called the name of it Lasendan:
 
-[JOS.19.NaNb] and the Amorite continued to dwell in Edom and in Salamin: and the hand of Ephraim prevailed against them, and they became tributaries to them.
+[JOS.19.48a] and the Amorite continued to dwell in Edom and in Salamin: and the hand of Ephraim prevailed against them, and they became tributaries to them.
 
 [JOS.19.49] And they proceeded to take possession of the land according to their borders, and the children of Israel gave an inheritance to Joshua the son of Naue among them,
 
@@ -1186,13 +1186,13 @@ Ecclesia library, source 6700fbc4.
 
 [JOS.21.42] and their suburbs round about these cities: a city and the suburbs round about the city to all these cities:
 
-[JOS.21.NaN] and Joshua ceased dividing the land by their borders:
+[JOS.21.42a] and Joshua ceased dividing the land by their borders:
 
-[JOS.21.NaNb] and the children of Israel gave a portion to Joshua because of the commandment of the Lord: they gave him the city which he asked: they gave him Thamnasachar in mount Ephraim;
+[JOS.21.42b] and the children of Israel gave a portion to Joshua because of the commandment of the Lord: they gave him the city which he asked: they gave him Thamnasachar in mount Ephraim;
 
-[JOS.21.NaNbb] and Joshua built the city, and dwelt in it:
+[JOS.21.42c] and Joshua built the city, and dwelt in it:
 
-[JOS.21.NaNbbb] and Joshua took the knives of stone, wherewith he circumcised the children of Israel that were born in the desert by the way, and put them in Thamnasachar.
+[JOS.21.42d] and Joshua took the knives of stone, wherewith he circumcised the children of Israel that were born in the desert by the way, and put them in Thamnasachar.
 
 [JOS.21.43] So the Lord gave to Israel all the land which he sware to give to their fathers: and they inherited it, and dwelt in it.
 
@@ -1368,12 +1368,12 @@ Ecclesia library, source 6700fbc4.
 
 [JOS.24.31] And they buried him by the borders of his inheritance in Thamnasarach in the mount of Ephraim, northward of the mount of Galaad:
 
-[JOS.24.NaN] there they put with him into the tomb in which they buried him, the knives of stone with which he circumcised the children of Israel in Galgala, when he brought them out of Egypt, as the Lord appointed them; and there they are to this day.
+[JOS.24.31a] there they put with him into the tomb in which they buried him, the knives of stone with which he circumcised the children of Israel in Galgala, when he brought them out of Egypt, as the Lord appointed them; and there they are to this day.
 
 [JOS.24.32] And the children of Israel brought up the bones of Joseph out of Egypt, and buried them in Sicima, in the portion of the land which Jacob bought of the Amorites who dwelt in Sicima for a hundred ewe-lambs; and he gave it to Joseph for a portion.
 
 [JOS.24.33] And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
-[JOS.24.NaNb] In that day the children of Israel took the ark of God, and carried it about among them; and Phinees exercised the priest's office in the room of Eleazar his father till he died, and he was buried in his own place Gabaar:
+[JOS.24.33a] In that day the children of Israel took the ark of God, and carried it about among them; and Phinees exercised the priest's office in the room of Eleazar his father till he died, and he was buried in his own place Gabaar:
 
-[JOS.24.NaNbb] but the children of Israel departed every one to their place, and to their own city: and the children of Israel worshipped Astarte, and Astaroth, and the gods of the nations round about them; and the Lord delivered them into the hands of Eglom king of Moab and he ruled over them eighteen years.
+[JOS.24.33b] but the children of Israel departed every one to their place, and to their own city: and the children of Israel worshipped Astarte, and Astaroth, and the gods of the nations round about them; and the Lord delivered them into the hands of Eglom king of Moab and he ruled over them eighteen years.

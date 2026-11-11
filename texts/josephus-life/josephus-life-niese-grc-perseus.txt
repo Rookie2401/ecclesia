@@ -6,9 +6,9 @@ Credit: Ἰωσήπου βίος, in Flavii Iosephi opera, ed. Benedikt Niese (B
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg002/tlg0526.tlg002.perseus-grc2.xml
-Retrieved: 2026-11-10 (source file 295787 bytes, SHA-256 6ec49dd76faba814b4d34e9cb4ab7734b02e1fdf796ef62aa816d939221b7e13)
+Retrieved: 2026-11-11 (source file 295787 bytes, SHA-256 6ec49dd76faba814b4d34e9cb4ab7734b02e1fdf796ef62aa816d939221b7e13)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":49}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -460,7 +460,7 @@ Ecclesia library, source 6700fbc4.
 
 [187] κἀγὼ πρὸς οὐδέτερον ἀντεῖπον ὧν ἠξίωσαν. ἀφίσταται δὲ τοῦ βασιλέως καὶ ἡ Γαυλανῖτις χώρα μέχρι κώμης Σολύμης. Σελευκείᾳ δὲ καὶ Σωγάνῃ φύσει κώμαις ὀχυρωτάταις ᾠκοδόμησα τείχη, τάς τε κατὰ τὴν ἄνω Γαλιλαίαν κώμας καὶ πάνυ πετρώδεις οὔσας ἐτείχισα παραπλησίως.
 
-[188] ὀνόματα δʼ αὐταῖς Ἰάμνια Ἀμηρὼθ Ἀχαράβη. ὠχύρωσα δὲ καὶ τὰς ἐν τῇ κάτω Γαλιλαίᾳ πόλεις μὲν Ταριχέας Τιβεριάδα Σέπφωριν, κώμας δὲ Ἀρβήλων σπήλαιον, Βηρσουβαί, Σελαμήν, Ἰωτάπατα, Καφαραθʼ κωμος1 σωγαναι παφα καὶ τὸ Ἰταβύριον ὄρος. εἰς ταύτας καὶ σῖτον ἀπεθέμην πολὺν καὶ ὅπλα πρὸς ἀσφάλειαν τὴν μετὰ ταῦτα.
+[188] ὀνόματα δʼ αὐταῖς Ἰάμνια Ἀμηρὼθ Ἀχαράβη. ὠχύρωσα δὲ καὶ τὰς ἐν τῇ κάτω Γαλιλαίᾳ πόλεις μὲν Ταριχέας Τιβεριάδα Σέπφωριν, κώμας δὲ Ἀρβήλων σπήλαιον, Βηρσουβαί, Σελαμήν, Ἰωτάπατα, Καφαραθʼ κωμος σωγαναι παφα καὶ τὸ Ἰταβύριον ὄρος. εἰς ταύτας καὶ σῖτον ἀπεθέμην πολὺν καὶ ὅπλα πρὸς ἀσφάλειαν τὴν μετὰ ταῦτα.
 
 ## Chapter 38
 

@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -148,11 +148,11 @@ Ecclesia library, source 6700fbc4.
 
 [LAM.3.21] This will I lay up in my heart, therefore will I endure.
 
-[LAM.3.NaN] Heth. It is the mercies of the Lord, that he has not failed me, because his compassions are not exhausted. Pity us, O Lord, early every month: for we are not brought to an end, because his compassions are not exhausted.
+[LAM.3.22] Heth. It is the mercies of the Lord, that he has not failed me, because his compassions are not exhausted. Pity us, O Lord, early every month: for we are not brought to an end, because his compassions are not exhausted.
 
-[LAM.3.NaNb] They are new every morning: great is thy faithfulness.
+[LAM.3.23] They are new every morning: great is thy faithfulness.
 
-[LAM.3.NaNbb] The Lord is my portion, says my soul; therefore will I wait for him.
+[LAM.3.24] The Lord is my portion, says my soul; therefore will I wait for him.
 
 [LAM.3.25] Teth. The Lord is good to them that wait for him: the soul which shall seek him
 

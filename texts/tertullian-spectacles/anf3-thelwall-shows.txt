@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/The_Shows,_or_De_Spectaculis
 Retrieved: 2026-11-05 (source file 71800 bytes, SHA-256 06ca5d7bea9230950ee242276e49bc843e39f49042aa757af8c3f7abfe83ba8a)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":30}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

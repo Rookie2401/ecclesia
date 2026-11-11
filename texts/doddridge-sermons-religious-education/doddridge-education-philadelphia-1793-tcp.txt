@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/textcreationpartnership/N19503/master/N19503.xml
 Retrieved: 2026-11-05 (source file 215967 bytes, SHA-256 83c6d2baaa4c737cea8bf1f2190274d28ff0c934d5ffd08517f8548e512c54b7)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":126,"unread":110}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

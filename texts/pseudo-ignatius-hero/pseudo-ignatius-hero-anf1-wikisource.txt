@@ -6,15 +6,15 @@ Credit: The Epistle of Ignatius to Hero, a Deacon of Antioch, in The Ante-Nicene
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_Hero,_a_Deacon_of_Antioch
-Retrieved: 2026-11-10 (source file 10896 bytes, SHA-256 5cb9e78d8c0643d83b1bae77ed9f284ed2989f7f747a0736a48ae19adb3f3264)
+Retrieved: 2026-11-11 (source file 10896 bytes, SHA-256 5cb9e78d8c0643d83b1bae77ed9f284ed2989f7f747a0736a48ae19adb3f3264)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":31}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
 ## The Epistle of Ignatius to Hero, a Deacon of Antioch
 
-[s1.1] Ignatius, who is also called Theophorus, to Hero, the deacon of Christ, and the servant of God, a man honoured by God, and most dearly loved as well as esteemed, who carries Christ and the Spirit within him, and who is mine own son in faith and love: Grace, mercy, and peace from Almighty God, and from Christ Jesus our Lord, His only-begotten Son, “who gave Himself for our sins, that He might deliver us from the present evil world,” and preserve us unto His heavenly kingdom.
+[0.1] Ignatius, who is also called Theophorus, to Hero, the deacon of Christ, and the servant of God, a man honoured by God, and most dearly loved as well as esteemed, who carries Christ and the Spirit within him, and who is mine own son in faith and love: Grace, mercy, and peace from Almighty God, and from Christ Jesus our Lord, His only-begotten Son, “who gave Himself for our sins, that He might deliver us from the present evil world,” and preserve us unto His heavenly kingdom.
 
 ## Chapter I.—Exhortations to earnestness and moderation.
 

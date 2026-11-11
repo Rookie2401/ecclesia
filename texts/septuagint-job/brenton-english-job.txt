@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -78,15 +78,15 @@ Ecclesia library, source 6700fbc4.
 
 [JOB.2.9] And when much time had passed, his wife said to him, How long wilt thou hold out, saying,
 
-[JOB.2.NaN] Behold, I wait yet a little while, expecting the hope of my deliverance?
+[JOB.2.9a] Behold, I wait yet a little while, expecting the hope of my deliverance?
 
-[JOB.2.NaNb] for, behold, thy memorial is abolished from the earth, even thy sons and daughters, the pangs and pains of my womb which I bore in vain with sorrows;
+[JOB.2.9b] for, behold, thy memorial is abolished from the earth, even thy sons and daughters, the pangs and pains of my womb which I bore in vain with sorrows;
 
-[JOB.2.NaNbb] and thou thyself sittest down to spend the nights in the open air among the corruption of worms,
+[JOB.2.9c] and thou thyself sittest down to spend the nights in the open air among the corruption of worms,
 
-[JOB.2.NaNbbb] and I am a wanderer and a servant from place to place and house to house, waiting for the setting of the sun, that I may rest from my labours and my pangs which now beset me:
+[JOB.2.9d] and I am a wanderer and a servant from place to place and house to house, waiting for the setting of the sun, that I may rest from my labours and my pangs which now beset me:
 
-[JOB.2.NaNbbbb] but say some word against the Lord, and die.
+[JOB.2.9e] but say some word against the Lord, and die.
 
 [JOB.2.10] But he looked on her, and said to her, Thou hast spoken like one of the foolish women. If we have received good things of the hand of the Lord, shall we not endure evil things? In all these things that happened to him, Job sinned not at all with his lips before God.
 
@@ -924,7 +924,7 @@ Ecclesia library, source 6700fbc4.
 
 [JOB.19.4] Yea verily, I have erred in truth, (but the error abides with myself)
 
-[JOB.19.NaN] in having spoken words which it was not right to speak; and my words err, and are unseasonable.
+[JOB.19.4a] in having spoken words which it was not right to speak; and my words err, and are unseasonable.
 
 [JOB.19.5] But alas! for ye magnify yourselves against me, and insult me with reproach.
 
@@ -1198,7 +1198,7 @@ Ecclesia library, source 6700fbc4.
 
 [JOB.23.15] Therefore am I troubled at him; and when I was reproved, I thought of him.
 
-[JOB.23.NaN] Therefore let me take good heed before him: I will consider, and be afraid of him.
+[JOB.23.15a] Therefore let me take good heed before him: I will consider, and be afraid of him.
 
 [JOB.23.16] But the Lord has softened my heart, and the Almighty has troubled me.
 
@@ -1884,9 +1884,9 @@ Ecclesia library, source 6700fbc4.
 
 [JOB.36.28] The ancient heavens shall flow, and the clouds overshadow innumerable mortals:
 
-[JOB.36.NaN] he has fixed a time to cattle, and they know the order of rest.
+[JOB.36.28a] he has fixed a time to cattle, and they know the order of rest.
 
-[JOB.36.NaNb] Yet by all these things thy understanding is not astonished, neither is thy mind disturbed in thy body.
+[JOB.36.28b] Yet by all these things thy understanding is not astonished, neither is thy mind disturbed in thy body.
 
 [JOB.36.29] And though one should understand the outspreadings of the clouds, or the measure of his tabernacle;
 
@@ -2250,12 +2250,12 @@ Ecclesia library, source 6700fbc4.
 
 [JOB.42.17] And Job died, an old man and full of days:
 
-[JOB.42.NaN] and it is written that he will rise again with those whom the Lord raises up.
+[JOB.42.17a] and it is written that he will rise again with those whom the Lord raises up.
 
-[JOB.42.NaNb] This man is described in the Syriac book as living in the land of Ausis, on the borders of Idumea and Arabia: and his name before was Jobab;
+[JOB.42.17b] This man is described in the Syriac book as living in the land of Ausis, on the borders of Idumea and Arabia: and his name before was Jobab;
 
-[JOB.42.NaNbb] and having taken an Arabian wife, he begot a son whose name was Ennon. And he himself was the son of his father Zare, one of the sons of Esau, and of his mother Bosorrha, so that he was the fifth from Abraam.
+[JOB.42.17c] and having taken an Arabian wife, he begot a son whose name was Ennon. And he himself was the son of his father Zare, one of the sons of Esau, and of his mother Bosorrha, so that he was the fifth from Abraam.
 
-[JOB.42.NaNbbb] And these were the kings who reigned in Edom, which country he also ruled over: first, Balac, the son of Beor, and the name of his city was Dennaba: but after Balac, Jobab, who is called Job: and after him Asom, who was governor out of the country of Thæman: and after him Adad, the son of Barad, who destroyed Madiam in the plain of Moab; and the name of his city was Gethaim.
+[JOB.42.17d] And these were the kings who reigned in Edom, which country he also ruled over: first, Balac, the son of Beor, and the name of his city was Dennaba: but after Balac, Jobab, who is called Job: and after him Asom, who was governor out of the country of Thæman: and after him Adad, the son of Barad, who destroyed Madiam in the plain of Moab; and the name of his city was Gethaim.
 
-[JOB.42.NaNbbbb] And his friends who came to him were Eliphaz, of the children of Esau, king of the Thæmanites, Baldad sovereign of the Sauchæans, Sophar king of the Minæans.
+[JOB.42.17e] And his friends who came to him were Eliphaz, of the children of Esau, king of the Thæmanites, Baldad sovereign of the Sauchæans, Sophar king of the Minæans.

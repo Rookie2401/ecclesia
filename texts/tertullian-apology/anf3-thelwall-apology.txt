@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/Apology
 Retrieved: 2026-11-05 (source file 226498 bytes, SHA-256 dc8d3d6f695cbb7436b577bbdcd7ffb19b0b50af0deba01885e2910d8b7b43b4)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":84}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

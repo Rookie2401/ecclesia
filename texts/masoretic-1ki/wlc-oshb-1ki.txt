@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/1Kgs.xml
 Retrieved: 2026-11-05 (source file 1189874 bytes, SHA-256 832ba10f605dce34c4888ee0a795d91edc2b293391d6ae9c36c36c6350761a3e)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":106}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

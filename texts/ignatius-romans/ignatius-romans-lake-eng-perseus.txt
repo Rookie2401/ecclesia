@@ -6,9 +6,9 @@ Credit: Ignatius, To the Romans (epistle 4), in The Apostolic Fathers, with an E
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml
-Retrieved: 2026-11-05 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
+Retrieved: 2026-11-11 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":17,"pb":7}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -38,17 +38,17 @@ Ecclesia library, source 6700fbc4.
 
 ## 4
 
-[4.1] I am writing to all the Churches, and I give injunctions to all men, that I am dying willingly for God’s sake, if you do not hinder it. I beseech you, be not an unseasonable kindness to me. Suffer me to be eaten by tlie beasts, through whom I can attain to God. I am God’s wheat, and I am ground by the teeth of wild beasts that I may be found pure bread of Christ.
+[4.1] I am writing to all the Churches, and I give injunctions to all men, that I am dying willingly for God’s sake, if you do not hinder it. I beseech you, be not an unseasonable kindness to me. Suffer me to be eaten by the beasts, through whom I can attain to God. I am God’s wheat, and I am ground by the teeth of wild beasts that I may be found pure bread of Christ.
 
 [4.2] Rather entice the wild beasts that they may become my tomb, and leave no trace of my body, that when I fall asleep I be not burdensome to any. Then shall I be truly a disciple of Jesus Christ, when the world shall not even see my body. Beseech Christ on my behalf, that I may be found a sacrifice through these instruments.
 
-[4.3] I do not order you as did Peter and Paul; they were Apostles, 1 am a convict; they were free, I am even until now a slave. But if I suffer I shall be Jesus Christ’s freedman, and in him I shall rise free. Now I am learning in my bonds to give up all desires.
+[4.3] I do not order you as did Peter and Paul; they were Apostles, I am a convict; they were free, I am even until now a slave. But if I suffer I shall be Jesus Christ’s freedman, and in him I shall rise free. Now I am learning in my bonds to give up all desires.
 
 ## 5
 
 [5.1] From Syria to Rome I am fighting with wild beasts, by land and sea, by night and day, bound to ten leopards (that is, a company of soldiers), and they become worse for kind treatment. Now I become the more a disciple for their ill deeds, but not by this am I justified.
 
-[5.2] I long for the beasts that are prepared for me; and I pray that they may be found prompt for me; I will even entice them to devour me promptly; not as has happened to some whom they have not touched from fear; even if they be unwilling of themselves, 1 will force them to it.
+[5.2] I long for the beasts that are prepared for me; and I pray that they may be found prompt for me; I will even entice them to devour me promptly; not as has happened to some whom they have not touched from fear; even if they be unwilling of themselves, I will force them to it.
 
 [5.3] Grant me this favour. I know what is expedient for me; now I am beginning to be a disciple. May nothing of things seen or unseen envy me my attaining to Jesus Christ. Let there come on me fire, and cross, and struggles with wild beasts, cutting, and tearing asunder, rackings of bones, mangling of limbs, crushing of my whole body, cruel tortures of the devil, may I but attain to Jesus Christ!
 

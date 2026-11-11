@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -274,7 +274,7 @@ Ecclesia library, source 6700fbc4.
 
 [2SA.5.16] And Elisama, and Elidae, and Eliphalath,
 
-[2SA.5.NaN] Samae, Jessibath, Nathan, Galamaan, Jebaar, Theësus, Eliphalat, Naged, Naphec, Janathan, Leasamys, Baalimath, Eliphaath.
+[2SA.5.16a] Samae, Jessibath, Nathan, Galamaan, Jebaar, Theësus, Eliphalat, Naged, Naphec, Janathan, Leasamys, Baalimath, Eliphaath.
 
 [2SA.5.17] And the Philistines heard that David was anointed king over Israel; and all the Philistines went up to seek David; and David heard of it, and went down to the strong hold.
 
@@ -1392,11 +1392,11 @@ Ecclesia library, source 6700fbc4.
 
 [2SA.23.37] Elie the Ammanite.
 
-[2SA.23.NaN] Adroi of the brooks.
+[2SA.23.37a] Adroi of the brooks.
 
-[2SA.23.NaNb] Gadabiel son of the Arabothæite.
+[2SA.23.37b] Gadabiel son of the Arabothæite.
 
-[2SA.23.NaNbb] Gelore the Bethorite, armour-bearer to Joab, son of Saruia.
+[2SA.23.37c] Gelore the Bethorite, armour-bearer to Joab, son of Saruia.
 
 [2SA.23.38] Iras the Ethirite. Gerab the Ethenite.
 

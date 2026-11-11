@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-10 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -566,8 +566,6 @@ Ecclesia library, source 6700fbc4.
 
 [4MA.10.4] Now then, whatever instrument of vengeance ye have, apply it to my body, for ye are not able to touch, even if ye wish it, my soul.
 
-[4MA.10.NaN] Now then, whatever instrument of vengeance ye have, apply it to my body, for ye are not able to touch, even if ye wish it, my soul.
-
 [4MA.10.5] But they, highly incensed at his boldness of speech, dislocated his hands and feet with racking engines, and wrenching them from their sockets, dismembered him.
 
 [4MA.10.6] And they dragged round his fingers, and his arms, and his legs, and his ankles.
@@ -619,10 +617,6 @@ Ecclesia library, source 6700fbc4.
 [4MA.11.7] hadst thou been capable of the higher feelings of men, and possessed the hope of salvation from God.
 
 [4MA.11.8] Behold, now, being alien from God, thou makest war against those who are religious toward God.
-
-[4MA.11.NaN] hadst thou been capable of the higher feelings of men, and possessed the hope of salvation from God.
-
-[4MA.11.NaNb] Behold, now, being alien from God, thou makest war against those who are religious toward God.
 
 [4MA.11.9] As he said this, the spearbearers bound him, and drew him to the catapelt:
 

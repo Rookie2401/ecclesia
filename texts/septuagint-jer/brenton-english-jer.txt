@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -546,7 +546,7 @@ Ecclesia library, source 6700fbc4.
 
 [JER.10.9] it is forged silver brought from Tharsis, gold will come from Mophaz, and the work of goldsmiths: they are all the works of craftsmen, they will clothe themselves with blue and scarlet.
 
-[JER.10.NaN] They must certainly be borne, for they cannot ride of themselves. Fear them not; for they cannot do any evil, and there is no good in them.
+[JER.10.5b] They must certainly be borne, for they cannot ride of themselves. Fear them not; for they cannot do any evil, and there is no good in them.
 
 [JER.10.11] Thus shall ye say to them, Let the gods which have not made heaven and earth perish from off the earth, and from under this sky.
 
@@ -1186,9 +1186,9 @@ Ecclesia library, source 6700fbc4.
 
 [JER.23.40] And I will bring upon you an everlasting reproach, and everlasting disgrace, which shall not be forgotten.
 
-[JER.23.NaN] Therefore, behold, the days come, saith the Lord, when they shall no more say, The Lord lives, who brought up the house of Israel out of the land of Egypt;
+[JER.23.40a] Therefore, behold, the days come, saith the Lord, when they shall no more say, The Lord lives, who brought up the house of Israel out of the land of Egypt;
 
-[JER.23.NaNb] but The Lord lives, who has gathered the whole seed of Israel from the north land, and from all the countries whither he had driven them out, and has restored them into their own land.
+[JER.23.40b] but The Lord lives, who has gathered the whole seed of Israel from the north land, and from all the countries whither he had driven them out, and has restored them into their own land.
 
 ## Jeremiah 24
 

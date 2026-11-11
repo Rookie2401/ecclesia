@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/The_Five_Books_Against_Marcion
 Retrieved: 2026-11-05 (source file 1203979 bytes, SHA-256 f9b2497bdbdfd0419e05f8948d50d9b7b58d5dc160a58b27715cb8bdaac94c37)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":3815}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

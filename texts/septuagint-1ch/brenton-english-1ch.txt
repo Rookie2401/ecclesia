@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -1204,7 +1204,7 @@ Ecclesia library, source 6700fbc4.
 
 [1CH.16.23] Sing ye to the Lord, all the earth; proclaim his salvation from day to day.
 
-[1CH.16.NaN] Declare among the nations his glory, his wondrous deeds among all peoples.
+[1CH.16.24] Declare among the nations his glory, his wondrous deeds among all peoples.
 
 [1CH.16.25] For the Lord is great, and greatly to be praised: he is to be feared above all gods.
 

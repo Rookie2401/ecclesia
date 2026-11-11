@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150,"emptyVerses":1}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -158,7 +158,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.3.16] For length of existence and years of life are in her right hand; and in her left hand are wealth and glory:
 
-[PRO.3.NaN] out of her mouth proceeds righteousness, and she carries law and mercy upon her tongue.
+[PRO.3.16a] out of her mouth proceeds righteousness, and she carries law and mercy upon her tongue.
 
 [PRO.3.17] Her ways are good ways, and all her paths are peaceful.
 
@@ -172,7 +172,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.3.22] that thy soul may live, and that there may be grace round thy neck;
 
-[PRO.3.NaNb] and it shall be health to thy flesh, and safety to thy bones:
+[PRO.3.22a] and it shall be health to thy flesh, and safety to thy bones:
 
 [PRO.3.23] that thou mayest go confidently in peace in all thy ways, and that thy foot may not stumble.
 
@@ -254,9 +254,9 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.4.27] Turn not aside to the right hand nor to the left, but turn away thy foot from an evil way:
 
-[PRO.4.NaN] [for God knows the ways on the right hand, but those on the left are crooked:]
+[PRO.4.27a] [for God knows the ways on the right hand, but those on the left are crooked:]
 
-[PRO.4.NaNb] and he will make thy ways straight, and will guide thy steps in peace.
+[PRO.4.27b] and he will make thy ways straight, and will guide thy steps in peace.
 
 ## Proverbs 5
 
@@ -324,11 +324,11 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.6.8] he prepares food for himself in the summer, and lays by abundant store in harvest.
 
-[PRO.6.NaN] Or go to the bee, and learn how diligent she is, and how earnestly she is engaged in her work;
+[PRO.6.8a] Or go to the bee, and learn how diligent she is, and how earnestly she is engaged in her work;
 
-[PRO.6.NaNb] whose labours kings and private men use for health, and she is desired and respected by all:
+[PRO.6.8b] whose labours kings and private men use for health, and she is desired and respected by all:
 
-[PRO.6.NaNbb] though weak in body, she is advanced by honouring wisdom.
+[PRO.6.8c] though weak in body, she is advanced by honouring wisdom.
 
 [PRO.6.9] How long wilt thou lie, O sluggard? and when wilt thou awake out of sleep?
 
@@ -336,7 +336,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.6.11] Then poverty comes upon thee as an evil traveller, and want as a swift courier:
 
-[PRO.6.NaNbbb] but if thou be diligent, thine harvest shall arrive as a fountain, and poverty shall flee away as a bad courier.
+[PRO.6.11a] but if thou be diligent, thine harvest shall arrive as a fountain, and poverty shall flee away as a bad courier.
 
 [PRO.6.12] A foolish man and a transgressor goes in ways that are not good.
 
@@ -390,7 +390,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.7.1] My son, keep my words, and hide with thee my commandments.
 
-[PRO.7.NaN] My son, honour the Lord, and thou shalt be strong; and fear none but him:
+[PRO.7.1a] My son, honour the Lord, and thou shalt be strong; and fear none but him:
 
 [PRO.7.2] keep my commandments, and thou shalt live; and keep my words as the pupils of thine eyes.
 
@@ -488,7 +488,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.8.21] that I may divide substance to them that love me, and may fill their treasures with good things.
 
-[PRO.8.NaN] If I declare to you the things that daily happen, I will remember also to recount the things of old.
+[PRO.8.21a] If I declare to you the things that daily happen, I will remember also to recount the things of old.
 
 [PRO.8.22] The Lord made me the beginning of his ways for his works.
 
@@ -540,17 +540,17 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.9.10] The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding:
 
-[PRO.9.NaN] for to know the law is the character of a sound mind.
+[PRO.9.10a] for to know the law is the character of a sound mind.
 
 [PRO.9.11] For in this way thou shalt live long, and years of thy life shall be added to thee.
 
 [PRO.9.12] Son, if thou be wise for thyself, thou shalt also be wise for thy neighbours; and if thou shouldest prove wicked, thou alone wilt bear the evil.
 
-[PRO.9.NaNb] He that stays himself upon falsehoods, attempts to rule the winds, and the same will pursue birds in their flight:
+[PRO.9.12a] He that stays himself upon falsehoods, attempts to rule the winds, and the same will pursue birds in their flight:
 
-[PRO.9.NaNbb] for he has forsaken the ways of his own vineyard, and he has caused the axles of his own husbandry to go astray;
+[PRO.9.12b] for he has forsaken the ways of his own vineyard, and he has caused the axles of his own husbandry to go astray;
 
-[PRO.9.NaNbbb] and he goes through a dry desert, and a land appointed to drought, and he gathers barrenness with his hands.
+[PRO.9.12c] and he goes through a dry desert, and a land appointed to drought, and he gathers barrenness with his hands.
 
 [PRO.9.13] A foolish and bold woman, who knows not modesty, comes to want a morsel.
 
@@ -564,13 +564,13 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.9.18] But he knows that mighty men die by her, and he falls in with a snare of hell.
 
-[PRO.9.NaNbbbb] But hasten away, delay not in the place, neither fix thine eye upon her:
+[PRO.9.18a] But hasten away, delay not in the place, neither fix thine eye upon her:
 
-[PRO.9.NaNbbbbb] for thus shalt thou go through strange water;
+[PRO.9.18b] for thus shalt thou go through strange water;
 
-[PRO.9.NaNbbbbbb] but do thou abstain from strange water, and drink not of a strange fountain,
+[PRO.9.18c] but do thou abstain from strange water, and drink not of a strange fountain,
 
-[PRO.9.NaNbbbbbbb] that thou mayest live long, and years of life may be added to thee.
+[PRO.9.18d] that thou mayest live long, and years of life may be added to thee.
 
 ## Proverbs 10
 
@@ -582,7 +582,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.10.4] Poverty brings a man low: but the hands of the vigorous make rich.
 
-[PRO.10.NaN] A son who is instructed shall be wise, and shall use the fool for a servant.
+[PRO.10.4a] A son who is instructed shall be wise, and shall use the fool for a servant.
 
 [PRO.10.5] A wise son is saved from heat: but a lawless son is blighted of the winds in harvest.
 
@@ -726,13 +726,13 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.12.11] He that tills his own land shall be satisfied with bread; but they that pursue vanities are void of understanding.
 
-[PRO.12.NaN] He that enjoys himself in banquets of wine, shall leave dishonour in his own strong holds.
+[PRO.12.11a] He that enjoys himself in banquets of wine, shall leave dishonour in his own strong holds.
 
 [PRO.12.12] The desires of the ungodly are evil; but the roots of the godly are firmly set.
 
 [PRO.12.13] For the sin of his lips a sinner falls into snares; but a righteous man escapes from them.
 
-[PRO.12.NaNb] He whose looks are gentle shall be pitied, but he that contends in the gates will afflict souls.
+[PRO.12.13a] He whose looks are gentle shall be pitied, but he that contends in the gates will afflict souls.
 
 [PRO.12.14] The soul of a man shall be filled with good from the fruits of his mouth; and the recompence of his lips shall be given to him.
 
@@ -782,7 +782,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.13.9] The righteous always have light: but the light of the ungodly is quenched.
 
-[PRO.13.NaN] Crafty souls go astray in sins: but just men pity, and are merciful.
+[PRO.13.9a] Crafty souls go astray in sins: but just men pity, and are merciful.
 
 [PRO.13.10] A bad man does evil with insolence: but they that are judges of themselves are wise.
 
@@ -792,7 +792,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.13.13] He that slights a matter shall be slighted of it: but he that fears the commandment has health of soul.
 
-[PRO.13.NaNb] To a crafty son there shall be nothing good: but a wise servant shall have prosperous doings, and his way shall be directed aright.
+[PRO.13.13a] To a crafty son there shall be nothing good: but a wise servant shall have prosperous doings, and his way shall be directed aright.
 
 [PRO.13.14] The law of the wise is a fountain of life: but the man void of understanding shall die by a snare.
 
@@ -928,7 +928,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.15.18] A passionate man stirs up strife; but he that is slow to anger appeases even a rising one.
 
-[PRO.15.NaN] A man slow to anger will extinguish quarrels; but an ungodly man rather stirs them up.
+[PRO.15.18a] A man slow to anger will extinguish quarrels; but an ungodly man rather stirs them up.
 
 [PRO.15.19] The ways of sluggards are strewn with thorns; but those of the diligent are made smooth.
 
@@ -948,17 +948,17 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.15.27] A receiver of bribes destroys himself; but he that hates the receiving of bribes is safe.
 
-[PRO.15.NaNb] [By alms and by faithful dealings sins are purged away;] but by the fear of the Lord every one departs from evil.
+[PRO.15.27a] [By alms and by faithful dealings sins are purged away;] but by the fear of the Lord every one departs from evil.
 
 [PRO.15.28] The hearts of the righteous meditate faithfulness; but the mouth of the ungodly answers evil things.
 
-[PRO.15.NaNbb] The ways of righteous men are acceptable with the Lord; and through them even enemies become friends.
+[PRO.15.28a] The ways of righteous men are acceptable with the Lord; and through them even enemies become friends.
 
 [PRO.15.29] God is far from the ungodly; but he hearkens to the prayers of the righteous.
 
-[PRO.15.NaNbbb] Better are small receipts with righteousness, than abundant fruits with unrighteousness.
+[PRO.15.29a] Better are small receipts with righteousness, than abundant fruits with unrighteousness.
 
-[PRO.15.NaNbbbb] Let the heart of a man think justly, that his steps may be rightly ordered of God.
+[PRO.15.29b] Let the heart of a man think justly, that his steps may be rightly ordered of God.
 
 [PRO.15.30] The eye that sees rightly rejoices the heart; and a good report fattens the bones.
 
@@ -1040,7 +1040,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.17.6] Children's children are the crown of old men; and their fathers are the glory of children.
 
-[PRO.17.NaN] The faithful has the whole world full of wealth; but the faithless not even a farthing.
+[PRO.17.6a] The faithful has the whole world full of wealth; but the faithless not even a farthing.
 
 [PRO.17.7] Faithful lips will not suit a fool; nor lying lips a just man.
 
@@ -1062,7 +1062,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.17.16] Why has the fool wealth? for a senseless man will not be able to purchase wisdom.
 
-[PRO.17.NaNb] He that exalts his own house seeks ruin; and he that turns aside from instruction shall fall into mischiefs.
+[PRO.17.16a] He that exalts his own house seeks ruin; and he that turns aside from instruction shall fall into mischiefs.
 
 [PRO.17.17] Have thou a friend for every time, and let brethren be useful in distress; for on this account are they born.
 
@@ -1134,7 +1134,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.18.22] He that has found a good wife has found favours, and has received gladness from God.
 
-[PRO.18.NaN] [He that puts away a good wife, puts away a good thing, and he that keeps an adulteress is foolish and ungodly.]
+[PRO.18.22a] [He that puts away a good wife, puts away a good thing, and he that keeps an adulteress is foolish and ungodly.]
 
 ## Proverbs 19
 
@@ -1212,11 +1212,11 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.20.9] Who will boast that he has a pure heart? or who will boldly say that he is pure from sins?
 
-[PRO.20.NaN] The lamp of him that reviles father or mother shall be put out, and his eyeballs shall see darkness.
+[PRO.20.9a] The lamp of him that reviles father or mother shall be put out, and his eyeballs shall see darkness.
 
-[PRO.20.NaNb] A portion hastily gotten at first shall not be blessed in the end.
+[PRO.20.9b] A portion hastily gotten at first shall not be blessed in the end.
 
-[PRO.20.NaNbb] Say not, I will avenge myself on my enemy; but wait on the Lord, that he may help thee.
+[PRO.20.9c] Say not, I will avenge myself on my enemy; but wait on the Lord, that he may help thee.
 
 [PRO.20.10] A large and small weight, and divers measures, are even both of them unclean before the Lord; and so is he that makes them.
 
@@ -1320,11 +1320,11 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.22.8] He that sows wickedness shall reap troubles; and shall fully receive the punishment of his deeds.
 
-[PRO.22.NaN] God loves a cheerful and liberal man; but a man shall fully prove the folly of his works.
+[PRO.22.8a] God loves a cheerful and liberal man; but a man shall fully prove the folly of his works.
 
 [PRO.22.9] He that has pity on the poor shall himself be maintained; for he has given of his own bread to the poor.
 
-[PRO.22.NaNb] He that gives liberally secures victory and honour; but he takes away the life of them that possess them.
+[PRO.22.9a] He that gives liberally secures victory and honour; but he takes away the life of them that possess them.
 
 [PRO.22.10] Cast out a pestilent person from the council, and strife shall go out with him; for when he sits in the council he dishonours all.
 
@@ -1336,7 +1336,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.22.14] The mouth of a transgressor is a deep pit; and he that is hated of the Lord shall fall into it.
 
-[PRO.22.NaNbb] Evil ways are before a man, and he does not like to turn away from them; but it is needful to turn aside from a perverse and bad way.
+[PRO.22.14a] Evil ways are before a man, and he does not like to turn away from them; but it is needful to turn aside from a perverse and bad way.
 
 [PRO.22.15] Folly is attached to the heart of a child, but the rod and instruction are then far from him.
 
@@ -1484,43 +1484,43 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.24.22] For they will suddenly punish the ungodly, and who can know the vengeance inflicted by both?
 
-[PRO.24.NaN] [A son that keeps the commandment shall escape destruction; for such an one has fully received it.
+[PRO.24.22a] [A son that keeps the commandment shall escape destruction; for such an one has fully received it.
 
-[PRO.24.NaNb] Let no falsehood be spoken by the king from the tongue; yea, let no falsehood proceed from his tongue.
+[PRO.24.22b] Let no falsehood be spoken by the king from the tongue; yea, let no falsehood proceed from his tongue.
 
-[PRO.24.NaNbb] The king's tongue is a sword, and not one of flesh; and whosoever shall be given up to it shall be destroyed:
+[PRO.24.22c] The king's tongue is a sword, and not one of flesh; and whosoever shall be given up to it shall be destroyed:
 
-[PRO.24.NaNbbb] for if his wrath should be provoked, he destroys men with cords,
+[PRO.24.22d] for if his wrath should be provoked, he destroys men with cords,
 
-[PRO.24.NaNbbbb] and devours men's bones, and burns them up as a flame, so that they are not even fit to be eaten by the young eagles.
+[PRO.24.22e] and devours men's bones, and burns them up as a flame, so that they are not even fit to be eaten by the young eagles.
 
-[PRO.24.NaNbbbbb] My son, reverence my words, and receive them, and repent.] These things says the man to them that trust in God; and I cease.
+[PRO.24.22f] My son, reverence my words, and receive them, and repent.] These things says the man to them that trust in God; and I cease.
 
-[PRO.24.NaNbbbbbb] For I am the most simple of all men, and there is not in me the wisdom of men.
+[PRO.24.22g] For I am the most simple of all men, and there is not in me the wisdom of men.
 
-[PRO.24.NaNbbbbbbb] God has taught me wisdom, and I know the knowledge of the holy.
+[PRO.24.22h] God has taught me wisdom, and I know the knowledge of the holy.
 
-[PRO.24.NaNbbbbbbbb] Who has gone up to heaven, and come down? who has gathered the winds in his bosom? who has wrapped up the waters in a garment? who has dominion of all the ends of the earth? what is his name? or what is the name of his children?
+[PRO.24.22i] Who has gone up to heaven, and come down? who has gathered the winds in his bosom? who has wrapped up the waters in a garment? who has dominion of all the ends of the earth? what is his name? or what is the name of his children?
 
-[PRO.24.NaNbbbbbbbbb] For all the words of God are tried in the fire, and he defends those that reverence him.
+[PRO.24.22k] For all the words of God are tried in the fire, and he defends those that reverence him.
 
-[PRO.24.NaNbbbbbbbbbb] Add not unto his words, lest he reprove thee, and thou be made a liar.
+[PRO.24.22l] Add not unto his words, lest he reprove thee, and thou be made a liar.
 
-[PRO.24.NaNbbbbbbbbbbb] Two things I ask of thee; take not favour from me before I die.
+[PRO.24.22m] Two things I ask of thee; take not favour from me before I die.
 
-[PRO.24.NaNbbbbbbbbbbbb] Remove far from me vanity and falsehood: and give me not wealth or poverty; but appoint me what is needful and sufficient:
+[PRO.24.22n] Remove far from me vanity and falsehood: and give me not wealth or poverty; but appoint me what is needful and sufficient:
 
-[PRO.24.NaNbbbbbbbbbbbbb] lest I be filled and become false, and say, Who sees me? or be poor and steal, and swear vainly by the name of God.
+[PRO.24.22o] lest I be filled and become false, and say, Who sees me? or be poor and steal, and swear vainly by the name of God.
 
-[PRO.24.NaNbbbbbbbbbbbbbb] Deliver not a servant into the hands of his master, lest he curse thee, and thou be utterly destroyed.
+[PRO.24.22p] Deliver not a servant into the hands of his master, lest he curse thee, and thou be utterly destroyed.
 
-[PRO.24.NaNbbbbbbbbbbbbbbb] A wicked generation curse their father, and do not bless their mother.
+[PRO.24.22q] A wicked generation curse their father, and do not bless their mother.
 
-[PRO.24.NaNbbbbbbbbbbbbbbbb] A wicked generation judge themselves to be just, but do not cleanse their way.
+[PRO.24.22r] A wicked generation judge themselves to be just, but do not cleanse their way.
 
-[PRO.24.NaNbbbbbbbbbbbbbbbbb] A wicked generation have lofty eyes, and exalt themselves with their eyelids.
+[PRO.24.22s] A wicked generation have lofty eyes, and exalt themselves with their eyelids.
 
-[PRO.24.NaNbbbbbbbbbbbbbbbbbb] A wicked generation have swords for teeth and jaw-teeth as knives, so as to destroy and devour the lowly from the earth, and the poor of them from among men.
+[PRO.24.22t] A wicked generation have swords for teeth and jaw-teeth as knives, so as to destroy and devour the lowly from the earth, and the poor of them from among men.
 
 [PRO.24.23] And this thing I say to you that are wise for you to learn: It is not good to have respect of persons in judgment.
 
@@ -1624,7 +1624,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.25.10] lest thy friend continue to reproach thee, so thy quarrel and enmity shall not depart, but shall be to thee like death.
 
-[PRO.25.NaN] Favour and friendship set a man free, which do thou keep for thyself, lest thou be made liable to reproach; but take heed to thy ways peaceably.
+[PRO.25.10a] Favour and friendship set a man free, which do thou keep for thyself, lest thou be made liable to reproach; but take heed to thy ways peaceably.
 
 [PRO.25.11] As a golden apple in a necklace of sardius, so is it to speak a wise word.
 
@@ -1646,7 +1646,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.25.20] As vinegar is bad for a sore, so trouble befalling the body afflicts the heart.
 
-[PRO.25.NaNb] As a moth in a garment, and a worm in wood, so the grief of a man hurts the heart.
+[PRO.25.20a] As a moth in a garment, and a worm in wood, so the grief of a man hurts the heart.
 
 [PRO.25.21] If thine enemy hunger, feed him; if he thirst, give him drink;
 
@@ -1688,7 +1688,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.26.11] As when a dog goes to his own vomit, and becomes abominable, so is a fool who returns in his wickedness to his own sin.
 
-[PRO.26.NaN] [There is a shame that brings sin: and there is a shame that is glory and grace.]
+[PRO.26.11a] [There is a shame that brings sin: and there is a shame that is glory and grace.]
 
 [PRO.26.12] I have seen a man who seemed to himself to be wise; but a fool had more hope than he.
 
@@ -1766,11 +1766,11 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.27.20] Hell and destruction are not filled; so also are the eyes of men insatiable.
 
-[PRO.27.NaN] [He that fixes his eye is an abomination to the Lord; and the uninstructed do not restrain their tongue.]
+[PRO.27.20a] [He that fixes his eye is an abomination to the Lord; and the uninstructed do not restrain their tongue.]
 
 [PRO.27.21] Fire is the trial for silver and gold; and a man is tried by the mouth of them that praise him.
 
-[PRO.27.NaNb] The heart of the transgressor seeks after mischiefs; but an upright heart seeks knowledge.
+[PRO.27.21a] The heart of the transgressor seeks after mischiefs; but an upright heart seeks knowledge.
 
 [PRO.27.22] Though thou scourge a fool, disgracing him in the midst of the council, thou wilt still in no wise remove his folly from him.
 
@@ -1820,7 +1820,7 @@ Ecclesia library, source 6700fbc4.
 
 [PRO.28.17] He that becomes surety for a man charged with murder shall be an exile, and not in safety.
 
-[PRO.28.NaN] Chasten thy son, and he shall love thee, and give honour to thy soul: he shall not obey a sinful nation.
+[PRO.28.17a] Chasten thy son, and he shall love thee, and give honour to thy soul: he shall not obey a sinful nation.
 
 [PRO.28.18] He that walks justly is assisted: but he that walks in crooked ways shall be entangled therein.
 

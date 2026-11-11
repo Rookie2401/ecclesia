@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -1922,7 +1922,7 @@ Ecclesia library, source 6700fbc4.
 
 [GEN.31.50] If thou shalt humble my daughters, if thou shouldest take wives in addition to my daughters, see, there is no one with us looking on. God is witness between me and thee.
 
-[GEN.31.NaN] And Laban said to Jacob, Behold, this heap, and this pillar are a witness.
+[GEN.31.51] And Laban said to Jacob, Behold, this heap, and this pillar are a witness.
 
 [GEN.31.52] For if I should not cross over unto thee, neither shouldest thou cross over to me, for mischief beyond this heap and this pillar.
 

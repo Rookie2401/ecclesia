@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -4214,7 +4214,7 @@ Ecclesia library, source 6700fbc4.
 
 [PSA.115.4] I will take the cup of salvation, and call upon the name of the Lord.
 
-[PSA.115.NaN] I will pay my vows to the Lord, in the presence of all his people.
+[PSA.115.5] I will pay my vows to the Lord, in the presence of all his people.
 
 [PSA.115.6] Precious in the sight of the Lord is the death of his saints.
 
@@ -5220,7 +5220,7 @@ Ecclesia library, source 6700fbc4.
 
 [PSA.144.13] Thy kingdom is an everlasting kingdom, and thy dominion endures through all generations.
 
-[PSA.144.NaN] The Lord is faithful in his words, and holy in all his works.
+[PSA.144.13a] The Lord is faithful in his words, and holy in all his works.
 
 [PSA.144.14] The Lord supports all that are falling, and sets up all that are broken down.
 

@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -50,13 +50,13 @@ Ecclesia library, source 6700fbc4.
 
 [2KI.1.18] And the rest of the acts of Ochozias which he did, behold, are they not written in the book of the chronicles of the kings of Israel?
 
-[2KI.1.NaN] And Joram son of Achaab reigns over Israel in Samaria twelve years beginning in the eighteenth year of Josaphat king of Juda:
+[2KI.1.18a] And Joram son of Achaab reigns over Israel in Samaria twelve years beginning in the eighteenth year of Josaphat king of Juda:
 
-[2KI.1.NaNb] and he did that which was evil in the sight of the Lord, only not as his brethren, nor as his mother:
+[2KI.1.18b] and he did that which was evil in the sight of the Lord, only not as his brethren, nor as his mother:
 
-[2KI.1.NaNbb] and he removed the pillars of Baal which his father made, and broke them in pieces: only he was joined to the sins of the house of Jeroboam, who led Israel to sin; he departed not from them.
+[2KI.1.18c] and he removed the pillars of Baal which his father made, and broke them in pieces: only he was joined to the sins of the house of Jeroboam, who led Israel to sin; he departed not from them.
 
-[2KI.1.NaNbbb] And the Lord was very angry with the house of Achaab.
+[2KI.1.18d] And the Lord was very angry with the house of Achaab.
 
 ## 2 Kings 2
 

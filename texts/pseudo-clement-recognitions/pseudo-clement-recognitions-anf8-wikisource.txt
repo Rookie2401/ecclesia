@@ -6,9 +6,9 @@ Credit: The Recognitions of Clement, in The Ante-Nicene Fathers, vol. 8 (America
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (english_public_domain_only); life + 70 countries: unknown
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/The_Recognitions_of_Clement
-Retrieved: 2026-11-10 (source file 726562 bytes, SHA-256 a8e6db34eaa8b93314c1916ec04ce866fb819d4b6aa5bfb85a97421faf9c3232)
+Retrieved: 2026-11-11 (source file 726562 bytes, SHA-256 a8e6db34eaa8b93314c1916ec04ce866fb819d4b6aa5bfb85a97421faf9c3232)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":359,"templates":{"anon":11}}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -1762,7 +1762,7 @@ Ecclesia library, source 6700fbc4.
 
 [9.50] Chapter XXV.—Not Genesis, But Free-Will.
 
-[9.51] “The Medes alone in all the world, with the greatest care, throw men still breathing to be devoured by dogs; yet they have not Mars with the Moon placed in Cancer all through their daily Genesis. The Indians burn their dead, and the wives of the dead voluntarily offer themselves, and are burned with them. But all the Indian women who are burned alive have not the Sun under the earth in nightly Genesis, with Mars in the regions of Mars. Very many of the Germans end their lives by the halter; but all have not therefore the Moon with Hora begirt by Saturn and Mars. From all this it appears that the fear of the laws bears sway in every country, and the freedom of will which is implanted in man by the Spirit complies with the laws; and Genesis can neither compel the Seres to commit murder, nor the Brahmans to eat flesh, nor the Persians to shun incest, nor the Indians to refrain from burning, nor the Medes from being devoured by dogs, nor the Parthians from having many wives, nor the women of Mesopotamia from preserving their chastity, nor the Greeks from athletic exercises, nor the Gallic boys from being abused; nor can it compel the barbarious nations to be instructed in the studies of the Greeks; but, as we have said, each nation observes its own laws according to free-will, and annuls the decrees of Genesis by the strictness of laws.
+[9.51] “The Medes alone in all the world, with the greatest care, throw men still breathing to be devoured by dogs; yet they have not Mars with the Moon placed in Cancer all through their daily Genesis. The Indians burn their dead, and the wives of the dead voluntarily offer themselves, and are burned with them. But all the Indian women who are burned alive have not the Sun under the earth in nightly Genesis, with Mars in the regions of Mars. Very many of the Germans end their lives by the halter; but all have not therefore the Moon with Hora begirt by Saturn and Mars. From all this it appears that the fear of the laws bears sway in every country, and the freedom of will which is implanted in man by the Spirit complies with the laws; and Genesis can neither compel the Seres to commit murder, nor the Brahmans to eat flesh, nor the Persians to shun incest, nor the Indians to refrain from burning, nor the Medes from being devoured by dogs, nor the Parthians from having many wives, nor the women of Mesopotamia from preserving their chastity, nor the Greeks from athletic exercises, nor the Gallic boys from being abused; nor can it compel the barbarous nations to be instructed in the studies of the Greeks; but, as we have said, each nation observes its own laws according to free-will, and annuls the decrees of Genesis by the strictness of laws.
 
 [9.52] Chapter XXVI.—Climates.
 

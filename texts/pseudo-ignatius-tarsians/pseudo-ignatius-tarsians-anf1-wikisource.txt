@@ -6,15 +6,15 @@ Credit: The Epistle of Ignatius to the Tarsians, in The Ante-Nicene Fathers, vol
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Tarsians
-Retrieved: 2026-11-10 (source file 10960 bytes, SHA-256 2c1e7d8067f2161056f13c41fb7f0e0ac74c93ffdc1e6880848a0659077d2984)
+Retrieved: 2026-11-11 (source file 10960 bytes, SHA-256 2c1e7d8067f2161056f13c41fb7f0e0ac74c93ffdc1e6880848a0659077d2984)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":38}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
 ## The Epistle of Ignatius to the Tarsians
 
-[s1.1] Ignatius, who is also called Theophorus, to the Church which is at Tarsus, saved in Christ, worthy of praise, worthy of remembrance, and worthy of love: Mercy and peace from God the Father, and the Lord Jesus Christ, be ever multiplied.
+[0.1] Ignatius, who is also called Theophorus, to the Church which is at Tarsus, saved in Christ, worthy of praise, worthy of remembrance, and worthy of love: Mercy and peace from God the Father, and the Lord Jesus Christ, be ever multiplied.
 
 ## Chapter I.—His own sufferings: exhortation to stedfastness.
 

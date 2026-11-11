@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_Jealousy_and_Envy
 Retrieved: 2026-11-05 (source file 30986 bytes, SHA-256 ce270c7d129ed40323476d756fd5b16314c2185e1788c9db615073fd429d0b06)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":52}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

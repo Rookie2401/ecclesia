@@ -319,7 +319,7 @@ corpus, and is not a statement that anything was deployed.
 4. **The download link.** Every readable work on a shelf offers Download, Read and Remove (`lib/downloads.ts`):
    the download stores the work's manifest and divisions in the browser's Cache Storage, and the reader reads the
    stored copy first. Nothing needs doing for this step once the work is on its shelf.
-5. **The texts repository.** `C:\Users\CJWal\dev\ecclesia-texts` (public repo `Rookie2401/ecclesia`) holds every
+5. **The texts repository.** `dev\ecclesia-texts` (public repo `Rookie2401/ecclesia`) holds every
    stored text as a plain file and all of them as one SQLite database, downloadable outside the app. After an import
    it is rebuilt with `node tools/build.mjs <public> <commit> <date>` and checked with `tools/verify.mjs`. The
    compressed database may not reach 100 MB (GitHub's limit for one file); it was 89.0 MiB at 691 editions (2026-11-09).

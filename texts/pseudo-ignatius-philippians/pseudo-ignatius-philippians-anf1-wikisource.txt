@@ -6,15 +6,15 @@ Credit: The Epistle of Ignatius to the Philippians, in The Ante-Nicene Fathers, 
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Philippians
-Retrieved: 2026-11-10 (source file 21378 bytes, SHA-256 e178cae79400fdeef7bc7722d7cf120192bcc6568b1b2fb4e4c4a2f1c4b90f97)
+Retrieved: 2026-11-11 (source file 21378 bytes, SHA-256 e178cae79400fdeef7bc7722d7cf120192bcc6568b1b2fb4e4c4a2f1c4b90f97)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":58}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
 ## The Epistle of Ignatius to the Philippians
 
-[s1.1] Ignatius, who is also called Theophorus, to the Church of God which is at Philippi, which has obtained mercy in faith, and patience, and love unfeigned: Mercy and peace from God the Father, and the Lord Jesus Christ, “who is the Saviour of all men, specially of them that believe.”
+[0.1] Ignatius, who is also called Theophorus, to the Church of God which is at Philippi, which has obtained mercy in faith, and patience, and love unfeigned: Mercy and peace from God the Father, and the Lord Jesus Christ, “who is the Saviour of all men, specially of them that believe.”
 
 ## Chapter I.—Reason for writing the epistle.
 

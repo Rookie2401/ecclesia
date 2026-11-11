@@ -6,9 +6,9 @@ Credit: Ignatius, To the Smyrnaeans (epistle 6), in The Apostolic Fathers, with 
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml
-Retrieved: 2026-11-05 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
+Retrieved: 2026-11-11 (source file 98242 bytes, SHA-256 efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":19,"pb":8}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -82,7 +82,9 @@ Ecclesia library, source 6700fbc4.
 
 [11.1] Your prayer reached the Church which is in Antioch in Syria, and I greet all men as one who comes thence in bonds which are most seemly in God’s sight, though I am not worthy to be from thence, for I am the least of them; but by the will of God I have been thought worthy, not that I am conscious of deserts, but by the grace of God, and I pray that this may be given to me to the end, and that by your prayers I may attain to God.
 
-[11.2] In order then that your work may be perfect both on earth and in heaven, your Church ought to appoint for the honour of God a delegate of God to go to Syria, and congratulate them that they have gained peace, and have recovered their proper greatness, and that their proper constitution has been restored. 3. It appeared to me therefore a deed worthy of God for you to send one of your number with a letter to join in extolling the tranquillity which they have obtained from God, and that through your prayers they were now gaining a haven. As you are perfect, so also may your counsel be perfect. For if you desire to do well God is ready to help you.
+[11.2] In order then that your work may be perfect both on earth and in heaven, your Church ought to appoint for the honour of God a delegate of God to go to Syria, and congratulate them that they have gained peace, and have recovered their proper greatness, and that their proper constitution has been restored.
+
+[11.3] It appeared to me therefore a deed worthy of God for you to send one of your number with a letter to join in extolling the tranquillity which they have obtained from God, and that through your prayers they were now gaining a haven. As you are perfect, so also may your counsel be perfect. For if you desire to do well God is ready to help you.
 
 ## 12
 

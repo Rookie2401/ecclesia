@@ -10,7 +10,7 @@ Retrieved: 2026-11-05 (source file 1138472 bytes, SHA-256 aaf6992c508d7440dbeabe
 Changes from the source: cut into numbered segments; these elements were not stored: {"emptyVerses":84,"additions":17,"additionWords":120,"glosses":8,"note":3,"bracketsKept":3}
 Passages left out: 116 segments, 3913 words, each marked […]. Sefaria's copy comes from a web edition that reworded or expanded some verses of Etheridge's translation. A verse is stored only when scans of the 1862 and 1865 volumes confirm its wording; these verses are not confirmed.
 Incomplete: english: 3913 words in 116 sections left out — Sefaria's copy comes from a web edition that reworded or expanded some verses of Etheridge's translation. A verse is stored only when scans of the 1862 and 1865 volumes confirm its wording; these verses are not confirmed.
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

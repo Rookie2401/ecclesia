@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/eng-Brenton_usfx.zip
-Retrieved: 2026-11-05 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
+Retrieved: 2026-11-11 (source file 1548145 bytes, SHA-256 363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":60,"toc":179,"f":2600,"x":150}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -672,7 +672,7 @@ Ecclesia library, source 6700fbc4.
 
 [EZR.13.6] And Joida the son of Phasec, and Mesulam son of Basodia, repaired the old gate; they covered it in, and set up its doors, and its bolts, and its bars.
 
-[EZR.13.NaN] And next to them repaired Maltias the Gabaonite, and Evaron the Meronothite, the men of Gabaon and Maspha, to the throne of the governor on this side the river.
+[EZR.13.7] And next to them repaired Maltias the Gabaonite, and Evaron the Meronothite, the men of Gabaon and Maspha, to the throne of the governor on this side the river.
 
 [EZR.13.8] And next to him Oziel the son of Arachias of the smiths, carried on the repairs: and next to them Ananias the son of one of the apothecaries repaired, and they finished Jerusalem to the broad wall.
 

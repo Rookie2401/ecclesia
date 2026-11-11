@@ -6,10 +6,10 @@ Credit: Second Epistle Concerning Virginity, in The Ante-Nicene Fathers, vol. 8 
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: unknown
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Two_Epistles_Concerning_Virginity/Second_Pseudo-Clement
-Retrieved: 2026-11-10 (source file 33935 bytes, SHA-256 b37a65a7cb133ea887e59f6c6caca6996a9f52bfbadf2d0464cf89e2f63576f6)
+Retrieved: 2026-11-11 (source file 33935 bytes, SHA-256 b37a65a7cb133ea887e59f6c6caca6996a9f52bfbadf2d0464cf89e2f63576f6)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":71}
 Incomplete: The Greek text covers the Greek fragments of the second letter, as Funk and Diekamp print them, from chapters 2, 3, 5, 6, 8, 9, 10, 11, 12, 13 of their numbering and lacks the rest of the letter, which survives whole only in a Syriac translation. The Greek original is lost apart from quotations (chiefly in Antiochus of Saba's Pandect); the whole letter survives in Syriac (ed. J. T. Beelen, 1856), of which no open transcription was found.
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 

@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/grcbrent_usfx.zip
-Retrieved: 2026-11-05 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
+Retrieved: 2026-11-11 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":52,"toc":108,"s":1}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -156,7 +156,7 @@ Ecclesia library, source 6700fbc4.
 
 [3MA.3.7] Τὴν δὲ περὶ τῶν προσκυνήσεων καὶ τροφῶν διάστασιν ἐθρύλλουν, φάσκοντες μήτε τῷ βασιλεῖ μήτε ταῖς δυνάμεσιν ὁμοσπόνδους τοὺς ἀνθρώπους γενέσθαι, δυσμενεῖς δὲ εἶναι καὶ μέγα τι τοῖς πράγμασιν ἐναντιουμένους· καὶ οὐ τῷ τυχόντι περιήψαν ψόγῳ.
 
-[3MA.3.8] Οἱ δὲ κατὰ τὴν πόλιν Ἕλληνες οὐδὲν ἠδικημένοι, ταραχὴν ἀπροσδόκητον περὶ τοὺς ἄνθρώπους θεωροῦντες, καὶ συνδρομὰς ἀπροσκόπους γινομένας βοηθεῖν μὲν οὐκ ἔσθενον· τυραννικὴ γὰρ ἦν ἡ διάθεσις· παρεκάλουν δὲ καὶ δυσφόρως εἶχον, καὶ μεταπεσεῖσθαι ταῦτα ὑπελάμβανον·
+[3MA.3.8] Οἱ δὲ κατὰ τὴν πόλιν Ἕλληνες οὐδὲν ἠδικημένοι, ταραχὴν ἀπροσδόκητον περὶ τοὺς ἀνθρώπους θεωροῦντες, καὶ συνδρομὰς ἀπροσκόπους γινομένας βοηθεῖν μὲν οὐκ ἔσθενον· τυραννικὴ γὰρ ἦν ἡ διάθεσις· παρεκάλουν δὲ καὶ δυσφόρως εἶχον, καὶ μεταπεσεῖσθαι ταῦτα ὑπελάμβανον·
 
 [3MA.3.9] Μὴ γὰρ οὕτως παροραθήσεται τηλικοῦτο σύστεημα μηδὲν ἠγνοηκώς.
 

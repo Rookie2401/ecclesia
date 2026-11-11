@@ -6,9 +6,9 @@ Credit: The Septuagint Version of the Old Testament, with an English Translation
 Licence: public-domain
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://ebible.org/Scriptures/grcbrent_usfx.zip
-Retrieved: 2026-11-05 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
+Retrieved: 2026-11-11 (source file 1816960 bytes, SHA-256 ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356)
 Changes from the source: cut into numbered segments; these elements were not stored: {"id":52,"toc":108,"s":1}
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
@@ -274,7 +274,7 @@ Ecclesia library, source 6700fbc4.
 
 [2SA.5.16] καὶ Ἐλισαμὰ, καὶ Ἐλιδαὲ, καὶ Ἐλιφαλὰθ,
 
-[2SA.5.NaN] Σαμαὲ, Ἰεσσιβὰθ, Νάθαν, Γαλαμαὰν, Ἰεβαὰρ, Θεησοῦς, Ἐλιφαλὰτ, Ναγὲδ, Ναφὲκ, Ἰανάθαν, Λεασαμὺς, Βααλιμὰθ, Ἐλιφαάθ.
+[2SA.5.16a] Σαμαὲ, Ἰεσσιβὰθ, Νάθαν, Γαλαμαὰν, Ἰεβαὰρ, Θεησοῦς, Ἐλιφαλὰτ, Ναγὲδ, Ναφὲκ, Ἰανάθαν, Λεασαμὺς, Βααλιμὰθ, Ἐλιφαάθ.
 
 [2SA.5.17] Καὶ ἤκουσαν οἱ ἀλλόφυλοι ὅτι κέχρισται Δαυὶδ βασιλεὺς ἐπὶ Ἰσραὴλ, καὶ ἀνέβησαν πάντες οἱ ἀλλόφυλοι ζητεῖν τὸν Δαυίδ· καὶ ἤκουσε Δαυὶδ, καὶ κατέβη εἰς τὴν περιοχήν.
 
@@ -1392,11 +1392,11 @@ Ecclesia library, source 6700fbc4.
 
 [2SA.23.37] Ἐλιὲ ὁ Ἀμμανίτης·
 
-[2SA.23.NaN] Ἁδροὶ ἀπὸ χειμάῤῥων·
+[2SA.23.37a] Ἁδροὶ ἀπὸ χειμάῤῥων·
 
-[2SA.23.NaNb] Γαδαβιὴλ υἱὸς τοῦ Ἀραβωθαίου·
+[2SA.23.37b] Γαδαβιὴλ υἱὸς τοῦ Ἀραβωθαίου·
 
-[2SA.23.NaNbb] Γελωρὲ ὁ Βηθωραῖος αἴρων τὰ σκεύη· Ἰωὰβ υἱὸς Σαρουίας·
+[2SA.23.37c] Γελωρὲ ὁ Βηθωραῖος αἴρων τὰ σκεύη· Ἰωὰβ υἱὸς Σαρουίας·
 
 [2SA.23.38] Ἴρας ὁ Ἐθιραῖος· Γηρὰβ ὁ Ἐθεναῖος·
 

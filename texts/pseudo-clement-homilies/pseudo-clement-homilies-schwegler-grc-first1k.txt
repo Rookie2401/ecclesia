@@ -6,10 +6,10 @@ Credit: Ὁμιλίαι (Homiliae), in Clementis Romani quae feruntur Homiliae v
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg006/tlg1271.tlg006.1st1K-grc1.xml
-Retrieved: 2026-11-10 (source file 883319 bytes, SHA-256 3b99aba1bf2312d865da0977398acf0f04e3283a2778210fcee5defe1a2d4adc)
+Retrieved: 2026-11-11 (source file 883319 bytes, SHA-256 3b99aba1bf2312d865da0977398acf0f04e3283a2778210fcee5defe1a2d4adc)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":216}
 Incomplete: The Greek text covers Homilies I–XIX.14 and lacks Homily XIX.15–25 and Homily XX. Schwegler (1847) printed the Paris manuscript, which breaks off in Homily XIX.14; the rest was first printed by Dressel (1853) from a Vatican manuscript, and no open transcription of Dressel's text was found.
-Ecclesia library, source 6700fbc4.
+Ecclesia library, source 0d182ee1.
 
 ========================================================================
 
