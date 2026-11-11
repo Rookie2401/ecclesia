@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/Against_Lying
 Retrieved: 2026-11-10 (source file 137161 bytes, SHA-256 927468daa139728eea05966fe9f4f7aa1208eb6ead1e01bbe624b01249186c6a)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":92}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

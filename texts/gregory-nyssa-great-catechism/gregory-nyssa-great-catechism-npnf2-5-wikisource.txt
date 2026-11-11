@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Apologetic_Works/The_Great_Catechism
 Retrieved: 2026-11-05 (source file 261244 bytes, SHA-256 b4915fa82ac6fc56345872c8724894477d7b9154f8ea3cd8ab7601d59b3875ee)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":128}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

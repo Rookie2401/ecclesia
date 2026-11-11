@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Romans:_Syriac_Version
 Retrieved: 2026-11-10 (source file 8714 bytes, SHA-256 4bce5b941e81633cbada64dfda9bc3c2142f78fb5ea5749e13ebf42e1a39a40f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":16}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

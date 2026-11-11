@@ -2,13 +2,13 @@
 
 Every text stored in the [Ecclesia](https://rookie2401.github.io/) theological library, kept apart from the app, free to download.
 
-- **774 editions of 522 works**: Greek, Latin, Hebrew (with the Aramaic of the Hebrew Bible), English and Dutch.
+- **825 editions of 548 works**: Greek, Latin, Hebrew (with the Aramaic of the Hebrew Bible), English and Dutch.
 - **Browse and download:** [the download page](https://rookie2401.github.io/ecclesia/).
 - **Modern theology acquisition research:** [1900–1930 and CC-licensed 1931–2026 catalogue](https://rookie2401.github.io/ecclesia/twentieth-century.html), backed by [`twentieth-century-catalogue.json`](twentieth-century-catalogue.json). This is not yet imported into the text database.
 - **One text:** `texts/<work>/<edition>.txt`. Plain UTF-8, with its credit, licence and source at the top.
 - **Everything:** two SQLite databases, each complete on its own (GitHub takes no single file over 100 MB):
-  - `ecclesia-texts-early.sqlite.gz`: Scripture, the Second Temple, the early Church and the Middle Ages (catalogue sections S, T, I–III; 613 editions, 47 MB to download, 223 MB unpacked).
-  - `ecclesia-texts-reformation.sqlite.gz`: the Reformation and after (sections IV–VII; 161 editions, 57 MB to download, 276 MB unpacked).
+  - `ecclesia-texts-early.sqlite.gz`: Scripture, the Second Temple, the early Church and the Middle Ages (catalogue sections S, T, I–III; 663 editions, 50 MB to download, 239 MB unpacked).
+  - `ecclesia-texts-reformation.sqlite.gz`: the Reformation and after (sections IV–VII; 162 editions, 57 MB to download, 276 MB unpacked).
 - **The list:** `catalogue.json`, with each file's size and SHA-256.
 
 ## Rights

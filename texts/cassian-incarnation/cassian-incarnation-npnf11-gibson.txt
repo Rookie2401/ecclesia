@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XI/John_Cassian/Against_Nestorius
 Retrieved: 2026-11-05 (source file 478943 bytes, SHA-256 a4be025d84833ec6ff7d6df1a95425f90f44a39457142979931ad0466d3f3443)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":324}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

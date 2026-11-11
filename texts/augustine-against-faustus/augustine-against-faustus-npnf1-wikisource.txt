@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Manichaean_Controversy/Reply_to_Faustus_the_Manichaean
 Retrieved: 2026-11-10 (source file 1036329 bytes, SHA-256 bd4002f5eba012c045a4ec211dc386bd17c78c2b0dd528b5e2e84f37a56d00d5)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":790}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

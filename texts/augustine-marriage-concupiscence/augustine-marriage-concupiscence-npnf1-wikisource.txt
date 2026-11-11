@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_Marriage_and_Concupiscence
 Retrieved: 2026-11-10 (source file 316978 bytes, SHA-256 f0854b120dad17a7ebca5f47526009bdfc092086b4460a80bf5994053c91b9da)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":278,"unclosedTemplate":1}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

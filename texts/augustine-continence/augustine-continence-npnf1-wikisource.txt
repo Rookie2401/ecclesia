@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_Continence
 Retrieved: 2026-11-10 (source file 101426 bytes, SHA-256 6dbf4066a850184af0b2c6e93f65374e6199c6f721fd219ea208c84bca852a68)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":127}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

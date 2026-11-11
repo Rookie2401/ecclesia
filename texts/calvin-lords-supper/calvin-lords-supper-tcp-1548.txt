@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/textcreationpartnership/A17659/master/A17659.xml
 Retrieved: 2026-11-10 (source file 244951 bytes, SHA-256 8b57de61bc21343ca685abc8c4c1a6b128f955d81c1faf87e0836887ffc046dc)
 Changes from the source: cut into numbered segments; these elements were not stored: {"pb":45,"unread":109,"note":58}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Manichaean_Controversy/Concerning_the_Nature_of_Good
 Retrieved: 2026-11-10 (source file 110511 bytes, SHA-256 33ebd8807854a3afdfd61c928c60477fbb5c419b4477728c00e14b5c292b2f96)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":56}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

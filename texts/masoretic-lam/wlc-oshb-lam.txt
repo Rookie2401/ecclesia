@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Lam.xml
 Retrieved: 2026-11-05 (source file 167766 bytes, SHA-256 be68fc6a913313367280c2596e28733ee8cf877c12a65227237733b40d0248c4)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":47}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

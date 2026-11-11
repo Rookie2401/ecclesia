@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Soul_and_its_Origin
 Retrieved: 2026-11-10 (source file 395593 bytes, SHA-256 c557bbd6e2389bfb6d491cf893eed242fd272c3dae47c06fb85474db91f4e190)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":182}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

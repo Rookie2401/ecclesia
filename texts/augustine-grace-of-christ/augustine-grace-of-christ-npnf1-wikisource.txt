@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Grace_of_Christ,_and_on_Original_Sin/On_the_Grace_of_Christ
 Retrieved: 2026-11-10 (source file 153528 bytes, SHA-256 9c15f82fba6e7c18cd64680ba66e104dbb83b93ded0cfe2fee76c9c5ddccb01e)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":143}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

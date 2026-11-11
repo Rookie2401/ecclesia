@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Ethical/On_Prayer
 Retrieved: 2026-11-05 (source file 72540 bytes, SHA-256 db2739f3bf9abc2beb2de1ac92fc1447c1f0de5ec2dcb0f9ee5cda9fc5cf1c32)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":201}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

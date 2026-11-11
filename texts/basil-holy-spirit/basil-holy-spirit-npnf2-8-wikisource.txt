@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VIII/De_Spiritu_Sancto
 Retrieved: 2026-11-05 (source file 368821 bytes, SHA-256 6dbade626cf5c30274e10a7d58263a84dd9acae137b47255705d60a921b04746)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":656}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

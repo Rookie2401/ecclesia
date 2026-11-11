@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Defence_of_the_Nicene_Definition/De_Decretis
 Retrieved: 2026-11-05 (source file 181899 bytes, SHA-256 0d5754910ce49ee035a8337fc9a59efe174b3993132fbe3b9d84661e9d83651e)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":219}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

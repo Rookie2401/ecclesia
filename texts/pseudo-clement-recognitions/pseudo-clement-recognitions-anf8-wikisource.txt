@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/The_Recognitions_of_Clement
 Retrieved: 2026-11-11 (source file 726562 bytes, SHA-256 a8e6db34eaa8b93314c1916ec04ce866fb819d4b6aa5bfb85a97421faf9c3232)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":359,"templates":{"anon":11}}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

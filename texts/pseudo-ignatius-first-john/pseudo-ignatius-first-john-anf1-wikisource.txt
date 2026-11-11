@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/First_Epistle_to_St_John
 Retrieved: 2026-11-10 (source file 2823 bytes, SHA-256 1471af70da079e5ef7dfdb706f302e0508fb24a5b917f1010ee0c5c0c74f1344)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":3}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

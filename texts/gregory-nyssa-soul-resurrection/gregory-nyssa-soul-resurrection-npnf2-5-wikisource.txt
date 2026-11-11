@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Philosophical_Works/_On_the_Soul_and_the_Resurrection
 Retrieved: 2026-11-05 (source file 272355 bytes, SHA-256 df3f8e98106b253e2242e2598f8dc362850a6bfe575562d7cf93ad21e6f55caa)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":187}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

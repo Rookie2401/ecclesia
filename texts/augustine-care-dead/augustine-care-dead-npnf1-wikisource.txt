@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_Care_to_Be_Had_for_the_Dead
 Retrieved: 2026-11-10 (source file 81644 bytes, SHA-256 16cf676f75f714d464d700c23a7886d9e282f189bf7e23d635621d3942a72514)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":70}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

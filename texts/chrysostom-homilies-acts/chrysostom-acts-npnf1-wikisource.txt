@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XI/On_the_Acts_of_the_Apostles
 Retrieved: 2026-11-05 (source file 2381803 bytes, SHA-256 dd80ab287e12b5bad439ac418620f75fa44a09009617361860cd359356d8493e)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1180,"unclosedTemplate":2}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

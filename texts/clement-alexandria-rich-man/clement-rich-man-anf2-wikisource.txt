@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_II/CLEMENT_OF_ALEXANDRIA/Who_is_the_Rich_Man_that_shall_be_saved%3F
 Retrieved: 2026-11-05 (source file 78316 bytes, SHA-256 de1b721495f8fa3d2fa78311987d739de40c03ff3bfb46981f88d43d2825e07f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":85}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 

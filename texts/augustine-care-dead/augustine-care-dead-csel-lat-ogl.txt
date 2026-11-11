@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa037c/stoa0040.stoa037c.opp-lat1.xml
 Retrieved: 2026-11-10 (source file 158733 bytes, SHA-256 5b947efd55d71f0846905d9508bf0c9e1baa600d3d91de5b6c1b30b104d506e3)
 Changes from the source: cut into numbered segments; these elements were not stored: {"milestone":18,"lb":789,"note":70,"pb":39}
-Ecclesia library, source 0d182ee1.
+Ecclesia library, source d1b62198.
 
 ========================================================================
 
