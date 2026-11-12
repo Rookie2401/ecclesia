@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_Patience
 Retrieved: 2026-11-10 (source file 67437 bytes, SHA-256 bd85c2b4b6b20fed5c09e193cb11b784c6872673eb77530adc760020cc0a87df)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":80}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

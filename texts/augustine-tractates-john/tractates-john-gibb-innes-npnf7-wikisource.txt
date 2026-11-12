@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VII/Gospel_According_to_St._John
 Retrieved: 2026-11-05 (source file 2326094 bytes, SHA-256 4800b0b8a672de5e6f4d71566eb3082df4aa2afa9bbba6aad5253efb9b74aa79)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1985}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/The_Second_Apology
 Retrieved: 2026-11-05 (source file 30628 bytes, SHA-256 d4bc4566fd07c7aad7ab7111b945f0f548d055d4dceef774dfdda348d08f8123)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":26}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

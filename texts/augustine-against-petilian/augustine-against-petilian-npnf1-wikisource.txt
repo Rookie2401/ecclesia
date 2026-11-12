@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Donatist_Controversy/Answer_to_the_Letters_of_Petilian,_the_Donatist
 Retrieved: 2026-11-10 (source file 795321 bytes, SHA-256 fa4395dacb43de38be3a61255730fa369bffdb17eed78e6f5767de4d074d4133)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":543}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

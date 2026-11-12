@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_Mary_at_Neapolis
 Retrieved: 2026-11-11 (source file 5394 bytes, SHA-256 cffcc63b2c37903fe7ab94945724eb531174599e25301e7fe786ac2cd1d1b320)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":9}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Lapsed
 Retrieved: 2026-11-05 (source file 61358 bytes, SHA-256 eb6a491eaba8f7607a7f1baf2574570c92a70000be367d6334bf84f42db9c52f)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":90}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

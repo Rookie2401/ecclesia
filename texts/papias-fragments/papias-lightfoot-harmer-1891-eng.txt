@@ -9,7 +9,7 @@ Source: https://archive.org/details/a590752000clemuoft
 Retrieved: 2026-11-10 (source file 26505 bytes, SHA-256 a3a99989da18fdb4f83d452de8ca3b48ab74b13a20c4d09a8aa3afa4fffd13df)
 Changes from the source: cut into numbered segments; these elements were not stored: {}
 Incomplete: The Greek text covers the texts of the twenty fragments and testimonies that Lightfoot and Harmer collect (pp. 515–524) and lacks the five books of the Exposition of the Oracles of the Lord themselves. Papias's work is lost; only quotations and reports by later writers survive, and nothing is reconstructed here. The English text covers the translations of the twenty fragments and testimonies that Lightfoot and Harmer collect (pp. 527–535) and lacks the five books of the Exposition of the Oracles of the Lord themselves. Papias's work is lost; only quotations and reports by later writers survive, and nothing is reconstructed here.
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Tarsians
 Retrieved: 2026-11-11 (source file 10960 bytes, SHA-256 2c1e7d8067f2161056f13c41fb7f0e0ac74c93ffdc1e6880848a0659077d2984)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":38}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

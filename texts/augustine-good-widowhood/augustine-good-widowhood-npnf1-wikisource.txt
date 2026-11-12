@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_the_Good_of_Widowhood
 Retrieved: 2026-11-10 (source file 92582 bytes, SHA-256 a9280be044b6df432f78becd9861a73171778010c84593316f6268e7f84f39ac)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":83}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

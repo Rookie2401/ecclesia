@@ -6,9 +6,9 @@ Credit: The Martyrdom of Polycarp, in The Apostolic Fathers, with an English tra
 Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (verified_public_domain_bilingual); life + 70 countries: clear
 Source: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1484/tlg001/tlg1484.tlg001.perseus-eng1.xml
-Retrieved: 2026-11-05 (source file 35188 bytes, SHA-256 edd161dfe037c9e839b0ef6bbada4ed124f6e0b7a9812d03512a9fa1cfb0c051)
+Retrieved: 2026-11-11 (source file 35188 bytes, SHA-256 edd161dfe037c9e839b0ef6bbada4ed124f6e0b7a9812d03512a9fa1cfb0c051)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":45,"pb":14}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 
@@ -18,7 +18,7 @@ Ecclesia library, source d1b62198.
 
 ## 1
 
-[1.1] We write to you, brethren, the story of the martyrs and of the blessed Polycarp, who put an ductlon end to the persecution by his martyrdom as though adding the seal. For one might almost say that all that had gone before happened in order that the Lord might show to us from above a martyrdom in accordance with the Gospel.
+[1.1] We write to you, brethren, the story of the martyrs and of the blessed Polycarp, who put an end to the persecution by his martyrdom as though adding the seal. For one might almost say that all that had gone before happened in order that the Lord might show to us from above a martyrdom in accordance with the Gospel.
 
 [1.2] For he waited to be betrayed as also the Lord had done, that we too might become his imitators, not thinking of ourselves alone, but also of our neighbours. For it is the mark of true and steadfast love, not to wish that oneself may be saved alone, but all the brethren also.
 
@@ -28,7 +28,7 @@ Ecclesia library, source d1b62198.
 
 [2.2] For who would not admire their nobility and patience and love of their Master? For some were torn by scourging until the mechanism of their flesh was seen even to the lower veins and arteries, and they endured so that even the bystanders pitied them and mourned. And some even reached such a pitch of nobility that none of them groaned or wailed, showing to all of us that at that hour of their torture the noble martyrs of Christ were absent from the flesh, or rather that the Lord was standing by and talking with them.
 
-[2.3] And paying heed to the grace of Christ they despised worldly tortures, by a single hour purchasing everlasting life. And the fire of their cruel torturers had no heat for them, for they set before their eyes an escape from the fire which is everlasting and is never quenched, and with the eyes of their heart they looked up to the good things which are preserved for those who have endured, fwhich neither ear hath heard nor hath eye seen, nor hath it entered into the heart of man/ but it was shown by the Lord to them who were no longer men but already angels.
+[2.3] And paying heed to the grace of Christ they despised worldly tortures, by a single hour purchasing everlasting life. And the fire of their cruel torturers had no heat for them, for they set before their eyes an escape from the fire which is everlasting and is never quenched, and with the eyes of their heart they looked up to the good things which are preserved for those who have endured, ‘which neither ear hath heard nor hath eye seen, nor hath it entered into the heart of man,’ but it was shown by the Lord to them who were no longer men but already angels.
 
 [2.4] And in the same way also those who were condemned to the beasts endured terrible torment, being stretched on sharp shells and buffeted with other kinds of various torments, that if it were possible the tyrant might bring them to a denial by continuous torture. For the devil used many wiles against them.
 
@@ -60,7 +60,7 @@ Ecclesia library, source d1b62198.
 
 [7.2] So when he heard that they had arrived he went down and talked with them, while those who were present wondered at his age and courage, and whether there was so much haste for the arrest of an old man of such a kind. Therefore he ordered food and drink to be set before them at that hour, whatever they should wish, and he asked them to give him an hour to pray without hindrance.
 
-[7.3] To this they assented, and he stood and prayed—thus filled with the graqe of God— so that for two hours he could not be silent, and those who listened were astounded, and many repented that they had come against such a venerable old man.
+[7.3] To this they assented, and he stood and prayed—thus filled with the grace of God— so that for two hours he could not be silent, and those who listened were astounded, and many repented that they had come against such a venerable old man.
 
 ## 8
 
@@ -102,7 +102,7 @@ Ecclesia library, source d1b62198.
 
 [13.1] These things then happened with so great speed, quicker than it takes to tell, and the crowd came together immediately, and prepared wood and faggots from the work-shops and baths and the Jews were extremely zealous, as is their custom, in assisting at this.
 
-[13.2] Now when the fire wras ready he put off all his clothes, and loosened his girdle and tried also to take off his shoes, though he did not do this before, because each of the faithful was always zealous, which of them might the more quickly touch his flesh. For he had been treated with all respect because of his noble life, even before his martyrdom.
+[13.2] Now when the fire was ready he put off all his clothes, and loosened his girdle and tried also to take off his shoes, though he did not do this before, because each of the faithful was always zealous, which of them might the more quickly touch his flesh. For he had been treated with all respect because of his noble life, even before his martyrdom.
 
 [13.3] Immediately therefore, he was fastened to the instruments which had been prepared for the fire, but when they were going to nail him as well he said: Leave me thus, for He who gives me power to endure the fire, will grant me to remain in the flames unmoved even without the security you will give by the nails.
 
@@ -130,7 +130,7 @@ Ecclesia library, source d1b62198.
 
 [17.1] But the jealous and envious evil one who resists the family of the righteous, when he saw the greatness of his martyrdom, and his blameless career from the beginning, and that he was crowned with the crown of immortality, and had carried off the unspeakable prize, took care that not even his poor body should be taken away by us, though many desired to do this, and to have fellowship with his holy flesh.
 
-[17.2] Therefore he put forward Niketas, the father of Herod, and the brother of Alee, to ask the Governor not to give his body, Lest, he said, they leave the crucified one and begin to worship this man. And they said this owing to the suggestions and pressure of the Jews, who also watched when we were going to take it from the fire, for they do not know that we shall not ever be able either to abandon Christ, who suffered for the salvation of those who are being saved in the whole world, the innocent for sinners, or to worship any other.
+[17.2] Therefore he put forward Niketas, the father of Herod, and the brother of Alce, to ask the Governor not to give his body, Lest, he said, they leave the crucified one and begin to worship this man. And they said this owing to the suggestions and pressure of the Jews, who also watched when we were going to take it from the fire, for they do not know that we shall not ever be able either to abandon Christ, who suffered for the salvation of those who are being saved in the whole world, the innocent for sinners, or to worship any other.
 
 [17.3] For him we worship as the Son of God, but the martyrs we love as disciples and imitators of the Lord; and rightly, because of their unsurpassable affection toward their own King and Teacher. God grant that we too may be their companions and fellow-disciples.
 

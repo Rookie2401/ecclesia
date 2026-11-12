@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Church_History_of_Eusebius
 Retrieved: 2026-11-10 (source file 3085323 bytes, SHA-256 cc27da32fb3b21d1603726236fdf8596807e5d39afd8415a0f1b7f4279cf61b1)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":2985,"unclosedTemplate":1}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

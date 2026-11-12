@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Amos.xml
 Retrieved: 2026-11-05 (source file 201588 bytes, SHA-256 6ad94c6a18076762f1a458720c62156d354e5111ee25719b7792b70792d0084d)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":23}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

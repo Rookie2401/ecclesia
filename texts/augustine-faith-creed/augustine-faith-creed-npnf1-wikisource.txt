@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Doctrinal_Treatises_of_St._Augustin/A_Treatise_on_Faith_and_the_Creed
 Retrieved: 2026-11-10 (source file 75398 bytes, SHA-256 839679aa853387cb08dc3228c61ed6285f3275434ca568f7c3678e6aae923514)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":133}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

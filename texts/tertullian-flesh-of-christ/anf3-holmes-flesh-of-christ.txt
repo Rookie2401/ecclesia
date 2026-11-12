@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/On_the_Flesh_of_Christ
 Retrieved: 2026-11-05 (source file 127854 bytes, SHA-256 8dd4254e30134977e1f0c4880e81635601c75846eea0c31e386da26f234260e8)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":345}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

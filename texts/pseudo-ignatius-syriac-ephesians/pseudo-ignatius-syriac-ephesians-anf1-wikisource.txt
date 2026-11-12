@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Ephesians:_Syriac_Version
 Retrieved: 2026-11-10 (source file 6816 bytes, SHA-256 738cdefbed5c0dea664a9cfdb2556ad6b6d614d9e6b5855d3c14dac56e37c678)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":14}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

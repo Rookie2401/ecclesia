@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Doctrinal_Treatises_of_St._Augustin/The_Enchiridion
 Retrieved: 2026-11-05 (source file 306181 bytes, SHA-256 f0a963f3324d609a08e364cf3c851c1f77ff63cf96fae93057ded3ab75e52847)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":243}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

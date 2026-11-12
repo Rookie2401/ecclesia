@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VI/Treatises/Against_Jovinianus
 Retrieved: 2026-11-05 (source file 405226 bytes, SHA-256 9e718fc343692ceba276363922e8d3f74ceb8ca609066394de24a15e5f908dc4)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":690}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VI/The_Harmony_of_the_Gospels
 Retrieved: 2026-11-10 (source file 1049151 bytes, SHA-256 289be2a281568de4c63f81cbe909cc13ba71ed8f95019ec8bcb1ce8fe21b690a)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":1190}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

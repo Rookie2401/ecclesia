@@ -1,0 +1,42 @@
+Title: Fragmenta Polycarpiana
+Work: Five fragments on the Gospels, ascribed to Polycarp (from the Responsions of Victor of Capua)
+Author: Pseudo-Polycarp (writings ascribed to Polycarp) (the five Latin fragments are quoted from Victor of Capua (died 554); other ascriptions are later)
+Language: latin
+Credit: Fragmenta Polycarpiana, in The Apostolic Fathers, Part II: S. Ignatius, S. Polycarp. Revised texts with introductions, notes, dissertations, and translations, vol. III, ed. J. B. Lightfoot (London: Macmillan and Co., 1889). Transcription: the coordinator (Claude Fable 5.2, an AI), from the scan of the 1889 printing, proofread against its page images (public-domain).
+Licence: public-domain
+Status: public domain in the United States or openly licensed, per the Ecclesia catalogue (original_public_domain_only); life + 70 countries: clear
+Source: https://archive.org/details/apostolicfathep2v3clemuoft
+Retrieved: 2026-11-11 (source file 5886 bytes, SHA-256 9c02e992c1c7a759b3da96152f24eb2d7e6fde18f1d86ebba356719aaafd54d2)
+Changes from the source: cut into numbered segments; these elements were not stored: {}
+Incomplete: The Latin text covers the five fragments as Lightfoot prints them from Feuardent (pp. 421–422) and lacks the Responsions of Victor of Capua and the catena on the Gospels in which they were quoted. Feuardent printed the five extracts from a manuscript catena that was never printed and is now lost; nothing more of the writing they are quoted from survives, and nothing is reconstructed here.
+Ecclesia library, source a91868058.
+
+========================================================================
+
+## Fragment 1. On Matthew xix. 5
+
+[1.1] Matthaeus Dominum dixisse testatur, quod Moyses scribit Adam locutum fuisse hoc modo: Hoc nunc os ex ossibus meis et caro ex carne mea, propter hoc relinquet homo patrem et matrem etc. [Matt. xix. 5]. Sed non concordant Domini verba cum Moysis sermonibus. Quia enim Adam praebens officium inspiratione divina prophetavit, ipse a Moyse hoc dixisse refertur; Deus vero, qui per inspirationem divinam in corde Adam ista verba formavit, ipse pater a Domino recte locutus fuisse refertur. Nam et Adam hanc prophetiam protulit et pater, qui eam inspiravit, recte dicitur protulisse.
+
+## Fragment 2. On Matthew xx. 23
+
+[2.lemma] Idem ad haec verba Christi: Calicem meum bibetis etc. [Matt. xx. 23].
+
+[2.1] Per huiusmodi potum significat passionem, et Jacobum quidem novissimum martyrio consummandum, fratrem vero eius Joannem transiturum absque martyrio, quamvis et afflictiones plurimas et exsilia tolerarit, sed praeparatam martyrio mentem Christus martyrem iudicavit. Nam apostolus Paulus Quotidie, inquit, morior; cum impossibile sit quotidie mori hominem ea morte qua semel vita haec finitur. Sed quoniam pro evangelio ad mortem iugiter erat praeparatus, se mori quotidie sub ea significatione testatus est. Legitur et in dolio ferventis olei pro nomine Christi beatus Joannes fuisse demersus.
+
+## Fragment 3. On the beginning of the Gospel according to Mark
+
+[3.lemma] Idem de initio evangelii secundum Marcum.
+
+[3.1] Rationabiliter evangelistae principiis diversis utuntur, quamvis una eademque evangelizandi probetur intentio. Matthaeus, ut Hebraeis scribens, genealogiae Christi ordinem texuit, ut ostenderet ab ea Christum descendisse progenie, de qua eum nasciturum universi prophetae cecinerant; Joannes autem ad Ephesum constitutus, qui legem tamquam ex gentibus ignorabant, a causa nostrae redemptionis evangelii sumpsit exordium; quae causa ex eo apparet, quod filium suum Deus pro nostra salute voluit incarnari. Lucas vero a Zachariae sacerdotio incipit, ut eius filii miraculo nativitatis et tanti praedicatoris officio divinitatem Christi gentibus declararet. Unde et Marcus antiqua prophetici mysterii competentia adventui Christi declarat, ut non nova sed antiquitus prolata eius praedicatio probaretur vel per hoc. Evangelistis curae fuit eo uti prooemio, quod unusquisque iudicabat auditoribus expedire. Nihil ergo contrarium reperitur, ubi licet diversis scriptis ad eandem tamen patriam pervenitur.
+
+## Fragment 4. On Luke xiv. 12
+
+[4.lemma] Idem in illud: Noli vocare amicos tuos sed pauperes et debiles etc. [Luke xiv. 12 sq].
+
+[4.1] Praecepit non amicos, sed infirmos quosque vocandos ad prandium. Quodsi claudus aut quilibet eorum sit amicus, sine dubio talis pro amicitia minime est rogandus, unde ipsa quasi videntur se impugnare mandata. Nam si non amici, sed claudi et caeci sunt invitandi, ipsosque quoque amicos esse contingat, nequaquam rogare debemus. Sed amicos arbitror intelligi hoc loco debere illos, quos mundi huius terrena consideratione diligimus, non pro divinae contemplationis intuitu. Hi sunt igitur amici relinquendi. Denique ideo debilium exempla proposuit, quos pro nullius possumus appetere necessitate, nisi tantum pro fructu retributionis aeternae.
+
+## Fragment 5. On John xvii. 4
+
+[5.lemma] Idem in illud: Opus consummavi, quod dedisti mihi, ut faciam [John xvii. 4].
+
+[5.1] Quomodo opus salutis humanae adimplesse commemorat, cum necdum crucis vexillum conscenderat? Sed definitione voluntatis, de qua cuncta venerandae passionis insignia adire decreverat, iure se opus perfecisse significat etc.

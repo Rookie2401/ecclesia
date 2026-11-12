@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Apology_to_the_Emperor/Apologia_Ad_Constantium
 Retrieved: 2026-11-05 (source file 114113 bytes, SHA-256 38030abc9487c0a51934e390a85ade60874eaed4ebf97c27c06456b7eaecf238)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":107}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

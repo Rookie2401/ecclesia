@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Third_Ecumenical_Council
 Retrieved: 2026-11-05 (source file 176321 bytes, SHA-256 fa74f081546a47bdaef5033951f46dfa2ab281e190106be97735f376a0d26007)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":33}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 

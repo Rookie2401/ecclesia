@@ -8,7 +8,7 @@ Status: public domain in the United States or openly licensed, per the Ecclesia 
 Source: https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/Of_the_Work_of_Monks
 Retrieved: 2026-11-10 (source file 148320 bytes, SHA-256 a6f1999813389e297782785cc9f6b7480f3007f580e962986df414f3cf398ea0)
 Changes from the source: cut into numbered segments; these elements were not stored: {"note":151}
-Ecclesia library, source d1b62198.
+Ecclesia library, source a91868058.
 
 ========================================================================
 
